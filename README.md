@@ -1,13 +1,9 @@
 ```
-    ·  ·  ·  ·  ·                       ·   ·
-  ·              ·                   ·          ·
- ·    ((•))       ·    signal       ·   post    ·
-  ·              ·     engine        ·          ·
-    ·  ·  ·  ·  ·                       ·   ·
-            ╲                                   ╱
-             ╲    feeds → score → idea →    ╱
-              ╲           polish           ╱
-               ╲_________________________╱
+     · · ·
+   ·       ·
+  ·  ((•))  →  signal-engine
+   ·       ·   scout · score · draft · polish · post
+     · · ·
 ```
 
 # signal-engine
@@ -24,7 +20,7 @@ You stay the author. The LLM does the boring matching work in between.
 
 - 🛰️ **Daily radar** — pulls your RSS + podcast feeds at 06:30 UTC, scores items 1-10 for content potential against your editorial scope, commits a digest to `digests/raw/`.
 - 🃏 **Weekly idea cards** — Monday morning, the engine generates 3-5 idea cards for your week's writing, each anchored to one editorial track and one of your real stories.
-- 🎨 **Polish skill** — Copilot CLI command turns one card into a 900-1200 char post in your voice, plus a matching image, plus optional video.
+- 🎨 **Polish skill** — your agentic CLI (Copilot CLI, Claude Code, etc.) turns one card into a 900-1200 char post in your voice, plus a matching image, plus optional video.
 - 🚀 **Drafts push** — one more command shoves the finished post straight into your LinkedIn drafts. You tap publish from the real LinkedIn composer. No copy-paste. No formatting loss.
 
 ## What this is vs what it isn't
@@ -148,6 +144,18 @@ scripts/                  # Optional glue (all gated on env vars)
 
 → See [QUICKSTART.md](QUICKSTART.md). 30 minutes from clone to first commit.
 
+## Works with any agentic CLI
+
+The Python (radar, scoring, ideas, LinkedIn push) is tool-agnostic — `python -m radar run` doesn't care who's calling it. Runs locally, runs in CI, runs in Actions.
+
+The polish step is a markdown procedure at `.copilot/skills/signal-polish/SKILL.md`. The path is Copilot-CLI-flavored, the content is portable. Other agents:
+
+- **GitHub Copilot CLI** — works out of the box. Skills in `.copilot/skills/` are auto-discovered.
+- **Claude Code** — copy `SKILL.md` to `.claude/commands/signal-polish.md`, invoke as `/signal-polish`.
+- **Cursor / Aider / Codex CLI** — point the agent at `SKILL.md` directly: "follow this procedure for today's digest."
+
+Same procedure, different discovery path. The polish step is just structured instructions to an LLM — any tool that can read a markdown file and act on it works.
+
 ## Customization is the whole point
 
 Three files make this YOUR engine instead of someone else's:
@@ -173,7 +181,7 @@ The radar gives you idea cards. The polish skill turns them into posts. To track
 |---------|----------|------|---------|
 | Daily scoring | `GITHUB_TOKEN` (free for public repos) | $0 | ON |
 | Weekly idea cards | `GITHUB_TOKEN` | $0 | ON |
-| Polished posts | Copilot CLI | $0 (already part of GitHub) | ON |
+| Polished posts | Any agentic CLI (Copilot CLI / Claude Code / etc.) | $0 (free tiers exist) | ON |
 | Image generation | `OPENAI_API_KEY` | ~$0.20 / image | OFF (turns on when key is set) |
 | Video generation | `REPLICATE_API_TOKEN` | ~$1-2 / clip | OFF |
 | LinkedIn drafts push | LinkedIn Dev App + OAuth | $0 | OFF |

@@ -6,7 +6,7 @@ Get the engine running in under 30 minutes. No prior Python or GitHub Actions ex
 
 - A daily cron that fetches your favorite RSS feeds, scores items for content potential against your editorial scope, and commits a digest to `digests/raw/`.
 - A weekly cron that turns the highest-scoring items into idea cards in `digests/YYYY-WW.md`.
-- A polish skill you invoke from Copilot CLI that turns one idea card into a publish-ready post (plus optional image and video).
+- A polish skill you invoke from your agentic CLI (Copilot CLI, Claude Code, etc.) that turns one idea card into a publish-ready post (plus optional image and video).
 - Total cost: $0 for scoring (GitHub Models), optional spend for images/video.
 
 ## Prerequisites
@@ -82,7 +82,7 @@ If you don't have a week of history yet, the digest will be slim. That's fine. T
 
 ## Step 9: Polish an idea card
 
-Open Copilot CLI in this repo and say:
+Open your agentic CLI in this repo and say:
 
 ```
 polish this week's signal
@@ -90,7 +90,9 @@ polish this week's signal
 
 The `signal-polish` skill walks you through picking an idea card, generates the post, and writes it to `_workdir/posts/`. If you set `OPENAI_API_KEY`, it also generates a matching image.
 
-Edit the post in your editor, paste it to LinkedIn, ship.
+**Don't use Copilot CLI?** The skill is just a markdown procedure at `.copilot/skills/signal-polish/SKILL.md`. For Claude Code, copy it to `.claude/commands/signal-polish.md` and invoke `/signal-polish`. For Cursor / Aider / Codex CLI, point the agent at the file: "follow this for today's digest."
+
+Edit the post in your editor, paste it to LinkedIn (or use the LinkedIn drafts push below), ship.
 
 ## Step 10: Iterate
 
