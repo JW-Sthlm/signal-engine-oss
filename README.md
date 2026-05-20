@@ -27,7 +27,7 @@ You stay the author. The LLM does the boring matching work in between.
 - 🎨 **Polish skill** — Copilot CLI command turns one card into a 900-1200 char post in your voice, plus a matching image, plus optional video.
 - 🚀 **Drafts push** — one more command shoves the finished post straight into your LinkedIn drafts. You tap publish from the real LinkedIn composer. No copy-paste. No formatting loss.
 
-## The vibes
+## What this is vs what it isn't
 
 | What this is | What this is NOT |
 |--------------|------------------|
@@ -184,9 +184,4 @@ Built by [@JW-Sthlm](https://github.com/JW-Sthlm) ([Johan on LinkedIn](https://w
 
 You're an AI-first startup. Your content stack should be too.
 
-PRs welcome. Issues welcome. Forks welcome. Bad takes specifically welcome.
-
-```
-                     ((•))
-                  signal sent
-```
+PRs welcome. Issues welcome. Forks especially welcome.
