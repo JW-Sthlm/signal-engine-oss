@@ -1,0 +1,77 @@
+# signal-engine: content plan
+#
+# This file drives WHAT the engine looks for and WHAT idea cards get generated.
+# Edit `editorial_scope` first — it's the prompt that the scoring model uses to
+# decide what is and isn't worth your attention.
+#
+# Then edit `tracks` — these are the recurring themes you want to write about.
+
+editorial_scope: |
+  I write educational LinkedIn posts for [DESCRIBE YOUR AUDIENCE].
+
+  MY AUDIENCE: [who they are, what they do, what they care about]
+
+  WHAT I COVER:
+  - [Topic 1: a domain you have lived experience in]
+  - [Topic 2: a domain you have a clear POV on]
+  - [Topic 3: a domain where you teach something tactical]
+  - [Topic 4: anything else where you can offer insight, tactical tips, tools, trend reads, or warnings]
+
+  WHAT I DON'T COVER:
+  - Pure developer-only content with no business angle
+  - PR fluff and launch announcements without substance
+  - Topics outside the areas above where I have no real perspective
+
+  STYLE: practitioner perspective, concrete examples, opinions backed by experience.
+  Never abstract, never generic.
+
+# Tracks are your recurring editorial themes. Each card the engine generates
+# is anchored to exactly one track. Set `active: false` to pause a track without
+# deleting it. Lower `priority` numbers (1) get more idea cards than higher ones (2, 3).
+
+tracks:
+
+  - id: A
+    title: "Practical AI for [your audience]"
+    description: |
+      Tactical posts on how my audience can actually use AI today. Concrete
+      patterns, prompts, and workflows. Always answers "what would they do
+      differently after reading this?"
+    priority: 1
+    active: true
+
+  - id: B
+    title: "Industry trend reads"
+    description: |
+      Market structure and trend posts. What is actually happening in
+      [your industry], beyond the headlines. Backed by real signals, not
+      vibes.
+    priority: 1
+    active: true
+
+  - id: C
+    title: "Building in public"
+    description: |
+      Posts about things I'm actually building or shipping. Short, concrete,
+      "here's what I did and what I learned" framing. Pulls from stories.yaml.
+    priority: 2
+    active: true
+
+  - id: D
+    title: "Tools and patterns"
+    description: |
+      New techniques, processes, or ways of working that I've adopted and
+      can teach. Always with one specific takeaway the reader can apply.
+    priority: 2
+    active: false
+
+# Backlog: post ideas already in your pipeline. The engine will NOT propose
+# duplicates of these. Move items to `status: posted` after publishing.
+#
+# Schema:
+#   - track: <track id>
+#     title: "Working title"
+#     status: idea | drafted | scheduled | posted
+#     notes: "Optional notes"
+
+backlog: []

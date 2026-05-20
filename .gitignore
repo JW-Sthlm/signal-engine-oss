@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.env.local
+*.log
+logs/
+_workdir/*
+!_workdir/scored/
+!_workdir/ideas/
+.DS_Store
+.idea/
+.vscode/

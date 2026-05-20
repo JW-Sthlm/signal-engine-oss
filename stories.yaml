@@ -1,0 +1,51 @@
+# signal-engine: stories
+#
+# Your personal bank of lived examples. Idea cards plug stories in as "fuel"
+# so posts feel concrete and unique to you, not generic AI-generated takes.
+#
+# Stories are the difference between "another LinkedIn post about agents" and
+# "the post where YOU explain what happened when you actually shipped one."
+#
+# How to use:
+# - Add 3-10 stories from your actual work. More is better.
+# - A story is: a thing you did, what you learned, why it mattered.
+# - The engine matches stories to scored items via track_tags and content match.
+# - After a story is used in a published post, set status: posted.
+
+stories:
+
+  - id: story-001
+    title: "First time I shipped X to production"
+    summary: |
+      One paragraph. What you built, who it was for, why it mattered. Concrete
+      enough that the engine can lift the situation into a post hook.
+    learned:
+      - "First thing you learned, phrased as a takeaway sentence."
+      - "Second thing, also one sentence."
+      - "Optional third."
+    track_tags: ["A", "C"]
+    status: raw
+
+  - id: story-002
+    title: "The week I changed my mind about Y"
+    summary: |
+      A story about a shift in perspective. What you believed, what changed it,
+      what you believe now. These make great opinion-format posts.
+    learned:
+      - "The thing you used to believe and why it felt right."
+      - "The signal or experience that broke it."
+      - "What you believe now."
+    track_tags: ["B"]
+    status: raw
+
+  - id: story-003
+    title: "A pattern I keep coming back to"
+    summary: |
+      A reusable workflow, framework, or pattern from your work. Something
+      tactical enough that readers can apply it the same week they read it.
+    learned:
+      - "When to use this pattern."
+      - "Why it works (one sentence)."
+      - "The most common way people get it wrong."
+    track_tags: ["A", "D"]
+    status: raw

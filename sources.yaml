@@ -1,0 +1,79 @@
+# signal-engine: source taxonomy
+#
+# Each source: name, url (RSS feed), weight (default 1.0), notes (optional)
+# Edit this file to match your editorial scope. Add the RSS feeds you actually read.
+#
+# Tips:
+# - Group sources under any keys you like (the groups are just for your readability).
+# - `weight` boosts or dampens items from that feed before scoring (0.5 to 1.5 is a good range).
+# - Podcast feeds give you episode title + show notes only — editorial signal, not transcripts.
+# - Verify each feed URL works before adding it. Some sites quietly drop RSS.
+
+defaults:
+  lookback_days: 2          # how many days back to fetch on a daily run
+  per_feed_cap: 8           # max items pulled per feed before scoring
+  total_candidate_cap: 80   # hard cap on items before scoring
+  score_threshold: 7        # only items at or above this make it into the daily digest
+  top_n: 5                  # max items in the daily digest
+
+sources:
+
+  ai_labs:
+    - name: Anthropic News
+      url: https://www.anthropic.com/rss.xml
+      weight: 1.0
+    - name: OpenAI Blog
+      url: https://openai.com/blog/rss.xml
+      weight: 1.0
+    - name: Google DeepMind Blog
+      url: https://deepmind.google/blog/rss.xml
+      weight: 1.0
+    - name: Meta AI Blog
+      url: https://ai.meta.com/blog/feed/
+      weight: 0.8
+    - name: Mistral Blog
+      url: https://mistral.ai/feed.xml
+      weight: 0.8
+
+  practitioner_and_strategy:
+    - name: One Useful Thing (Ethan Mollick)
+      url: https://www.oneusefulthing.org/feed
+      weight: 1.3
+      notes: Research-based AI adoption framing.
+    - name: Lenny's Newsletter
+      url: https://www.lennysnewsletter.com/feed
+      weight: 1.2
+      notes: Product and growth perspectives.
+    - name: Stratechery (Ben Thompson)
+      url: https://stratechery.com/feed/
+      weight: 1.2
+      notes: Strategy and market structure.
+    - name: Latent Space
+      url: https://www.latent.space/feed
+      weight: 1.1
+      notes: AI engineering and applied research.
+    - name: a16z
+      url: https://a16z.com/feed/
+      weight: 1.0
+
+  podcasts:
+    # Podcasts return episode title + description. Strong editorial signal for trend reads.
+    - name: How I AI (Lenny Rachitsky)
+      url: https://feeds.transistor.fm/how-i-ai
+      weight: 1.3
+    - name: BG2Pod
+      url: https://feeds.transistor.fm/bg2pod
+      weight: 1.2
+    - name: AI + a16z
+      url: https://feeds.simplecast.com/JGE3yC0V
+      weight: 1.1
+    - name: Lex Fridman Podcast
+      url: https://lexfridman.com/feed/podcast/
+      weight: 0.9
+
+  # Add your own groups below — vendor blogs, niche newsletters, news, anything with an RSS feed.
+  #
+  # your_industry:
+  #   - name: Some Industry Blog
+  #     url: https://example.com/feed
+  #     weight: 1.0
