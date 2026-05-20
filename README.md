@@ -161,6 +161,12 @@ Optional but high-leverage:
 
 Don't touch the Python or the prompts unless you want to. The four config files above adapt the engine to your voice.
 
+## Track posts on a board (optional)
+
+The radar gives you idea cards. The polish skill turns them into posts. To track the queue between "this is an idea" and "this is live" — a small GitHub Project board works well and stays inside GitHub.
+
+→ See [docs/board-pattern.md](docs/board-pattern.md) for the columns, fields, and setup. Five minutes to build.
+
 ## Optional features
 
 | Feature | Requires | Cost | Default |
