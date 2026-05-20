@@ -135,6 +135,43 @@ python -m radar ideas --dry-run
 3. Ask the polish skill for a video: "polish this week's signal with video"
 4. Cheap preset (Seedance) runs ~$1 per 10-second clip. Premium (Kling Omni) runs ~$2.20 per 8-second clip.
 
+## Optional: push polished posts to LinkedIn drafts
+
+Closes the loop — the polished post lands in your LinkedIn drafts tab, you review and one-click publish from LinkedIn's real composer. No copy-paste, no risk of pushing a typo.
+
+**One-time setup:**
+
+1. Create a LinkedIn Developer App at https://www.linkedin.com/developers/apps
+2. Under **Auth** → add redirect URL: `http://localhost:8765/callback`
+3. Under **Products** → request:
+   - "Sign In with LinkedIn using OpenID Connect"
+   - "Share on LinkedIn"
+   (Both auto-approve usually within minutes.)
+4. Copy your Client ID and Client Secret from the **Auth** tab into `.env`:
+   ```
+   LINKEDIN_CLIENT_ID=...
+   LINKEDIN_CLIENT_SECRET=...
+   ```
+5. Run the auth helper once:
+   ```
+   python scripts/linkedin_auth.py
+   ```
+   Browser opens, you authorize, the script captures the redirect, fetches your access token + author URN, and writes both to `.env`.
+
+Tokens expire every 60 days. Re-run `linkedin_auth.py` when `linkedin_post.py` starts failing with 401.
+
+**Usage:**
+
+After polishing a post, ask the skill: `push to LinkedIn` (or any of "save as draft", "send to drafts"). The skill runs:
+
+```
+python scripts/linkedin_post.py --post _workdir/posts/<slug>.md --image _workdir/images/<slug>.png
+```
+
+The post lands in your LinkedIn drafts. Open `https://www.linkedin.com/post/new/` and it's in the composer, ready to review.
+
+Add `--publish` to skip drafts and go live immediately (default is drafts for safety).
+
 ## Troubleshooting
 
 **The daily run produces empty digests.**

@@ -100,6 +100,8 @@ prompts/                  # System and user prompts for scoring and ideas
 scripts/                  # Optional generators (gated on env vars)
   generate_image.py       # OpenAI gpt-image-2 wrapper
   generate_video.py       # Replicate wrapper (Seedance / Kling Omni)
+  linkedin_auth.py        # One-time OAuth helper to get a LinkedIn token
+  linkedin_post.py        # Push polished posts to LinkedIn drafts (or publish)
 
 .copilot/skills/
   signal-polish/SKILL.md  # Stage 2: turn one idea card into a finished post
@@ -139,8 +141,9 @@ The Python code, the prompts, the image library, the workflow scheduling — all
 | Polished posts | Copilot CLI | $0 (already part of your GitHub) |
 | Image generation | OPENAI_API_KEY | ~$0.20 per image |
 | Video generation | REPLICATE_API_TOKEN | ~$1 per 10s clip |
+| Push to LinkedIn drafts | LinkedIn Developer App + OAuth | $0 |
 
-You can run the scoring loop forever for $0. Image and video are off by default.
+You can run the scoring loop forever for $0. Image and video are off by default. LinkedIn integration is optional but closes the loop — polished post lands straight in your LinkedIn drafts, you review and publish from LinkedIn's real composer.
 
 ## License
 

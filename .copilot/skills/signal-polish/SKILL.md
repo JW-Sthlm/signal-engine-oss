@@ -153,6 +153,31 @@ Video: <relative path to mp4>   (if generated)
 
 If the user asks for revisions, apply them and re-run steps 7 and 9. Don't rerun image generation unless they specifically ask for a new image.
 
+### 11. Push to LinkedIn drafts (optional)
+
+If the user says "push to LinkedIn" / "send to drafts" / "save as draft" / "publish" (or the equivalent in any language), pipe the final post to LinkedIn's Posts API via `scripts/linkedin_post.py`.
+
+**Default lifecycle is DRAFT.** The post lands in the user's LinkedIn drafts tab where they review and one-click publish from the real LinkedIn composer. Switch to `--publish` only if the user explicitly says "publish live" / "go live" / "publish for real".
+
+Requires `LINKEDIN_ACCESS_TOKEN` and `LINKEDIN_AUTHOR_URN` in the environment (set up via `scripts/linkedin_auth.py` once per 60 days). If either is missing, tell the user inline and skip — do not fail the whole flow.
+
+Run via the powershell tool:
+
+```powershell
+python scripts/linkedin_post.py `
+  --post "_workdir/posts/<slug>.md" `
+  --image "_workdir/images/<slug>.png" `
+  --alt "<short alt text from the image_code description>"
+```
+
+Drop `--image` if no image was generated. Add `--publish` to skip drafts and go live.
+
+On success, report the post URN inline and the LinkedIn drafts URL:
+- DRAFT: tell the user to open `https://www.linkedin.com/post/new/` (their draft is in the composer)
+- PUBLISHED: tell the user to open `https://www.linkedin.com/feed/`
+
+On 401 / 403: tell the user to re-run `python scripts/linkedin_auth.py` (token expired) and continue. Do not retry automatically.
+
 ## File layout (created by this skill)
 
 ```
