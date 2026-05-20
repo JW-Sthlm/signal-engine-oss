@@ -172,8 +172,8 @@ python scripts/linkedin_post.py `
 
 Drop `--image` if no image was generated. Add `--publish` to skip drafts and go live.
 
-On success, report the post URN inline and the LinkedIn drafts URL:
-- DRAFT: tell the user to open `https://www.linkedin.com/post/new/` (their draft is in the composer)
+On success, report the post URN inline and how to find the result in LinkedIn:
+- DRAFT: tell the user to open LinkedIn, click "Start a post", then click the "View drafts" link in the composer
 - PUBLISHED: tell the user to open `https://www.linkedin.com/feed/`
 
 On 401 / 403: tell the user to re-run `python scripts/linkedin_auth.py` (token expired) and continue. Do not retry automatically.

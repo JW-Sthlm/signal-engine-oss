@@ -217,7 +217,7 @@ def main() -> int:
         print("Open https://www.linkedin.com/feed/ to see it.")
     else:
         print(f"[linkedin] DRAFT saved. Post URN: {post_urn}")
-        print("Open https://www.linkedin.com/post/new/ — your draft is in the composer.")
+        print("Open LinkedIn, click 'Start a post', then the 'View drafts' link.")
     return 0
 
 

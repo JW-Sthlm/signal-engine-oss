@@ -168,7 +168,7 @@ After polishing a post, ask the skill: `push to LinkedIn` (or any of "save as dr
 python scripts/linkedin_post.py --post _workdir/posts/<slug>.md --image _workdir/images/<slug>.png
 ```
 
-The post lands in your LinkedIn drafts. Open `https://www.linkedin.com/post/new/` and it's in the composer, ready to review.
+The post lands in your LinkedIn drafts. Open LinkedIn → click **Start a post** → click the **View drafts** link in the composer. It's there, ready to review.
 
 Add `--publish` to skip drafts and go live immediately (default is drafts for safety).
 
