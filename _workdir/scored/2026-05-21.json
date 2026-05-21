@@ -1,0 +1,263 @@
+[
+  {
+    "id": "c7f94905b025",
+    "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day but a nice result in AI x mathematics",
+    "published": "2026-05-21T07:28:36+00:00",
+    "relevance_score": 7,
+    "score_reason": "The disproving of an 80-year-old math problem by AI is in scope for AI insights but needs a clear business or tactical angle for higher score.",
+    "topic_tags": [
+      "AI",
+      "mathematics",
+      "innovation"
+    ],
+    "partner_takeaway": "AI models can now solve longstanding mathematical problems, demonstrating new capabilities for AI-driven innovation beyond traditional applications.",
+    "partner_summary": "An OpenAI GPT-next model disproved the 80-year-old Erdős planar unit distance problem for under $1000. This breakthrough shows how AI can accelerate solving complex mathematical challenges, which can inspire new ways to apply AI in problem-solving across industries. Readers should watch for emerging AI applications that push boundaries in research and innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "b709b0afad22",
+    "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+    "url": "https://www.latent.space/p/railway",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs",
+    "published": "2026-05-20T22:42:06+00:00",
+    "relevance_score": 6,
+    "score_reason": "Interesting cloud and agent-native computing trends but lacks a clear tactical or insight angle for the audience without further context.",
+    "topic_tags": [
+      "cloud",
+      "developer tools",
+      "AI agents"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Railway reports rapid growth with 3 million users and significant coding agent spend, highlighting a shift towards agent-native cloud infrastructure. While this signals evolving cloud-native development patterns, the post lacks a clear actionable insight or tactical tip for the audience. Readers should monitor how agent-native approaches might influence cloud development workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "1063ab3773a6",
+    "title": "Google I/O, World Models, I/O Spaghetti",
+    "url": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google I/O put AI everywhere, for better and for worse. Meanwhile, is DeepMind aligned with Google's business objectives?",
+    "published": "2026-05-20T10:00:00+00:00",
+    "relevance_score": 8,
+    "score_reason": "Analysis of Google I/O AI strategy and DeepMind alignment offers a strong perspective and insight for readers interested in AI business strategy.",
+    "topic_tags": [
+      "AI",
+      "business strategy",
+      "tech trends"
+    ],
+    "partner_takeaway": "Google’s AI integration strategy reveals tensions between innovation and business alignment, impacting how AI products evolve in large tech companies.",
+    "partner_summary": "Google I/O 2026 showcased AI integration across products, raising questions about DeepMind’s alignment with Google’s business goals. This matters because it highlights the challenges large companies face balancing cutting-edge AI research with commercial priorities. Readers should consider how AI strategy alignment affects product development and market positioning.",
+    "promo_only": false
+  },
+  {
+    "id": "4138372620d1",
+    "title": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
+    "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan-eafbidR1",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Marc Andreessen joins Joe Rogan for a conversation on AI, politics, technology, and the future of American society. They discuss how artificial intelligence is rapidly moving from novelty to infrastructure, and why Andreessen believes its long-term impact will be overwhelmingly positive despite growing public fear around automation and surveillance. The conversation covers the explosion of AI coding tools, the emergence of “AI agents,” and how these systems are already reshaping software development, medicine, and education. Andreessen argues that AI should be understood less as replacement...",
+    "published": "2026-05-20T10:00:00+00:00",
+    "relevance_score": 7,
+    "score_reason": "Marc Andreessen’s views on AI’s societal impact provide a practitioner perspective but are broad and require a focused angle for tactical value.",
+    "topic_tags": [
+      "AI",
+      "society",
+      "technology impact"
+    ],
+    "partner_takeaway": "Despite public fears, AI is transitioning from novelty to infrastructure with long-term positive impacts on society and business.",
+    "partner_summary": "Marc Andreessen discusses AI’s rapid evolution and its transformative potential on American society and technology infrastructure. This conversation is relevant as it frames AI’s societal and economic implications from a leading investor’s viewpoint. Readers should reflect on balancing AI’s risks and opportunities in their own organizations and communities.",
+    "promo_only": false
+  },
+  {
+    "id": "920ac56b8c61",
+    "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+    "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Google has been busy!",
+    "published": "2026-05-20T03:34:17+00:00",
+    "relevance_score": 5,
+    "score_reason": "A summary of Google I/O AI product launches is mostly news without deep insight or tactical advice for the audience.",
+    "topic_tags": [
+      "AI",
+      "product launches",
+      "Google"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google announced multiple AI products at I/O 2026 including Gemini 3.5 Flash and Omni for video. While these launches show Google’s AI momentum, the summary lacks detailed analysis or practical takeaways. Readers should watch for deeper reviews to understand which innovations will impact their work.",
+    "promo_only": false
+  },
+  {
+    "id": "20f4b8244cc2",
+    "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
+    "url": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Every major Google I/O 2026 launch&#8212;what's fast, what's broken, and what builders should actually care about",
+    "published": "2026-05-20T01:59:31+00:00",
+    "relevance_score": 6,
+    "score_reason": "A recap of Google I/O launches offers some value but is mostly a news summary needing a unique angle for higher content potential.",
+    "topic_tags": [
+      "AI",
+      "product launches",
+      "Google"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This 30-minute recap covers major Google I/O 2026 product launches, highlighting what is fast, broken, or important for builders. It matters because it helps practitioners prioritize what to explore among many announcements. Readers should focus on evaluating which new tools or features align with their projects.",
+    "promo_only": false
+  },
+  {
+    "id": "e2b0de78a24f",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "published": "2026-05-20T00:00:00+00:00",
+    "relevance_score": 9,
+    "score_reason": "Concrete example of how Ramp engineers use AI to accelerate code review offers strong tactical tips and practitioner insight.",
+    "topic_tags": [
+      "AI",
+      "developer tools",
+      "productivity"
+    ],
+    "partner_takeaway": "Using AI-powered tools like Codex can significantly speed up code review processes, enabling faster feedback and higher engineering productivity.",
+    "partner_summary": "Ramp engineers leverage Codex with GPT-5.5 to accelerate code reviews, reducing feedback time from hours to minutes. This practical application demonstrates how AI can improve software development workflows and team efficiency. Readers should consider integrating AI tools to optimize their code review and development cycles.",
+    "promo_only": false
+  },
+  {
+    "id": "588cb43d056b",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "published": "2026-05-20T00:00:00+00:00",
+    "relevance_score": 7,
+    "score_reason": "The AI model disproving a major geometry conjecture is insightful but overlaps with another item and needs a business or tactical angle.",
+    "topic_tags": [
+      "AI",
+      "mathematics",
+      "innovation"
+    ],
+    "partner_takeaway": "AI’s ability to solve complex mathematical problems marks a milestone in AI-driven research and innovation potential.",
+    "partner_summary": "An OpenAI model disproved a central conjecture in discrete geometry, solving a problem that stood for 80 years. This achievement highlights AI’s expanding role in advancing scientific knowledge beyond traditional domains. Readers should watch for AI’s growing impact on research and problem-solving capabilities.",
+    "promo_only": false
+  },
+  {
+    "id": "cbcb77c330f8",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "published": "2026-05-20T00:00:00+00:00",
+    "relevance_score": 7,
+    "score_reason": "OpenAI’s Education for Countries initiative expansion offers insight into AI adoption in education with some tactical implications for educators and policymakers.",
+    "topic_tags": [
+      "AI",
+      "education",
+      "adoption"
+    ],
+    "partner_takeaway": "Expanding AI adoption in schools through partnerships and teacher training can improve global learning outcomes and accelerate educational transformation.",
+    "partner_summary": "OpenAI advances its Education for Countries program by expanding AI adoption in schools with new partnerships and teacher training. This matters as it shows how AI can be integrated thoughtfully into education systems worldwide. Readers in education and policy should explore how to leverage AI tools to enhance learning experiences.",
+    "promo_only": false
+  },
+  {
+    "id": "70f2ae9ad185",
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "published": "2026-05-19T20:30:00+00:00",
+    "relevance_score": 5,
+    "score_reason": "A product partnership announcement with no clear insight or tactical advice beyond the launch itself.",
+    "topic_tags": [
+      "AI",
+      "partnership",
+      "regional expansion"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI launched a multi-year AI partnership in Singapore to expand deployment and build local talent. While this signals regional AI growth, it lacks actionable insights or broader lessons for the audience. Readers should monitor how regional AI initiatives develop but this item is mostly promotional.",
+    "promo_only": true
+  },
+  {
+    "id": "54cf45cb4229",
+    "title": "The Lenny and Friends Summit is back!",
+    "url": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "September 10th in San Francisco. Applications are now open.",
+    "published": "2026-05-19T15:27:24+00:00",
+    "relevance_score": 3,
+    "score_reason": "Event announcement with no educational content or insight for the audience.",
+    "topic_tags": [
+      "event",
+      "community"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The Lenny and Friends Summit is scheduled for September 10th in San Francisco, with applications now open. This is an event announcement without educational content or tactical advice. Readers interested in networking may consider applying, but it offers no direct learning.",
+    "promo_only": true
+  },
+  {
+    "id": "83c8f9fa085b",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "published": "2026-05-19T10:45:00+00:00",
+    "relevance_score": 8,
+    "score_reason": "Advances in AI content provenance offer a strong insight and tool perspective relevant to AI ethics and trust.",
+    "topic_tags": [
+      "AI",
+      "ethics",
+      "content provenance"
+    ],
+    "partner_takeaway": "New AI content provenance tools help verify and build trust in AI-generated media, addressing growing concerns about misinformation and transparency.",
+    "partner_summary": "OpenAI introduced advances in AI content provenance including Content Credentials, SynthID, and a verification tool to identify AI-generated media. This is important as it tackles the challenge of trust and transparency in AI ecosystems. Readers should explore these tools to better manage and verify AI content authenticity.",
+    "promo_only": false
+  },
+  {
+    "id": "b7977ec66cb4",
+    "title": "Personal Day",
+    "url": "https://stratechery.com/2026/personal-day-3/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Personal Day — No Update",
+    "published": "2026-05-19T10:00:00+00:00",
+    "relevance_score": 2,
+    "score_reason": "The item is a personal update with no substantive content or clear takeaway for the audience.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "This is a personal day update with no new content. It does not provide insights or tactical advice relevant to the audience. There is nothing actionable or educational for the readers.",
+    "promo_only": false
+  },
+  {
+    "id": "ced12b29ff21",
+    "title": "Rebuilding The American Shipyard",
+    "url": "https://a16z.simplecast.com/episodes/rebuilding-the-american-shipyard-fSxcCyxZ",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Erin Price-Wright speaks with Michael Duffey and Dino Mavrookas about what it will take to rebuild the American defense industrial base for a new era of competition. As production capacity becomes a central constraint, they outline how the system must shift toward speed, scale, and modern manufacturing. The conversation covers the role of autonomy in both defense systems and industrial processes, and how new approaches to design, labor, and production can dramatically reduce cost and complexity. Mavrookas explains how building for software and autonomy enables entirely new classes of platfo...",
+    "published": "2026-05-19T10:00:00+00:00",
+    "relevance_score": 8,
+    "score_reason": "The topic is relevant to industrial strategy and manufacturing modernization with clear insights and a practitioner perspective, offering a strong takeaway on rebuilding defense industrial capacity.",
+    "topic_tags": [
+      "industrial strategy",
+      "manufacturing",
+      "defense"
+    ],
+    "partner_takeaway": "Rebuilding the American defense industrial base requires shifting toward speed, scale, and modern manufacturing techniques including autonomy to meet new competitive demands.",
+    "partner_summary": "This episode discusses the challenges and strategies for rebuilding the American defense industrial base amid new global competition. It matters because production capacity and modernization are critical constraints that impact national security and industrial competitiveness. The audience should watch for how autonomy and modern manufacturing can accelerate production and scale in defense systems.",
+    "promo_only": false
+  }
+]
