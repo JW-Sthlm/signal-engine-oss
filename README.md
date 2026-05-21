@@ -21,6 +21,8 @@ You stay the author. The LLM does the boring matching work in between.
 - 🛰️ **Daily radar** — pulls your RSS + podcast feeds at 06:30 UTC, scores items 1-10 for content potential against your editorial scope, commits a digest to `digests/raw/`.
 - 🃏 **Weekly idea cards** — Monday morning, the engine generates 3-5 idea cards for your week's writing, each anchored to one editorial track and one of your real stories.
 - 🎨 **Polish skill** — your agentic CLI (Copilot CLI, Claude Code, etc.) turns one card into a 900-1200 char post in your voice, plus a matching image, plus optional video.
+- 📄 **PDF carousels** — turn any polished post into a 1080x1080 multi-page PDF for LinkedIn document posts. One paragraph per page, cover and CTA bookends. Free, local, no API key.
+- 🎙️ **Podcast transcription** — opt-in. Audio enclosures get pulled through [podcast-transcriber](https://pypi.org/project/podcast-transcriber/) before scoring, so the model sees real content instead of "this week we talk to X about Y".
 - 🚀 **Drafts push** — one more command shoves the finished post straight into your LinkedIn drafts. You tap publish from the real LinkedIn composer. No copy-paste. No formatting loss.
 
 ## What this is vs what it isn't
@@ -129,6 +131,7 @@ prompts/                  # Prompts the scoring and ideas models see
 scripts/                  # Optional glue (all gated on env vars)
   generate_image.py       # OpenAI gpt-image-2 (~$0.20/image)
   generate_video.py       # Replicate Seedance / Kling Omni (~$1-2/clip)
+  generate_pdf.py         # Square 1080x1080 PDF carousel (free, local)
   linkedin_auth.py        # One-time OAuth handshake (token good for 60 days)
   linkedin_post.py        # Push polished post → LinkedIn drafts (or publish live)
 
@@ -185,8 +188,33 @@ The radar gives you idea cards. The polish skill turns them into posts. To track
 | Image generation | `OPENAI_API_KEY` | ~$0.20 / image | OFF (turns on when key is set) |
 | Video generation | `REPLICATE_API_TOKEN` | ~$1-2 / clip | OFF |
 | LinkedIn drafts push | LinkedIn Dev App + OAuth | $0 | OFF |
+| PDF carousel | `fpdf2` (already in requirements) | $0 | ON (manual trigger via `make pdf` or polish skill) |
+| Podcast transcription | `podcast-transcriber[gemini\|openai\|local]` + API key | Varies (free local, ~$0.006/min OpenAI) | OFF |
 
 You can run the scoring loop forever for $0. Everything else is opt-in.
+
+### PDF carousels
+
+Turn a polished post into a square 1080x1080 multi-page PDF, ready for a LinkedIn document post:
+
+```bash
+python scripts/generate_pdf.py --post _workdir/posts/your-slug.md
+# → _workdir/pdfs/your-slug.pdf
+```
+
+One paragraph per page, auto-fitting font, cover and CTA pages bookending the body. Dark theme by default, `--theme light` to switch. Brand and CTA strings come from `SIGNAL_BRAND`, `SIGNAL_CTA_LINE`, `SIGNAL_CTA_URL` env vars (or CLI flags).
+
+### Podcast transcription
+
+Half the interesting AI signal lives in podcasts. The radar can pull audio from RSS enclosures and transcribe before scoring, so the model has actual content to grip instead of "this week we talk to X about Y":
+
+```bash
+pip install "podcast-transcriber[gemini]"   # or [openai] or [local]
+export GOOGLE_API_KEY=...                   # or OPENAI_API_KEY
+python -m radar run --transcribe
+```
+
+Off by default (transcription costs time and sometimes money). Bounded to 5 items per run. Transcripts cache at `_workdir/transcripts/` so re-runs are free. See [docs/podcasts.md](docs/podcasts.md) for tier choice and tradeoffs.
 
 ## License
 

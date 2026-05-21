@@ -178,6 +178,20 @@ On success, report the post URN inline and how to find the result in LinkedIn:
 
 On 401 / 403: tell the user to re-run `python scripts/linkedin_auth.py` (token expired) and continue. Do not retry automatically.
 
+### 12. Generate PDF carousel (optional)
+
+If the user says "make a PDF" / "carousel" / "pdf carousel" / "doc post" (or equivalent), turn the post into a square 1080x1080 multi-page PDF via `scripts/generate_pdf.py`. This works without any API key. One paragraph per page, cover and CTA pages bookending the body.
+
+Run via the powershell tool:
+
+```powershell
+python scripts/generate_pdf.py --post "_workdir/posts/<slug>.md"
+```
+
+Default theme is `dark`. Add `--theme light` if the user asks for a light version. The branding strings (cover label, CTA line, CTA URL) come from env vars (`SIGNAL_BRAND`, `SIGNAL_CTA_LINE`, `SIGNAL_CTA_URL`) and can be overridden per run with `--brand`, `--cta-line`, `--cta-url`.
+
+On success, report the PDF path inline and remind the user that LinkedIn renders PDFs as a swipeable document post when uploaded via "Add a document" in the composer.
+
 ## File layout (created by this skill)
 
 ```
@@ -190,6 +204,10 @@ _workdir/
   videos/
     <slug>.motion.txt   # the video motion prompt
     <slug>.mp4          # the generated video
+  pdfs/
+    <slug>.pdf          # square 1080x1080 carousel PDF
+  transcripts/
+    <sha1>.txt          # cached podcast transcripts (when --transcribe used)
 ```
 
 `<slug>` is a short kebab-case identifier built from the post title (lowercase, ASCII, hyphens, max 50 chars).

@@ -26,6 +26,7 @@ class Item:
     source_weight: float
     summary: str
     published: str  # ISO 8601 string
+    audio_url: str = ""  # set when the RSS item has an audio enclosure (podcast)
 
     def to_dict(self) -> dict:
         return asdict(self)
@@ -105,6 +106,14 @@ def fetch_feed(
         if len(summary) > 600:
             summary = summary[:597] + "..."
 
+        audio_url = ""
+        for enc in (entry.get("enclosures") or []):
+            href = (enc.get("href") or enc.get("url") or "").strip()
+            etype = (enc.get("type") or "").lower()
+            if href and (etype.startswith("audio/") or href.lower().endswith((".mp3", ".m4a", ".aac", ".ogg", ".wav"))):
+                audio_url = href
+                break
+
         items.append(
             Item(
                 id=_make_id(link, title),
@@ -114,6 +123,7 @@ def fetch_feed(
                 source_weight=weight,
                 summary=summary,
                 published=published_dt.isoformat(),
+                audio_url=audio_url,
             )
         )
 

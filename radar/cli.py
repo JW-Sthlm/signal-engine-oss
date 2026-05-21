@@ -29,6 +29,7 @@ from radar.fetch import fetch_all
 from radar.score import score_items, merge_scores
 from radar.digest import build_digest, build_ideas_digest
 from radar.ideas import generate_ideas
+from radar.transcribe import enrich_with_transcripts, _resolve_mode
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = REPO_ROOT / "sources.yaml"
@@ -103,6 +104,11 @@ def cmd_run(args: argparse.Namespace) -> int:
         items = [it.to_dict() for it in fetch_all(cfg)]
         raw_cache.write_text(json.dumps(items, ensure_ascii=False, indent=2), encoding="utf-8")
         log.info(f"cached {len(items)} items to {raw_cache}")
+
+    transcribe_mode = _resolve_mode(args.transcribe)
+    if transcribe_mode != "none":
+        log.info(f"podcast transcription enabled (mode={transcribe_mode})")
+        items = enrich_with_transcripts(items, WORKDIR, mode=transcribe_mode)
 
     final: list[dict] = []
     all_scored: list[dict] = []
@@ -266,6 +272,8 @@ def main(argv: list[str] | None = None) -> int:
     run.add_argument("--no-fetch", action="store_true", help="reuse last cached fetch")
     run.add_argument("--model", default="openai/gpt-4.1-mini",
                      help="GitHub Models model id (default: openai/gpt-4.1-mini)")
+    run.add_argument("--transcribe", action="store_true",
+                     help="enrich podcast items with transcript (requires podcast-transcriber)")
     run.set_defaults(func=cmd_run)
 
     ideas = sub.add_parser("ideas", help="weekly idea-card generation")
