@@ -1,0 +1,202 @@
+[
+  {
+    "id": "f1a8a12c4fce",
+    "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us feature fundraises!",
+    "published": "2026-05-22T05:50:58+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic is relevant to AI infrastructure trends but lacks a clear educational takeaway or tactical insight for the audience.",
+    "topic_tags": [
+      "AI infrastructure",
+      "fundraising",
+      "industry trends"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Several new AI infrastructure companies have reached unicorn status recently. This signals continued investor interest and growth in AI infrastructure startups. Readers should watch how these companies influence AI deployment and infrastructure innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "cc75457a57ab",
+    "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+    "url": "https://www.latent.space/p/daytona",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
+    "published": "2026-05-21T20:37:40+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198688585/ea70987db705e03383b894747d39cc2d.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with practitioner insights on agent computing growth and infrastructure, offering tactical and trend takeaways.",
+    "topic_tags": [
+      "AI agents",
+      "cloud infrastructure",
+      "growth metrics"
+    ],
+    "partner_takeaway": "Understanding how Daytona leverages bare metal sandboxes and agent cloud infrastructure can inform strategies for scaling AI agent deployments effectively.",
+    "partner_summary": "Daytona's CEO discusses their rapid 74% month-over-month growth and extensive daily agent runs enabled by bare metal sandboxes and a new agent cloud. This matters because it highlights practical infrastructure approaches to scaling AI agents at high volume. Readers should explore similar infrastructure patterns to optimize AI agent performance and scalability.",
+    "promo_only": false
+  },
+  {
+    "id": "1469dc869cfc",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-05-21T19:46:42+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The launch of an accelerator program is relevant but mainly promotional without detailed tactical or strategic insights.",
+    "topic_tags": [
+      "AI acceleration",
+      "environmental tech",
+      "program launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind has launched an accelerator program in Asia Pacific focused on tackling environmental risks. This initiative could foster innovation at the intersection of AI and environmental challenges. The audience should monitor the program's outcomes for emerging solutions and collaboration opportunities.",
+    "promo_only": true
+  },
+  {
+    "id": "3652bee78d04",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "published": "2026-05-21T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Relevant use case of AI in healthcare with practical workflow improvements, offering tactical tips for similar applications.",
+    "topic_tags": [
+      "AI in healthcare",
+      "workflow automation",
+      "productivity"
+    ],
+    "partner_takeaway": "Using ChatGPT to reduce administrative burden in healthcare can free up more time for patient care, demonstrating a practical AI application to improve operational efficiency.",
+    "partner_summary": "AdventHealth is applying OpenAI's ChatGPT to streamline healthcare workflows and reduce administrative tasks. This is important as it shows how AI can directly improve productivity and care quality in healthcare settings. Healthcare professionals and administrators should consider similar AI tools to optimize their operations.",
+    "promo_only": false
+  },
+  {
+    "id": "9b983d3e62e3",
+    "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
+    "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
+    "published": "2026-05-21T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The interview offers a unique perspective on valuing content in an agent-driven web, providing insight and strategic thinking for content creators and platform builders.",
+    "topic_tags": [
+      "content valuation",
+      "agentic web",
+      "platform strategy"
+    ],
+    "partner_takeaway": "Valuing and incentivizing content creation in an agentic web environment requires new frameworks that consider autonomous agents' roles in content consumption and distribution.",
+    "partner_summary": "Parag Agarwal, founder of Parallel, discusses how content valuation must evolve in a web increasingly driven by autonomous agents. This is critical for content creators and platform strategists navigating new incentive models. Readers should rethink content strategies to align with agentic web dynamics and emerging valuation methods.",
+    "promo_only": false
+  },
+  {
+    "id": "06e108273018",
+    "title": "How Superhuman Took Over Silicon Valley Email",
+    "url": "https://a16z.simplecast.com/episodes/how-superhuman-took-over-silicon-valley-email-2C9E09yT",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Rahul Vorra is the founder and CEO of Superhuman, the premium email client for power users. He previously built the Gmail plug-in Reportive and sold it to LinkedIn. He began somewhere unexpected though, as a game designer on RuneScape. In this conversation, Rahul breaks down why most founders misunderstand product market fit, why premium can actually hurt your business, and how deliberate constraint can become your biggest advantage.",
+    "published": "2026-05-21T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ab3abb7b-4e34-443e-9f91-d46955af42a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ab3abb7b-4e34-443e-9f91-d46955af42a0&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Provides practitioner insights on product-market fit and premium business models in software, useful for founders and product leaders.",
+    "topic_tags": [
+      "product-market fit",
+      "premium software",
+      "founder insights"
+    ],
+    "partner_takeaway": "Understanding why premium pricing can sometimes hurt a business helps founders better align product-market fit and pricing strategies for sustainable growth.",
+    "partner_summary": "Rahul Vorra, founder of Superhuman, shares lessons on product-market fit and the pitfalls of premium pricing in software products. This matters to founders and product managers aiming to optimize growth and user adoption. The audience should evaluate their pricing models critically and consider deliberate product positioning.",
+    "promo_only": false
+  },
+  {
+    "id": "c7f94905b025",
+    "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day but a nice result in AI x mathematics",
+    "published": "2026-05-21T07:28:36+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Interesting AI application in mathematics but lacks clear tactical or strategic takeaways for the audience beyond novelty.",
+    "topic_tags": [
+      "AI applications",
+      "mathematics",
+      "research"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI's GPT-next has been used to disprove an 80-year-old mathematical problem related to Erdős planar unit distance. This showcases AI's potential to accelerate complex mathematical research. Readers should watch for further AI-driven breakthroughs in scientific problem-solving.",
+    "promo_only": false
+  },
+  {
+    "id": "b709b0afad22",
+    "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+    "url": "https://www.latent.space/p/railway",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs",
+    "published": "2026-05-20T22:42:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198575235/aa94f0be0bd4cd0225d9bc685ddd3a6c.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong practitioner perspective on agent-native cloud infrastructure with concrete data and trends relevant to AI infrastructure builders.",
+    "topic_tags": [
+      "cloud infrastructure",
+      "AI agents",
+      "developer tools"
+    ],
+    "partner_takeaway": "The shift to agent-native cloud platforms with own-metal data centers and high agent spend signals new infrastructure patterns that developers and businesses should consider adopting.",
+    "partner_summary": "Railway has grown to 3 million users with significant weekly signups and substantial coding agent expenditures, leveraging own-metal data centers and moving away from traditional PR workflows. This matters because it highlights evolving cloud infrastructure tailored for AI agents. The audience should explore agent-native cloud models to stay ahead in AI infrastructure innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "1063ab3773a6",
+    "title": "Google I/O, World Models, I/O Spaghetti",
+    "url": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google I/O put AI everywhere, for better and for worse. Meanwhile, is DeepMind aligned with Google's business objectives?",
+    "published": "2026-05-20T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Insightful trend read on AI's integration into Google products and strategic alignment questions about DeepMind, relevant for tech strategists.",
+    "topic_tags": [
+      "AI trends",
+      "Google strategy",
+      "business alignment"
+    ],
+    "partner_takeaway": "Google I/O's AI emphasis reveals both opportunities and challenges in integrating AI broadly, while DeepMind's alignment with Google's business objectives remains a critical factor to watch.",
+    "partner_summary": "Google I/O showcased extensive AI integration across its product suite, sparking debate on the benefits and risks of such pervasive AI use. This is important for technology leaders assessing AI adoption and strategic alignment within large organizations. Readers should monitor how DeepMind's role evolves in Google's broader business strategy.",
+    "promo_only": false
+  },
+  {
+    "id": "4138372620d1",
+    "title": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
+    "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan-eafbidR1",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Marc Andreessen joins Joe Rogan for a conversation on AI, politics, technology, and the future of American society. They discuss how artificial intelligence is rapidly moving from novelty to infrastructure, and why Andreessen believes its long-term impact will be overwhelmingly positive despite growing public fear around automation and surveillance. The conversation covers the explosion of AI coding tools, the emergence of “AI agents,” and how these systems are already reshaping software development, medicine, and education. Andreessen argues that AI should be understood less as replacement...",
+    "published": "2026-05-20T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/4a072981-3a68-4409-add8-a246659aa077/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=4a072981-3a68-4409-add8-a246659aa077&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Offers a high-level perspective on AI's societal impact and future, useful for readers interested in technology's broader implications.",
+    "topic_tags": [
+      "AI impact",
+      "technology trends",
+      "societal change"
+    ],
+    "partner_takeaway": "AI is transitioning from novelty to foundational infrastructure with long-term positive impacts, despite public concerns about automation and surveillance.",
+    "partner_summary": "Marc Andreessen discusses AI's rapid evolution and its transformative potential for society, addressing fears around automation and surveillance. This matters as it frames AI as a critical infrastructure shift with broad implications. The audience should consider both the opportunities and challenges AI presents for future societal and business landscapes.",
+    "promo_only": false
+  }
+]
