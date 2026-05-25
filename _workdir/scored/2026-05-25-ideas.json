@@ -1,0 +1,671 @@
+[
+  {
+    "id": "5018c889fb44",
+    "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+    "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he&#8217;s wildly bullish on PMs and designers",
+    "published": "2026-05-24T12:31:49+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/197415169/96dea3a0bf7a7a85ea6cbce55365b5c8.mp3",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a clear practitioner perspective on AI automation's impact on human roles and workflows, offering insight and a trend read.",
+    "topic_tags": [
+      "AI automation",
+      "product management",
+      "design"
+    ],
+    "partner_takeaway": "Automation with AI agents increases the need for human roles like PMs and designers, changing how work is structured rather than reducing it.",
+    "partner_summary": "This article explores the paradox where more AI automation leads to more human involvement and work, especially inside tools like Codex or Claude Code. It matters because it challenges the common assumption that AI will reduce human jobs, highlighting the evolving roles of PMs and designers. Readers should reconsider how to integrate AI agents with human collaboration to maximize productivity and innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "ab3442915a19",
+    "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 186",
+    "published": "2026-05-23T20:33:09+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential due to broad community Q&A format but lacks a unique angle or deep insight for the audience without further curation.",
+    "topic_tags": [
+      "AI tools",
+      "product management",
+      "design"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a community wisdom newsletter covering various topics like AI cold outreach apps, advice for aspiring PMs, AI in design, and QA relevance. While it touches on relevant themes, it is a broad collection without a focused takeaway. Readers should selectively explore specific advice relevant to their interests but may need additional context to extract value.",
+    "promo_only": false
+  },
+  {
+    "id": "c30570590746",
+    "title": "[AINews] All Model Labs are now Agent Labs",
+    "url": "https://www.latent.space/p/ainews-all-model-labs-are-now-agent",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us tie together a few quotes as all model labs become agent labs",
+    "published": "2026-05-23T04:21:17+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a trend read on the shift from model labs to agent labs, but requires the writer to add perspective for business relevance.",
+    "topic_tags": [
+      "AI agents",
+      "AI infrastructure"
+    ],
+    "partner_takeaway": "The AI industry is shifting focus from standalone model labs to integrated agent labs, signaling a new phase in AI development and deployment.",
+    "partner_summary": "This update notes that all model labs are now being rebranded or evolved into agent labs, reflecting a shift in AI development focus. This matters to the audience as it signals changing priorities and opportunities in AI product strategies. Readers should watch how agent-based AI platforms evolve and consider their implications for product design and automation.",
+    "promo_only": false
+  },
+  {
+    "id": "c72c4eefc7f7",
+    "title": "2026.21: The Data Center Veto",
+    "url": "https://stratechery.com/2026/the-data-center-veto/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The best Stratechery content from the week of May 18, 2026, including data center discontent, agent economics, and slime mold.",
+    "published": "2026-05-22T17:12:32+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a strategic overview of data center issues and agent economics, offering insight and trend context for tech leaders.",
+    "topic_tags": [
+      "data centers",
+      "AI economics",
+      "technology strategy"
+    ],
+    "partner_takeaway": "Data center constraints and agent economics are shaping the future of AI infrastructure and deployment strategies.",
+    "partner_summary": "This article summarizes key tech topics including data center challenges, the economics of AI agents, and an unusual analogy with slime mold. It matters because infrastructure bottlenecks and cost models directly impact AI scalability and business decisions. Readers should monitor infrastructure trends and agent cost dynamics to better plan AI investments and operations.",
+    "promo_only": false
+  },
+  {
+    "id": "9b8e57c57a6d",
+    "title": "Goodbye, Lenny's Reads!",
+    "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "After a year of bringing you these audio versions of my newsletter, I&#8217;ve decided it&#8217;s time to wind down this experiment.",
+    "published": "2026-05-22T15:41:05+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198858883/9331d22606bfe8b81688db81d2fec487.mp3",
+    "relevance_score": 2,
+    "score_reason": "Low content potential as it is a farewell announcement without substantive insights or actionable takeaways.",
+    "topic_tags": [
+      "media",
+      "newsletter"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is an announcement about ending the audio version of a newsletter after a year. It has limited relevance to the audience focused on AI, product management, or technology trends. Readers do not gain actionable insights or new perspectives from this.",
+    "promo_only": true
+  },
+  {
+    "id": "8f727812b249",
+    "title": "Hugging Face's Clem Delangue on Open Source AI and the LLM Bubble | MTS Live",
+    "url": "https://a16z.simplecast.com/episodes/hugging-faces-clem-delangue-on-open-source-ai-and-the-llm-bubble-mts-live-ptSZ3KKP",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Clem Delangue joins MTS to discuss the global open-source AI landscape, the current large language model bubble, and the future of consumer robotics. Originally aired on MTS, Theo Jaffee and Sofia Puccini speak with Clément Delangue, CEO at Hugging Face, about the global open-source AI race, why he believes the real bubble is in API-based large language models, and how robotics could become the next major interface for AI. They also discuss AI safety, U.S.-China competition, open-weight models, and why Hugging Face became the infrastructure layer for open AI development.",
+    "published": "2026-05-22T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/223749fd-c1f7-4cc8-a580-94f4466b9896/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=223749fd-c1f7-4cc8-a580-94f4466b9896&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a practitioner perspective on open source AI, the LLM bubble, and robotics, offering insight and trend analysis.",
+    "topic_tags": [
+      "open source AI",
+      "LLM market",
+      "robotics"
+    ],
+    "partner_takeaway": "The open-source AI landscape is evolving rapidly, with a real bubble in API-based LLMs and emerging opportunities in consumer robotics.",
+    "partner_summary": "This podcast features Hugging Face's CEO discussing the global open-source AI race, the current large language model bubble, and the future of consumer robotics. It matters because it provides a nuanced view of market dynamics and innovation beyond hype. Readers should consider the implications of open source versus API models and watch robotics as a growth area.",
+    "promo_only": false
+  },
+  {
+    "id": "f1a8a12c4fce",
+    "title": "[AINews] New AI Infra unicorns: Exa, Modal, TurboPuffer",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-unicorns-exa",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us feature fundraises!",
+    "published": "2026-05-22T05:50:58+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Medium-low content potential as it mainly reports on funding news without deeper analysis or tactical insight.",
+    "topic_tags": [
+      "AI infrastructure",
+      "funding"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This brief news item highlights new AI infrastructure unicorns Exa, Modal, and TurboPuffer following recent fundraises. While it signals investor interest in AI infrastructure, it lacks detailed insights or practical implications. Readers should note the growing capital flow but need more context to understand impact.",
+    "promo_only": true
+  },
+  {
+    "id": "1a56bc30694c",
+    "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+    "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+    "published": "2026-05-22T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential as it recognizes OpenAI's leadership in enterprise AI coding agents but is mostly a product recognition announcement.",
+    "topic_tags": [
+      "enterprise AI",
+      "coding agents"
+    ],
+    "partner_takeaway": "OpenAI is recognized as a leader in enterprise AI coding agents, highlighting Codex's innovation and scalability for business use.",
+    "partner_summary": "OpenAI was named a leader in Gartner's 2026 Magic Quadrant for Enterprise AI Coding Agents, with Codex noted for innovation and enterprise deployment. This matters as it validates AI coding agents' growing role in enterprise software development. Readers should consider how AI coding agents can be integrated into their development workflows.",
+    "promo_only": true
+  },
+  {
+    "id": "3a1953423b93",
+    "title": "How Virgin Atlantic ships faster with Codex",
+    "url": "https://openai.com/index/virgin-atlantic",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+    "published": "2026-05-22T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium-high content potential with a concrete case study on using Codex to accelerate app development under tight deadlines.",
+    "topic_tags": [
+      "AI coding agents",
+      "case study",
+      "software development"
+    ],
+    "partner_takeaway": "Using AI coding agents like Codex can significantly speed up software development and improve test coverage under tight deadlines.",
+    "partner_summary": "This case study shows how Virgin Atlantic used Codex to ship a revamped mobile app on a fixed holiday travel deadline, achieving near-total unit test coverage and zero critical defects. It matters because it demonstrates practical benefits of AI coding agents in real-world software delivery. Readers should explore AI coding tools to enhance development speed and quality.",
+    "promo_only": false
+  },
+  {
+    "id": "cc75457a57ab",
+    "title": "Giving Agents Computers — Ivan Burazin, Daytona",
+    "url": "https://www.latent.space/p/daytona",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We chat with Daytona's CEO about their insane 74% MoM Growth, 850K Daily Runs, Bare Metal Sandboxes, RL Evals, and the New Agent Cloud",
+    "published": "2026-05-21T20:37:40+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198688585/ea70987db705e03383b894747d39cc2d.mp3",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a deep dive interview on AI agent infrastructure, growth metrics, and new cloud capabilities offering tactical insights.",
+    "topic_tags": [
+      "AI agents",
+      "infrastructure",
+      "growth"
+    ],
+    "partner_takeaway": "Advanced AI agent platforms with bare metal sandboxes and RL evaluations are driving rapid growth and new capabilities in agent cloud infrastructure.",
+    "partner_summary": "This interview with Daytona's CEO covers their 74% month-over-month growth, 850K daily runs, bare metal sandboxes, reinforcement learning evaluations, and the new agent cloud. It matters as it reveals how cutting-edge infrastructure and evaluation methods fuel AI agent scalability and performance. Readers should watch these infrastructure innovations to inform their AI product strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "1469dc869cfc",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-05-21T19:46:42+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Low content potential due to lack of substantive detail and focus on a program launch announcement without tactical insight.",
+    "topic_tags": [
+      "AI accelerator",
+      "environmental risk"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind announced the launch of an accelerator program in Asia Pacific focused on tackling environmental risks. While the topic is important, the announcement lacks detailed insights or actionable advice. Readers should monitor the program's progress but gain little immediate value.",
+    "promo_only": true
+  },
+  {
+    "id": "3652bee78d04",
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+    "published": "2026-05-21T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium-high content potential with a practical example of AI streamlining healthcare workflows and reducing administrative burden.",
+    "topic_tags": [
+      "AI in healthcare",
+      "workflow automation"
+    ],
+    "partner_takeaway": "AI tools like ChatGPT can streamline healthcare workflows, reduce administrative tasks, and allow clinicians to focus more on patient care.",
+    "partner_summary": "AdventHealth is using ChatGPT for Healthcare to improve workflow efficiency, reduce administrative burdens, and return more time to patient care. This matters because healthcare providers face significant operational challenges that AI can help address. Readers should explore AI applications that enhance productivity and care quality in healthcare settings.",
+    "promo_only": false
+  },
+  {
+    "id": "9b983d3e62e3",
+    "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
+    "url": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
+    "published": "2026-05-21T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The interview offers a medium-level content potential with a perspective on valuing content in an AI-driven web, providing insight but requiring a personal angle to deepen impact.",
+    "topic_tags": [
+      "content strategy",
+      "AI impact",
+      "web innovation"
+    ],
+    "partner_takeaway": "Readers learn how emerging AI agents could reshape content valuation and incentivization models on the web.",
+    "partner_summary": "This is an interview with Parallel founder Parag Agarwal discussing how content value might evolve in an agentic web environment. It matters because content creators and businesses need to understand new incentive structures driven by AI agents. The audience should watch for shifts in content monetization and consider how to adapt their strategies accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "06e108273018",
+    "title": "How Superhuman Took Over Silicon Valley Email",
+    "url": "https://a16z.simplecast.com/episodes/how-superhuman-took-over-silicon-valley-email-2C9E09yT",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Rahul Vorra is the founder and CEO of Superhuman, the premium email client for power users. He previously built the Gmail plug-in Reportive and sold it to LinkedIn. He began somewhere unexpected though, as a game designer on RuneScape. In this conversation, Rahul breaks down why most founders misunderstand product market fit, why premium can actually hurt your business, and how deliberate constraint can become your biggest advantage.",
+    "published": "2026-05-21T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ab3abb7b-4e34-443e-9f91-d46955af42a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ab3abb7b-4e34-443e-9f91-d46955af42a0&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High content potential with tactical insights on product-market fit and premium business models from a founder's perspective relevant to tech entrepreneurs and product leaders.",
+    "topic_tags": [
+      "product management",
+      "startup strategy",
+      "business model"
+    ],
+    "partner_takeaway": "Readers gain a nuanced understanding of why premium pricing can sometimes hinder growth and how to better approach product-market fit.",
+    "partner_summary": "This episode features Rahul Vorra, founder of Superhuman, sharing his journey and lessons on product-market fit and premium pricing strategies. It matters because many founders misunderstand these concepts, impacting their business success. The audience should apply these insights to refine their product strategies and pricing models.",
+    "promo_only": false
+  },
+  {
+    "id": "c7f94905b025",
+    "title": "[AINews] OpenAI GPT-next disproves 80 year old Erdős planar unit distance problem for under $1000",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-next-disproves",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day but a nice result in AI x mathematics",
+    "published": "2026-05-21T07:28:36+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "While interesting, the AI-driven mathematical breakthrough is too technical and narrowly focused without a clear business or practical angle for the audience.",
+    "topic_tags": [
+      "AI research",
+      "mathematics"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "An AI model disproved an 80-year-old mathematical problem related to planar unit distances. This is a significant achievement in AI and mathematics but has limited direct relevance to business or practical AI applications. The audience may note the progress in AI capabilities but has little actionable insight here.",
+    "promo_only": false
+  },
+  {
+    "id": "b709b0afad22",
+    "title": "Railway: The Agent-Native Cloud — Jake Cooper",
+    "url": "https://www.latent.space/p/railway",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "3M Users, 100K Signups/Week, Own-Metal Data Centers, $200K+ Coding Agent Spend, and the Death of PRs",
+    "published": "2026-05-20T22:42:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198575235/aa94f0be0bd4cd0225d9bc685ddd3a6c.mp3",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant but highly technical and developer-focused with limited clear tactical or strategic takeaway for a broader audience.",
+    "topic_tags": [
+      "cloud computing",
+      "AI agents",
+      "developer tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This article discusses Railway's growth metrics and its approach to agent-native cloud infrastructure, including the decline of pull requests. It matters as it signals shifts in cloud development workflows and AI integration. The audience should watch for evolving cloud-native patterns but may find limited direct tactical advice.",
+    "promo_only": false
+  },
+  {
+    "id": "1063ab3773a6",
+    "title": "Google I/O, World Models, I/O Spaghetti",
+    "url": "https://stratechery.com/2026/google-i-o-world-models-i-o-spaghetti/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google I/O put AI everywhere, for better and for worse. Meanwhile, is DeepMind aligned with Google's business objectives?",
+    "published": "2026-05-20T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Provides a medium-level trend read on Google's AI integration and strategic alignment, offering insight into tech industry shifts relevant to business and product leaders.",
+    "topic_tags": [
+      "AI trends",
+      "Google strategy",
+      "industry analysis"
+    ],
+    "partner_takeaway": "Readers understand how Google is embedding AI across its products and the strategic implications for its business and competitors.",
+    "partner_summary": "This post analyzes Google I/O 2026, highlighting AI's pervasive role and questions about DeepMind's alignment with Google's objectives. It matters because it reveals how major tech players are positioning AI within their ecosystems. The audience should monitor Google's AI moves to anticipate market and product shifts.",
+    "promo_only": false
+  },
+  {
+    "id": "4138372620d1",
+    "title": "Marc Andreessen on AI, California, and the Future of America | Joe Rogan",
+    "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-california-and-the-future-of-america-joe-rogan-eafbidR1",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Marc Andreessen joins Joe Rogan for a conversation on AI, politics, technology, and the future of American society. They discuss how artificial intelligence is rapidly moving from novelty to infrastructure, and why Andreessen believes its long-term impact will be overwhelmingly positive despite growing public fear around automation and surveillance. The conversation covers the explosion of AI coding tools, the emergence of “AI agents,” and how these systems are already reshaping software development, medicine, and education. Andreessen argues that AI should be understood less as replacement...",
+    "published": "2026-05-20T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/4a072981-3a68-4409-add8-a246659aa077/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=4a072981-3a68-4409-add8-a246659aa077&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a practitioner perspective on AI's societal impact and future, offering insight and trend reads valuable to a broad professional audience.",
+    "topic_tags": [
+      "AI impact",
+      "technology trends",
+      "societal change"
+    ],
+    "partner_takeaway": "Readers gain a balanced perspective on AI's rapid evolution and its potential long-term benefits despite public fears.",
+    "partner_summary": "Marc Andreessen discusses AI's transition from novelty to infrastructure and its societal implications in a wide-ranging conversation. This matters as it frames AI's role in shaping future technology and policy debates. The audience should consider these perspectives when evaluating AI's impact on their industries and communities.",
+    "promo_only": false
+  },
+  {
+    "id": "920ac56b8c61",
+    "title": "[AINews] Google I/O 2026: Gemini 3.5 Flash, Omni (NanoBanana for Video), Spark (background agents), and Antigravity 2.0",
+    "url": "https://www.latent.space/p/ainews-google-io-2026-gemini-35-flash",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Google has been busy!",
+    "published": "2026-05-20T03:34:17+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The item is a brief update on Google I/O AI product launches but lacks depth or a clear tactical or strategic takeaway for the audience.",
+    "topic_tags": [
+      "AI product updates",
+      "Google I/O"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a summary of new AI-related products and features announced at Google I/O 2026. It matters as it shows Google's ongoing AI innovation but offers limited analysis or actionable insight. The audience should watch for detailed reviews or implications in future coverage.",
+    "promo_only": false
+  },
+  {
+    "id": "20f4b8244cc2",
+    "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
+    "url": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Every major Google I/O 2026 launch&#8212;what's fast, what's broken, and what builders should actually care about",
+    "published": "2026-05-20T01:59:31+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198494938/57a00de1162450a5237ce81151e6e1be.mp3",
+    "relevance_score": 6,
+    "score_reason": "A recap of Google I/O launches with some potential for tactical insight but generally a broad overview requiring the writer's angle to add value.",
+    "topic_tags": [
+      "product launches",
+      "Google I/O",
+      "technology trends"
+    ],
+    "partner_takeaway": "Readers get a concise overview of key Google I/O 2026 launches with notes on what is promising or problematic for builders.",
+    "partner_summary": "This newsletter provides a 30-minute recap of major Google I/O 2026 announcements, highlighting what is fast, broken, or important. It matters because builders and product teams need to prioritize what to focus on. The audience should use this as a starting point to dive deeper into relevant new tools and features.",
+    "promo_only": false
+  },
+  {
+    "id": "588cb43d056b",
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
+    "published": "2026-05-20T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "High content potential with a clear milestone in AI-driven mathematics that can be framed as a trend read and insight into AI's expanding capabilities.",
+    "topic_tags": [
+      "AI breakthroughs",
+      "mathematics",
+      "technology trends"
+    ],
+    "partner_takeaway": "Readers learn how AI models are now solving longstanding mathematical problems, signaling new frontiers for AI applications.",
+    "partner_summary": "An OpenAI model has disproved a central conjecture in discrete geometry, solving an 80-year-old problem. This milestone matters as it demonstrates AI's growing role in advancing complex scientific research. The audience should watch how AI-driven problem solving expands into new domains beyond traditional applications.",
+    "promo_only": false
+  },
+  {
+    "id": "cbcb77c330f8",
+    "title": "The next phase of OpenAI’s Education for Countries",
+    "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
+    "published": "2026-05-20T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Relevant to AI adoption in education with some potential for insight but largely a program update needing a practitioner angle to deepen value.",
+    "topic_tags": [
+      "AI in education",
+      "global learning",
+      "partnerships"
+    ],
+    "partner_takeaway": "Readers understand how AI is being integrated into global education systems through partnerships and teacher training.",
+    "partner_summary": "OpenAI is advancing its Education for Countries initiative by expanding AI adoption in schools with new partnerships and tools. This matters as AI has the potential to improve learning outcomes worldwide. The audience should consider how AI can be responsibly integrated into educational contexts.",
+    "promo_only": false
+  },
+  {
+    "id": "e2b0de78a24f",
+    "title": "How Ramp engineers accelerate code review with Codex",
+    "url": "https://openai.com/index/ramp",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+    "published": "2026-05-20T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Developer-focused content on AI-assisted code review with limited direct business or strategic insight for the broader audience.",
+    "topic_tags": [
+      "AI tools",
+      "software development",
+      "productivity"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Ramp engineers use OpenAI's Codex with GPT-5.5 to accelerate code review, reducing feedback time from hours to minutes. This is relevant to software teams looking to improve efficiency but is technical and narrowly focused. The audience may note AI's role in development workflows but gains limited broader insight.",
+    "promo_only": false
+  },
+  {
+    "id": "70f2ae9ad185",
+    "title": "Introducing OpenAI for Singapore",
+    "url": "https://openai.com/index/introducing-openai-for-singapore",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+    "published": "2026-05-19T20:30:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "A regional AI partnership announcement with some strategic implications but primarily promotional without deep insight or tactical advice.",
+    "topic_tags": [
+      "AI partnerships",
+      "regional development",
+      "talent building"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI launched a multi-year AI partnership in Singapore to expand AI deployment and build local talent. This matters as it reflects growing regional AI ecosystems and government collaboration. The audience should watch how such partnerships influence local AI adoption and innovation.",
+    "promo_only": true
+  },
+  {
+    "id": "54cf45cb4229",
+    "title": "The Lenny and Friends Summit is back!",
+    "url": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "September 10th in San Francisco. Applications are now open.",
+    "published": "2026-05-19T15:27:24+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "Event announcement with no substantive insight or tactical content for the audience.",
+    "topic_tags": [
+      "event",
+      "networking"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The Lenny and Friends Summit is scheduled for September 10th in San Francisco with applications now open. While this is relevant for networking, it offers no direct educational or tactical value for the audience. Readers should consider attending if they want to network but will not gain actionable insights from this announcement alone.",
+    "promo_only": true
+  },
+  {
+    "id": "83c8f9fa085b",
+    "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "url": "https://openai.com/index/advancing-content-provenance",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "published": "2026-05-19T10:45:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Strong content potential with clear insight and tactical implications on AI content provenance.",
+    "topic_tags": [
+      "AI ethics",
+      "content provenance",
+      "trust"
+    ],
+    "partner_takeaway": "Readers learn how new tools like Content Credentials and SynthID improve transparency and trust in AI-generated media.",
+    "partner_summary": "OpenAI has advanced AI content provenance by introducing Content Credentials, SynthID, and a verification tool to help identify AI-generated media. This matters because as AI-generated content proliferates, businesses and professionals need reliable ways to verify authenticity and maintain trust. The audience should watch these developments closely and consider integrating provenance verification into their AI content workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "ced12b29ff21",
+    "title": "Rebuilding The American Shipyard",
+    "url": "https://a16z.simplecast.com/episodes/rebuilding-the-american-shipyard-fSxcCyxZ",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Erin Price-Wright speaks with Michael Duffey and Dino Mavrookas about what it will take to rebuild the American defense industrial base for a new era of competition. As production capacity becomes a central constraint, they outline how the system must shift toward speed, scale, and modern manufacturing. The conversation covers the role of autonomy in both defense systems and industrial processes, and how new approaches to design, labor, and production can dramatically reduce cost and complexity. Mavrookas explains how building for software and autonomy enables entirely new classes of platfo...",
+    "published": "2026-05-19T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/22c5e11b-72bd-4b6f-ab5b-e2a7767925e3/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=22c5e11b-72bd-4b6f-ab5b-e2a7767925e3&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Relevant practitioner perspective on modernizing defense manufacturing with tactical insights.",
+    "topic_tags": [
+      "manufacturing",
+      "defense",
+      "industrial strategy"
+    ],
+    "partner_takeaway": "The conversation highlights how speed, scale, and autonomy are critical to rebuilding the American defense industrial base for future competition.",
+    "partner_summary": "Experts discuss the need to rebuild the American defense industrial base by focusing on speed, scale, and modern manufacturing techniques including autonomy. This is important for professionals involved in industrial strategy and manufacturing innovation. The audience should explore how these principles can be applied to their own sectors facing capacity constraints and modernization challenges.",
+    "promo_only": false
+  },
+  {
+    "id": "6de19e519226",
+    "title": "[AINews] How to land a job at a frontier lab (on Pretraining)",
+    "url": "https://www.latent.space/p/ainews-how-to-land-a-job-at-a-frontier",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day before google i/o lets us amplify a notable blogpost",
+    "published": "2026-05-19T07:31:40+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Too vague and lacks a clear educational takeaway or tactical insight for the audience.",
+    "topic_tags": [
+      "career",
+      "AI labs"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item references a blog post about landing jobs at frontier AI labs focused on pretraining but provides no detailed content or actionable advice. It is relevant to those interested in AI careers but lacks concrete tips or insights. Readers should seek more detailed resources for practical guidance on this topic.",
+    "promo_only": false
+  },
+  {
+    "id": "486f4c78e372",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
+    "published": "2026-05-18T18:21:39+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Interesting scientific advancement with potential tactical implications but needs a clear business or practical angle.",
+    "topic_tags": [
+      "biotech",
+      "AI applications",
+      "aging"
+    ],
+    "partner_takeaway": "Readers learn how AI tools like Co-Scientist can accelerate discovery of genetic factors that reverse cellular aging.",
+    "partner_summary": "DeepMind's Co-Scientist tool has helped biologists identify novel genetic factors that rejuvenate human cells. This matters because it demonstrates how AI can fast-track breakthroughs in biotech and aging research. The audience should watch for how AI-driven discovery tools can be applied to accelerate innovation in their own fields.",
+    "promo_only": false
+  },
+  {
+    "id": "ee7ee7ae2e90",
+    "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-05-18T15:00:52+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "Podcast episode announcement with no clear educational or tactical takeaway.",
+    "topic_tags": [
+      "podcast",
+      "AI tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast episode from the How I AI series featuring Anthropic engineers discussing HTML and Claude Code. While potentially interesting, it lacks a clear, concrete takeaway or tactical advice for the audience. Listeners interested in AI engineering might find value, but it is not broadly educational as presented.",
+    "promo_only": true
+  },
+  {
+    "id": "737d227ff379",
+    "title": "The Autonomous Drone Tech Stack & Economics of Drones — Yaroslav Azhnyuk, The Fourth Law & Guest Host Noah Smith, Noahpinion",
+    "url": "https://www.latent.space/p/the-fourth-law",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Ukrainian drone founder Yaroslav Azhnyuk went from pet cameras to AI-guided weapons. He and guest host Noah Smith make the case that the West is asleep at the wheel.",
+    "published": "2026-05-18T13:45:32+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198200418/407733f8a9519e9e9876b9e4a2fc4f36.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong practitioner perspective on drone tech stack and economic implications with a clear trend read.",
+    "topic_tags": [
+      "drones",
+      "autonomy",
+      "defense tech"
+    ],
+    "partner_takeaway": "The discussion reveals how autonomous drone technology is evolving and why Western industries risk falling behind in this strategic area.",
+    "partner_summary": "A Ukrainian drone founder and guest host discuss the autonomous drone technology stack and its economic impact, highlighting Western complacency. This is relevant for professionals tracking defense tech and autonomous systems trends. The audience should consider the strategic implications and potential opportunities in drone technology development.",
+    "promo_only": false
+  },
+  {
+    "id": "f8a20f18427f",
+    "title": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
+    "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Anthropic's Claude Code engineer on why HTML replaced markdown, building micro-apps for spec editing, living design systems, and becoming a \"compute allocator\"",
+    "published": "2026-05-18T12:02:11+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/197777474/2250a2964a0699eacec1b9bf3916a8fd.mp3",
+    "relevance_score": 7,
+    "score_reason": "Good tactical insight into how HTML is replacing Markdown in developer workflows with practitioner perspective.",
+    "topic_tags": [
+      "developer tools",
+      "workflow",
+      "software engineering"
+    ],
+    "partner_takeaway": "Readers learn why Anthropic engineers prefer HTML over Markdown for building micro-apps and managing design systems.",
+    "partner_summary": "Anthropic engineers explain their shift from Markdown to HTML for building micro-apps, editing specs, and managing design systems. This matters because it reflects evolving best practices in developer workflows and tool choices. The audience should evaluate whether adopting HTML-based workflows could improve their own software development processes.",
+    "promo_only": false
+  },
+  {
+    "id": "4f358a1f0af0",
+    "title": "Data Center Discontent, Understanding the Opposition, Fixing the Problem",
+    "url": "https://stratechery.com/2026/data-center-discontent-understanding-the-opposition-fixing-the-problem/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "There are understandable reasons for people to oppose data centers; the only solution that will work is simply paying them off.",
+    "published": "2026-05-18T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Insightful perspective on data center opposition but limited tactical advice or tools for the audience.",
+    "topic_tags": [
+      "infrastructure",
+      "data centers",
+      "policy"
+    ],
+    "partner_takeaway": "The piece explains why opposition to data centers exists and argues that financial incentives are the only viable solution.",
+    "partner_summary": "The article explores the reasons behind public opposition to data centers and suggests that paying off opposition is the only effective resolution. This is relevant for professionals managing infrastructure projects and navigating community relations. The audience should consider financial and strategic approaches to addressing local resistance in their projects.",
+    "promo_only": false
+  },
+  {
+    "id": "cc84770b6694",
+    "title": "The Plan to Make American Crime Obsolete",
+    "url": "https://a16z.simplecast.com/episodes/the-plan-to-make-american-crime-obsolete-kFoaNrAU",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "David Ulevitch speaks with Col. Jeffrey Glover and Rahul Sidhu about how AI, drones, and sensor networks are reshaping public safety and what it takes to bring new technology into law enforcement at scale. As departments face staffing shortages, burnout, and rising complexity, they examine how the right tools can make officers more effective, safer, and better supported. The conversation covers how drone-as-first-responder programs are changing the speed and safety of emergency response, from high-risk warrant service to Amber Alert pursuits. Glover describes how Arizona DPS is building a f...",
+    "published": "2026-05-18T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0a48e90e-2555-4245-b3b9-3957c98ab2c4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0a48e90e-2555-4245-b3b9-3957c98ab2c4&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Strong practitioner insight on AI and technology reshaping public safety with tactical implications.",
+    "topic_tags": [
+      "AI applications",
+      "public safety",
+      "law enforcement"
+    ],
+    "partner_takeaway": "Readers learn how AI, drones, and sensor networks can address law enforcement challenges like staffing shortages and complexity.",
+    "partner_summary": "Experts discuss how AI, drones, and sensor networks are transforming public safety and law enforcement effectiveness amid staffing and complexity challenges. This matters because it highlights practical technology adoption to improve officer safety and operational efficiency. The audience should explore integrating these technologies to modernize public safety efforts.",
+    "promo_only": false
+  }
+]

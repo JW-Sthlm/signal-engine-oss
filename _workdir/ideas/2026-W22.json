@@ -1,0 +1,63 @@
+[
+  {
+    "track": "A",
+    "title": "How AI Coding Agents Accelerate Real-World Software Delivery",
+    "hook": "When I shipped X to production for the first time, tight deadlines forced me to rethink my workflow—and AI coding agents changed the game.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn how to use AI coding agents like Codex to speed up development and achieve high test coverage under deadline pressure.",
+    "story_ref": "story-001",
+    "source_refs": [
+      "3a1953423b93"
+    ],
+    "image_code": "scene-photo",
+    "reasoning": "This idea connects a personal shipping experience with a current case study, showing how AI tools can deliver concrete results. The audience wants actionable patterns they can apply this week, and this post provides both a lived example and external validation."
+  },
+  {
+    "track": "A",
+    "title": "The Pattern I Keep Coming Back To: Prompt-Driven Automation",
+    "hook": "Every time I hit a repetitive task, I reach for prompt-driven automation—and here's why it keeps working.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn a repeatable pattern for using AI prompts to automate routine work and avoid common pitfalls.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "This idea is rooted in a personal workflow that readers can immediately adopt. It delivers tactical value and addresses common mistakes, matching the track's focus on practical AI."
+  },
+  {
+    "track": "B",
+    "title": "The AI Paradox: More Automation, More Humans",
+    "hook": "AI agents are everywhere, but instead of replacing jobs, they're creating new roles and more work for PMs and designers.",
+    "format": "opinion",
+    "partner_takeaway": "Readers understand how AI automation is reshaping work structure by increasing the need for human roles, not reducing them.",
+    "story_ref": null,
+    "source_refs": [
+      "5018c889fb44"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "This trend read challenges common assumptions and is backed by a high-relevance signal. The audience needs to understand the real impact of AI on job roles, making this a timely and insightful post."
+  },
+  {
+    "track": "B",
+    "title": "Open Source AI: Bubble or Opportunity?",
+    "hook": "The open-source AI landscape is evolving fast, but the real bubble is in API-based LLMs—not where most people expect.",
+    "format": "short",
+    "partner_takeaway": "Readers learn why the current hype around API-based LLMs is unsustainable and where real innovation is happening in open-source AI.",
+    "story_ref": null,
+    "source_refs": [
+      "8f727812b249"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "This idea provides a sharp market read, helping the audience separate hype from substance in the AI industry. It's concise and actionable, fitting the track's demand for real signals."
+  },
+  {
+    "track": "C",
+    "title": "Shipping X: What I Learned About AI in Production",
+    "hook": "I thought deploying X would be simple, but integrating AI forced me to rethink everything from workflows to testing.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn practical lessons from deploying an AI-powered feature, including workflow changes and testing strategies.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "This idea leverages a personal shipping story to deliver concrete lessons. It's timely for audiences interested in real-world AI deployment and matches the 'building in public' track."
+  }
+]
