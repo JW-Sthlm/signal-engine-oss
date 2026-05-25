@@ -1,0 +1,42 @@
+[
+  {
+    "id": "5018c889fb44",
+    "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+    "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he&#8217;s wildly bullish on PMs and designers",
+    "published": "2026-05-24T12:31:49+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/197415169/96dea3a0bf7a7a85ea6cbce55365b5c8.mp3",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a clear practitioner perspective on AI's impact on work roles and human collaboration, offering insight and trend read valuable to product managers and designers.",
+    "topic_tags": [
+      "AI impact",
+      "product management",
+      "design"
+    ],
+    "partner_takeaway": "AI automation increases the need for human roles like product managers and designers, emphasizing collaboration rather than replacement.",
+    "partner_summary": "This article explores the paradox of AI automation increasing human work, focusing on tools like Codex and Claude Code and the end of the CLI era. It matters because it challenges common assumptions about AI replacing jobs and highlights the growing importance of PMs and designers in AI-driven workflows. Readers should reconsider how they integrate AI in their teams and prepare for evolving collaboration models between humans and AI agents.",
+    "promo_only": false
+  },
+  {
+    "id": "ab3442915a19",
+    "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 186",
+    "published": "2026-05-23T20:33:09+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential as it covers multiple AI-related topics but lacks a clear, deep angle or unique insight without further curation.",
+    "topic_tags": [
+      "AI tools",
+      "career advice",
+      "QA relevance"
+    ],
+    "partner_takeaway": "AI tools and community advice can guide cold outreach strategies, PM career paths, and QA's evolving role in 2026.",
+    "partner_summary": "This community wisdom roundup shares advice on AI cold outreach apps, PM career guidance for college students, AI's role in design, and QA relevance in 2026. It matters because it aggregates diverse practitioner perspectives and practical tips relevant to professionals navigating AI's impact. Readers should explore these insights to inform their own AI tool choices and career development strategies.",
+    "promo_only": false
+  }
+]
