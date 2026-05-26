@@ -1,0 +1,100 @@
+[
+  {
+    "id": "aeb55b06159f",
+    "title": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-05-25T15:02:59+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant to AI usage but is somewhat generic and lacks a clear unique angle for the writer's audience without deeper personal insights.",
+    "topic_tags": [
+      "AI tools",
+      "practitioner perspective"
+    ],
+    "partner_takeaway": "The reader learns practical ways an engineer uses Claude Cowork for tasks like 3D walkthroughs and promise tracking, illustrating AI's application in real work scenarios.",
+    "partner_summary": "This episode features Felix Rieseberg from Anthropic sharing how he uses Claude Cowork for building 3D house walkthroughs, tracking promises, and creating hardware tools. It matters because it provides concrete examples of AI tools enhancing productivity in engineering and product contexts. Readers should consider how similar AI applications could optimize their workflows or product development processes.",
+    "promo_only": false
+  },
+  {
+    "id": "15d60b1ac26d",
+    "title": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
+    "url": "https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware &#8220;buddy&#8221;",
+    "published": "2026-05-25T12:03:53+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198592030/8ab6db11433b2f439957e99c386eb650.mp3",
+    "relevance_score": 7,
+    "score_reason": "Strong practitioner perspective with concrete examples of AI use cases, offering tactical insights valuable to the audience.",
+    "topic_tags": [
+      "AI tools",
+      "tactical tips",
+      "productivity"
+    ],
+    "partner_takeaway": "Readers learn specific, actionable ways Claude AI is used to automate complex tasks like 3D modeling and promise tracking, showing AI's practical impact on workflows.",
+    "partner_summary": "Felix Rieseberg from Anthropic demonstrates how Claude AI helps automate 3D house walkthrough creation, promise tracking, and hardware integration. This is relevant because it shows real-world AI applications that can inspire similar productivity improvements. The audience should explore how AI can be integrated into their own projects to automate complex or repetitive tasks.",
+    "promo_only": false
+  },
+  {
+    "id": "beb71e5c52a2",
+    "title": "Why AI Isn’t Killing SaaS Yet",
+    "url": "https://a16z.simplecast.com/episodes/why-ai-isnt-killing-saas-yet-FHixHn5O",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Originally aired on MTS segment, Monetary Matters, Jack Farley and Max Wiethe speak with Ara Kharazian, Lead Economist at Ramp, about what real business spending data says about AI adoption, why the “SaaSpocalypse” narrative is overblown, and how companies are actually buying and deploying AI tools. They also discuss Anthropic overtaking OpenAI in Ramp’s AI Index, token-based pricing, AI productivity gains, and why many legacy software firms may be more resilient than people expect.",
+    "published": "2026-05-25T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/4d27f71b-0d5c-4dc2-9cdc-ce3d422a600e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=4d27f71b-0d5c-4dc2-9cdc-ce3d422a600e&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "Provides a strong trend read and insight on AI adoption in SaaS with data-backed perspectives, highly relevant to business and product leaders.",
+    "topic_tags": [
+      "AI adoption",
+      "SaaS",
+      "trend read"
+    ],
+    "partner_takeaway": "The reader gains insight into why AI has not disrupted SaaS yet, backed by real business spending data and market dynamics, challenging common narratives.",
+    "partner_summary": "This podcast discusses why AI has not yet caused a 'SaaSpocalypse,' using real business spending data to analyze AI adoption in SaaS companies. It matters because it challenges overhyped fears and provides a grounded view of AI's current business impact. Leaders should use this insight to make informed decisions about AI investments and adoption strategies in their SaaS products.",
+    "promo_only": false
+  },
+  {
+    "id": "4b80da12a8c8",
+    "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+    "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+    "published": "2026-05-25T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "Primarily a product partnership announcement with no deeper insight or tactical content for the audience.",
+    "topic_tags": [
+      "partnership",
+      "news"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced a strategic content partnership with Grupo Folha and Grupo UOL to integrate trusted Brazilian journalism into ChatGPT. While this expands access to news with attribution, it is mainly a product and partnership announcement. The audience should watch how AI companies are collaborating with media but this item offers limited tactical or strategic insight.",
+    "promo_only": true
+  },
+  {
+    "id": "5018c889fb44",
+    "title": "The AI paradox: More automation, more humans, more work | Dan Shipper",
+    "url": "https://www.lennysnewsletter.com/p/the-ai-paradox-dan-shipper",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he&#8217;s wildly bullish on PMs and designers",
+    "published": "2026-05-24T12:31:49+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/197415169/96dea3a0bf7a7a85ea6cbce55365b5c8.mp3",
+    "relevance_score": 8,
+    "score_reason": "Offers a practitioner perspective with a strong opinion on AI's impact on work and roles, providing insight and warnings relevant to product and design professionals.",
+    "topic_tags": [
+      "AI impact",
+      "work trends",
+      "product management"
+    ],
+    "partner_takeaway": "Readers learn why AI automation paradoxically increases human involvement and work, emphasizing the evolving roles of PMs and designers in AI-driven workflows.",
+    "partner_summary": "Dan Shipper discusses the paradox where AI automation leads to more human work, highlighting that most work will happen inside AI-assisted tools and that human roles remain critical. This matters because it reframes how professionals should view AI's impact on jobs and workflows. The audience should consider how to adapt their roles and processes to thrive alongside AI augmentation.",
+    "promo_only": false
+  }
+]
