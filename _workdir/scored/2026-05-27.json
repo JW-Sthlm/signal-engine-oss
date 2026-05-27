@@ -1,0 +1,162 @@
+[
+  {
+    "id": "b1ddd14c2827",
+    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "it's funding news, but it's good news.",
+    "published": "2026-05-27T03:33:53+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant to AI infrastructure funding trends but mostly a funding update with limited tactical or insight value for the audience.",
+    "topic_tags": [
+      "AI infrastructure",
+      "funding",
+      "market trends"
+    ],
+    "partner_takeaway": "Recent funding rounds signal growing investor confidence in AI infrastructure startups, highlighting key players to watch in the space.",
+    "partner_summary": "Several AI infrastructure startups have reached decacorn status through recent funding rounds. This matters to product builders and business leaders tracking AI market evolution and investment flows. The audience should monitor these companies as potential partners or competitors shaping AI infrastructure availability and innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "5db81a37c039",
+    "title": "Choosing to Stay Human",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+    "published": "2026-05-26T19:56:01+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The piece offers a thoughtful perspective on human behavior in social media contexts, relevant for understanding digital communication trends and their impact.",
+    "topic_tags": [
+      "digital communication",
+      "social media",
+      "human behavior"
+    ],
+    "partner_takeaway": "Social media content is becoming increasingly homogenized, which challenges individuals and businesses to find authentic ways to stand out and engage meaningfully.",
+    "partner_summary": "Social media platforms are flooded with posts that look very similar, reducing originality and engagement. This trend affects how professionals and brands communicate and connect with audiences online. Readers should consider strategies to maintain authenticity and differentiate their messaging in crowded digital spaces.",
+    "promo_only": false
+  },
+  {
+    "id": "42bb02ccd110",
+    "title": "Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting",
+    "url": "https://a16z.simplecast.com/episodes/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting-9J5N0AFw",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee and Sophia Puccini speak with economist Robin Hanson about prediction markets, gambling, and why he believes speculative markets are one of the most powerful tools humans have for aggregating information and forecasting outcomes. The conversation begins with Minnesota’s recent law criminalizing prediction markets before expanding into the broader backlash surrounding platforms like Kalshi and Polymarket. Hanson explains his long-term vision for “decision markets,” where markets could help guide choices made by companies, governments, and even individuals. Along the way, they dis...",
+    "published": "2026-05-26T17:28:08+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/263b6030-a3fe-4ccf-a163-64dce9786b86/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=263b6030-a3fe-4ccf-a163-64dce9786b86&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The discussion on prediction markets offers a useful perspective on forecasting tools relevant to business decision-making, though it requires a clear angle to connect to the audience.",
+    "topic_tags": [
+      "forecasting",
+      "prediction markets",
+      "decision-making"
+    ],
+    "partner_takeaway": "Prediction markets are powerful tools for aggregating information and improving forecasting accuracy, but legal and regulatory challenges can impact their adoption.",
+    "partner_summary": "Economist Robin Hanson discusses the value of prediction markets for aggregating information and forecasting outcomes. This is important for business leaders interested in innovative decision-making tools and risk assessment. The audience should watch regulatory developments and consider how speculative markets might enhance their forecasting capabilities.",
+    "promo_only": false
+  },
+  {
+    "id": "5e07f0930923",
+    "title": "Essential books for product builders—part 1",
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "36 timeless books that&#8217;ll make you a better builder, leader, and person",
+    "published": "2026-05-26T15:25:52+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A curated list of essential books for product builders offers a practical resource, though it needs the writer’s personal take to maximize value.",
+    "topic_tags": [
+      "product management",
+      "learning resources",
+      "professional development"
+    ],
+    "partner_takeaway": "A curated selection of 36 books provides foundational knowledge and leadership insights valuable for product builders and managers.",
+    "partner_summary": "This list compiles 36 timeless books aimed at improving skills in product building, leadership, and personal growth. It matters to product professionals seeking to deepen their expertise and broaden their perspectives. Readers should explore these books to enhance their capabilities and leadership approach.",
+    "promo_only": false
+  },
+  {
+    "id": "7cf21162db9e",
+    "title": "Nvidia Earnings, The AI Stack, Nvidia’s New Reporting",
+    "url": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Nvidia is changing its reporting to delineate between hyperscaler sales — where Nvidia is fighting commoditization — and everyone else, where Nvidia runs the whole stack.",
+    "published": "2026-05-26T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The analysis of Nvidia’s earnings and new reporting structure offers deep insight into AI market segmentation and competitive dynamics, highly relevant for business and product strategists.",
+    "topic_tags": [
+      "AI market",
+      "business strategy",
+      "Nvidia"
+    ],
+    "partner_takeaway": "Nvidia’s new reporting distinguishes hyperscaler sales from other customers, revealing strategic moves to combat commoditization and control the AI stack.",
+    "partner_summary": "Nvidia has updated its earnings reporting to separate hyperscaler sales from other segments, highlighting different competitive pressures. This is crucial for understanding how Nvidia positions itself in the AI ecosystem and the broader market dynamics. The audience should analyze these shifts to anticipate changes in AI hardware and software supply chains.",
+    "promo_only": false
+  },
+  {
+    "id": "aeb55b06159f",
+    "title": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-05-25T15:02:59+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "This podcast episode is a general update with limited direct tactical or insight value without a clear unique angle or deeper analysis.",
+    "topic_tags": [
+      "AI usage",
+      "podcast",
+      "product insights"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This episode of How I AI features discussions on how an engineer uses Claude Cowork and recent Google I/O launches. While interesting, it lacks a clear unique perspective or actionable insight for product builders. The audience may listen for general awareness but should seek more detailed analysis elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "15d60b1ac26d",
+    "title": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
+    "url": "https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware &#8220;buddy&#8221;",
+    "published": "2026-05-25T12:03:53+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198592030/8ab6db11433b2f439957e99c386eb650.mp3",
+    "relevance_score": 8,
+    "score_reason": "A concrete example of how an engineer uses AI tools for practical product development offers strong tactical and tool insights for the audience.",
+    "topic_tags": [
+      "AI tools",
+      "product development",
+      "practical use cases"
+    ],
+    "partner_takeaway": "Using Claude AI, an engineer demonstrates practical applications like 3D walkthrough creation and automated promise tracking that product teams can emulate.",
+    "partner_summary": "Felix Rieseberg from Anthropic shows how he leverages Claude AI to build 3D house walkthroughs, track commitments, and create affordable hardware assistants. This is valuable for product builders looking for concrete AI applications to improve workflows. Readers should consider similar AI integrations to enhance their product development processes.",
+    "promo_only": false
+  },
+  {
+    "id": "beb71e5c52a2",
+    "title": "Why AI Isn’t Killing SaaS Yet",
+    "url": "https://a16z.simplecast.com/episodes/why-ai-isnt-killing-saas-yet-FHixHn5O",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Originally aired on MTS segment, Monetary Matters, Jack Farley and Max Wiethe speak with Ara Kharazian, Lead Economist at Ramp, about what real business spending data says about AI adoption, why the “SaaSpocalypse” narrative is overblown, and how companies are actually buying and deploying AI tools. They also discuss Anthropic overtaking OpenAI in Ramp’s AI Index, token-based pricing, AI productivity gains, and why many legacy software firms may be more resilient than people expect.",
+    "published": "2026-05-25T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/4d27f71b-0d5c-4dc2-9cdc-ce3d422a600e/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=4d27f71b-0d5c-4dc2-9cdc-ce3d422a600e&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on AI’s impact on SaaS with real business data challenges common narratives and offers strategic insight for SaaS leaders and product managers.",
+    "topic_tags": [
+      "AI adoption",
+      "SaaS",
+      "business strategy"
+    ],
+    "partner_takeaway": "Despite fears of disruption, AI adoption in SaaS is measured and strategic, with companies integrating AI tools thoughtfully rather than facing a 'SaaSpocalypse.'",
+    "partner_summary": "Experts discuss how real business spending data shows AI adoption in SaaS is growing but not causing widespread disruption. This insight helps SaaS leaders understand the realistic pace and nature of AI integration. The audience should focus on strategic AI deployment rather than fearing abrupt market upheaval.",
+    "promo_only": false
+  }
+]
