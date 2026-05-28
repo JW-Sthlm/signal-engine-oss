@@ -1,0 +1,280 @@
+[
+  {
+    "id": "59b1b3edfbe7",
+    "title": "[AINews] Cognition raises $1B in $26B Series D",
+    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "coding is an uncapped TAM market",
+    "published": "2026-05-28T07:26:09+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Funding news with no clear tactical or insight angle for the audience.",
+    "topic_tags": [
+      "funding",
+      "AI market"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Cognition raised $1 billion in a $26 billion Series D funding round. While this signals strong investor interest in coding-related AI markets, it offers limited actionable insight for practitioners. Readers should monitor how such funding might influence AI tooling but no immediate tactical advice is available.",
+    "promo_only": true
+  },
+  {
+    "id": "8b171e9cf468",
+    "title": "🔬ESMFold2: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "url": "https://www.latent.space/p/esmfold2",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Datasets vs. inductive bias, world models, and programmable biology",
+    "published": "2026-05-27T17:46:16+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199487836/62822e9ea535435c81b16e4eb7bcdaa2.mp3",
+    "relevance_score": 7,
+    "score_reason": "Insightful discussion on protein folding AI models with potential to inform biotech and AI strategy.",
+    "topic_tags": [
+      "AI models",
+      "biotech",
+      "datasets"
+    ],
+    "partner_takeaway": "Understanding the trade-offs between datasets and inductive bias in AI can inform better approaches to programmable biology and protein modeling.",
+    "partner_summary": "The article discusses ESMFold2 and the concept of the Bitter Lesson in AI applied to protein folding, focusing on datasets versus inductive bias. This matters to readers interested in how AI advances impact biotech and protein engineering. The audience should watch how these AI principles shape future biological modeling and consider implications for their own AI strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "4990e276bf85",
+    "title": "The Codex feature that works while you sleep",
+    "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;I break down the /goal feature in Codex, including a live demo, three real use cases, and the 6-part framework for writing goals that actually run",
+    "published": "2026-05-27T12:03:47+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199378292/6d559cc4ae4d8087c535d8c0eb22c407.mp3",
+    "relevance_score": 9,
+    "score_reason": "Detailed breakdown of a Codex feature with practical use cases and a framework for goal-setting.",
+    "topic_tags": [
+      "AI tooling",
+      "productivity",
+      "Codex"
+    ],
+    "partner_takeaway": "Using the /goal feature in Codex with a structured framework can automate tasks effectively and improve productivity.",
+    "partner_summary": "This post breaks down the /goal feature in Codex, including a live demo and three real use cases, supported by a six-part framework for writing executable goals. It is highly relevant for practitioners looking to leverage AI tools to automate workflows. Readers should experiment with this feature and framework to enhance their automation capabilities.",
+    "promo_only": false
+  },
+  {
+    "id": "19ea87f6b055",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "published": "2026-05-27T11:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Shows how AI integration in enterprise engineering can accelerate development and defect remediation.",
+    "topic_tags": [
+      "enterprise AI",
+      "automation",
+      "Codex"
+    ],
+    "partner_takeaway": "Integrating Codex into enterprise engineering workflows can scale AI-native development and automate defect remediation effectively.",
+    "partner_summary": "Cisco and OpenAI are collaborating to redefine enterprise engineering by embedding Codex to scale AI-native development and automate defect remediation. This is important for enterprise engineers and managers looking to accelerate AI adoption and improve operational efficiency. The audience should explore how AI can be integrated into their engineering processes to drive similar benefits.",
+    "promo_only": false
+  },
+  {
+    "id": "a4048ac7e244",
+    "title": "The SpaceX IPO and Data Centers in Space",
+    "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "There isn't a financial model that justifies the SpaceX IPO, but data centers in space are plausible, and that might be enough.",
+    "published": "2026-05-27T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Interesting trend read on space data centers but limited direct tactical or practitioner insight.",
+    "topic_tags": [
+      "space tech",
+      "data centers",
+      "market trends"
+    ],
+    "partner_takeaway": "Data centers in space represent a plausible emerging trend that could reshape infrastructure but lack clear financial justification yet.",
+    "partner_summary": "The article analyzes the SpaceX IPO and the emerging concept of data centers in space, noting the lack of a clear financial model but potential technological plausibility. This matters to readers tracking infrastructure innovation and future tech markets. The audience should watch this space for evolving business models and technological breakthroughs.",
+    "promo_only": false
+  },
+  {
+    "id": "a372296889ad",
+    "title": "Marc Rowan on Private Markets, Software Repricing, and Capital Allocation",
+    "url": "https://a16z.simplecast.com/episodes/marc-rowan-on-private-markets-software-repricing-and-capital-allocation-5Tq0zQ_D",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "In 1990, Marc Rowan walked out of Drexel with his belongings in a cardboard box. Within a year, Apollo was managing $6 billion. David Haber speaks with Marc Rowan, Cofounder, CEO, and Chair of Apollo Global Management, about building Apollo into one of the world’s largest alternative asset managers and how private capital is reshaping the global economy. The conversation covers the rise of private credit, and why Rowan believes private markets are becoming increasingly central to financing the real economy. They also discuss AI, data centers, robotics, and the growing intersection between v...",
+    "published": "2026-05-27T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/67a33bdb-c390-41fd-82a6-c5525f62bf4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=67a33bdb-c390-41fd-82a6-c5525f62bf4f&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Provides practitioner perspective on private markets and capital allocation with lessons from a leading CEO.",
+    "topic_tags": [
+      "private markets",
+      "capital allocation",
+      "business strategy"
+    ],
+    "partner_takeaway": "Understanding private capital dynamics and software repricing strategies can inform better capital allocation decisions in tech businesses.",
+    "partner_summary": "Marc Rowan discusses his journey building Apollo Global Management and how private capital is reshaping the global economy, touching on software repricing and capital allocation. This is valuable for readers interested in finance and strategic business growth. The audience should consider how private market trends affect their own capital strategies and software pricing models.",
+    "promo_only": false
+  },
+  {
+    "id": "0363b0a40cb0",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+    "published": "2026-05-27T07:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Concrete example of automating tax workflows with Codex, offering tactical insights.",
+    "topic_tags": [
+      "automation",
+      "Codex",
+      "workflow optimization"
+    ],
+    "partner_takeaway": "Building self-improving tax agents with Codex can automate filings, improve accuracy, and accelerate tax workflows.",
+    "partner_summary": "OpenAI, Thrive, and Crete collaborated to build a self-improving tax agent using Codex that automates filings and improves workflow accuracy. This is relevant for professionals seeking to leverage AI for complex, regulated workflows. Readers should explore similar automation opportunities in their domains to boost efficiency.",
+    "promo_only": false
+  },
+  {
+    "id": "b1ddd14c2827",
+    "title": "[AINews] New AI Infra decacorns: Fireworks, Baseten (with OpenRouter on the way)",
+    "url": "https://www.latent.space/p/ainews-new-ai-infra-decacorns-fireworks",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "it's funding news, but it's good news.",
+    "published": "2026-05-27T03:33:53+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Funding announcement with minimal insight or tactical value for the audience.",
+    "topic_tags": [
+      "funding",
+      "AI infrastructure"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "New AI infrastructure companies like Fireworks and Baseten have reached decacorn status through recent funding rounds. While this indicates growth in AI infrastructure, it lacks actionable insights for practitioners. Readers should note the trend but no immediate tactical advice is provided.",
+    "promo_only": true
+  },
+  {
+    "id": "460af40000bb",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency",
+    "published": "2026-05-27T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Important topic on election safeguards but presented at a high level without deep tactical detail.",
+    "topic_tags": [
+      "AI transparency",
+      "election security",
+      "cybersecurity"
+    ],
+    "partner_takeaway": "AI transparency and cybersecurity measures are critical to safeguarding elections in 2026, requiring ongoing vigilance.",
+    "partner_summary": "Ahead of global elections, efforts are underway to provide accurate information, support cyber defenders, and increase AI transparency. This matters to readers concerned with the intersection of AI and democratic processes. The audience should stay informed about election security developments and consider implications for their own organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "9581189f86b7",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "published": "2026-05-27T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Shows how GPT-5.5 is used to coordinate coding agents across multiple environments, relevant for developers and managers.",
+    "topic_tags": [
+      "AI tooling",
+      "open source",
+      "developer workflows"
+    ],
+    "partner_takeaway": "Using GPT-5.5 to coordinate coding agents can streamline development workflows across local, cloud, and open-source environments.",
+    "partner_summary": "Warp is leveraging GPT-5.5 and OpenAI models to coordinate coding agents across diverse development workflows including local, cloud, and open source. This is relevant for teams looking to enhance collaboration and automation in software development. Readers should explore integrating AI agents to improve their development processes.",
+    "promo_only": false
+  },
+  {
+    "id": "5db81a37c039",
+    "title": "Choosing to Stay Human",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+    "published": "2026-05-26T19:56:01+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Reflective piece on social media homogenization with some insight but limited tactical application.",
+    "topic_tags": [
+      "social media",
+      "human behavior",
+      "digital culture"
+    ],
+    "partner_takeaway": "Social media content is becoming increasingly homogenized, prompting a need to consciously choose authentic human engagement.",
+    "partner_summary": "The article observes that social media posts are starting to look very similar, raising concerns about authenticity and human connection. This matters to readers interested in digital culture and communication trends. The audience should reflect on how to maintain genuine interactions in an increasingly automated content environment.",
+    "promo_only": false
+  },
+  {
+    "id": "42bb02ccd110",
+    "title": "Robin Hanson on Prediction Markets, Gambling, and the Future of Forecasting",
+    "url": "https://a16z.simplecast.com/episodes/robin-hanson-on-prediction-markets-gambling-and-the-future-of-forecasting-9J5N0AFw",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee and Sophia Puccini speak with economist Robin Hanson about prediction markets, gambling, and why he believes speculative markets are one of the most powerful tools humans have for aggregating information and forecasting outcomes. The conversation begins with Minnesota’s recent law criminalizing prediction markets before expanding into the broader backlash surrounding platforms like Kalshi and Polymarket. Hanson explains his long-term vision for “decision markets,” where markets could help guide choices made by companies, governments, and even individuals. Along the way, they dis...",
+    "published": "2026-05-26T17:28:08+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/263b6030-a3fe-4ccf-a163-64dce9786b86/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=263b6030-a3fe-4ccf-a163-64dce9786b86&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Explores prediction markets as powerful forecasting tools with practitioner insights.",
+    "topic_tags": [
+      "prediction markets",
+      "forecasting",
+      "economics"
+    ],
+    "partner_takeaway": "Prediction markets are among the most effective tools for aggregating information and forecasting outcomes despite regulatory challenges.",
+    "partner_summary": "Economist Robin Hanson discusses the power of prediction markets for information aggregation and forecasting, including regulatory and societal challenges. This is valuable for readers interested in alternative forecasting methods and market dynamics. The audience should consider how prediction markets might be applied or influence their decision-making processes.",
+    "promo_only": false
+  },
+  {
+    "id": "5e07f0930923",
+    "title": "Essential books for product builders—part 1",
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "36 timeless books that&#8217;ll make you a better builder, leader, and person",
+    "published": "2026-05-26T15:25:52+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant and useful for product builders with a clear takeaway, though it is somewhat generic and requires the writer to add personal perspective.",
+    "topic_tags": [
+      "product management",
+      "leadership",
+      "learning resources"
+    ],
+    "partner_takeaway": "A curated list of essential books can accelerate your growth as a product builder and leader by providing timeless insights and frameworks.",
+    "partner_summary": "This post shares a list of 36 essential books for product builders that cover leadership, building, and personal growth. It matters because curated reading lists help product professionals focus their learning on proven, impactful resources. Readers should consider integrating these books into their development plans to enhance their skills and perspectives.",
+    "promo_only": false
+  },
+  {
+    "id": "7cf21162db9e",
+    "title": "Nvidia Earnings, The AI Stack, Nvidia’s New Reporting",
+    "url": "https://stratechery.com/2026/nvidia-earnings-the-ai-stack-nvidias-new-reporting/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Nvidia is changing its reporting to delineate between hyperscaler sales — where Nvidia is fighting commoditization — and everyone else, where Nvidia runs the whole stack.",
+    "published": "2026-05-26T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The analysis of Nvidia's new reporting and AI stack strategy offers a strong practitioner insight and trend read relevant to product and business leaders in tech.",
+    "topic_tags": [
+      "AI strategy",
+      "business model",
+      "market trends"
+    ],
+    "partner_takeaway": "Nvidia’s new financial reporting reveals how it differentiates its business between commoditized hyperscaler sales and integrated stack sales, highlighting strategic market positioning in AI.",
+    "partner_summary": "Nvidia has updated its earnings reporting to separate hyperscaler sales from other customers, reflecting different competitive dynamics. This matters because it shows how Nvidia is managing commoditization risks while maintaining control over the AI stack for most clients. Product and business leaders should watch how this segmentation influences AI market strategies and vendor relationships.",
+    "promo_only": false
+  }
+]
