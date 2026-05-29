@@ -1,0 +1,279 @@
+[
+  {
+    "id": "9fd1dd975185",
+    "title": "[AINews] Anthropic raises $965B Series H, releases Opus 4.8 and Dynamic Workflows/ultracode",
+    "url": "https://www.latent.space/p/ainews-anthropic-raises-965b-series",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Total Anthropic victory!",
+    "published": "2026-05-29T02:07:24+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The item is mostly a funding announcement with limited educational content or tactical insight for the audience.",
+    "topic_tags": [
+      "AI funding",
+      "product update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Anthropic raised a $965 billion Series H round and released Opus 4.8 along with Dynamic Workflows/ultracode. While this signals strong market confidence, the announcement lacks concrete insights or tactical lessons for practitioners. Readers should watch for deeper analysis or case studies on how these updates impact AI workflows.",
+    "promo_only": true
+  },
+  {
+    "id": "e3a9c5163407",
+    "title": "Claude Opus 4.8 is here. Is it as good as they say?",
+    "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;My first impressions of Opus 4.8&#8212;where it excels and where it falls short",
+    "published": "2026-05-28T21:35:07+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199655562/cb791cd4d6fc3c7f98563edcc3339c2e.mp3",
+    "relevance_score": 7,
+    "score_reason": "Provides a practitioner perspective on a new AI model release with concrete strengths and weaknesses, offering useful insight.",
+    "topic_tags": [
+      "AI models",
+      "product review"
+    ],
+    "partner_takeaway": "Readers learn where Claude Opus 4.8 excels and where it falls short, helping them evaluate its fit for their needs.",
+    "partner_summary": "Claude Opus 4.8 has been released and this piece offers a first impression review highlighting its strengths and weaknesses. This matters to AI practitioners and decision-makers evaluating new generative AI tools for their workflows. Readers should consider these insights when deciding whether to adopt or test this model in their own environments.",
+    "promo_only": false
+  },
+  {
+    "id": "36ff56442e50",
+    "title": "The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+    "url": "https://www.latent.space/p/cognition",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "80% Devin Commits, Spec-to-PR Workflows, Full VMs, Agent Memory, and PMs Shipping Code",
+    "published": "2026-05-28T18:41:24+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199607874/189969d5629a5099ebb2c7a0709ff18d.mp3",
+    "relevance_score": 9,
+    "score_reason": "Deep dive into asynchronous AI agents with concrete examples and workflow improvements, highly relevant and insightful.",
+    "topic_tags": [
+      "AI agents",
+      "workflow automation",
+      "software development"
+    ],
+    "partner_takeaway": "Readers learn how async AI agents can improve developer workflows by automating tasks like spec-to-PR and managing agent memory.",
+    "partner_summary": "This article explores the rise of asynchronous AI agents and their impact on software development workflows, including spec-to-PR automation and agent memory. It is highly relevant for practitioners looking to leverage AI to accelerate coding and project management. Readers should explore how async agents can be integrated into their teams to boost productivity and reduce manual overhead.",
+    "promo_only": false
+  },
+  {
+    "id": "451fcd1f85ac",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+    "published": "2026-05-28T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Shows a practical example of AI-driven organizational transformation with measurable impact on software delivery.",
+    "topic_tags": [
+      "AI adoption",
+      "software delivery",
+      "organizational change"
+    ],
+    "partner_takeaway": "Readers learn how Endava uses Codex to accelerate software delivery and drastically reduce requirements analysis time.",
+    "partner_summary": "Endava has implemented Codex to build an agentic organization that accelerates software delivery and cuts requirements analysis from weeks to hours. This is important for leaders aiming to leverage AI for operational efficiency and faster time-to-market. Readers should consider how agentic AI can be applied in their own organizations to streamline development processes.",
+    "promo_only": false
+  },
+  {
+    "id": "1e45deb024d4",
+    "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
+    "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-models-and-ads-and-ais-upside-for-humanity/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An Interview with Eric Seufert about building models for generative AI, why Meta's foundational models are so important, and why understanding advertising leads to optimism about humanity's future.",
+    "published": "2026-05-28T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Offers a strategic perspective on AI models and advertising with a positive outlook, useful for understanding AI’s broader impact.",
+    "topic_tags": [
+      "AI strategy",
+      "advertising",
+      "industry outlook"
+    ],
+    "partner_takeaway": "Readers gain insight into why foundational AI models and advertising expertise contribute to optimism about AI’s impact on humanity.",
+    "partner_summary": "This interview with Eric Seufert discusses the importance of foundational AI models and the role of advertising in shaping AI’s future. It provides a strategic perspective valuable for professionals interested in AI’s societal and business implications. Readers should reflect on how advertising models can inform AI development and foster positive outcomes.",
+    "promo_only": false
+  },
+  {
+    "id": "bf233b304ce9",
+    "title": "Stablecoins, AI Agents, and The Future of Global Banking",
+    "url": "https://a16z.simplecast.com/episodes/stablecoins-ai-agents-and-the-future-of-global-banking-bZkqdwxO",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Angela Strange speaks with Dileep Thazhmon, founder and CEO of Jeeves, about building a global financial operating system for enterprises across Latin America using stablecoins and AI. The conversation covers the challenges of building localized financial infrastructure across 25 countries, from regulation and payments to underwriting and compliance. They also discuss why stablecoin adoption is accelerating in Latin America, and how AI is helping Jeeves scale billions in payment volume while automating underwriting, customer support, reconciliation, and KYB workflows.",
+    "published": "2026-05-28T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/515fb10a-7c5e-40bd-8f9e-a4011de86c40/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=515fb10a-7c5e-40bd-8f9e-a4011de86c40&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Explores the intersection of stablecoins, AI agents, and global banking with concrete challenges and solutions, offering trend and tactical insights.",
+    "topic_tags": [
+      "fintech",
+      "AI agents",
+      "stablecoins"
+    ],
+    "partner_takeaway": "Readers learn about the challenges and innovations in building AI-powered financial infrastructure across multiple countries using stablecoins.",
+    "partner_summary": "This podcast episode covers how stablecoins and AI agents are shaping the future of global banking, focusing on enterprise financial systems in Latin America. It highlights regulatory, payment, and compliance challenges alongside innovative solutions. Readers should watch this space for emerging fintech models that combine AI and blockchain to address complex regional needs.",
+    "promo_only": false
+  },
+  {
+    "id": "59b1b3edfbe7",
+    "title": "[AINews] Cognition raises $1B in $26B Series D",
+    "url": "https://www.latent.space/p/ainews-cognition-raises-1b-in-26b",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "coding is an uncapped TAM market",
+    "published": "2026-05-28T07:26:09+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Primarily a funding announcement with limited actionable or educational content for the audience.",
+    "topic_tags": [
+      "AI funding",
+      "coding market"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Cognition raised $1 billion in a $26 billion Series D funding round, signaling strong investor interest in coding-related AI. While this underscores the market potential, the announcement lacks detailed insights or tactical advice. Readers should look for follow-up content that explains how this funding will translate into practical AI tools or workflows.",
+    "promo_only": true
+  },
+  {
+    "id": "014d667490ca",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "published": "2026-05-28T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Shows a real-world example of AI adoption in finance with practical implications for workflow and service innovation.",
+    "topic_tags": [
+      "AI adoption",
+      "finance",
+      "workflow improvement"
+    ],
+    "partner_takeaway": "Readers learn how MUFG uses ChatGPT Enterprise to become AI-native, improving workflows and scaling AI-powered financial services.",
+    "partner_summary": "MUFG is leveraging ChatGPT Enterprise to transform into an AI-native organization, enhancing workflows and delivering new AI-driven financial services. This example is relevant for financial professionals exploring AI integration at scale. Readers should consider how enterprise AI tools can be adopted to improve operational efficiency and customer offerings.",
+    "promo_only": false
+  },
+  {
+    "id": "69991c5c02b3",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations.",
+    "published": "2026-05-28T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Covers AI governance and regulatory alignment but lacks tactical depth or practitioner perspective for immediate application.",
+    "topic_tags": [
+      "AI governance",
+      "regulation",
+      "AI safety"
+    ],
+    "partner_takeaway": "Readers understand how OpenAI’s Frontier Governance Framework aligns AI safety and risk practices with emerging regulations.",
+    "partner_summary": "OpenAI has published its Frontier Governance Framework detailing how it approaches AI safety, security, and risk in line with EU and California regulations. This is important for professionals tracking AI governance trends and compliance. Readers should monitor evolving regulatory frameworks to ensure their AI initiatives remain compliant and responsible.",
+    "promo_only": false
+  },
+  {
+    "id": "4f84c986a34c",
+    "title": "🔬ESM: The Bitter Lesson is Coming for Proteins - Alex Rives, BioHub",
+    "url": "https://www.latent.space/p/esmfold2",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Biohub&#8217;s Protein World Model: ESMC-6B, ESMFold2, 6.8B proteins, 1.1B structures, antibody design, SAEs, & the potential for programmable biology",
+    "published": "2026-05-27T17:46:16+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199487836/62822e9ea535435c81b16e4eb7bcdaa2.mp3",
+    "relevance_score": 8,
+    "score_reason": "Provides a detailed look at protein modeling AI with concrete examples and implications for programmable biology.",
+    "topic_tags": [
+      "AI in biotech",
+      "protein modeling",
+      "programmable biology"
+    ],
+    "partner_takeaway": "Readers learn about BioHub’s protein world model advancements and their potential to revolutionize antibody design and programmable biology.",
+    "partner_summary": "BioHub’s ESMFold2 and related protein world models have processed billions of proteins and structures, advancing antibody design and programmable biology. This is significant for biotech professionals interested in AI-driven biological research and innovation. Readers should explore how these models can accelerate drug discovery and synthetic biology applications.",
+    "promo_only": false
+  },
+  {
+    "id": "4990e276bf85",
+    "title": "The Codex feature that works while you sleep",
+    "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;I break down the /goal feature in Codex, including a live demo, three real use cases, and the 6-part framework for writing goals that actually run",
+    "published": "2026-05-27T12:03:47+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199378292/6d559cc4ae4d8087c535d8c0eb22c407.mp3",
+    "relevance_score": 8,
+    "score_reason": "Breaks down a practical Codex feature with real use cases and a framework, offering clear tactical value.",
+    "topic_tags": [
+      "AI tools",
+      "Codex",
+      "workflow automation"
+    ],
+    "partner_takeaway": "Readers learn how to use Codex’s /goal feature with a six-part framework to automate tasks effectively, including real-world examples.",
+    "partner_summary": "This article explains the /goal feature in Codex, demonstrating its use through a live demo, three use cases, and a six-part framework for writing executable goals. It offers practical guidance for AI practitioners looking to automate workflows. Readers should apply this framework to improve task automation and productivity using Codex.",
+    "promo_only": false
+  },
+  {
+    "id": "19ea87f6b055",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+    "published": "2026-05-27T11:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Describes how Cisco and OpenAI collaborate to scale AI-native development and automate defect remediation, providing useful practitioner insights.",
+    "topic_tags": [
+      "enterprise AI",
+      "software engineering",
+      "automation"
+    ],
+    "partner_takeaway": "Readers learn how Cisco uses Codex to scale AI-native development and automate defect remediation in enterprise engineering.",
+    "partner_summary": "Cisco and OpenAI are partnering to redefine enterprise engineering by leveraging Codex to accelerate AI-native development and automate defect remediation. This is relevant for engineering leaders seeking to integrate AI into large-scale software operations. Readers should explore similar AI-driven automation opportunities to enhance engineering efficiency.",
+    "promo_only": false
+  },
+  {
+    "id": "a4048ac7e244",
+    "title": "The SpaceX IPO and Data Centers in Space",
+    "url": "https://stratechery.com/2026/the-spacex-ipo-and-data-centers-in-space/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "There isn't a financial model that justifies the SpaceX IPO, but data centers in space are plausible, and that might be enough.",
+    "published": "2026-05-27T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant and offers a unique perspective on the plausibility of data centers in space, providing insight and trend read, though it requires a personal angle to maximize impact.",
+    "topic_tags": [
+      "technology trends",
+      "infrastructure",
+      "innovation"
+    ],
+    "partner_takeaway": "Data centers in space are a plausible future infrastructure innovation that could reshape how we think about computing and connectivity.",
+    "partner_summary": "This article discusses the financial challenges of a SpaceX IPO but highlights the potential for data centers in space. For business and technology leaders, this signals a new frontier in infrastructure that could disrupt traditional data center models. The audience should watch developments in space-based infrastructure as a potential game changer for tech strategy and investment.",
+    "promo_only": false
+  },
+  {
+    "id": "a372296889ad",
+    "title": "Marc Rowan on Private Markets, Software Repricing, and Capital Allocation",
+    "url": "https://a16z.simplecast.com/episodes/marc-rowan-on-private-markets-software-repricing-and-capital-allocation-5Tq0zQ_D",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "In 1990, Marc Rowan walked out of Drexel with his belongings in a cardboard box. Within a year, Apollo was managing $6 billion. David Haber speaks with Marc Rowan, Cofounder, CEO, and Chair of Apollo Global Management, about building Apollo into one of the world’s largest alternative asset managers and how private capital is reshaping the global economy. The conversation covers the rise of private credit, and why Rowan believes private markets are becoming increasingly central to financing the real economy. They also discuss AI, data centers, robotics, and the growing intersection between v...",
+    "published": "2026-05-27T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/67a33bdb-c390-41fd-82a6-c5525f62bf4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=67a33bdb-c390-41fd-82a6-c5525f62bf4f&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The conversation offers deep practitioner insights into private markets and capital allocation, relevant to business leaders and investors, with clear tactical and strategic takeaways.",
+    "topic_tags": [
+      "private markets",
+      "capital allocation",
+      "investment strategy"
+    ],
+    "partner_takeaway": "Understanding how private capital reshapes the global economy can inform better investment and capital allocation decisions.",
+    "partner_summary": "Marc Rowan shares his journey building Apollo Global Management and discusses the evolving role of private markets in the global economy. This is important for professionals involved in finance and business strategy who need to grasp how private capital influences market dynamics. The audience should consider how private market trends affect their investment approaches and strategic planning.",
+    "promo_only": false
+  }
+]
