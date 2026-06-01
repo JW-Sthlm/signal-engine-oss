@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b1839df098a5",
+    "title": "A rational conversation on where AI is actually going | Benedict Evans",
+    "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue",
+    "published": "2026-05-31T12:31:43+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591907/72f36bfdec88e660720309a3d730fec7.mp3",
+    "relevance_score": 9,
+    "score_reason": "The topic is highly relevant to the writer's audience interested in AI's business impact and offers a clear perspective on AI's real economic and job market effects.",
+    "topic_tags": [
+      "AI trends",
+      "business impact",
+      "job market"
+    ],
+    "partner_takeaway": "AI's impact on jobs and value creation is often misunderstood, and viewing AI as a 1997 internet moment helps clarify where real opportunities and risks lie.",
+    "partner_summary": "Benedict Evans discusses why AI today resembles the internet in 1997, highlighting common misconceptions about job loss and value distribution. This matters to business leaders and strategists who need a grounded perspective on AI's actual economic effects. Readers should reconsider their assumptions about AI's impact and focus on where real value and disruption are likely to occur.",
+    "promo_only": false
+  },
+  {
+    "id": "f249db2892b4",
+    "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 187",
+    "published": "2026-05-30T16:43:36+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The item covers multiple practical topics relevant to organizational design and AI use in interviews but is a broad community wisdom format requiring the writer to find a unique angle.",
+    "topic_tags": [
+      "organizational design",
+      "AI in hiring",
+      "product management"
+    ],
+    "partner_takeaway": "Practical insights from community experiences highlight how to detect AI use in interviews, manage knowledge concentration in organizations, and decide on product renaming.",
+    "partner_summary": "This community wisdom edition shares diverse practitioner insights on spotting AI use during interviews, handling organizational knowledge risks, and product naming decisions. These topics are important for managers and product leaders navigating AI integration and organizational challenges. The audience should consider these shared experiences as tactical guidance for improving hiring, knowledge management, and branding strategies.",
+    "promo_only": false
+  }
+]
