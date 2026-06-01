@@ -1,0 +1,63 @@
+[
+  {
+    "track": "A",
+    "title": "How I Cut Requirements Analysis from Weeks to Hours with AI Agents",
+    "hook": "The first time I used Codex agents, our requirements analysis dropped from weeks to just hours.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn a step-by-step workflow to leverage AI agents for drastically faster requirements analysis in software projects.",
+    "story_ref": "story-001",
+    "source_refs": [
+      "451fcd1f85ac"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "Combining a personal shipping story with a high-relevance industry case lets readers see exactly how to implement AI agents. This is timely as many are searching for practical ways to speed up delivery and cut bottlenecks."
+  },
+  {
+    "track": "B",
+    "title": "Why AI’s ‘1997 Internet Moment’ Matters for Your Job",
+    "hook": "AI’s current phase feels eerily similar to the internet in 1997: everyone is guessing, but few see where value will concentrate.",
+    "format": "opinion",
+    "partner_takeaway": "Readers gain a nuanced perspective on how AI’s misunderstood job impacts and emerging value areas mirror historic tech shifts, helping them anticipate real changes.",
+    "story_ref": "story-002",
+    "source_refs": [
+      "b1839df098a5"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "This idea links the writer’s personal shift in perspective to a widely discussed trend, giving readers actionable context for market changes. It’s relevant as AI headlines are confusing and readers need clarity on what actually matters."
+  },
+  {
+    "track": "A",
+    "title": "A Pattern for Using AI Tools That Actually Works",
+    "hook": "Every time I fall back on this workflow, I get more done—AI isn’t magic, but it’s a multiplier if you use it right.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn a proven pattern for integrating AI tools into their daily work, including when it works best and common pitfalls.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "This is a tactical, immediately useful post for the Practical AI track. It draws from lived experience, so readers get a real-world workflow they can try this week."
+  },
+  {
+    "track": "B",
+    "title": "Why $1B Exits Are Dead—and What It Means for Builders",
+    "hook": "Venture capital is shifting: AI accelerates startup growth, but billion-dollar exits are getting rare.",
+    "format": "short",
+    "partner_takeaway": "Readers learn why AI changes exit dynamics in tech, making larger outcomes possible but traditional $1B exits less common.",
+    "story_ref": null,
+    "source_refs": [
+      "65767031744c"
+    ],
+    "image_code": "data-cards",
+    "reasoning": "This gives industry readers a sharp summary of a major trend, with a clear takeaway they can use to rethink their own scaling and investment strategies."
+  },
+  {
+    "track": "C",
+    "title": "Shipping X: What I Learned from My First Production Launch",
+    "hook": "I still remember the nerves and excitement the first time I shipped X to production—here’s what actually happened.",
+    "format": "case-study",
+    "partner_takeaway": "Readers see what really happens during a first production launch, including unexpected lessons and tactical advice for their own projects.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "This is a classic ‘building in public’ post, showing concrete lessons from a personal milestone. It’s valuable for readers who want real talk about shipping and learning."
+  }
+]
