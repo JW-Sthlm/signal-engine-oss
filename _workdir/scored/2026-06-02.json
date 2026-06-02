@@ -1,0 +1,201 @@
+[
+  {
+    "id": "1c85f5932462",
+    "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+    "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Jensen scores a huge win.",
+    "published": "2026-06-02T03:28:10+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The item is mostly a product announcement with no clear educational angle or practitioner insight for the audience.",
+    "topic_tags": [
+      "AI technology",
+      "product update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "NVIDIA announced new products: Cosmos 3, Nemotron 3 Ultra, and RTX Spark. While these are notable AI hardware developments, the announcement lacks a clear business or tactical perspective for practitioners. Readers should watch for deeper analyses or case studies that explain how these products impact AI workflows or strategy.",
+    "promo_only": true
+  },
+  {
+    "id": "28d958b94d45",
+    "title": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+    "published": "2026-06-01T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant and offers insight into AI policy and advocacy, but it requires a personal angle to avoid being generic.",
+    "topic_tags": [
+      "AI policy",
+      "regulation",
+      "AI safety"
+    ],
+    "partner_takeaway": "Understanding OpenAI's approach to AI policy highlights the importance of transparency and thoughtful regulation in AI development.",
+    "partner_summary": "OpenAI shared its views on AI policy, political advocacy, and the importance of transparency and safety in AI development. This matters to business leaders and AI practitioners who must navigate evolving regulatory landscapes and ethical considerations. The audience should monitor policy developments and consider how transparency and safety commitments affect AI strategy and compliance.",
+    "promo_only": false
+  },
+  {
+    "id": "51b29b7b246c",
+    "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
+    "url": "https://www.latent.space/p/video-agents",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
+    "published": "2026-06-01T15:41:48+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200078058/28f9c640c1fe13dbb645d043b323afb6.mp3",
+    "relevance_score": 8,
+    "score_reason": "The item offers a practitioner perspective on emerging AI video agent models with concrete examples and a clear POV.",
+    "topic_tags": [
+      "AI models",
+      "video agents",
+      "product development"
+    ],
+    "partner_takeaway": "Video agent models represent a new frontier in AI applications, offering unique capabilities that differentiate them from traditional world models.",
+    "partner_summary": "Ethan He from xAI discusses the development of Grok Imagine, a video agent model built in three months, and compares it to other AI models. This insight is valuable for AI developers and product leaders exploring new AI modalities and their potential. Readers should consider how video agents could be integrated into their AI strategies and product roadmaps.",
+    "promo_only": false
+  },
+  {
+    "id": "19ed787e2fbf",
+    "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-01T15:01:46+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The item is a podcast episode summary with mixed content; it may offer some tactical tips but is mostly generic without a clear unique angle.",
+    "topic_tags": [
+      "AI tools",
+      "product reviews",
+      "no-code"
+    ],
+    "partner_takeaway": "Building apps with AI tools can be accessible even without technical skills, as illustrated by recent examples.",
+    "partner_summary": "This podcast episode covers Codex goals, a review of Claude Opus 4.8, and building an iPhone app without technical skills. It is relevant for those interested in AI tools and no-code development but lacks a focused educational perspective. Listeners should explore specific tools and workflows that enable non-technical creators to build AI-powered applications.",
+    "promo_only": false
+  },
+  {
+    "id": "f6e0025d4c64",
+    "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
+    "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; How a talent leader with zero technical skills built and shipped a fitness app to the App Store&#8212;complete with AI-generated videos of animals doing exercises",
+    "published": "2026-06-01T12:04:51+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199397687/cc673823edbf6db85cea29f359c3fc10.mp3",
+    "relevance_score": 7,
+    "score_reason": "The story offers a concrete example of a non-technical professional building an AI-powered app, providing a tactical tip and practitioner insight.",
+    "topic_tags": [
+      "no-code",
+      "AI applications",
+      "product development"
+    ],
+    "partner_takeaway": "Non-technical professionals can leverage AI tools to build and ship apps, expanding the scope of who can innovate in product development.",
+    "partner_summary": "A talent leader with no technical background built and launched a fitness app featuring AI-generated exercise videos. This example highlights how AI democratizes app development beyond traditional technical roles. Readers should explore AI-powered no-code tools to accelerate their own product initiatives regardless of coding skills.",
+    "promo_only": false
+  },
+  {
+    "id": "b453fc3a074b",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "published": "2026-06-01T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The infrastructure build is significant but reads mostly as a corporate announcement without deep tactical or strategic insight for the audience.",
+    "topic_tags": [
+      "AI infrastructure",
+      "data centers",
+      "enterprise AI"
+    ],
+    "partner_takeaway": "Building large-scale AI infrastructure like data centers is critical to expanding AI access and supporting economic growth in local communities.",
+    "partner_summary": "OpenAI has started construction on a 1GW data center in Michigan as part of its Stargate initiative to build AI infrastructure. This matters to enterprises and regional stakeholders interested in AI scalability and economic impact. Readers should watch how infrastructure investments influence AI deployment capabilities and regional AI ecosystems.",
+    "promo_only": true
+  },
+  {
+    "id": "af7cd68c9dbf",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The availability of OpenAI models on AWS offers a clear tool and pattern for enterprises to integrate AI within existing cloud workflows.",
+    "topic_tags": [
+      "AI deployment",
+      "cloud integration",
+      "enterprise AI"
+    ],
+    "partner_takeaway": "Enterprises can now leverage OpenAI frontier models and Codex directly within AWS environments, streamlining AI adoption and production deployment.",
+    "partner_summary": "OpenAI frontier models and Codex are now generally available on AWS, enabling enterprises to build AI solutions using familiar cloud infrastructure and procurement processes. This is important for business leaders and developers seeking scalable, compliant AI integration. The audience should evaluate how this availability can accelerate their AI projects and reduce operational friction.",
+    "promo_only": false
+  },
+  {
+    "id": "4edcd004a2a6",
+    "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+    "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "YouTubers are ruling the box office, and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The analysis of YouTubers disrupting traditional media offers insight but is somewhat outside core AI or enterprise tech topics.",
+    "topic_tags": [
+      "media trends",
+      "digital disruption",
+      "content creation"
+    ],
+    "partner_takeaway": "YouTubers are raising the bar for content success, effectively disrupting traditional Hollywood gatekeepers and changing media consumption dynamics.",
+    "partner_summary": "The article explains how YouTubers are dominating the box office by meeting higher audience engagement standards than traditional Hollywood gatekeepers. This trend matters to media professionals and digital marketers tracking content distribution shifts. Readers should consider how digital platforms and creator-driven content models impact their media strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "28a2c63207f5",
+    "title": "Building AI Agents for Enterprise Operations",
+    "url": "https://a16z.simplecast.com/episodes/building-ai-agents-for-enterprise-operations-g19Ldybr",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya and Olivia Moore speak with Pablo Palafox and Luis Paarup about the challenges of deploying AI agents in operationally complex industries. The conversation covers the evolution of voice AI, enterprise workflows, and why logistics became an early proving ground for agent-based systems. They discuss context, coordination, and execution inside large organizations, as well as the role of forward-deployed engineering, enterprise deployment, and what it takes to move AI from experimentation into production.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/be8b0422-dfff-4b0b-9e12-5697084036fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=be8b0422-dfff-4b0b-9e12-5697084036fd&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on building AI agents for complex enterprise operations offers high content potential with tactical insights and practitioner perspectives.",
+    "topic_tags": [
+      "AI agents",
+      "enterprise operations",
+      "workflow automation"
+    ],
+    "partner_takeaway": "Deploying AI agents in complex enterprise operations requires addressing challenges in context, coordination, and execution to improve workflows effectively.",
+    "partner_summary": "Experts discuss the evolution and deployment of AI agents in operationally complex industries like logistics, highlighting challenges and solutions around context and coordination. This is highly relevant for enterprise leaders and AI practitioners aiming to automate workflows and improve operational efficiency. Readers should explore agent-based AI approaches tailored to their organizational complexities and use cases.",
+    "promo_only": false
+  },
+  {
+    "id": "b1839df098a5",
+    "title": "A rational conversation on where AI is actually going | Benedict Evans",
+    "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue",
+    "published": "2026-05-31T12:31:43+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591907/72f36bfdec88e660720309a3d730fec7.mp3",
+    "relevance_score": 8,
+    "score_reason": "The rational perspective on AI’s trajectory and economic impact offers insight and a fresh way to think about AI’s role in the economy.",
+    "topic_tags": [
+      "AI trends",
+      "economic impact",
+      "job market"
+    ],
+    "partner_takeaway": "AI’s development resembles the 1997 internet moment, with nuanced impacts on jobs and value creation that challenge common assumptions.",
+    "partner_summary": "Benedict Evans provides a rational analysis of AI’s current state, comparing it to a pivotal internet moment and discussing misconceptions about job loss and value distribution. This perspective is valuable for business leaders and strategists planning for AI’s economic effects. The audience should reconsider assumptions about AI’s impact and prepare for new value creation models.",
+    "promo_only": false
+  }
+]
