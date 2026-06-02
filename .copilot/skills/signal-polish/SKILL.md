@@ -5,7 +5,7 @@ description: Polish a Signal idea card into a LinkedIn-ready post (plus optional
 
 # signal-polish
 
-Stage 2 of the signal-engine pipeline. Reads a weekly idea-card digest (`digests/YYYY-WW.md`) and turns one card into a publish-ready post plus an optional matching image and video.
+Stage 2 of the signal-engine-oss pipeline. Reads a weekly idea-card digest (`digests/YYYY-WW.md`) and turns one card into a publish-ready post plus an optional matching image and video.
 
 Stage 1 (the Python CLI in `radar/`) does the daily and weekly fetch + score + idea generation. This skill is what turns one of those idea cards into actual content you can publish.
 

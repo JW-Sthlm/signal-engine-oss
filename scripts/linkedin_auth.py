@@ -92,9 +92,9 @@ class _CallbackHandler(http.server.BaseHTTPRequestHandler):
         self.send_header("Content-Type", "text/html; charset=utf-8")
         self.end_headers()
         msg = (
-            "<h1>signal-engine</h1><p>OAuth complete. You can close this tab.</p>"
+            "<h1>signal-engine-oss</h1><p>OAuth complete. You can close this tab.</p>"
             if "code" in _CallbackHandler.captured
-            else f"<h1>signal-engine</h1><p>OAuth failed: {_CallbackHandler.captured.get('error_description','unknown')}</p>"
+            else f"<h1>signal-engine-oss</h1><p>OAuth failed: {_CallbackHandler.captured.get('error_description','unknown')}</p>"
         )
         self.wfile.write(msg.encode("utf-8"))
 
@@ -125,7 +125,7 @@ def main() -> int:
     })
     auth_url = f"{AUTH_URL}?{auth_query}"
 
-    print(f"[linkedin-auth] opening browser to authorize signal-engine")
+    print(f"[linkedin-auth] opening browser to authorize signal-engine-oss")
     print(f"[linkedin-auth] if it doesn't open, paste this URL:\n  {auth_url}")
     webbrowser.open(auth_url)
 

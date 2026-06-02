@@ -1,4 +1,4 @@
-# signal-engine: source taxonomy
+# signal-engine-oss: source taxonomy
 #
 # Each source: name, url (RSS feed), weight (default 1.0), notes (optional)
 # Edit this file to match your editorial scope. Add the RSS feeds you actually read.

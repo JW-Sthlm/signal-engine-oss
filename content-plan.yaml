@@ -1,4 +1,4 @@
-# signal-engine: content plan
+# signal-engine-oss: content plan
 #
 # This file drives WHAT the engine looks for and WHAT idea cards get generated.
 # Edit `editorial_scope` first — it's the prompt that the scoring model uses to

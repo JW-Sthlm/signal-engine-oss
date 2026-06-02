@@ -56,7 +56,7 @@ Edit `voice-profile.md` to capture your voice. Banned phrases, structural rules,
 
 ```
 git add .
-git commit -m "Configure my signal-engine"
+git commit -m "Configure my signal-engine-oss"
 git push
 ```
 

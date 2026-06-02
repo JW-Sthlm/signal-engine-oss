@@ -5,7 +5,7 @@ Output: _workdir/pdfs/<slug>.pdf   (square multi-page PDF, 1080x1080 logical)
 
 Why this exists: LinkedIn document posts (PDF carousels) get materially more
 reach than plain text. This script turns one polished post into a swipeable
-carousel without leaving the signal-engine flow.
+carousel without leaving the signal-engine-oss flow.
 
 How it works:
 - Page 1 is a cover with the post's opening line as the hook.
@@ -219,8 +219,8 @@ def _add_cta(pdf: FPDF, theme: dict, cta_line: str, cta_url: str) -> None:
 
 
 def build_pdf(post_path: Path, output_path: Path, *, brand: str = "signal",
-              cta_line: str = "Built with signal-engine.",
-              cta_url: str = "github.com/JW-Sthlm/signal-engine",
+              cta_line: str = "Built with signal-engine-oss.",
+              cta_url: str = "github.com/JW-Sthlm/signal-engine-oss",
               theme: str = "dark") -> Path:
     text = post_path.read_text(encoding="utf-8")
     paragraphs = _split_paragraphs(text)
@@ -253,8 +253,8 @@ def main() -> int:
                         help="Output PDF path. Defaults to _workdir/pdfs/<slug>.pdf next to the post.")
     parser.add_argument("--brand", default=os.environ.get("SIGNAL_BRAND", "signal"),
                         help="Small brand label on the cover page (default: 'signal').")
-    parser.add_argument("--cta-line", default=os.environ.get("SIGNAL_CTA_LINE", "Built with signal-engine."))
-    parser.add_argument("--cta-url", default=os.environ.get("SIGNAL_CTA_URL", "github.com/JW-Sthlm/signal-engine"))
+    parser.add_argument("--cta-line", default=os.environ.get("SIGNAL_CTA_LINE", "Built with signal-engine-oss."))
+    parser.add_argument("--cta-url", default=os.environ.get("SIGNAL_CTA_URL", "github.com/JW-Sthlm/signal-engine-oss"))
     parser.add_argument("--theme", choices=["dark", "light"], default=os.environ.get("SIGNAL_PDF_THEME", "dark"))
     args = parser.parse_args()
 

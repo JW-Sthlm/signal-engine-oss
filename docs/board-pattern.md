@@ -50,13 +50,13 @@ UI is faster than the API for one-off setup.
 5. Add the Date field for Target date.
 6. Done.
 
-## Linking it to signal-engine
+## Linking it to signal-engine-oss
 
 Two natural patterns. Pick one. Or both.
 
 **Pattern 1: ideas → issues → board**
 
-Each Monday the radar generates idea cards in `digests/YYYY-WW.md`. Manually copy the cards you want to act on into GitHub Issues in your signal-engine repo (or wherever). Add each issue to the project board. Set Track + Format + Priority.
+Each Monday the radar generates idea cards in `digests/YYYY-WW.md`. Manually copy the cards you want to act on into GitHub Issues in your signal-engine-oss repo (or wherever). Add each issue to the project board. Set Track + Format + Priority.
 
 Trade-off: manual. But it's a 30-second copy-paste per card, and you're filtering anyway.
 

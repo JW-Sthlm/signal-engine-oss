@@ -1,12 +1,12 @@
 ```
      · · ·
    ·       ·
-  ·  ((•))  →  signal-engine
+  ·  ((•))  →  signal-engine-oss
    ·       ·   scout · score · draft · polish · post
      · · ·
 ```
 
-# signal-engine
+# Signal Engine OSS
 
 **Stop posting like a default LLM.**
 

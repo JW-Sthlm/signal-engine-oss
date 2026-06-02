@@ -1,5 +1,5 @@
 """
-signal-engine: a content opportunity engine.
+signal-engine-oss: a content opportunity engine.
 
 Stage 1 (this CLI): fetch RSS, score for content potential against your editorial
 tracks, write a daily raw archive. On demand, generate weekly idea cards.
