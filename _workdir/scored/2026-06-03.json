@@ -1,0 +1,339 @@
+[
+  {
+    "id": "023c35ff2014",
+    "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Microsoft Build recap, and new MAI model technical details",
+    "published": "2026-06-03T05:49:02+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant to AI model development and Microsoft’s AI strategy, offering a medium-level content potential with some technical detail but requires a personal angle to maximize reader value.",
+    "topic_tags": [
+      "AI models",
+      "Microsoft",
+      "AI strategy"
+    ],
+    "partner_takeaway": "Microsoft’s new MAI-Thinking-1 and MAI Family models represent a strategic evolution in AI model design that could influence enterprise AI deployments.",
+    "partner_summary": "This item covers Microsoft Build’s announcement of the MAI-Thinking-1 and MAI Family AI models with technical details. It matters because these models reflect Microsoft’s approach to advancing AI capabilities that businesses may soon leverage. Readers should watch how these models impact AI integration in enterprise workflows and consider implications for their AI strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "fa93708c3d41",
+    "title": "Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
+    "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-on-apple-at-50-microsoft-and-the-future-of-computing-qxp8eLCX",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee speaks with Steven Sinofsky about the next generation of personal computing and the growing role of AI-native hardware. The conversation covers NVIDIA’s entry into the PC market, Microsoft’s strategy for AI-powered devices, Apple’s hardware roadmap, and the long-running tension between backward compatibility and platform reinvention. Sinofsky explains why AI may fundamentally change how personal computers are designed, and why local inference could become increasingly important as AI workloads grow. Along the way, they discuss Windows, Surface, Arm processors, Apple Silicon, and...",
+    "published": "2026-06-02T17:16:55+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6de42287-1fdf-427f-a5bd-f5ff8936238b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6de42287-1fdf-427f-a5bd-f5ff8936238b&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a practitioner perspective on AI-native hardware and platform strategy, offering insight and trend reads valuable to technology leaders and strategists.",
+    "topic_tags": [
+      "AI hardware",
+      "platform strategy",
+      "future computing"
+    ],
+    "partner_takeaway": "AI-native hardware and platform reinvention are reshaping personal computing, with implications for compatibility and innovation strategies.",
+    "partner_summary": "Steven Sinofsky discusses the future of personal computing focusing on AI-native hardware, including NVIDIA’s PC market entry and Microsoft’s AI device strategy. This matters because it highlights how AI integration is driving hardware and platform evolution, affecting technology adoption and investment decisions. Readers should consider how AI hardware trends might influence their technology roadmaps and compatibility planning.",
+    "promo_only": false
+  },
+  {
+    "id": "c1b3b182252d",
+    "title": "GitHub's plan for Agents — Kyle Daigle, GitHub",
+    "url": "https://www.latent.space/p/github",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "GitHub pioneered the modern AI coding era with Copilot, and the resulting explosion in agentic coding has led to notable strains on the most popular developer platform in the world. Here's the plan.",
+    "published": "2026-06-02T16:48:21+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200249307/0941c9607e83985da60443da5f6986fd.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with a clear practitioner angle on GitHub’s approach to managing AI coding agents, providing tactical insight and trend understanding for developers and product managers.",
+    "topic_tags": [
+      "AI coding",
+      "developer tools",
+      "GitHub"
+    ],
+    "partner_takeaway": "GitHub’s plan to address strains from AI coding agents offers a model for balancing innovation with platform stability in developer ecosystems.",
+    "partner_summary": "GitHub is responding to challenges caused by the rise of AI coding agents like Copilot with a new strategic plan. This is important for developers and product managers who rely on GitHub’s platform and want to understand how AI tools will evolve. Readers should monitor GitHub’s approach to agent management to anticipate changes in AI-assisted development workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "8efac7eb1187",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "url": "https://openai.com/index/travelers",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "published": "2026-06-02T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential as it covers AI application in insurance claims, but mostly a product use case with limited broader tactical insight.",
+    "topic_tags": [
+      "AI applications",
+      "insurance",
+      "customer service"
+    ],
+    "partner_takeaway": "AI-powered claim assistants can improve customer support scalability and efficiency during peak demand in insurance operations.",
+    "partner_summary": "Travelers has deployed an AI-powered Claim Assistant using OpenAI technology to support customers filing claims and scale operations. This matters to professionals interested in AI’s practical impact on customer service and operational efficiency. Readers should explore how AI assistants can be integrated into their own customer support processes to enhance responsiveness.",
+    "promo_only": true
+  },
+  {
+    "id": "8efc9bbc9df3",
+    "title": "The Google Capital Company",
+    "url": "https://stratechery.com/2026/the-google-capital-company/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google has issued equity to Berkshire Hathaway in a deal that signals far more demand and a future where capital is the ultimate commodity.",
+    "published": "2026-06-02T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Low content potential due to the focus on a financial deal with limited direct relevance or actionable insight for the audience.",
+    "topic_tags": [
+      "finance",
+      "capital",
+      "corporate strategy"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google issued equity to Berkshire Hathaway in a deal signaling increased demand for capital. While significant financially, this has limited direct impact on AI or technology strategy for the audience. Readers can note this as a market development but need not take immediate action.",
+    "promo_only": false
+  },
+  {
+    "id": "cea373153137",
+    "title": "Codex for every role, tool, and workflow",
+    "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI.",
+    "published": "2026-06-02T09:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a broad overview of Codex plugins for various roles, requiring a personal angle to deliver tactical tips or tool insights.",
+    "topic_tags": [
+      "AI tools",
+      "Codex",
+      "productivity"
+    ],
+    "partner_takeaway": "New Codex plugins and annotations enable diverse teams to enhance productivity by integrating AI into their specific workflows.",
+    "partner_summary": "OpenAI introduced new Codex plugins and tools designed to help analysts, marketers, designers, and investors work more efficiently with AI. This matters because it shows how AI tools are becoming more role-specific and accessible across functions. Readers should explore these plugins to identify opportunities for AI integration in their workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "735d99b3f479",
+    "title": "Advancing youth safety and opportunity through global leadership",
+    "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people.",
+    "published": "2026-06-02T07:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Low content potential as it focuses on a global leadership call for youth AI safety without tactical or practitioner insights.",
+    "topic_tags": [
+      "AI safety",
+      "policy",
+      "youth"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI advocates for global action on youth AI safety by proposing an international institute to enhance safeguards and opportunities. While important socially, this lacks direct tactical or strategic relevance for the audience. Readers should be aware of the evolving AI safety landscape but may not find immediate actionable advice.",
+    "promo_only": false
+  },
+  {
+    "id": "1c85f5932462",
+    "title": "[AINews] NVIDIA Cosmos 3, Nemotron 3 Ultra, and RTX Spark",
+    "url": "https://www.latent.space/p/ainews-nvidia-cosmos-3-nemotron-3",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Jensen scores a huge win.",
+    "published": "2026-06-02T03:28:10+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential with some practitioner insight on NVIDIA’s new products, but the summary is vague and requires a stronger angle to deliver clear reader value.",
+    "topic_tags": [
+      "AI hardware",
+      "NVIDIA",
+      "product innovation"
+    ],
+    "partner_takeaway": "NVIDIA’s latest product releases signal continued leadership in AI hardware innovation, impacting AI infrastructure strategies.",
+    "partner_summary": "NVIDIA announced new products including Cosmos 3, Nemotron 3 Ultra, and RTX Spark, marking a significant achievement for the company. This matters because NVIDIA’s hardware advances influence AI performance and deployment options. Readers should watch how these products affect AI infrastructure choices and competitive positioning.",
+    "promo_only": false
+  },
+  {
+    "id": "968242fc8cc6",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+    "published": "2026-06-02T02:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a clear focus on Codex’s role in transforming knowledge work, offering tactical and trend insights for knowledge workers and managers.",
+    "topic_tags": [
+      "AI productivity",
+      "Codex",
+      "knowledge work"
+    ],
+    "partner_takeaway": "Codex is transforming knowledge work by enabling AI-powered research, data analysis, automation, and content creation to boost productivity.",
+    "partner_summary": "The Next Era of Knowledge Work report highlights how Codex is reshaping productivity through AI-driven tools for research, analysis, and automation. This is important for professionals seeking to leverage AI to enhance their workflows and output. Readers should evaluate how Codex can be integrated into their knowledge work to gain efficiency and competitive advantage.",
+    "promo_only": false
+  },
+  {
+    "id": "28d958b94d45",
+    "title": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf.",
+    "published": "2026-06-01T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Low content potential as it focuses on OpenAI’s internal policy stance and political advocacy without actionable insights for the audience.",
+    "topic_tags": [
+      "AI policy",
+      "advocacy",
+      "regulation"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI outlines its approach to AI policy, transparency, and political advocacy, emphasizing support for thoughtful regulation and safety. While relevant to the broader AI ecosystem, this offers limited tactical or strategic guidance for practitioners. Readers should stay informed on AI policy developments but may not find direct application here.",
+    "promo_only": false
+  },
+  {
+    "id": "51b29b7b246c",
+    "title": "Why Video Agent models are next — Ethan He, xAI Grok Imagine",
+    "url": "https://www.latent.space/p/video-agents",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Inside xAI: Building Grok Imagine in 3 Months, Videogen vs World Models, and why Grok Imagine is so underrated. For the first time, we do a deep dive with the guy who led it!",
+    "published": "2026-06-01T15:41:48+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200078058/28f9c640c1fe13dbb645d043b323afb6.mp3",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a practitioner perspective on video agent models and product development, offering insight into emerging AI applications.",
+    "topic_tags": [
+      "AI agents",
+      "video AI",
+      "product development"
+    ],
+    "partner_takeaway": "Video Agent models like Grok Imagine represent a new frontier in AI applications, blending video generation with agent capabilities for innovative use cases.",
+    "partner_summary": "This item provides an inside look at xAI’s Grok Imagine video agent model, its rapid development, and competitive positioning against world models. It matters because video agents could transform how AI interacts with multimedia content and workflows. Readers should watch this space for new AI capabilities that combine video and agent intelligence.",
+    "promo_only": false
+  },
+  {
+    "id": "19ed787e2fbf",
+    "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-01T15:01:46+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Low content potential due to the format as a podcast roundup with mixed topics and no clear, focused takeaway for the audience.",
+    "topic_tags": [
+      "AI tools",
+      "podcast",
+      "mixed topics"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast roundup covering Codex goals, Claude Opus 4.8 review, and building an iPhone app with no technical skills. While informative, it lacks a focused educational angle or tactical insight for the audience. Readers may find individual segments interesting but no consolidated takeaway is provided.",
+    "promo_only": false
+  },
+  {
+    "id": "f6e0025d4c64",
+    "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
+    "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; How a talent leader with zero technical skills built and shipped a fitness app to the App Store&#8212;complete with AI-generated videos of animals doing exercises",
+    "published": "2026-06-01T12:04:51+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199397687/cc673823edbf6db85cea29f359c3fc10.mp3",
+    "relevance_score": 6,
+    "score_reason": "The topic is interesting but more inspirational than tactical, with limited direct business or operational insight for the writer's audience.",
+    "topic_tags": [
+      "no-code",
+      "product development"
+    ],
+    "partner_takeaway": "Non-technical professionals can leverage AI and no-code tools to build and launch apps, lowering barriers to product creation.",
+    "partner_summary": "A talent leader with no technical skills built and shipped a fitness app featuring AI-generated exercise videos. This example shows how non-developers can create digital products using modern AI and no-code tools. Readers should explore how to leverage these tools to accelerate product development without deep technical expertise.",
+    "promo_only": false
+  },
+  {
+    "id": "b453fc3a074b",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities.",
+    "published": "2026-06-01T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The infrastructure build signals a major AI industry trend with implications for business and regional economic development, offering a useful trend read.",
+    "topic_tags": [
+      "AI infrastructure",
+      "industry trends"
+    ],
+    "partner_takeaway": "Building large-scale AI infrastructure like OpenAI's Michigan data center is a key trend enabling broader AI adoption and economic impact.",
+    "partner_summary": "OpenAI has started construction on a 1GW data center in Michigan to support AI infrastructure expansion. This matters because such infrastructure investments drive AI accessibility, job creation, and regional growth. The audience should watch how infrastructure scale influences AI capabilities and business opportunities.",
+    "promo_only": false
+  },
+  {
+    "id": "af7cd68c9dbf",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Announcing OpenAI models on AWS is relevant for enterprises seeking practical AI deployment options, offering a tactical angle on integration and procurement.",
+    "topic_tags": [
+      "AI deployment",
+      "enterprise technology"
+    ],
+    "partner_takeaway": "Enterprises can now deploy OpenAI frontier models and Codex within AWS environments, streamlining AI adoption through familiar workflows.",
+    "partner_summary": "OpenAI's frontier models and Codex are now generally available on AWS, enabling enterprises to build AI solutions using existing AWS controls and procurement. This matters because it lowers friction for organizations integrating advanced AI into their operations. Readers should consider how this availability can accelerate their AI projects within enterprise IT frameworks.",
+    "promo_only": false
+  },
+  {
+    "id": "4edcd004a2a6",
+    "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+    "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "YouTubers are ruling the box office, and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The analysis of YouTube creators disrupting traditional media gatekeepers offers a strong insight and trend read relevant to digital business and content strategies.",
+    "topic_tags": [
+      "digital media",
+      "content strategy",
+      "market disruption"
+    ],
+    "partner_takeaway": "YouTube creators are surpassing traditional Hollywood gatekeepers by meeting a higher bar of audience engagement and content innovation.",
+    "partner_summary": "YouTubers are increasingly dominating the box office, challenging traditional Hollywood gatekeepers. This matters because it highlights a shift in content creation and distribution power toward digital-first creators. The audience should rethink content strategies and gatekeeping assumptions in light of this evolving media landscape.",
+    "promo_only": false
+  },
+  {
+    "id": "28a2c63207f5",
+    "title": "Building AI Agents for Enterprise Operations",
+    "url": "https://a16z.simplecast.com/episodes/building-ai-agents-for-enterprise-operations-g19Ldybr",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya and Olivia Moore speak with Pablo Palafox and Luis Paarup about the challenges of deploying AI agents in operationally complex industries. The conversation covers the evolution of voice AI, enterprise workflows, and why logistics became an early proving ground for agent-based systems. They discuss context, coordination, and execution inside large organizations, as well as the role of forward-deployed engineering, enterprise deployment, and what it takes to move AI from experimentation into production.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/be8b0422-dfff-4b0b-9e12-5697084036fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=be8b0422-dfff-4b0b-9e12-5697084036fd&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on AI agents in enterprise operations offers deep practitioner insights and tactical perspectives on deploying AI in complex workflows.",
+    "topic_tags": [
+      "AI agents",
+      "enterprise operations",
+      "workflow automation"
+    ],
+    "partner_takeaway": "Deploying AI agents in complex enterprise operations requires addressing challenges in context, coordination, and execution to improve workflows effectively.",
+    "partner_summary": "Experts discuss the challenges and evolution of AI agents in operationally complex industries like logistics. This matters because understanding these challenges helps enterprises better implement AI to optimize workflows and coordination. Readers should focus on how to integrate AI agents thoughtfully to enhance operational efficiency and overcome deployment hurdles.",
+    "promo_only": false
+  }
+]
