@@ -1,0 +1,331 @@
+[
+  {
+    "id": "8c0494ffbed9",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day",
+    "published": "2026-06-05T06:44:49+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "No substantive content or takeaway, just a note about a quiet day.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief update noting that not much happened in AI news on this day. It offers no new insights or actionable information for the audience. Readers should look elsewhere for meaningful content.",
+    "promo_only": false
+  },
+  {
+    "id": "0ce6fa9a88f0",
+    "title": "Co-Existence and the End of Co-Intelligence",
+    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "Also: how pitch a book to an AI!",
+    "published": "2026-06-04T21:13:42+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Interesting conceptual topic but needs a strong personal angle to be fully valuable.",
+    "topic_tags": [
+      "AI philosophy",
+      "AI-human interaction"
+    ],
+    "partner_takeaway": "The post explores evolving concepts of AI-human collaboration and how to effectively pitch ideas to AI systems.",
+    "partner_summary": "This article discusses the shift from co-intelligence to co-existence in AI-human relationships and includes tips on pitching a book to AI. It matters because understanding these evolving dynamics can help professionals better integrate AI into their workflows. Readers should consider how these conceptual shifts impact their approach to AI collaboration.",
+    "promo_only": false
+  },
+  {
+    "id": "c12f8ebd1f51",
+    "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+    "url": "https://www.latent.space/p/andon",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+    "published": "2026-06-04T20:39:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200614482/84d19c89e2a280d493e1a370adab3d72.mp3",
+    "relevance_score": 9,
+    "score_reason": "Deep practitioner insight on building robust AI evaluation frameworks with concrete examples.",
+    "topic_tags": [
+      "AI evaluation",
+      "AI development",
+      "practitioner insights"
+    ],
+    "partner_takeaway": "The article provides practical lessons on designing effective, lasting AI evaluation methods from leading experts.",
+    "partner_summary": "This interview covers how Andon Labs builds frontier AI evaluation frameworks from scratch, focusing on Claudes from Haiku to Mythos. It matters because rigorous evaluation is critical for advancing trustworthy AI systems, a key concern for AI practitioners and decision-makers. Readers should explore these evaluation strategies to improve their own AI assessment processes.",
+    "promo_only": false
+  },
+  {
+    "id": "f3fb22047a0e",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "published": "2026-06-04T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong business and tactical perspective on integrating AI agents into software delivery.",
+    "topic_tags": [
+      "AI in software delivery",
+      "enterprise AI",
+      "automation"
+    ],
+    "partner_takeaway": "Endava’s approach shows how AI agents can accelerate software delivery and foster an AI-native culture in enterprises.",
+    "partner_summary": "This post explains how Endava leverages AI agents, ChatGPT Enterprise, and Codex to transform software delivery and automate workflows. It matters because it offers a concrete example of AI integration at scale in enterprise settings, relevant for leaders and practitioners. Readers should consider adopting similar AI-driven workflows to enhance efficiency and culture.",
+    "promo_only": false
+  },
+  {
+    "id": "6d110b72eb5c",
+    "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+    "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Microsoft CEO Satya Nadella about figuring out Microsoft's role in AI, the relationship with OpenAI, Capex, Software, and a potential new agentic platform.",
+    "published": "2026-06-04T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "High-value interview with a top executive offering strategic AI insights and business implications.",
+    "topic_tags": [
+      "AI strategy",
+      "business leadership",
+      "enterprise AI"
+    ],
+    "partner_takeaway": "Satya Nadella shares Microsoft’s strategic approach to AI, including its partnership with OpenAI and future platform plans.",
+    "partner_summary": "This interview with Microsoft CEO Satya Nadella discusses how Microsoft is defining its AI role, managing partnerships, and exploring new AI platforms. It matters because it provides a rare, strategic perspective from a leading tech CEO on AI’s business impact. Readers should watch for how these strategies influence enterprise AI adoption and innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "8cc0693afdbf",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "published": "2026-06-04T09:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Tactical update on ChatGPT’s new memory system with clear implications for user experience.",
+    "topic_tags": [
+      "AI product features",
+      "ChatGPT",
+      "user experience"
+    ],
+    "partner_takeaway": "ChatGPT’s new memory system improves long-term context retention, enhancing conversational relevance and personalization.",
+    "partner_summary": "This post introduces ChatGPT’s enhanced memory system designed to remember user preferences and maintain context across sessions. It matters because better memory can significantly improve AI assistant usefulness and user satisfaction. Readers should explore how to leverage these memory features in their AI interactions.",
+    "promo_only": false
+  },
+  {
+    "id": "d13380d22243",
+    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+    "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day.",
+    "published": "2026-06-04T03:24:07+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "No substantive content or takeaway, just a note about a quiet day.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief update noting that not much happened in AI news on this day. It offers no new insights or actionable information for the audience. Readers should look elsewhere for meaningful content.",
+    "promo_only": false
+  },
+  {
+    "id": "cf0c851d19e7",
+    "title": "Biodefense in the Intelligence Age",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "An action plan for AI-powered biological resilience",
+    "published": "2026-06-04T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Insightful strategic perspective on AI’s role in biodefense with actionable implications.",
+    "topic_tags": [
+      "AI applications",
+      "biodefense",
+      "strategy"
+    ],
+    "partner_takeaway": "AI can significantly enhance biological resilience through improved biodefense strategies and intelligence integration.",
+    "partner_summary": "This article outlines an action plan for leveraging AI to strengthen biodefense capabilities in the intelligence age. It matters because it highlights a critical and emerging application of AI with broad societal impact. Readers should consider how AI-driven biodefense strategies could affect security and public health planning.",
+    "promo_only": false
+  },
+  {
+    "id": "6d992982aa43",
+    "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "url": "https://www.latent.space/p/axiom",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Verified Generation and Compounding Intelligence",
+    "published": "2026-06-03T19:27:49+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199994886/848d731fc50b706ec6de69cfba2f3d58.mp3",
+    "relevance_score": 7,
+    "score_reason": "Conceptual and tactical discussion on scaling AI intelligence with some practitioner relevance.",
+    "topic_tags": [
+      "AI scaling",
+      "intelligence",
+      "AI development"
+    ],
+    "partner_takeaway": "Verified generation and compounding intelligence are key concepts for scaling AI beyond informal methods.",
+    "partner_summary": "This piece explores methods for scaling AI intelligence through verified generation and compounding approaches. It matters because these concepts address challenges in building reliable and scalable AI systems. Readers should watch for practical applications of these ideas in AI development workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "2b748350e453",
+    "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "url": "https://www.latent.space/p/satya-2026",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+    "published": "2026-06-03T17:13:57+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200432443/be4d039cefcb78767e3408d0f5ac3d29.mp3",
+    "relevance_score": 5,
+    "score_reason": "Event announcement with limited substantive content or unique insight.",
+    "topic_tags": [
+      "AI leadership",
+      "event"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is an announcement of Microsoft CEO Satya Nadella’s appearance on Latent Space. It matters mainly for those interested in hearing from a leading AI executive. Readers should follow the event for potential insights but the announcement itself lacks actionable content.",
+    "promo_only": true
+  },
+  {
+    "id": "fe24354b48e7",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "published": "2026-06-03T13:15:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong tactical update on AI capabilities advancing life sciences research.",
+    "topic_tags": [
+      "AI in life sciences",
+      "biological research",
+      "AI tools"
+    ],
+    "partner_takeaway": "GPT-Rosalind’s new capabilities enhance biological reasoning and experimental workflows, accelerating life sciences research.",
+    "partner_summary": "This post details GPT-Rosalind’s advancements in biological reasoning, medicinal chemistry, genomics, and experimental workflows. It matters because these improvements can significantly speed up and improve life sciences research processes. Readers should explore how to integrate such AI tools into their research or product development.",
+    "promo_only": false
+  },
+  {
+    "id": "732c3a154de4",
+    "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
+    "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Testing Google&#8217;s Gemini Omni avatar feature live&#8212;I scan a QR code, clone my face, and ship a hype reel",
+    "published": "2026-06-03T12:04:09+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199768832/edf306bf3ed1577f4fc3e9be523e55f2.mp3",
+    "relevance_score": 6,
+    "score_reason": "Interesting AI avatar technology demo but limited broader tactical or strategic insight.",
+    "topic_tags": [
+      "AI avatars",
+      "consumer AI",
+      "technology demo"
+    ],
+    "partner_takeaway": "Google’s Gemini Omni enables quick creation of AI avatars, showcasing advances in personal AI cloning technology.",
+    "partner_summary": "This article demonstrates Google’s Gemini Omni avatar feature that clones a user’s face in under 15 minutes via QR code scanning. It matters as a glimpse into emerging consumer AI avatar technologies and their potential uses. Readers should watch how such technologies evolve and consider implications for personal branding or digital presence.",
+    "promo_only": false
+  },
+  {
+    "id": "53e0b201767a",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "url": "https://openai.com/index/wasmer",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "published": "2026-06-03T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is technical and developer-focused but includes a business angle on accelerating edge runtime development; however, the takeaway is somewhat generic without a clear tactical or strategic insight.",
+    "topic_tags": [
+      "AI-assisted development",
+      "edge computing"
+    ],
+    "partner_takeaway": "Using AI tools like Codex can dramatically accelerate the development of complex runtimes for edge computing, reducing time-to-market from months to weeks.",
+    "partner_summary": "Wasmer used OpenAI's Codex with GPT-5.5 to build a Node.js runtime optimized for edge environments, accelerating development by 10x to 20x. This matters to developers and product teams interested in speeding up edge runtime deployment and leveraging AI-assisted coding. The audience should explore AI-powered development tools to shorten project timelines and improve iteration speed in edge computing projects.",
+    "promo_only": false
+  },
+  {
+    "id": "aab095412e4a",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The governance blueprint for frontier AI is highly relevant for readers interested in AI policy and safety, offering a clear perspective on federal frameworks and national security implications.",
+    "topic_tags": [
+      "AI governance",
+      "policy",
+      "AI safety"
+    ],
+    "partner_takeaway": "A federal governance framework for frontier AI is essential to ensure safety, resilience, and national security as AI capabilities rapidly advance.",
+    "partner_summary": "OpenAI published a blueprint proposing a U.S. federal framework to govern frontier AI technologies focused on safety and national security. This is critical for business leaders and policymakers to understand the evolving regulatory landscape that will impact AI development and deployment. Readers should monitor these governance proposals to anticipate compliance requirements and contribute to shaping responsible AI policies.",
+    "promo_only": false
+  },
+  {
+    "id": "77928feb440d",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The public policy agenda covers broad AI societal impacts with some actionable insights but is somewhat generic without a unique practitioner angle.",
+    "topic_tags": [
+      "AI policy",
+      "workforce transition",
+      "AI safety"
+    ],
+    "partner_takeaway": "AI policy must address safety, youth protection, workforce transitions, and global standards to maximize societal benefits and minimize risks.",
+    "partner_summary": "OpenAI outlined its public policy agenda focusing on AI safety, protecting youth, managing workforce transitions, and establishing global standards. This matters to business leaders and policymakers who need to prepare for AI's societal impacts and regulatory changes. The audience should consider how these policy priorities might affect their organizations and workforce planning.",
+    "promo_only": false
+  },
+  {
+    "id": "a31ab6f70629",
+    "title": "The Nvidia AI PC, Project Solara, Microsoft AI",
+    "url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The Nvidia AI PC feels like a relic of another AI era; Microsoft's vision for devices at Build was much more compelling.",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The analysis of Nvidia's AI PC versus Microsoft's vision offers a practitioner perspective on AI hardware trends and strategic positioning in the AI device market.",
+    "topic_tags": [
+      "AI hardware",
+      "market trends",
+      "strategic analysis"
+    ],
+    "partner_takeaway": "Microsoft's AI device strategy appears more forward-looking and compelling compared to Nvidia's AI PC, signaling shifts in AI hardware market dynamics.",
+    "partner_summary": "Ben Thompson critiques Nvidia's AI PC as outdated compared to Microsoft's more innovative AI device vision presented at Build. This insight helps business and tech leaders understand evolving competitive dynamics in AI hardware and device ecosystems. Readers should watch how these strategies influence AI adoption and hardware investments in their sectors.",
+    "promo_only": false
+  },
+  {
+    "id": "86b59f389606",
+    "title": "Balaji and Steven Glinert on Network States, Supply Chains, and Allied Coalition Strategy",
+    "url": "https://a16z.simplecast.com/episodes/balaji-and-steven-glinert-on-network-states-supply-chains-and-allied-coalition-strategy-C5bm4k5z",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee and Sophia Puccini speak with Balaji Srinivasan and Steven Glinert about the shifting balance of power between nations, networks, and technology. The conversation covers China’s industrial rise, America’s manufacturing challenges, the role of alliances in a multipolar world, and whether the internet is becoming a political force independent of traditional nation states. They discuss supply chains, technological sovereignty, decentralization, and competing visions for the future global order. Along the way, Balaji outlines ideas from the Network State and Network School, while bo...",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a3c3971e-e2e4-41a6-bb93-addb227d9187/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a3c3971e-e2e4-41a6-bb93-addb227d9187&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on network states, supply chains, and geopolitical strategy offers deep insight into the intersection of technology, geopolitics, and business strategy, highly relevant for the audience.",
+    "topic_tags": [
+      "geopolitics",
+      "technology strategy",
+      "supply chains"
+    ],
+    "partner_takeaway": "Understanding the interplay between network states, supply chains, and allied coalitions is crucial for navigating the shifting global balance of power and technology influence.",
+    "partner_summary": "Balaji Srinivasan and Steven Glinert discuss how technology, supply chains, and alliances are reshaping geopolitical power beyond traditional nation-states. This is important for business and tech leaders who must adapt strategies to a multipolar world influenced by digital networks and industrial shifts. The audience should consider these dynamics when planning global operations and technology investments.",
+    "promo_only": false
+  }
+]
