@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0b07b2ecb12d",
+    "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+    "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
+    "published": "2026-06-07T12:31:29+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591956/215956b14c5f0b86f14f10e79b7cbc6f.mp3",
+    "relevance_score": 8,
+    "score_reason": "The topic offers a practitioner perspective on product design and decision-making in the AI era, relevant to a business and marketing audience, with actionable insights on balancing opinion and data.",
+    "topic_tags": [
+      "product design",
+      "AI",
+      "marketing"
+    ],
+    "partner_takeaway": "Balancing opinion and data is crucial for product decisions, and AI products will still require thoughtful design around user interfaces like screens.",
+    "partner_summary": "Tony Fadell, creator of the iPod and iPhone, shares his views on building taste, judgment, and creativity in the AI era. This matters to product leaders and marketers who must navigate data-driven decisions while maintaining strong design intuition. Readers should consider how to integrate human judgment with AI capabilities and why marketing remains essential even as technology evolves.",
+    "promo_only": false
+  },
+  {
+    "id": "1e758a201e7d",
+    "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 188",
+    "published": "2026-06-06T17:14:54+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The item is a community wisdom roundup with broad topics but lacks a clear, unique takeaway without further angle from the writer.",
+    "topic_tags": [
+      "startup strategy",
+      "product management",
+      "AI"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This newsletter issue compiles community insights on bootstrapping versus raising funding, app roadmap building, AI agents, and starting as an APM. While these topics are relevant to product and startup professionals, the summary lacks a specific actionable insight or unique perspective. The audience should explore these themes further to extract practical lessons or form opinions based on their context.",
+    "promo_only": false
+  },
+  {
+    "id": "6e00aa6ed867",
+    "title": "Building Search for AI Agents with Exa CEO Will Bryk",
+    "url": "https://a16z.simplecast.com/episodes/building-search-for-ai-agents-with-exa-ceo-will-bryk-_pk3FHt0",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era. The conversation covers Exa’s origins, why traditional search engines were not designed for AI agents, and how search changes when the user is no longer a human but an autonomous system. They discuss retrieval, agent workflows, coding agents, data access, and why search may become a foundational layer for the emerging agent economy. Along the way, Bryk shares his views on AI-native products, the future of information discovery, and why some of the most important problems in technology...",
+    "published": "2026-06-06T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c48ce585-3138-4686-bb9c-eaf4d247dee4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c48ce585-3138-4686-bb9c-eaf4d247dee4&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on building search infrastructure for AI agents offers a strong practitioner perspective and insight into a key shift in technology impacting product and data strategy.",
+    "topic_tags": [
+      "AI",
+      "search technology",
+      "product strategy"
+    ],
+    "partner_takeaway": "Search technology must evolve from human-centric models to support autonomous AI agents, changing how data retrieval and workflows are designed.",
+    "partner_summary": "Will Bryk, CEO of Exa, discusses how traditional search engines are inadequate for AI agents and the need for new search infrastructure tailored to autonomous systems. This is critical for product and data leaders who must rethink search and retrieval to support AI-driven workflows. The audience should watch how AI agent-focused search evolves and consider implications for their own data and product strategies.",
+    "promo_only": false
+  }
+]
