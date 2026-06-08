@@ -1,0 +1,630 @@
+[
+  {
+    "id": "0b07b2ecb12d",
+    "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+    "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
+    "published": "2026-06-07T12:31:29+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591956/215956b14c5f0b86f14f10e79b7cbc6f.mp3",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant for those interested in product design and AI-era creativity with a practitioner perspective, but it is somewhat general and needs a personal angle.",
+    "topic_tags": [
+      "product design",
+      "AI",
+      "creativity"
+    ],
+    "partner_takeaway": "The evolution of product design in the AI era requires balancing opinion and data, understanding marketing's role, and recognizing AI's continued need for human-centered interfaces.",
+    "partner_summary": "Tony Fadell, creator of the iPod and iPhone, shares insights on decision-making between opinion and data, the importance of marketing, and the role of screens in AI products. This matters to product leaders and creators navigating AI-driven innovation and user experience. Readers should consider how to integrate human judgment and marketing strategy when building AI-era products.",
+    "promo_only": false
+  },
+  {
+    "id": "1e758a201e7d",
+    "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 188",
+    "published": "2026-06-06T17:14:54+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The item covers multiple relevant topics but is generic and lacks a clear, unique takeaway without a personal angle.",
+    "topic_tags": [
+      "startup strategy",
+      "product management",
+      "AI"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This community wisdom newsletter covers topics like bootstrapping versus raising funding, app roadmaps, AI agents, and early product management projects. While these are relevant to startup founders and product managers, the content is broad and lacks a focused insight or tactical tip. Readers should look for specific actionable advice within the broader discussion to apply to their own projects.",
+    "promo_only": false
+  },
+  {
+    "id": "6e00aa6ed867",
+    "title": "Building Search for AI Agents with Exa CEO Will Bryk",
+    "url": "https://a16z.simplecast.com/episodes/building-search-for-ai-agents-with-exa-ceo-will-bryk-_pk3FHt0",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Sarah Wang speaks with Exa cofounder and CEO Will Bryk about building search infrastructure for the AI era. The conversation covers Exa’s origins, why traditional search engines were not designed for AI agents, and how search changes when the user is no longer a human but an autonomous system. They discuss retrieval, agent workflows, coding agents, data access, and why search may become a foundational layer for the emerging agent economy. Along the way, Bryk shares his views on AI-native products, the future of information discovery, and why some of the most important problems in technology...",
+    "published": "2026-06-06T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c48ce585-3138-4686-bb9c-eaf4d247dee4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c48ce585-3138-4686-bb9c-eaf4d247dee4&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High relevance and clear tactical insight on how search infrastructure must evolve for AI agents, with practitioner perspective and concrete examples.",
+    "topic_tags": [
+      "AI",
+      "search infrastructure",
+      "product design"
+    ],
+    "partner_takeaway": "Search infrastructure must be redesigned to support AI agents as users, focusing on retrieval, workflows, and data access beyond traditional human-centric search models.",
+    "partner_summary": "Exa CEO Will Bryk discusses building search systems tailored for AI agents rather than human users, highlighting the limitations of traditional search engines. This is crucial for product and technology leaders designing AI-driven products that rely on autonomous agents. Readers should explore new search paradigms and infrastructure approaches to support AI agent workflows effectively.",
+    "promo_only": false
+  },
+  {
+    "id": "a94f46a31e05",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-6b8",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day of RSI.",
+    "published": "2026-06-06T04:34:47+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "No substantive content or clear takeaway; too brief and vague to support an educational post.",
+    "topic_tags": [
+      "AI news"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief note indicating a quiet day in AI news with no significant developments. It offers no new insights or actionable information for the audience. Readers can skip this as it does not advance understanding or practice.",
+    "promo_only": false
+  },
+  {
+    "id": "c1ddfe7d4426",
+    "title": "How to Stop Shipping Low-Quality RL Environments (with Examples)",
+    "url": "https://www.latent.space/p/bad-envs",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Your broken harness is actively making the model worse. Here's what I keep seeing after years of eyeballing trajectories, and what you need to fix.",
+    "published": "2026-06-05T18:49:40+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong tactical content on improving reinforcement learning environments with concrete examples and practitioner insights.",
+    "topic_tags": [
+      "AI",
+      "reinforcement learning",
+      "product quality"
+    ],
+    "partner_takeaway": "Shipping low-quality reinforcement learning environments harms model performance, and specific fixes can improve training outcomes significantly.",
+    "partner_summary": "This piece explains common pitfalls in reinforcement learning environments that degrade model quality and provides examples of how to identify and fix them. It matters to AI practitioners and product teams focused on building reliable RL systems. Readers should audit their RL environments carefully and apply recommended corrections to improve model results.",
+    "promo_only": false
+  },
+  {
+    "id": "80c449d13abc",
+    "title": "2026.23: Power Shifts",
+    "url": "https://stratechery.com/2026/power-shifts/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The best Stratechery content from the week of June 1, 2026, including Google and Microsoft, YouTubers taking over Hollywood, and a guide to the NBA Finals.",
+    "published": "2026-06-05T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "General market and tech power shifts overview with limited unique insight or tactical advice for the audience.",
+    "topic_tags": [
+      "market trends",
+      "tech strategy"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This article summarizes recent shifts in power among major tech players and cultural influencers, including Google, Microsoft, and YouTubers. While interesting, it offers limited direct application or new perspectives for product or business leaders. Readers should monitor these trends but seek deeper analysis for actionable insights.",
+    "promo_only": false
+  },
+  {
+    "id": "3b71d64b7280",
+    "title": "AI Agents and the Fight for Customer Data",
+    "url": "https://a16z.simplecast.com/episodes/ai-agents-and-the-fight-for-customer-data-tpVVdpfj",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Martin Casado speaks with George Fraser, cofounder and CEO of Fivetran, about the future of data infrastructure in the age of AI. The conversation covers Fivetran’s merger with dbt, the changing role of data platforms, and why Fraser believes many companies are overestimating the threat AI poses to enterprise software. They discuss open data access, the backlash against AI agents accessing systems of record, and why businesses still need centralized data foundations even as agent-based workflows become more common. Along the way, Fraser shares his views on data gravity, coding agents, enter...",
+    "published": "2026-06-05T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/d887845c-81f2-4dc0-b162-5549e089aafd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=d887845c-81f2-4dc0-b162-5549e089aafd&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High relevance with a clear trend read and practitioner perspective on data infrastructure's evolving role amid AI and customer data challenges.",
+    "topic_tags": [
+      "AI",
+      "data infrastructure",
+      "enterprise software"
+    ],
+    "partner_takeaway": "The future of data infrastructure in AI involves balancing open data access with privacy concerns, and companies often overestimate AI's threat to enterprise software.",
+    "partner_summary": "Fivetran CEO George Fraser discusses the evolving role of data platforms in the AI era, including the merger with dbt and challenges around AI agents accessing customer data. This is critical for data leaders and enterprise software professionals adapting to AI-driven changes. Readers should evaluate their data strategies to balance openness, security, and AI integration effectively.",
+    "promo_only": false
+  },
+  {
+    "id": "8c0494ffbed9",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-7a8",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day",
+    "published": "2026-06-05T06:44:49+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "No substantive content or clear takeaway; too brief and vague to support an educational post.",
+    "topic_tags": [
+      "AI news"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief note indicating a quiet day in AI news with no significant developments. It offers no new insights or actionable information for the audience. Readers can skip this as it does not advance understanding or practice.",
+    "promo_only": false
+  },
+  {
+    "id": "0ce6fa9a88f0",
+    "title": "Co-Existence and the End of Co-Intelligence",
+    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "Also: how pitch a book to an AI!",
+    "published": "2026-06-04T21:13:42+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Interesting conceptual content about AI and co-intelligence but lacks a clear tactical or practitioner takeaway without further development.",
+    "topic_tags": [
+      "AI",
+      "conceptual"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This article explores the concept of co-existence and the decline of co-intelligence in the context of AI, including how to pitch a book to an AI. While thought-provoking, it lacks concrete advice or patterns for practitioners. Readers should consider the implications but seek more actionable content elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "c12f8ebd1f51",
+    "title": "Reality: The Final Eval — Lukas Petersson and Axel Backlund of Andon Labs",
+    "url": "https://www.latent.space/p/andon",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We talk with the VendingBench authors on evaling Claudes from Haiku to Mythos, and how they build leading, and lasting, frontier evals from scratch.",
+    "published": "2026-06-04T20:39:18+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200614482/84d19c89e2a280d493e1a370adab3d72.mp3",
+    "relevance_score": 7,
+    "score_reason": "Relevant practitioner discussion on evaluating AI models with concrete examples, but somewhat niche and technical.",
+    "topic_tags": [
+      "AI evaluation",
+      "product quality"
+    ],
+    "partner_takeaway": "Building effective and lasting AI model evaluations requires careful design and understanding of frontier evaluation methods.",
+    "partner_summary": "This interview with Andon Labs authors covers how they evaluate AI models like Claude using innovative and durable evaluation frameworks. This is important for AI product teams focused on model quality and benchmarking. Readers should explore advanced evaluation techniques to improve AI product reliability.",
+    "promo_only": false
+  },
+  {
+    "id": "f3fb22047a0e",
+    "title": "How Endava is redesigning software delivery around AI agents",
+    "url": "https://openai.com/index/endava-frontiers",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+    "published": "2026-06-04T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Good practitioner insight on integrating AI agents into software delivery, but somewhat promotional and needs a strong personal angle.",
+    "topic_tags": [
+      "AI agents",
+      "software delivery",
+      "enterprise"
+    ],
+    "partner_takeaway": "Integrating AI agents into software delivery can accelerate workflows and foster an AI-native culture in enterprises.",
+    "partner_summary": "Endava is redesigning software delivery by leveraging AI agents, ChatGPT Enterprise, and Codex to automate workflows and enhance productivity. This is relevant for enterprise leaders and product managers exploring AI-driven process improvements. Readers should consider how to adopt AI agents to streamline delivery and build AI-native teams.",
+    "promo_only": true
+  },
+  {
+    "id": "6d110b72eb5c",
+    "title": "An Interview with Microsoft CEO Satya Nadella About Finding Core Competencies",
+    "url": "https://stratechery.com/2026/an-interview-with-microsoft-ceo-satya-nadella-about-finding-core-competencies/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Microsoft CEO Satya Nadella about figuring out Microsoft's role in AI, the relationship with OpenAI, Capex, Software, and a potential new agentic platform.",
+    "published": "2026-06-04T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "High relevance with strategic insights from a leading CEO on AI's role in enterprise and platform evolution, offering a strong trend read and practitioner perspective.",
+    "topic_tags": [
+      "AI strategy",
+      "enterprise software",
+      "platforms"
+    ],
+    "partner_takeaway": "Microsoft is defining its AI role by focusing on core competencies, strategic partnerships, and exploring new agentic platforms to shape enterprise software's future.",
+    "partner_summary": "Microsoft CEO Satya Nadella discusses the company's AI strategy, relationship with OpenAI, capital expenditures, and potential new AI platforms. This is critical for enterprise software leaders and strategists understanding AI's impact on large tech ecosystems. Readers should watch how core competencies and partnerships drive AI innovation in enterprise contexts.",
+    "promo_only": false
+  },
+  {
+    "id": "8cc0693afdbf",
+    "title": "Dreaming: Better memory for a more helpful ChatGPT",
+    "url": "https://openai.com/index/chatgpt-memory-dreaming",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+    "published": "2026-06-04T09:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The new ChatGPT memory system is directly relevant to AI product development and user experience, offering a clear insight into improving conversational AI.",
+    "topic_tags": [
+      "AI product",
+      "user experience",
+      "memory systems"
+    ],
+    "partner_takeaway": "ChatGPT's new memory system improves user experience by remembering preferences and maintaining relevant context across conversations.",
+    "partner_summary": "ChatGPT has introduced a new memory system designed to better remember user preferences and keep context fresh across conversations. This matters to AI practitioners focused on enhancing user engagement and personalization in conversational AI. Readers should watch how memory systems can be leveraged to create more helpful and context-aware AI interactions.",
+    "promo_only": false
+  },
+  {
+    "id": "d13380d22243",
+    "title": "[AINews] Reve 2 and Ideogram 4: Layouts in Imagegen",
+    "url": "https://www.latent.space/p/ainews-reve-2-and-ideogram-4-layouts",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day.",
+    "published": "2026-06-04T03:24:07+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "The summary indicates no substantive content, offering no clear angle or takeaway for the audience.",
+    "topic_tags": [
+      "AI image generation"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item reports a quiet day with no significant updates on Reve 2 and Ideogram 4 layouts in image generation. It lacks actionable insights or perspectives relevant to AI practitioners or business users. There is nothing specific for the audience to learn or apply from this update.",
+    "promo_only": false
+  },
+  {
+    "id": "cf0c851d19e7",
+    "title": "Biodefense in the Intelligence Age",
+    "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "An action plan for AI-powered biological resilience",
+    "published": "2026-06-04T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic of AI-powered biodefense is important and timely, offering a strategic perspective but requires a strong angle to engage the audience.",
+    "topic_tags": [
+      "AI strategy",
+      "biodefense",
+      "risk management"
+    ],
+    "partner_takeaway": "AI can enhance biodefense by enabling more proactive and intelligent biological threat detection and response strategies.",
+    "partner_summary": "The article outlines an action plan for leveraging AI to improve biological resilience and biodefense. This is significant for professionals interested in AI's role in national security and risk management. The audience should consider how AI tools can be integrated into their own strategic planning for emerging biological threats.",
+    "promo_only": false
+  },
+  {
+    "id": "6d992982aa43",
+    "title": "🔬Scaling Past Informal AI - Carina Hong, Axiom Math",
+    "url": "https://www.latent.space/p/axiom",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Verified Generation and Compounding Intelligence",
+    "published": "2026-06-03T19:27:49+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199994886/848d731fc50b706ec6de69cfba2f3d58.mp3",
+    "relevance_score": 7,
+    "score_reason": "The discussion on verified generation and compounding intelligence is relevant to AI development and offers a conceptual framework that can be applied tactically.",
+    "topic_tags": [
+      "AI development",
+      "intelligence amplification",
+      "verification"
+    ],
+    "partner_takeaway": "Verified generation and compounding intelligence are key concepts for scaling AI systems beyond informal methods to more reliable and powerful outputs.",
+    "partner_summary": "This piece explores methods for scaling AI capabilities through verified generation and compounding intelligence. It matters to AI developers and strategists aiming to build more trustworthy and scalable AI systems. Readers should explore these concepts to improve the reliability and effectiveness of their AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "2b748350e453",
+    "title": "⚡️Satya Nadella: No Priors x Latent Space Crossover Special at Microsoft Build",
+    "url": "https://www.latent.space/p/satya-2026",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The legendary Microsoft CEO makes his first Latent Space appearance!",
+    "published": "2026-06-03T17:13:57+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/200432443/be4d039cefcb78767e3408d0f5ac3d29.mp3",
+    "relevance_score": 4,
+    "score_reason": "While the appearance of a major CEO is notable, the summary lacks substantive content or a clear educational angle for the audience.",
+    "topic_tags": [
+      "industry leadership",
+      "AI events"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Microsoft CEO Satya Nadella made his first appearance on Latent Space, a notable event in the AI community. However, the content does not provide specific insights or tactical information for practitioners. The audience gains little actionable knowledge from this announcement alone.",
+    "promo_only": true
+  },
+  {
+    "id": "fe24354b48e7",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+    "published": "2026-06-03T13:15:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The new capabilities of GPT-Rosalind in life sciences research provide concrete tactical tools and insights for AI applications in biology and medicine.",
+    "topic_tags": [
+      "AI in life sciences",
+      "biological reasoning",
+      "medicinal chemistry"
+    ],
+    "partner_takeaway": "GPT-Rosalind's enhanced biological reasoning and genomics analysis capabilities offer practical tools to accelerate life sciences research and experimental workflows.",
+    "partner_summary": "GPT-Rosalind has been upgraded with advanced capabilities in biological reasoning, medicinal chemistry, genomics analysis, and experimental workflows. This is highly relevant for professionals applying AI in life sciences and drug discovery. The audience should explore how these AI advancements can streamline research and improve experimental design.",
+    "promo_only": false
+  },
+  {
+    "id": "732c3a154de4",
+    "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
+    "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Testing Google&#8217;s Gemini Omni avatar feature live&#8212;I scan a QR code, clone my face, and ship a hype reel",
+    "published": "2026-06-03T12:04:09+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199768832/d826ce5f4e3c33b4124d99cf6468bda6.mp3",
+    "relevance_score": 5,
+    "score_reason": "The topic of AI avatars is interesting but presented as a product demo without clear tactical or strategic insights for the audience.",
+    "topic_tags": [
+      "AI avatars",
+      "user experience",
+      "product demo"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item showcases Google's Gemini Omni avatar feature, demonstrating how users can create AI clones quickly via QR code scanning. While intriguing, it primarily serves as a product demonstration with limited educational content. The audience should watch for future developments that might offer deeper insights or practical applications.",
+    "promo_only": true
+  },
+  {
+    "id": "53e0b201767a",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "url": "https://openai.com/index/wasmer",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months.",
+    "published": "2026-06-03T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The case study of Wasmer using Codex to accelerate development offers a strong practitioner perspective and tactical insight into AI-assisted software engineering.",
+    "topic_tags": [
+      "AI-assisted development",
+      "software engineering",
+      "productivity"
+    ],
+    "partner_takeaway": "Using Codex with GPT-5.5 enabled Wasmer to accelerate Node.js runtime development for the edge by 10x to 20x, demonstrating AI's impact on software productivity.",
+    "partner_summary": "Wasmer leveraged Codex with GPT-5.5 to build a Node.js runtime for edge computing, significantly speeding up development timelines. This example highlights the practical benefits of AI-assisted coding for software teams. Readers should consider how integrating AI tools can boost their own development efficiency and product delivery.",
+    "promo_only": false
+  },
+  {
+    "id": "aab095412e4a",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security.",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The blueprint for democratic governance of frontier AI offers a strategic perspective relevant to policy-minded professionals but requires a clear practitioner angle.",
+    "topic_tags": [
+      "AI governance",
+      "policy",
+      "safety"
+    ],
+    "partner_takeaway": "A federal framework for AI governance can enhance safety, resilience, and national security in managing frontier AI technologies.",
+    "partner_summary": "OpenAI has proposed a blueprint for U.S. governance of frontier AI, focusing on safety, resilience, and national security. This is important for professionals engaged in AI policy and governance discussions. The audience should monitor policy developments and consider their implications for AI strategy and compliance.",
+    "promo_only": false
+  },
+  {
+    "id": "77928feb440d",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society.",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The public policy agenda covers important AI topics but is broad and somewhat generic without a unique practitioner perspective.",
+    "topic_tags": [
+      "AI policy",
+      "safety",
+      "workforce"
+    ],
+    "partner_takeaway": "OpenAI's public policy agenda emphasizes AI safety, youth protection, workforce transition, and global standards to ensure societal benefits.",
+    "partner_summary": "OpenAI has outlined its public policy agenda addressing AI safety, youth protection, workforce transition, and global standards. While relevant, the agenda is broad and lacks specific tactical guidance for practitioners. Readers should stay informed on these policy priorities as they may impact AI adoption and regulation.",
+    "promo_only": false
+  },
+  {
+    "id": "a31ab6f70629",
+    "title": "The Nvidia AI PC, Project Solara, Microsoft AI",
+    "url": "https://stratechery.com/2026/the-nvidia-ai-pc-project-solara-microsoft-ai/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The Nvidia AI PC feels like a relic of another AI era; Microsoft's vision for devices at Build was much more compelling.",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The analysis comparing Nvidia AI PC and Microsoft's AI vision provides a useful trend read and perspective on AI hardware and ecosystem evolution.",
+    "topic_tags": [
+      "AI hardware",
+      "industry trends",
+      "ecosystem"
+    ],
+    "partner_takeaway": "Microsoft's AI device vision at Build represents a more forward-looking approach compared to Nvidia's AI PC, signaling shifts in AI hardware and ecosystem strategies.",
+    "partner_summary": "The article contrasts Nvidia's AI PC, seen as outdated, with Microsoft's more compelling AI device vision presented at Build. This matters to professionals tracking AI hardware trends and ecosystem developments. The audience should watch how these competing approaches influence AI adoption and innovation in devices.",
+    "promo_only": false
+  },
+  {
+    "id": "86b59f389606",
+    "title": "Balaji and Steven Glinert on Network States, Supply Chains, and Allied Coalition Strategy",
+    "url": "https://a16z.simplecast.com/episodes/balaji-and-steven-glinert-on-network-states-supply-chains-and-allied-coalition-strategy-C5bm4k5z",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee and Sophia Puccini speak with Balaji Srinivasan and Steven Glinert about the shifting balance of power between nations, networks, and technology. The conversation covers China’s industrial rise, America’s manufacturing challenges, the role of alliances in a multipolar world, and whether the internet is becoming a political force independent of traditional nation states. They discuss supply chains, technological sovereignty, decentralization, and competing visions for the future global order. Along the way, Balaji outlines ideas from the Network State and Network School, while bo...",
+    "published": "2026-06-03T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a3c3971e-e2e4-41a6-bb93-addb227d9187/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a3c3971e-e2e4-41a6-bb93-addb227d9187&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The conversation on network states, supply chains, and allied coalition strategy offers deep insight into geopolitical and technological shifts affecting business and policy.",
+    "topic_tags": [
+      "geopolitics",
+      "technology strategy",
+      "supply chains"
+    ],
+    "partner_takeaway": "Understanding the interplay between network states, supply chains, and alliances is critical for navigating the evolving geopolitical and technological landscape.",
+    "partner_summary": "Balaji Srinivasan and Steven Glinert discuss the shifting balance of power among nations, networks, and technology, focusing on supply chains and alliances. This is crucial for professionals interested in the intersection of geopolitics and technology strategy. The audience should consider these dynamics when planning for resilience and competitive advantage.",
+    "promo_only": false
+  },
+  {
+    "id": "023c35ff2014",
+    "title": "[AINews] Microsoft Build: MAI-Thinking-1 and MAI Family models",
+    "url": "https://www.latent.space/p/ainews-microsoft-build-mai-thinking",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Microsoft Build recap, and new MAI model technical details",
+    "published": "2026-06-03T05:49:02+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is technical and related to AI models but lacks a clear business or tactical angle for the audience without further interpretation.",
+    "topic_tags": [
+      "AI models",
+      "technology update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Microsoft Build featured new details about the MAI-Thinking-1 and MAI Family AI models. While this is relevant to AI technology enthusiasts, it offers limited direct insight or tactical advice for business practitioners. The audience should watch for how these models might influence AI applications but needs more context to apply this knowledge.",
+    "promo_only": false
+  },
+  {
+    "id": "fa93708c3d41",
+    "title": "Steven Sinofsky on AI PCs, NVIDIA, and the Future of Computing",
+    "url": "https://a16z.simplecast.com/episodes/steven-sinofsky-on-apple-at-50-microsoft-and-the-future-of-computing-qxp8eLCX",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee speaks with Steven Sinofsky about the next generation of personal computing and the growing role of AI-native hardware. The conversation covers NVIDIA’s entry into the PC market, Microsoft’s strategy for AI-powered devices, Apple’s hardware roadmap, and the long-running tension between backward compatibility and platform reinvention. Sinofsky explains why AI may fundamentally change how personal computers are designed, and why local inference could become increasingly important as AI workloads grow. Along the way, they discuss Windows, Surface, Arm processors, Apple Silicon, and...",
+    "published": "2026-06-02T17:16:55+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6de42287-1fdf-427f-a5bd-f5ff8936238b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6de42287-1fdf-427f-a5bd-f5ff8936238b&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "Strong content potential with a clear practitioner perspective on AI-native hardware and computing trends, offering insight and trend read value.",
+    "topic_tags": [
+      "AI hardware",
+      "computing trends",
+      "strategy"
+    ],
+    "partner_takeaway": "AI-native hardware is reshaping personal computing by balancing backward compatibility with platform reinvention, impacting how businesses approach technology adoption.",
+    "partner_summary": "Steven Sinofsky discusses the future of personal computing with AI-native hardware, including NVIDIA's PC market entry and Microsoft's AI device strategy. This matters to business and technology leaders who must navigate evolving hardware ecosystems and their implications for innovation and compatibility. Readers should consider how AI hardware trends could influence their technology strategies and investment decisions.",
+    "promo_only": false
+  },
+  {
+    "id": "8efac7eb1187",
+    "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+    "url": "https://openai.com/index/travelers",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand.",
+    "published": "2026-06-02T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Good business application of AI with a clear tactical example of AI-powered claims assistance improving customer service and operational scalability.",
+    "topic_tags": [
+      "AI applications",
+      "customer service",
+      "insurance"
+    ],
+    "partner_takeaway": "Deploying AI-powered claim assistants can enhance customer experience and operational efficiency in insurance during peak demand periods.",
+    "partner_summary": "Travelers has implemented an AI-powered Claim Assistant using OpenAI technology to help customers file claims and provide 24/7 support. This is significant for business leaders interested in AI-driven customer service improvements and operational scaling. The audience should explore how AI assistants can be integrated into their customer support workflows to boost responsiveness and efficiency.",
+    "promo_only": false
+  },
+  {
+    "id": "8efc9bbc9df3",
+    "title": "The Google Capital Company",
+    "url": "https://stratechery.com/2026/the-google-capital-company/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google has issued equity to Berkshire Hathaway in a deal that signals far more demand and a future where capital is the ultimate commodity.",
+    "published": "2026-06-02T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Interesting strategic insight into capital markets and corporate finance with implications for business strategy, though somewhat niche.",
+    "topic_tags": [
+      "corporate finance",
+      "capital markets",
+      "strategy"
+    ],
+    "partner_takeaway": "Google's equity deal with Berkshire Hathaway signals a shift where capital availability becomes a key competitive advantage in tech business strategy.",
+    "partner_summary": "Google issued equity to Berkshire Hathaway, indicating strong demand and a future where capital is a critical commodity. This matters to business strategists and finance professionals tracking how capital influences tech company growth and competitive positioning. Readers should monitor capital market moves as a factor in corporate strategy and innovation funding.",
+    "promo_only": false
+  },
+  {
+    "id": "19ed787e2fbf",
+    "title": "🎙️ How I AI: Codex Goals explained & Claude Opus 4.8 review & Building an iPhone app with zero technical skills",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-codex-goals-explained-and",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-01T15:01:46+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The content is a podcast roundup without a clear unique angle or actionable insight for the audience.",
+    "topic_tags": [
+      "AI tools",
+      "podcast summary"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast summary covering AI topics like Codex Goals and app building with no technical skills. It provides general updates but lacks a focused perspective or tactical advice for business practitioners. The audience may find it useful for casual listening but not for deep learning or actionable insights.",
+    "promo_only": false
+  },
+  {
+    "id": "f6e0025d4c64",
+    "title": "Building an iPhone app with zero technical skills | Bryce Rattner Keithley",
+    "url": "https://www.lennysnewsletter.com/p/building-an-iphone-app-with-zero",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; How a talent leader with zero technical skills built and shipped a fitness app to the App Store&#8212;complete with AI-generated videos of animals doing exercises",
+    "published": "2026-06-01T12:04:51+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199397687/cc673823edbf6db85cea29f359c3fc10.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong tactical example of non-technical talent leaders leveraging AI tools to build and launch apps, offering practical inspiration.",
+    "topic_tags": [
+      "AI tools",
+      "no-code",
+      "product development"
+    ],
+    "partner_takeaway": "Non-technical professionals can use AI tools to build and launch functional apps, democratizing product development.",
+    "partner_summary": "A talent leader with no technical background built and shipped a fitness app using AI-generated content and no-code tools. This is relevant for business leaders and product managers interested in leveraging AI to overcome technical barriers. The audience should explore AI and no-code platforms to accelerate innovation without deep coding skills.",
+    "promo_only": false
+  },
+  {
+    "id": "4edcd004a2a6",
+    "title": "YouTubers Win the Box Office, Goodbye Gatekeepers, The YouTube Bar",
+    "url": "https://stratechery.com/2026/youtubers-win-the-box-office-goodbye-gatekeepers-the-youtube-bar/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "YouTubers are ruling the box office, and it shouldn't be a surprise: succeeding on YouTube is a much higher bar than the gates that currently govern Hollywood.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Provides a trend read on content creation and distribution shifts, useful for media and marketing professionals.",
+    "topic_tags": [
+      "content creation",
+      "media trends",
+      "platform strategy"
+    ],
+    "partner_takeaway": "Success on YouTube requires surpassing a high bar that now challenges traditional Hollywood gatekeepers, signaling a shift in content power dynamics.",
+    "partner_summary": "YouTubers are increasingly dominating the box office, reflecting the platform's high standards and influence over traditional media gatekeepers. This trend matters to marketers, content creators, and media strategists tracking shifts in audience engagement and distribution power. The audience should consider how digital platforms reshape content success and adapt their strategies accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "28a2c63207f5",
+    "title": "Building AI Agents for Enterprise Operations",
+    "url": "https://a16z.simplecast.com/episodes/building-ai-agents-for-enterprise-operations-g19Ldybr",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya and Olivia Moore speak with Pablo Palafox and Luis Paarup about the challenges of deploying AI agents in operationally complex industries. The conversation covers the evolution of voice AI, enterprise workflows, and why logistics became an early proving ground for agent-based systems. They discuss context, coordination, and execution inside large organizations, as well as the role of forward-deployed engineering, enterprise deployment, and what it takes to move AI from experimentation into production.",
+    "published": "2026-06-01T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/be8b0422-dfff-4b0b-9e12-5697084036fd/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=be8b0422-dfff-4b0b-9e12-5697084036fd&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High content potential with deep practitioner insights on deploying AI agents in complex enterprise operations, offering tactical and strategic value.",
+    "topic_tags": [
+      "AI agents",
+      "enterprise operations",
+      "workflow automation"
+    ],
+    "partner_takeaway": "Deploying AI agents in complex enterprise workflows requires addressing context, coordination, and execution challenges to improve operational efficiency.",
+    "partner_summary": "Experts discuss the challenges and evolution of AI agents in operationally complex industries like logistics, focusing on context and coordination. This is crucial for enterprise leaders exploring AI-driven workflow automation and operational improvements. The audience should evaluate how AI agents can be integrated into their operations to enhance efficiency and execution.",
+    "promo_only": false
+  }
+]

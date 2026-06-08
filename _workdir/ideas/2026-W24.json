@@ -1,0 +1,61 @@
+[
+  {
+    "track": "A",
+    "title": "Redesigning Search for AI Agents: What Changes in Your Workflow",
+    "hook": "Traditional search engines weren't built for AI agents, and that's holding back automation.",
+    "format": "opinion",
+    "partner_takeaway": "Search infrastructure must be redesigned to support AI agents as users, focusing on retrieval, workflows, and data access beyond traditional human-centric search models.",
+    "story_ref": null,
+    "source_refs": [
+      "6e00aa6ed867"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "This topic is timely as more teams are deploying AI agents that need to interact with data autonomously. Your audience will want to understand what infrastructure changes are required and how this impacts their own AI-driven workflows."
+  },
+  {
+    "track": "A",
+    "title": "How I Ship AI-Driven Features: Lessons from My First Production Launch",
+    "hook": "Shipping my first AI-powered feature to production taught me more about edge cases than any prototype ever could.",
+    "format": "case-study",
+    "partner_takeaway": "Launching an AI-driven feature in production reveals practical lessons about handling unexpected user interactions and model limitations.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "Your audience is hungry for real-world examples of deploying AI. Sharing your concrete experience and what you learned will help others anticipate pitfalls and improve their own launches."
+  },
+  {
+    "track": "B",
+    "title": "AI Agents and the Fight for Customer Data: What’s Really Changing?",
+    "hook": "Enterprise software companies are scrambling to adapt as AI agents demand direct access to customer data.",
+    "format": "opinion",
+    "partner_takeaway": "The future of data infrastructure in AI involves balancing open data access with privacy concerns, and companies often overestimate AI's threat to enterprise software.",
+    "story_ref": "story-002",
+    "source_refs": [
+      "3b71d64b7280"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "This idea combines a recent industry signal with your personal shift in perspective, offering readers a grounded take on a headline trend. It helps your audience understand what’s actually changing and what’s hype."
+  },
+  {
+    "track": "A",
+    "title": "A Pattern I Keep Coming Back To: AI Workflow That Actually Works",
+    "hook": "Whenever I need a reliable result from an AI tool, I fall back on a simple workflow that saves hours.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn a proven workflow for getting consistent results from AI tools, including common mistakes and how to avoid them.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "Your audience wants actionable, repeatable patterns. Sharing a workflow you’ve battle-tested gives them something concrete to try this week, and helps differentiate your tactical track from generic AI advice."
+  },
+  {
+    "track": "C",
+    "title": "What I Learned Building in Public: The Power of Early Feedback",
+    "hook": "Opening up my build process to public feedback changed the product—and my mindset—more than I expected.",
+    "format": "short",
+    "partner_takeaway": "Early, public feedback accelerates iteration and surfaces blind spots before launch.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "Building in public is a hot topic, but your audience wants specifics. Linking your experience to a concrete lesson on feedback makes this relevant and actionable, especially for readers considering their own public launches."
+  }
+]
