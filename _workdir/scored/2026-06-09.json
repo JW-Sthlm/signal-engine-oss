@@ -1,0 +1,180 @@
+[
+  {
+    "id": "0f5fce96fe94",
+    "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
+    "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We made a thing!",
+    "published": "2026-06-09T06:12:33+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The item is vague and lacks a clear educational angle or takeaway for the audience.",
+    "topic_tags": [
+      "code quality",
+      "benchmarking"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A new benchmarking tool for code quality called FrontierCode was announced. The announcement lacks detail and does not provide actionable insights or perspectives for the audience. Without more substance, readers cannot learn practical or strategic lessons from this item.",
+    "promo_only": true
+  },
+  {
+    "id": "1ec6cb74bf1f",
+    "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-06-08T15:01:21+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant and interesting but requires a personal angle to deliver unique value.",
+    "topic_tags": [
+      "AI tools",
+      "productivity",
+      "automation"
+    ],
+    "partner_takeaway": "AI tools like Gemini Omni can help automate personal productivity by cloning tasks, offering new ways to save time.",
+    "partner_summary": "This podcast episode explores AI tools such as Gemini Omni that enable users to clone themselves digitally and automate shopping with AI assistants like Claude. These tools matter because they represent practical AI applications that can enhance productivity and reduce manual effort. The audience should explore how AI-driven automation can be integrated into their workflows to save time and improve efficiency.",
+    "promo_only": false
+  },
+  {
+    "id": "b2bf746508f3",
+    "title": "Confidential submission of draft S-1 to the SEC",
+    "url": "https://openai.com/index/openai-submits-confidential-s-1",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "published": "2026-06-08T14:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "This is a corporate filing announcement with no actionable insight or educational content for the audience.",
+    "topic_tags": [
+      "corporate strategy",
+      "AI industry"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, signaling potential plans for a public offering. While this is significant news in the AI industry, it offers no direct tactical or strategic insights for practitioners. Readers should monitor for future developments but cannot derive practical lessons from this announcement alone.",
+    "promo_only": true
+  },
+  {
+    "id": "dc128fc3941d",
+    "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+    "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids",
+    "published": "2026-06-08T12:03:27+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199808758/244c95a00126f898f2f5e17c70f9cb9e.mp3",
+    "relevance_score": 7,
+    "score_reason": "The item offers a practical example of using AI to improve shopping efficiency and quality, relevant to the audience.",
+    "topic_tags": [
+      "AI tools",
+      "consumer behavior",
+      "automation"
+    ],
+    "partner_takeaway": "Using AI assistants like Claude can help consumers identify quality products, automate returns, and reduce time spent on administrative tasks.",
+    "partner_summary": "Nicole Ruiz demonstrates how she uses the AI assistant Claude to shop for durable, high-quality brands, automate product returns, and minimize administrative overhead. This matters because it shows a concrete, tactical use of AI to improve consumer decision-making and time management. The audience should consider how AI tools can be applied to streamline routine tasks and enhance purchasing decisions.",
+    "promo_only": false
+  },
+  {
+    "id": "57d10b7dd92b",
+    "title": "Google Buys Compute From SpaceX, Broadcom’s Outlook, Apple’s AI Politics",
+    "url": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google's deal with SpaceX, and Broadcom's earnings, both seem bullish for Nvidia. Then, what I'm looking for at WWDC.",
+    "published": "2026-06-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The analysis connects major tech deals and earnings to broader market trends with actionable insights for the audience.",
+    "topic_tags": [
+      "tech strategy",
+      "market trends",
+      "AI infrastructure"
+    ],
+    "partner_takeaway": "Google's SpaceX compute deal and Broadcom's earnings signal bullish trends for Nvidia and highlight evolving AI infrastructure dynamics.",
+    "partner_summary": "This article analyzes Google's purchase of compute capacity from SpaceX and Broadcom's financial outlook, interpreting both as positive indicators for Nvidia and the AI hardware market. These developments matter because they reveal how infrastructure investments and earnings reports reflect broader AI adoption and market positioning. Readers should watch these trends to understand where AI infrastructure and corporate strategies are heading.",
+    "promo_only": false
+  },
+  {
+    "id": "9adaab60e75d",
+    "title": "AI Eats the World? A Reality Check with Benedict Evans",
+    "url": "https://a16z.simplecast.com/episodes/ai-eats-the-world-a-reality-check-with-benedict-evans-GVzr9ZaX",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Erik Torenberg speaks with tech analyst Benedict Evans about the current state of AI, what has changed over the past year, and which questions remain unanswered. The conversation covers coding agents, foundation models, AI infrastructure spending, software economics, and the tension between today's AI excitement and the long-term realities of technology adoption. Evans discusses why coding has emerged as AI's first breakout use case, how previous platform shifts can help frame the current moment, and why many of the most important questions about AI remain unresolved. Along the way, they ex...",
+    "published": "2026-06-08T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ef50a480-c90b-45e0-b995-e2473402cff6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ef50a480-c90b-45e0-b995-e2473402cff6&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The conversation offers deep insights into AI's current state, economics, and adoption challenges, highly relevant to the audience.",
+    "topic_tags": [
+      "AI trends",
+      "software economics",
+      "technology adoption"
+    ],
+    "partner_takeaway": "Understanding the gap between AI hype and long-term adoption realities helps practitioners set realistic expectations and strategies.",
+    "partner_summary": "Benedict Evans discusses the current AI landscape, including coding agents, foundation models, and the economics of AI infrastructure spending. This matters because it provides a grounded perspective on AI's practical impact versus hype, helping readers navigate the evolving technology landscape. The audience should use these insights to calibrate their AI strategies and investment decisions realistically.",
+    "promo_only": false
+  },
+  {
+    "id": "05fa08192d52",
+    "title": "Built to benefit everyone: our plan",
+    "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone.",
+    "published": "2026-06-08T01:30:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The vision statement is broad and aspirational but lacks concrete tactical or practitioner insights.",
+    "topic_tags": [
+      "AI ethics",
+      "future vision",
+      "accessibility"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI published a vision outlining its commitment to safe, accessible AI that benefits all. While important for understanding company values, it offers limited tactical or strategic guidance for practitioners. Readers should be aware of these principles but look elsewhere for actionable AI implementation advice.",
+    "promo_only": true
+  },
+  {
+    "id": "95f7fe92b0dc",
+    "title": "Introducing the OpenAI Economic Research Exchange",
+    "url": "https://openai.com/index/economic-research-exchange",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+    "published": "2026-06-08T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Launching a research exchange on AI's economic impact offers a new tool and data source for understanding AI's broader effects.",
+    "topic_tags": [
+      "AI economics",
+      "research",
+      "impact analysis"
+    ],
+    "partner_takeaway": "The OpenAI Economic Research Exchange provides a platform for studying AI's effects on jobs and productivity, offering valuable data for strategic decision-making.",
+    "partner_summary": "OpenAI has launched the Economic Research Exchange to facilitate research on AI's impact on employment, productivity, and the economy, inviting applications for projects. This matters because it creates a structured way to gather and analyze data critical for understanding AI's real-world consequences. The audience should watch this initiative as a source of emerging insights and research findings to inform their strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "0b07b2ecb12d",
+    "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+    "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens",
+    "published": "2026-06-07T12:31:29+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591956/215956b14c5f0b86f14f10e79b7cbc6f.mp3",
+    "relevance_score": 8,
+    "score_reason": "The interview with a renowned product creator offers practitioner insights on decision-making and AI's role in product design.",
+    "topic_tags": [
+      "product management",
+      "AI impact",
+      "creativity"
+    ],
+    "partner_takeaway": "Balancing opinion and data in product decisions remains crucial, and AI will complement rather than replace human creativity and interface design.",
+    "partner_summary": "Tony Fadell, creator of the iPod and iPhone, shares his views on building taste, judgment, and creativity in the AI era, emphasizing the importance of marketing and human-centered design. This matters because it provides a seasoned practitioner's perspective on integrating AI thoughtfully into product development. Readers should consider how to maintain human creativity and judgment while leveraging AI tools effectively.",
+    "promo_only": false
+  }
+]
