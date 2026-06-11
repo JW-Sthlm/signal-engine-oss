@@ -1,0 +1,376 @@
+[
+  {
+    "id": "456883dbdcda",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us reflect on a great essay",
+    "published": "2026-06-11T03:14:26+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The essay on open models and agent labs is relevant and offers a perspective but needs a personal angle to maximize impact.",
+    "topic_tags": [
+      "AI models",
+      "AI strategy"
+    ],
+    "partner_takeaway": "Understanding the distinctions between open models, model labs, and agent labs helps clarify AI development trends and what aspects remain untrainable.",
+    "partner_summary": "This essay reflects on the differences between open AI models, model labs, and agent labs, highlighting what aspects of AI remain untrainable. This matters to practitioners who want to understand the evolving AI landscape and where innovation is focused. Readers should watch these distinctions to better position their AI strategies and investments.",
+    "promo_only": false
+  },
+  {
+    "id": "21c4039e17a1",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Interesting use of Codex in astrophysics but limited direct business or tactical insight for the writer's audience.",
+    "topic_tags": [
+      "AI applications",
+      "scientific computing"
+    ],
+    "partner_takeaway": "AI tools like Codex can accelerate complex scientific simulations, demonstrating AI’s expanding role beyond traditional business use cases.",
+    "partner_summary": "Astrophysicist Chi-kwan Chan uses OpenAI’s Codex to simulate black holes, aiding research on extreme physics and Einstein’s theory. While this showcases AI’s power in scientific domains, it highlights broader AI applications beyond business. Readers should consider how AI tools might unlock new capabilities in their own specialized fields.",
+    "promo_only": false
+  },
+  {
+    "id": "8c328d594d94",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Supporting trustworthy AI and transparency aligns well with business concerns about AI ethics and governance.",
+    "topic_tags": [
+      "AI ethics",
+      "governance",
+      "transparency"
+    ],
+    "partner_takeaway": "Adopting AI content transparency standards and provenance tools is essential for building trust and compliance in AI deployments.",
+    "partner_summary": "OpenAI supports the EU Code of Practice on AI content transparency by advancing provenance standards and tools to clarify AI-generated content. This is crucial for businesses aiming to maintain trust and regulatory compliance in AI use. Organizations should monitor and adopt transparency frameworks to ensure responsible AI integration.",
+    "promo_only": false
+  },
+  {
+    "id": "945bba56d3b0",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "published": "2026-06-10T20:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Accessing OpenAI models via Oracle Cloud is useful but reads mostly as a product announcement with limited tactical insight.",
+    "topic_tags": [
+      "AI platforms",
+      "cloud computing"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI models and Codex are now accessible through Oracle Cloud commitments, enabling enterprise-grade AI deployment. This offers a new channel for businesses to integrate AI with existing cloud infrastructure. Readers should evaluate if this integration fits their AI deployment strategies.",
+    "promo_only": true
+  },
+  {
+    "id": "70a5b363c822",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-10T16:24:11+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "A technical advancement in text generation speed is relevant but needs a clear business or tactical angle for the audience.",
+    "topic_tags": [
+      "AI models",
+      "text generation"
+    ],
+    "partner_takeaway": "New techniques like DiffusionGemma can significantly speed up text generation, potentially improving AI-driven content workflows.",
+    "partner_summary": "DeepMind introduced DiffusionGemma, a method that accelerates text generation by 4x. Faster generation can enhance productivity in AI content creation and real-time applications. Readers should watch for adoption of such techniques to optimize AI model performance.",
+    "promo_only": false
+  },
+  {
+    "id": "6c89a1c46bc5",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "published": "2026-06-10T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The report on influence operations targeting AI debates offers a valuable warning about misinformation risks in AI discourse.",
+    "topic_tags": [
+      "AI policy",
+      "security",
+      "misinformation"
+    ],
+    "partner_takeaway": "Awareness of foreign influence operations in AI debates is critical to safeguard informed decision-making and public trust.",
+    "partner_summary": "OpenAI published a report revealing PRC-linked influence operations using AI to manipulate U.S. tech debates and spread false narratives. This highlights the security risks and misinformation challenges in AI policy discussions. Readers should remain vigilant and critically assess AI-related information sources.",
+    "promo_only": false
+  },
+  {
+    "id": "71817a533fc6",
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+    "published": "2026-06-10T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Analysis of Anthropic’s Fable 5 and AI alignment offers a strong perspective with implications for AI safety and ethics.",
+    "topic_tags": [
+      "AI alignment",
+      "model governance",
+      "AI ethics"
+    ],
+    "partner_takeaway": "Fable 5’s capabilities and controversial precedents illustrate the ongoing tension between AI power and safe, ethical deployment.",
+    "partner_summary": "Fable 5, the public version of Anthropic’s Mythos model, is powerful but introduces troubling new usage policies. This matters for businesses balancing AI innovation with alignment and ethical concerns. Readers should critically evaluate AI models’ terms and safety measures before adoption.",
+    "promo_only": false
+  },
+  {
+    "id": "1d68aa99b492",
+    "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
+    "published": "2026-06-10T03:50:21+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Coverage of Anthropic Claude Fable 5 launch and its controversial policies offers a practitioner perspective on AI governance challenges.",
+    "topic_tags": [
+      "AI models",
+      "governance",
+      "policy"
+    ],
+    "partner_takeaway": "Controversial usage policies in new AI models like Claude Fable 5 highlight the importance of scrutinizing AI governance frameworks.",
+    "partner_summary": "Anthropic launched Claude Fable 5, a Mythos-class model, but its usage policies sparked controversy. This reflects broader challenges in balancing AI capabilities with responsible governance. Readers should monitor policy developments to inform their AI adoption strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "9dcbb07c3e2a",
+    "title": "From data to decisions: how LSEG is scaling trusted AI",
+    "url": "https://openai.com/index/lseg",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees.",
+    "published": "2026-06-10T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "A case study on LSEG scaling trusted AI provides concrete insights and tactical lessons for enterprise AI adoption.",
+    "topic_tags": [
+      "enterprise AI",
+      "trusted AI",
+      "case study"
+    ],
+    "partner_takeaway": "Scaling trusted AI across a global business requires accelerating insights, shortening release cycles, and empowering employees with AI tools.",
+    "partner_summary": "LSEG uses OpenAI to scale trusted AI globally, speeding insights, reducing release cycles, and enabling 4,000 employees. This demonstrates practical steps for enterprise AI integration with governance. Readers should explore how trusted AI frameworks can enhance their organizational AI efforts.",
+    "promo_only": false
+  },
+  {
+    "id": "226af8b0c82b",
+    "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+    "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;Early access to Claude Fable 5: what Anthropic claims, what I tested, and my honest take",
+    "published": "2026-06-09T18:32:03+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201340379/8da7ea0936373fa52a1171a4407410e0.mp3",
+    "relevance_score": 6,
+    "score_reason": "A review of Claude Fable 5 offers useful user experience insights but is somewhat generic without a strong unique angle.",
+    "topic_tags": [
+      "AI model review",
+      "user experience"
+    ],
+    "partner_takeaway": "Early testing of Claude Fable 5 reveals strengths and weaknesses that inform expectations for Mythos-class models.",
+    "partner_summary": "This review covers early access to Claude Fable 5, discussing what Anthropic claims and the reviewer’s honest experience. It helps readers set realistic expectations for new AI models. Readers should consider such reviews when evaluating AI tools for their needs.",
+    "promo_only": false
+  },
+  {
+    "id": "e0e0cc9a577d",
+    "title": "What it feels like to work with Mythos",
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "Claude Fable represents another big jump in AI",
+    "published": "2026-06-09T17:11:22+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A practitioner’s perspective on working with Mythos models offers valuable experiential insight for AI adopters.",
+    "topic_tags": [
+      "AI models",
+      "user experience",
+      "practitioner insight"
+    ],
+    "partner_takeaway": "Working with Mythos models like Claude Fable represents a significant leap in AI capabilities, impacting how users interact with AI.",
+    "partner_summary": "This piece shares what it feels like to work with Mythos-class AI models, highlighting their advances and user impact. Such firsthand accounts help practitioners understand new AI capabilities. Readers should seek similar experiential insights to guide their AI adoption.",
+    "promo_only": false
+  },
+  {
+    "id": "1abd60a925ec",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "published": "2026-06-09T15:16:25+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Gemini 3.5 Live Translate’s near real-time voice translation is a useful tool insight with clear practical applications.",
+    "topic_tags": [
+      "AI tools",
+      "translation",
+      "productivity"
+    ],
+    "partner_takeaway": "Gemini 3.5 Live Translate enables fluid, near real-time voice translation, improving communication in global and remote work settings.",
+    "partner_summary": "Google DeepMind launched Gemini 3.5 Live Translate, offering natural, near real-time voice translation integrated into Google AI Studio, Translate, and Meet. This enhances multilingual communication and productivity in business contexts. Readers should explore how such tools can support global collaboration.",
+    "promo_only": false
+  },
+  {
+    "id": "3ecaddc1f0d5",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-09T14:10:19+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant to AI and multimodal models but lacks a clear business or tactical angle for the writer's audience without additional interpretation.",
+    "topic_tags": [
+      "AI models",
+      "multimodal",
+      "technology trends"
+    ],
+    "partner_takeaway": "Unified encoder-free multimodal models like Gemma 4 12B represent a new architecture approach that could influence future AI applications.",
+    "partner_summary": "DeepMind introduced Gemma 4 12B, a unified, encoder-free multimodal AI model. This matters to product builders and AI practitioners as it signals evolving model architectures that may simplify or enhance AI capabilities. The audience should watch how this architecture impacts AI product development and consider its potential applications.",
+    "promo_only": false
+  },
+  {
+    "id": "603a276069f1",
+    "title": "Powering the future of robotics in Europe",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-09T14:02:33+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The post is about robotics in Europe but lacks a clear tactical or business insight relevant to the writer's audience without a specific angle.",
+    "topic_tags": [
+      "robotics",
+      "technology trends"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "DeepMind published a piece on advancing robotics in Europe. While robotics is an important field, the content does not provide a clear perspective or actionable insight for product builders or business-focused readers. The audience should monitor robotics developments but this item lacks immediate practical value.",
+    "promo_only": false
+  },
+  {
+    "id": "7929ae8ebc17",
+    "title": "Essential books for product builders—part 2",
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "36 more timeless books that&#8217;ll make you a better builder, leader, and person",
+    "published": "2026-06-09T13:11:29+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Highly relevant for product builders with a clear takeaway on valuable reading resources that improve skills and leadership.",
+    "topic_tags": [
+      "product management",
+      "leadership",
+      "learning resources"
+    ],
+    "partner_takeaway": "Reading these essential books can significantly improve your skills as a product builder, leader, and overall professional.",
+    "partner_summary": "Lenny's Newsletter shared a curated list of 36 essential books for product builders. This is valuable for product managers and leaders looking to deepen their knowledge and improve their craft. The audience should consider integrating these books into their learning plans to enhance their effectiveness and leadership.",
+    "promo_only": false
+  },
+  {
+    "id": "26dceef2b837",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "url": "https://openai.com/index/nextdoor",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+    "published": "2026-06-09T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with a practitioner perspective on using AI tools to improve engineering productivity and product focus.",
+    "topic_tags": [
+      "AI tools",
+      "engineering productivity",
+      "product development"
+    ],
+    "partner_takeaway": "Using Codex with GPT-5.5 enables engineers to solve complex issues faster and focus more on product outcomes across platforms.",
+    "partner_summary": "Nextdoor engineers use Codex integrated with GPT-5.5 to tackle hard-to-reproduce bugs and accelerate cross-platform development. This matters to engineering leaders and product builders aiming to boost team productivity and product quality. The audience should explore how AI coding assistants can be integrated into their workflows to enhance efficiency.",
+    "promo_only": false
+  },
+  {
+    "id": "de6b9c3ee2e6",
+    "title": "What Codex unlocks for Notion",
+    "url": "https://openai.com/index/notion",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+    "published": "2026-06-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Relevant example of AI tool adoption in product development with some tactical insights, but somewhat promotional.",
+    "topic_tags": [
+      "AI tools",
+      "product development",
+      "team productivity"
+    ],
+    "partner_takeaway": "Notion's use of Codex to rapidly generate specs and build AI features shows how small teams can multiply engineering output with AI assistance.",
+    "partner_summary": "Notion leverages Codex to create one-shot specs and develop AI Voice Input, boosting engineering productivity in small teams. This is relevant for product builders interested in AI-driven development acceleration. The audience should consider how AI tools can help scale their engineering efforts and innovate faster.",
+    "promo_only": false
+  },
+  {
+    "id": "c8733d738e06",
+    "title": "The iPhone’s Last Stand",
+    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Siri isn't state of the art, but as long as it works — and it appears it does — it's good enough for the consumer market.",
+    "published": "2026-06-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Provides a nuanced perspective on Siri's role in the consumer market, useful for product and tech strategists.",
+    "topic_tags": [
+      "product strategy",
+      "consumer technology",
+      "AI assistants"
+    ],
+    "partner_takeaway": "Siri's continued consumer relevance despite not being state-of-the-art highlights the importance of reliability over cutting-edge features in mass markets.",
+    "partner_summary": "Stratechery analyzes Siri's position as a functional but not leading AI assistant in the consumer market. This insight matters to product strategists balancing innovation with user expectations and reliability. The audience should consider how to prioritize product stability and user experience over chasing the latest tech in consumer products.",
+    "promo_only": false
+  },
+  {
+    "id": "f6c67eebcab0",
+    "title": "Tyler Cowen & Alex Tabarrok on AI, Jobs, and Economic Growth",
+    "url": "https://a16z.simplecast.com/episodes/tyler-cowen-alex-tabarrok-on-ai-jobs-and-economic-growth-ga2nsz31",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Wyatt Thomson of OpenAI speaks with economists Tyler Cowen and Alex Tabarrok about AI, labor markets, and the future of economic growth. The conversation explores one of the most common fears surrounding AI: that increasingly capable systems will eliminate jobs. Cowen and Tabarrok argue instead that economic growth remains the key variable. Throughout history, productivity-enhancing technologies have transformed work, created new industries, and expanded living standards, even as they disrupted existing jobs and institutions. They discuss automation, comparative advantage, inequality, educa...",
+    "published": "2026-06-09T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/3f0ed16b-9bcd-4851-a9e8-5ae46e1e8ff4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=3f0ed16b-9bcd-4851-a9e8-5ae46e1e8ff4&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a strong economic perspective on AI's impact on jobs and growth, relevant for strategic thinking.",
+    "topic_tags": [
+      "AI impact",
+      "economic growth",
+      "labor markets"
+    ],
+    "partner_takeaway": "Economic growth driven by productivity-enhancing AI technologies is a more critical factor than job displacement fears in shaping the future labor market.",
+    "partner_summary": "Economists Tyler Cowen and Alex Tabarrok discuss how AI influences jobs and economic growth, emphasizing productivity over job loss fears. This perspective is crucial for leaders and strategists navigating AI's societal and business impacts. The audience should focus on leveraging AI to drive growth rather than solely fearing job displacement.",
+    "promo_only": false
+  }
+]
