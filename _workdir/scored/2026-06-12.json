@@ -1,0 +1,256 @@
+[
+  {
+    "id": "2f2c63bb16fa",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "published": "2026-06-12T05:34:09+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is interesting but abstract without a clear business or tactical angle for the audience; it needs a strong personal or practical perspective to be valuable.",
+    "topic_tags": [
+      "AI concepts",
+      "tactical thinking"
+    ],
+    "partner_takeaway": "Stacking loops in AI programming can optimize iterative processes and improve model efficiency when applied thoughtfully.",
+    "partner_summary": "This article highlights the concept of stacking loops in AI programming as discussed by experts Peter Steinberger, Boris Cherny, and Andrej Karpathy. Understanding this technique matters because it can help practitioners optimize AI model performance and efficiency. Readers should explore how to apply loop stacking in their own AI projects to enhance computational workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "35b6703e422f",
+    "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+    "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
+    "published": "2026-06-11T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The interview provides insights into AI compute trends and Apple's strategy, offering a practitioner perspective relevant to tech and business audiences.",
+    "topic_tags": [
+      "AI industry",
+      "compute trends",
+      "business strategy"
+    ],
+    "partner_takeaway": "Understanding Apple's approach to AI compute reveals broader industry trends and strategic shifts that impact technology adoption and investment decisions.",
+    "partner_summary": "This interview with Ben Bajarin discusses Apple's role in AI and the evolving compute landscape following WWDC. It matters because it offers a window into how a major tech player is shaping AI infrastructure and innovation. Readers should watch for shifts in AI compute strategies to inform their own technology planning and investments.",
+    "promo_only": false
+  },
+  {
+    "id": "9005d541d46d",
+    "title": "Designing the Physical World with AI",
+    "url": "https://a16z.simplecast.com/episodes/designing-the-physical-world-with-ai-4Yt_NF_r-pmHb0Dmc",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Erin Price-Wright speaks with Alex Modon, cofounder and CEO at Unlimited Industries, and Davide Asnaghi, CEO at Diode Computers, about how AI is moving from software into the physical world. They discuss automating construction and electronics design, using code and simulation to model real-world systems, and how incentives and manufacturing constraints shape adoption. They also examine what it takes to scale infrastructure, reduce build times, and unlock more abundant industrial capacity in the United States.",
+    "published": "2026-06-11T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/5e9d9592-dc9f-4b16-be68-5bc5ab3271dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=5e9d9592-dc9f-4b16-be68-5bc5ab3271dc&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on AI moving into physical design and manufacturing offers strong tactical insights and trend analysis valuable to practitioners bridging software and hardware.",
+    "topic_tags": [
+      "AI applications",
+      "physical design",
+      "automation"
+    ],
+    "partner_takeaway": "AI is increasingly automating physical design and manufacturing processes, requiring practitioners to integrate simulation and coding with real-world constraints for effective adoption.",
+    "partner_summary": "This podcast episode explores how AI is transitioning from software to physical world applications like construction and electronics design. This shift matters because it changes how businesses approach automation, requiring new skills and integration strategies. The audience should consider how to leverage AI-driven simulation and design tools to optimize physical product development and manufacturing workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "456883dbdcda",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us reflect on a great essay",
+    "published": "2026-06-11T03:14:26+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The essay reflection on open models and labs offers some insight but lacks a concrete tactical or business takeaway without further elaboration.",
+    "topic_tags": [
+      "AI models",
+      "industry trends"
+    ],
+    "partner_takeaway": "Differentiating between open models, model labs, and agent labs helps clarify AI development ecosystems and their implications for innovation and deployment.",
+    "partner_summary": "This piece reflects on an essay discussing open AI models, model labs, and agent labs. It matters because understanding these distinctions can help practitioners navigate AI development environments more effectively. Readers should explore these concepts to better position their AI projects within the evolving ecosystem.",
+    "promo_only": false
+  },
+  {
+    "id": "cc770dce6f4b",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "This is primarily a product and customer spotlight with limited broader insight or tactical value beyond the announcement.",
+    "topic_tags": [
+      "AI adoption",
+      "enterprise AI"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "BBVA has implemented ChatGPT Enterprise for 100,000 employees in partnership with OpenAI to transform banking operations. While this shows large-scale AI adoption, it mainly serves as a customer case without deeper strategic or tactical insights. Readers should note the scale of AI integration but look elsewhere for actionable guidance.",
+    "promo_only": true
+  },
+  {
+    "id": "fe34bb5bf0a7",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "This is a pure acquisition announcement focused on product expansion without a clear business or practitioner insight.",
+    "topic_tags": [
+      "AI tools",
+      "enterprise workflows"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced plans to acquire Ona to enhance Codex with secure cloud environments for AI agents. This is a product development update without broader implications or tactical advice. Readers interested in AI tool ecosystems should monitor but will not gain immediate practical insights.",
+    "promo_only": true
+  },
+  {
+    "id": "21c4039e17a1",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "While interesting as a use case, it is narrowly technical and lacks a clear business or tactical angle for the broader audience.",
+    "topic_tags": [
+      "AI applications",
+      "scientific computing"
+    ],
+    "partner_takeaway": "AI tools like Codex can accelerate complex scientific simulations, illustrating potential cross-domain applications of AI beyond traditional software tasks.",
+    "partner_summary": "An astrophysicist uses Codex to simulate black holes, aiding research in extreme physics and general relativity. This highlights AI's expanding role in scientific computing, which may inspire practitioners to explore AI in specialized domains. Readers should consider how AI can augment complex modeling tasks in their own fields.",
+    "promo_only": false
+  },
+  {
+    "id": "8c328d594d94",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The support for EU AI transparency standards offers a relevant trend read and warning about AI content provenance important for practitioners.",
+    "topic_tags": [
+      "AI ethics",
+      "regulation",
+      "transparency"
+    ],
+    "partner_takeaway": "Adopting AI content transparency and provenance standards is critical for building trustworthy AI systems and complying with emerging regulations.",
+    "partner_summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing tools to clarify AI-generated content origins. This matters as regulatory and ethical expectations for AI transparency increase globally. Practitioners should prioritize provenance and transparency mechanisms to maintain trust and compliance.",
+    "promo_only": false
+  },
+  {
+    "id": "945bba56d3b0",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "published": "2026-06-10T20:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "This is a product integration announcement with limited insight or tactical advice beyond the availability of OpenAI models on Oracle Cloud.",
+    "topic_tags": [
+      "AI deployment",
+      "cloud platforms"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI models and Codex are now accessible through Oracle Cloud, leveraging existing enterprise commitments for secure AI deployment. This update is useful for organizations using Oracle Cloud but offers limited strategic or tactical guidance. Readers should consider cloud options for AI deployment but seek deeper insights elsewhere.",
+    "promo_only": true
+  },
+  {
+    "id": "70a5b363c822",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-10T16:24:11+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The announcement of faster text generation technology has potential tactical value but lacks detail and practitioner perspective in the summary.",
+    "topic_tags": [
+      "AI models",
+      "text generation",
+      "performance"
+    ],
+    "partner_takeaway": "New diffusion-based techniques can significantly speed up text generation, improving efficiency in AI content creation workflows.",
+    "partner_summary": "DeepMind announced DiffusionGemma, a technology enabling 4x faster text generation. This matters because faster generation can enhance productivity and reduce costs in AI-driven content tasks. Readers should watch for adoption of diffusion methods to optimize their AI text generation pipelines.",
+    "promo_only": false
+  },
+  {
+    "id": "6c89a1c46bc5",
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "published": "2026-06-10T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The report on influence operations using AI in political debates offers a valuable warning and insight into AI's societal impact relevant to a broad audience.",
+    "topic_tags": [
+      "AI ethics",
+      "security",
+      "influence operations"
+    ],
+    "partner_takeaway": "AI can be weaponized in influence operations targeting political and tech debates, highlighting the need for vigilance and countermeasures.",
+    "partner_summary": "OpenAI released a report detailing PRC-linked influence operations using AI to manipulate US tech and policy debates. This matters because it exposes risks of AI misuse in shaping public opinion and policy. Readers should be aware of these tactics and support efforts to detect and mitigate AI-driven disinformation.",
+    "promo_only": false
+  },
+  {
+    "id": "2502bf24bf60",
+    "title": "Investing in multi-agent AI safety research",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "published": "2026-06-10T10:21:19+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The funding announcement for multi-agent AI safety research offers a strong trend read and practitioner insight into the growing focus on AI safety.",
+    "topic_tags": [
+      "AI safety",
+      "research funding",
+      "multi-agent systems"
+    ],
+    "partner_takeaway": "Investing in multi-agent AI safety research reflects increasing recognition of complex risks in AI systems requiring coordinated safety approaches.",
+    "partner_summary": "Google DeepMind and partners announced a $10M funding call focused on multi-agent AI safety research. This matters as it signals growing industry commitment to addressing safety challenges in complex AI environments. Practitioners should monitor developments in multi-agent safety to inform responsible AI design and deployment.",
+    "promo_only": false
+  },
+  {
+    "id": "71817a533fc6",
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+    "published": "2026-06-10T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant to AI strategy and alignment, offering a perspective on new AI product precedents that can be insightful, though it requires the writer to add a personal angle to maximize reader value.",
+    "topic_tags": [
+      "AI strategy",
+      "product trends",
+      "alignment"
+    ],
+    "partner_takeaway": "Readers learn how the release of Fable 5 sets new precedents in AI capabilities and alignment that could influence future AI product development and strategy.",
+    "partner_summary": "Fable 5, the public version of Mythos, has been released and demonstrates significant AI capabilities while introducing concerning new precedents. This matters to professionals interested in AI strategy and product development because it highlights emerging trends and challenges in AI alignment and tiering. The audience should watch how these precedents evolve and consider their implications for responsible AI deployment and competitive positioning.",
+    "promo_only": false
+  }
+]
