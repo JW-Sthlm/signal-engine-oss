@@ -1,0 +1,63 @@
+[
+  {
+    "track": "A",
+    "title": "Automating the Physical World: AI in Manufacturing and Design",
+    "hook": "Most people think of AI as software, but it’s quietly revolutionizing how we design and build real-world products—from electronics to construction.",
+    "format": "opinion",
+    "partner_takeaway": "AI is increasingly automating physical design and manufacturing processes by using code and simulation to model real-world systems, reshaping industry incentives and constraints.",
+    "story_ref": null,
+    "source_refs": [
+      "9005d541d46d"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "This topic is timely because AI is moving beyond digital workflows and impacting physical industries. The audience needs concrete examples and industry context to spot new opportunities and prepare for changes in their own workflows."
+  },
+  {
+    "track": "A",
+    "title": "A Pattern I Keep Coming Back To: Practical AI Workflow",
+    "hook": "Every time I need to automate a repetitive task, I turn to a simple AI-powered workflow that saves hours each week.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn a tactical workflow for using AI to automate repetitive tasks, including when to use it and common pitfalls to avoid.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "This draws directly from a lived example, offering readers a practical, actionable workflow they can try immediately. It fits the 'Practical AI' track and delivers value by sharing a proven pattern, not just theory."
+  },
+  {
+    "track": "B",
+    "title": "AI’s Demand for Compute: The Next Industrial Expansion?",
+    "hook": "AI isn’t just changing software—it’s driving a surge in demand for compute and energy, with ripple effects across infrastructure and economic growth.",
+    "format": "opinion",
+    "partner_takeaway": "AI’s increasing demand for compute and energy could drive a new wave of industrial expansion beyond software, impacting infrastructure and economic growth.",
+    "story_ref": null,
+    "source_refs": [
+      "786ae8818e07"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "This trend is gaining momentum, with industry leaders and analysts highlighting the systemic effects of AI on infrastructure. Readers will benefit from a deeper read on how these shifts might impact their market and investment strategies."
+  },
+  {
+    "track": "B",
+    "title": "The Week I Changed My Mind About AI Hype",
+    "hook": "I used to believe AI adoption would outpace every past technology, but a recent reality check shifted my perspective.",
+    "format": "case-study",
+    "partner_takeaway": "The reader learns about the gap between AI hype and practical technology adoption, including infrastructure and economic factors that slow progress.",
+    "story_ref": "story-002",
+    "source_refs": [
+      "9adaab60e75d"
+    ],
+    "image_code": "scene-photo",
+    "reasoning": "Combining a personal story with a fresh market signal, this post offers a nuanced take on AI trends. It’s relevant now because the hype cycle is peaking, and audiences need grounded perspectives to guide their decisions."
+  },
+  {
+    "track": "C",
+    "title": "First Time I Shipped X: Lessons from Building with AI",
+    "hook": "Shipping my first AI-powered feature to production taught me more than any tutorial—here’s what went right and what surprised me.",
+    "format": "case-study",
+    "partner_takeaway": "Readers get a concrete account of what it’s like to ship an AI feature, including key lessons learned and pitfalls to avoid.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "This post brings the 'building in public' track to life, sharing hands-on experience that demystifies AI projects. It’s valuable now as more readers look to move from theory to practice and want real-world guidance."
+  }
+]

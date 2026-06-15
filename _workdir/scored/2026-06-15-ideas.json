@@ -1,0 +1,696 @@
+[
+  {
+    "id": "f9bf56121ac4",
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "published": "2026-06-14T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The OpenAI Partner Network launch is relevant for understanding enterprise AI adoption but is mostly a product initiative requiring a personal angle to add unique insight.",
+    "topic_tags": [
+      "AI adoption",
+      "enterprise AI",
+      "partnerships"
+    ],
+    "partner_takeaway": "Enterprise AI adoption can be accelerated through strategic partner networks that provide investment and support for deployment and transformation.",
+    "partner_summary": "OpenAI launched the Partner Network with a $150M investment to help global partners accelerate enterprise AI adoption and transformation. This matters to business leaders and AI practitioners looking to scale AI solutions effectively through partnerships. The audience should watch how partner ecosystems evolve to support AI deployment and consider leveraging such networks for their own AI initiatives.",
+    "promo_only": true
+  },
+  {
+    "id": "3c1564537f57",
+    "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
+    "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the &#8220;Proven, Better, New&#8221; framework, and what he&#8217;s teaching his kids",
+    "published": "2026-06-14T12:31:44+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591984/35820af666c1ae888d132e3462c93c37.mp3",
+    "relevance_score": 8,
+    "score_reason": "The discussion on product success patterns offers a tactical framework and practitioner insight valuable for product managers and innovators.",
+    "topic_tags": [
+      "product management",
+      "innovation",
+      "frameworks"
+    ],
+    "partner_takeaway": "The 'Proven, Better, New' framework helps product teams evaluate ideas by balancing familiarity with innovation to increase chances of success.",
+    "partner_summary": "Mark Pincus shares insights on why instincts can be right but ideas wrong, introducing the 'Proven, Better, New' framework for product success. This is important for product leaders seeking practical ways to validate and improve their ideas. Readers should consider applying this framework to refine product concepts and improve market fit.",
+    "promo_only": false
+  },
+  {
+    "id": "2fdff5eca0c0",
+    "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-how-ai-is-changing",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 189",
+    "published": "2026-06-13T20:54:15+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The community wisdom format covers multiple topics but lacks a focused takeaway without a personal angle or deeper synthesis.",
+    "topic_tags": [
+      "AI impact",
+      "work stress",
+      "marketing"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This community wisdom edition covers how AI is changing product operating models, tracking work stress, AI side projects, and marketing for small teams. While these topics are relevant, the broad coverage dilutes actionable insights for the audience. Readers should seek specific takeaways or examples from these themes to apply in their work.",
+    "promo_only": false
+  },
+  {
+    "id": "1aa3a3be2a04",
+    "title": "[AINews] Fable and Mythos officially too dangerous to release",
+    "url": "https://www.latent.space/p/ainews-fable-and-mythos-officially",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We are in the strangest timeline.",
+    "published": "2026-06-13T04:30:52+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The item is vague and lacks a clear angle or takeaway relevant to the audience beyond a sensational headline.",
+    "topic_tags": [
+      "AI ethics",
+      "risk",
+      "AI safety"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article discusses the decision not to release certain AI models deemed too dangerous. This raises important questions about AI safety and ethical considerations. However, without concrete details or practitioner guidance, the audience gains little actionable insight.",
+    "promo_only": false
+  },
+  {
+    "id": "61d237022ebf",
+    "title": "2026.24: Hey Siri, Tell Me a Fable",
+    "url": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The best Stratechery content from the week of June 8, 2026, including Apple finally shipping Intelligence, Anthropic's fable, and the future of European industry.",
+    "published": "2026-06-12T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A curated summary of key industry developments offers useful trend reads but requires the writer’s perspective to add unique value.",
+    "topic_tags": [
+      "AI industry",
+      "technology trends",
+      "European market"
+    ],
+    "partner_takeaway": "Recent developments in AI and technology signal shifts in industry focus, including Apple's AI efforts and European industrial strategies.",
+    "partner_summary": "This Stratechery edition highlights Apple's AI initiatives, Anthropic's fable, and the future of European industry. These trends matter to professionals tracking AI's evolving role in tech and industry. The audience should monitor these developments to anticipate market and technology shifts.",
+    "promo_only": false
+  },
+  {
+    "id": "786ae8818e07",
+    "title": "Samo Burja on Growth, Energy, and AI",
+    "url": "https://a16z.simplecast.com/episodes/samo-burja-on-growth-energy-and-ai-1J7v_hM4",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Theo Jaffee speaks with Samo Burja, founder of Bismarck Analysis, about AI, industrial capacity, economic growth, and the institutions that shape civilization. The conversation explores how AI’s demand for compute, energy, and infrastructure could trigger a new wave of industrial expansion, benefiting sectors far beyond technology. Burja argues that AI is not just a software story but a demand shock that will ripple through energy, manufacturing, construction, and global supply chains. They also discuss China and the United States, demographic decline, fertility, state capacity, welfare sys...",
+    "published": "2026-06-12T14:40:34+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f01cd9e5-30d9-4ad6-80a5-6cb23f49c5f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f01cd9e5-30d9-4ad6-80a5-6cb23f49c5f2&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The conversation linking AI demand to industrial growth offers a fresh perspective and tactical insight on AI’s broader economic impact.",
+    "topic_tags": [
+      "AI economics",
+      "industrial growth",
+      "infrastructure"
+    ],
+    "partner_takeaway": "AI’s increasing demand for compute and energy could drive a new wave of industrial expansion beyond software, impacting infrastructure and economic growth.",
+    "partner_summary": "Samo Burja discusses how AI’s compute and energy needs might trigger industrial growth and reshape economic institutions. This perspective is crucial for business leaders and strategists considering AI’s systemic effects. Readers should consider the broader infrastructure and economic implications when planning AI investments.",
+    "promo_only": false
+  },
+  {
+    "id": "23db518ccdaf",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+    "published": "2026-06-12T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "OpenAI Academy courses provide tactical learning opportunities but require the writer’s practitioner perspective to highlight practical application.",
+    "topic_tags": [
+      "AI education",
+      "skills development",
+      "workplace AI"
+    ],
+    "partner_takeaway": "Building practical AI skills through structured courses can help professionals create repeatable workflows and apply AI agents effectively at work.",
+    "partner_summary": "OpenAI introduced three Academy courses focused on practical AI skills and workflow automation for the workplace. This is relevant for professionals aiming to integrate AI into daily tasks efficiently. The audience should explore these courses to enhance their AI capabilities and productivity.",
+    "promo_only": true
+  },
+  {
+    "id": "2f2c63bb16fa",
+    "title": "[AINews] Loopcraft: The Art of Stacking Loops",
+    "url": "https://www.latent.space/p/ainews-loopcraft-the-art-of-stacking",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us highlight a great concept from Peter Steinberger, Boris Cherny, and Andrej Karpathy",
+    "published": "2026-06-12T05:34:09+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The concept of 'stacking loops' is interesting but presented without clear actionable insights or direct relevance to the audience’s business context.",
+    "topic_tags": [
+      "AI concepts",
+      "software patterns",
+      "developer insights"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article highlights the concept of 'stacking loops' from notable AI and software experts. While intellectually stimulating, it lacks a clear business or tactical takeaway for the audience. Readers may need more context or examples to apply this concept.",
+    "promo_only": false
+  },
+  {
+    "id": "f2a6f25c2b0d",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+    "published": "2026-06-12T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The case of combining AI and human tutors for personalized learning offers a useful example of AI application with practical implications.",
+    "topic_tags": [
+      "AI in education",
+      "personalization",
+      "hybrid models"
+    ],
+    "partner_takeaway": "Integrating AI-generated content with human tutoring can enhance personalized learning experiences and feedback effectiveness.",
+    "partner_summary": "Preply uses OpenAI technology to create AI-generated lesson summaries and personalized language exercises. This hybrid approach improves learning personalization and feedback quality. The audience should consider how AI-human collaboration can optimize educational or training programs.",
+    "promo_only": true
+  },
+  {
+    "id": "35b6703e422f",
+    "title": "An Interview with Ben Bajarin About Apple, AI, and Compute",
+    "url": "https://stratechery.com/2026/an-interview-with-ben-bajarin-about-apple-ai-and-compute/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Ben Bajarin about WWDC and the status of the AI compute industry.",
+    "published": "2026-06-11T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "An interview on AI compute industry status provides useful insights but needs the writer’s POV to translate into actionable advice.",
+    "topic_tags": [
+      "AI compute",
+      "industry analysis",
+      "technology trends"
+    ],
+    "partner_takeaway": "Understanding the current state of AI compute infrastructure is key to anticipating future AI capabilities and investment opportunities.",
+    "partner_summary": "Ben Bajarin discusses the latest developments from WWDC and the AI compute industry’s status. This information is important for professionals tracking AI hardware and infrastructure trends. Readers should stay informed on compute advancements to align their AI strategies accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "9005d541d46d",
+    "title": "Designing the Physical World with AI",
+    "url": "https://a16z.simplecast.com/episodes/designing-the-physical-world-with-ai-4Yt_NF_r-pmHb0Dmc",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Erin Price-Wright speaks with Alex Modon, cofounder and CEO at Unlimited Industries, and Davide Asnaghi, CEO at Diode Computers, about how AI is moving from software into the physical world. They discuss automating construction and electronics design, using code and simulation to model real-world systems, and how incentives and manufacturing constraints shape adoption. They also examine what it takes to scale infrastructure, reduce build times, and unlock more abundant industrial capacity in the United States.",
+    "published": "2026-06-11T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/5e9d9592-dc9f-4b16-be68-5bc5ab3271dc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=5e9d9592-dc9f-4b16-be68-5bc5ab3271dc&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on AI moving into physical design and manufacturing offers a strong practitioner perspective and tactical insights on AI’s expanding role.",
+    "topic_tags": [
+      "AI applications",
+      "physical design",
+      "automation"
+    ],
+    "partner_takeaway": "AI is increasingly automating physical design and manufacturing processes by using code and simulation to model real-world systems, reshaping industry incentives and constraints.",
+    "partner_summary": "Experts discuss how AI is transitioning from software to physical world applications like construction and electronics design. This shift impacts how industries automate and optimize manufacturing and design workflows. The audience should explore AI’s potential in physical automation to drive innovation and efficiency.",
+    "promo_only": false
+  },
+  {
+    "id": "456883dbdcda",
+    "title": "[AINews] Open Models, Model Labs vs Agent Labs, and What's Untrainable — Sarah Guo",
+    "url": "https://www.latent.space/p/ainews-open-models-model-labs-vs",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us reflect on a great essay",
+    "published": "2026-06-11T03:14:26+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The essay reflection on open models and labs is interesting but lacks a clear, concrete takeaway or tactical advice for the audience.",
+    "topic_tags": [
+      "AI models",
+      "research labs",
+      "industry trends"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article reflects on distinctions between open models, model labs, and agent labs, and discusses what AI aspects may be untrainable. While thought-provoking, it does not provide clear guidance or actionable insights. Readers may find value in the concepts but need more practical context.",
+    "promo_only": false
+  },
+  {
+    "id": "8c328d594d94",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic of AI transparency and provenance standards is relevant and allows for a practitioner perspective on trustworthy AI ecosystems.",
+    "topic_tags": [
+      "AI ethics",
+      "AI transparency",
+      "policy"
+    ],
+    "partner_takeaway": "Understanding and implementing AI content transparency standards is crucial for building trust in AI systems.",
+    "partner_summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content. This matters because transparency in AI outputs is essential for businesses and practitioners to build trustworthy AI applications. The audience should watch evolving standards and consider how to integrate transparency tools into their AI workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "cc770dce6f4b",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "This is primarily a customer spotlight with limited broader tactical or insight value beyond the product story.",
+    "topic_tags": [
+      "AI adoption",
+      "enterprise AI",
+      "case study"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide. While this shows large-scale AI adoption in banking, it mainly highlights a vendor partnership. Readers should note the scale but will gain little tactical insight beyond the product story.",
+    "promo_only": true
+  },
+  {
+    "id": "fe34bb5bf0a7",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The acquisition signals a trend in AI platform capabilities but lacks detailed practitioner insight or tactical advice.",
+    "topic_tags": [
+      "AI platforms",
+      "enterprise AI",
+      "product expansion"
+    ],
+    "partner_takeaway": "Expanding AI platforms with secure, persistent cloud environments enables more complex, long-running AI workflows in enterprises.",
+    "partner_summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows. This matters as it reflects a move towards more robust AI infrastructure for business applications. The audience should watch how such platform expansions impact enterprise AI deployment strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "21c4039e17a1",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity.",
+    "published": "2026-06-11T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A concrete example of AI applied to scientific simulation offers a practitioner perspective with insight potential.",
+    "topic_tags": [
+      "AI applications",
+      "scientific computing",
+      "Codex"
+    ],
+    "partner_takeaway": "AI tools like Codex can accelerate complex scientific simulations, enabling new research possibilities in physics.",
+    "partner_summary": "Astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity. This example shows how AI can enhance scientific research workflows. Practitioners should consider how AI can augment domain-specific simulations and modeling tasks.",
+    "promo_only": false
+  },
+  {
+    "id": "945bba56d3b0",
+    "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+    "url": "https://openai.com/index/openai-on-oracle-cloud",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
+    "published": "2026-06-10T20:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The integration of AI models with cloud commitments is relevant but mainly a product partnership announcement with limited tactical depth.",
+    "topic_tags": [
+      "cloud AI",
+      "enterprise AI",
+      "integration"
+    ],
+    "partner_takeaway": "Leveraging existing cloud commitments can simplify access to AI models with enterprise-grade security and governance.",
+    "partner_summary": "OpenAI models and Codex are accessible through Oracle Cloud using existing commitments to build and deploy AI with enterprise security and governance. This matters for enterprises looking to optimize cloud spend while adopting AI. The audience should explore how to integrate AI services within their cloud contracts for efficiency.",
+    "promo_only": true
+  },
+  {
+    "id": "70a5b363c822",
+    "title": "DiffusionGemma: 4x faster text generation",
+    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-10T16:24:11+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Without a summary or concrete details, the topic of faster text generation is interesting but lacks actionable insight or practitioner perspective.",
+    "topic_tags": [
+      "AI models",
+      "text generation",
+      "performance"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "DeepMind announced DiffusionGemma, a model promising 4x faster text generation. While speed improvements are important, the lack of detail limits immediate practical takeaways. Readers should watch for more information on how this impacts real-world AI text generation tasks.",
+    "promo_only": false
+  },
+  {
+    "id": "2502bf24bf60",
+    "title": "Investing in multi-agent AI safety research",
+    "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
+    "published": "2026-06-10T10:21:19+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Funding for multi-agent AI safety research is relevant and offers a trend read on priorities in AI safety.",
+    "topic_tags": [
+      "AI safety",
+      "multi-agent systems",
+      "research funding"
+    ],
+    "partner_takeaway": "Significant investment in multi-agent AI safety research highlights growing concern and focus on complex AI interactions.",
+    "partner_summary": "Google DeepMind and partners announced a $10M funding call for multi-agent safety research. This matters because multi-agent dynamics introduce unique safety challenges in AI systems. The audience should monitor emerging research and consider implications for multi-agent AI deployments.",
+    "promo_only": false
+  },
+  {
+    "id": "71817a533fc6",
+    "title": "Fable 5, Anthropic Alignment, AI Tiers",
+    "url": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+    "published": "2026-06-10T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "A critical analysis of a new AI model release with implications for alignment and safety offers insight and practitioner perspective.",
+    "topic_tags": [
+      "AI alignment",
+      "model evaluation",
+      "AI ethics"
+    ],
+    "partner_takeaway": "New AI models like Fable 5 raise important questions about alignment trade-offs and safety precedents in AI development.",
+    "partner_summary": "Fable 5, the public version of Mythos, is very capable but sets troubling new precedents regarding AI alignment and safety. This matters as it influences how practitioners think about deploying advanced AI responsibly. Readers should critically evaluate new AI models for alignment risks and ethical considerations.",
+    "promo_only": false
+  },
+  {
+    "id": "1d68aa99b492",
+    "title": "[AINews] Anthropic Claude Fable 5 — Mythos but Safe, with Controversial Terms",
+    "url": "https://www.latent.space/p/ainews-anthropic-claude-fable-5-mythos",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The much anticipated launch of the Mythos-class model was marred by some controversial usage policies",
+    "published": "2026-06-10T03:50:21+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Discussion of controversial usage policies around a major AI model launch offers insight into governance and ethical trade-offs.",
+    "topic_tags": [
+      "AI governance",
+      "usage policies",
+      "model launch"
+    ],
+    "partner_takeaway": "Controversial usage policies in AI models highlight the tension between capability and responsible deployment.",
+    "partner_summary": "The launch of the Mythos-class model was marred by some controversial usage policies. This matters because such policies affect how organizations can safely and ethically use AI. The audience should stay informed about policy developments and their practical impact on AI adoption.",
+    "promo_only": false
+  },
+  {
+    "id": "226af8b0c82b",
+    "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+    "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;Early access to Claude Fable 5: what Anthropic claims, what I tested, and my honest take",
+    "published": "2026-06-09T18:32:03+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201340379/8da7ea0936373fa52a1171a4407410e0.mp3",
+    "relevance_score": 6,
+    "score_reason": "A review of a new AI model provides some practitioner insight but is mostly an opinion piece with limited tactical depth.",
+    "topic_tags": [
+      "AI model review",
+      "AI capabilities",
+      "alignment"
+    ],
+    "partner_takeaway": "Early testing of new AI models reveals both strengths and alignment challenges to consider before adoption.",
+    "partner_summary": "An early access review of Claude Fable 5 discusses what Anthropic claims and the reviewer’s honest take on its capabilities and flaws. This matters for practitioners evaluating new AI tools for their workflows. Readers should weigh both marketing claims and independent testing when assessing AI models.",
+    "promo_only": false
+  },
+  {
+    "id": "e0e0cc9a577d",
+    "title": "What it feels like to work with Mythos",
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "Claude Fable represents another big jump in AI",
+    "published": "2026-06-09T17:11:22+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "A personal account of working with a new AI model offers practitioner perspective but lacks broad tactical or strategic insights.",
+    "topic_tags": [
+      "AI user experience",
+      "model evaluation",
+      "practitioner perspective"
+    ],
+    "partner_takeaway": "Experiences with advanced AI models like Mythos provide qualitative insights into their practical strengths and limitations.",
+    "partner_summary": "Claude Fable represents another big jump in AI capabilities, as described by a user’s experience working with Mythos. This matters because firsthand accounts help practitioners understand real-world model behavior. The audience should consider such qualitative feedback alongside technical evaluations.",
+    "promo_only": false
+  },
+  {
+    "id": "1abd60a925ec",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet.",
+    "published": "2026-06-09T15:16:25+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Near real-time natural voice translation technology is relevant and offers a clear tactical and tool insight for communication workflows.",
+    "topic_tags": [
+      "AI translation",
+      "voice technology",
+      "productivity tools"
+    ],
+    "partner_takeaway": "Gemini 3.5 Live Translate enables fluid, near real-time voice translation, improving multilingual communication in meetings and apps.",
+    "partner_summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate, and Google Meet. This matters as it enhances cross-language communication for global teams and users. The audience should explore integrating such tools to improve collaboration and accessibility.",
+    "promo_only": false
+  },
+  {
+    "id": "3ecaddc1f0d5",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-09T14:10:19+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic is technical and cutting-edge but lacks a clear business or practitioner angle for the audience without further context.",
+    "topic_tags": [
+      "AI models",
+      "multimodal AI"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "DeepMind introduced Gemma 4 12B, a unified, encoder-free multimodal AI model. While this represents a technical advancement in AI, it lacks an immediate, practical angle for business or product leaders. The audience should watch for how such models might influence future AI applications but needs more context to apply this insight.",
+    "promo_only": false
+  },
+  {
+    "id": "603a276069f1",
+    "title": "Powering the future of robotics in Europe",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-09T14:02:33+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Purely promotional about robotics future without clear tactical or strategic insight for the audience.",
+    "topic_tags": [
+      "robotics",
+      "technology trends"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "DeepMind published a post about powering the future of robotics in Europe. The content focuses on robotics advancements but lacks a clear business or tactical perspective for product builders or tech leaders. Readers should monitor robotics trends but this piece offers limited actionable insight.",
+    "promo_only": true
+  },
+  {
+    "id": "7929ae8ebc17",
+    "title": "Essential books for product builders—part 2",
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "36 more timeless books that&#8217;ll make you a better builder, leader, and person",
+    "published": "2026-06-09T13:11:29+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Curated book recommendations for product builders offer a useful resource and can be framed with personal insights for the audience.",
+    "topic_tags": [
+      "product management",
+      "learning resources"
+    ],
+    "partner_takeaway": "The reader learns about a curated list of essential books that can improve their skills as product builders and leaders.",
+    "partner_summary": "This newsletter shares 36 essential books for product builders, leaders, and personal growth. It matters because curated learning resources help professionals deepen their expertise and leadership skills. The audience should consider integrating these books into their learning plans to accelerate their development.",
+    "promo_only": false
+  },
+  {
+    "id": "c8733d738e06",
+    "title": "The iPhone’s Last Stand",
+    "url": "https://stratechery.com/2026/the-iphones-last-stand/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Siri isn't state of the art, but as long as it works — and it appears it does — it's good enough for the consumer market.",
+    "published": "2026-06-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Analysis of Siri's position in the market offers a perspective on product maturity and consumer expectations relevant to product and tech leaders.",
+    "topic_tags": [
+      "product strategy",
+      "consumer technology"
+    ],
+    "partner_takeaway": "The reader gains insight into how a product like Siri can remain viable despite not being state-of-the-art, highlighting trade-offs in consumer tech.",
+    "partner_summary": "The article discusses the iPhone’s Siri assistant, noting it is not cutting-edge but remains good enough for consumers. This matters because it illustrates how product viability depends on user needs and market fit, not just technical superiority. Product leaders should consider when 'good enough' is sufficient versus when innovation is necessary.",
+    "promo_only": false
+  },
+  {
+    "id": "f6c67eebcab0",
+    "title": "Tyler Cowen & Alex Tabarrok on AI, Jobs, and Economic Growth",
+    "url": "https://a16z.simplecast.com/episodes/tyler-cowen-alex-tabarrok-on-ai-jobs-and-economic-growth-ga2nsz31",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Wyatt Thomson of OpenAI speaks with economists Tyler Cowen and Alex Tabarrok about AI, labor markets, and the future of economic growth. The conversation explores one of the most common fears surrounding AI: that increasingly capable systems will eliminate jobs. Cowen and Tabarrok argue instead that economic growth remains the key variable. Throughout history, productivity-enhancing technologies have transformed work, created new industries, and expanded living standards, even as they disrupted existing jobs and institutions. They discuss automation, comparative advantage, inequality, educa...",
+    "published": "2026-06-09T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/3f0ed16b-9bcd-4851-a9e8-5ae46e1e8ff4/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=3f0ed16b-9bcd-4851-a9e8-5ae46e1e8ff4&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "A discussion with economists on AI's impact on jobs and growth offers a high-value perspective relevant to business leaders and product strategists.",
+    "topic_tags": [
+      "AI impact",
+      "economic growth",
+      "labor markets"
+    ],
+    "partner_takeaway": "The reader learns that economic growth, not job elimination, is the key factor to focus on when considering AI's impact on labor markets.",
+    "partner_summary": "Economists Tyler Cowen and Alex Tabarrok discuss AI's effects on jobs and economic growth, arguing that productivity gains drive growth rather than job losses. This is important for leaders navigating AI adoption and workforce planning. The audience should focus on leveraging AI to boost productivity and economic expansion rather than fearing job displacement alone.",
+    "promo_only": false
+  },
+  {
+    "id": "0f5fce96fe94",
+    "title": "[AINews] FrontierCode: Benchmarking for Code Quality over Slop",
+    "url": "https://www.latent.space/p/ainews-frontiercode-benchmarking",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We made a thing!",
+    "published": "2026-06-09T06:12:33+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Announcement of a benchmarking tool without clear explanation or business application limits content potential and reader value.",
+    "topic_tags": [
+      "code quality",
+      "tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A new benchmarking tool called FrontierCode was announced for assessing code quality. Without further detail or context, its relevance to product or business leaders is unclear. Readers should await more information before considering its practical use.",
+    "promo_only": true
+  },
+  {
+    "id": "1ec6cb74bf1f",
+    "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-06-08T15:01:21+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Podcast episode summary with no clear unique angle or actionable insight for the audience.",
+    "topic_tags": [
+      "AI applications",
+      "podcast"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a podcast episode featuring AI tools like Gemini Omni and Claude for personal productivity. While interesting, it lacks a clear, actionable takeaway for product or business leaders. The audience can listen for inspiration but should seek more concrete lessons elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "04aab8fe368a",
+    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
+    "published": "2026-06-08T13:04:59+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Data-backed results from an AI learning trial provide a concrete example of AI's impact on education engagement and outcomes.",
+    "topic_tags": [
+      "AI in education",
+      "impact measurement",
+      "case study"
+    ],
+    "partner_takeaway": "The reader learns that AI-guided learning features can significantly boost engagement and accelerate learning outcomes, supported by randomized trial data.",
+    "partner_summary": "DeepMind shared results from a randomized controlled trial showing that Gemini’s Guided Learning feature improves engagement and learning speed in Sierra Leone. This matters because it provides evidence of AI’s practical impact in education, a key area for social and business innovation. The audience should watch for similar AI-driven learning tools and consider their potential applications.",
+    "promo_only": false
+  },
+  {
+    "id": "dc128fc3941d",
+    "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+    "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids",
+    "published": "2026-06-08T12:03:27+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/199808758/244c95a00126f898f2f5e17c70f9cb9e.mp3",
+    "relevance_score": 6,
+    "score_reason": "A personal use case of AI for shopping automation offers some tactical tips but is limited in broader business or product insight.",
+    "topic_tags": [
+      "AI applications",
+      "automation",
+      "consumer tech"
+    ],
+    "partner_takeaway": "The reader learns how AI can automate shopping tasks like finding quality brands and managing returns to save time.",
+    "partner_summary": "Nicole Ruiz demonstrates using Claude AI to shop for durable products, automate returns, and reduce administrative time. This is relevant for professionals interested in practical AI applications to improve efficiency. The audience can explore similar AI tools to streamline personal or business tasks.",
+    "promo_only": false
+  },
+  {
+    "id": "57d10b7dd92b",
+    "title": "Google Buys Compute From SpaceX, Broadcom’s Outlook, Apple’s AI Politics",
+    "url": "https://stratechery.com/2026/google-buys-compute-from-spacex-broadcoms-outlook-apples-ai-politics/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Google's deal with SpaceX, and Broadcom's earnings, both seem bullish for Nvidia. Then, what I'm looking for at WWDC.",
+    "published": "2026-06-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Analysis of strategic moves by major tech companies offers insight into market trends and competitive positioning relevant to product and business leaders.",
+    "topic_tags": [
+      "tech strategy",
+      "market trends",
+      "AI infrastructure"
+    ],
+    "partner_takeaway": "The reader gains insight into how Google's SpaceX deal and Broadcom's outlook signal bullish trends for Nvidia and what to watch at WWDC.",
+    "partner_summary": "The article analyzes Google's compute deal with SpaceX and Broadcom's earnings, highlighting positive signals for Nvidia and upcoming WWDC expectations. This matters for leaders tracking AI infrastructure and semiconductor market trends. The audience should monitor these developments to anticipate shifts in technology supply chains and product opportunities.",
+    "promo_only": false
+  },
+  {
+    "id": "9adaab60e75d",
+    "title": "AI Eats the World? A Reality Check with Benedict Evans",
+    "url": "https://a16z.simplecast.com/episodes/ai-eats-the-world-a-reality-check-with-benedict-evans-GVzr9ZaX",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Erik Torenberg speaks with tech analyst Benedict Evans about the current state of AI, what has changed over the past year, and which questions remain unanswered. The conversation covers coding agents, foundation models, AI infrastructure spending, software economics, and the tension between today's AI excitement and the long-term realities of technology adoption. Evans discusses why coding has emerged as AI's first breakout use case, how previous platform shifts can help frame the current moment, and why many of the most important questions about AI remain unresolved. Along the way, they ex...",
+    "published": "2026-06-08T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/ef50a480-c90b-45e0-b995-e2473402cff6/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=ef50a480-c90b-45e0-b995-e2473402cff6&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "A nuanced discussion on AI's current state and economic realities provides valuable insight and trend analysis for the audience.",
+    "topic_tags": [
+      "AI trends",
+      "technology adoption",
+      "software economics"
+    ],
+    "partner_takeaway": "The reader learns about the gap between AI hype and the practical realities of technology adoption, including infrastructure and economic factors.",
+    "partner_summary": "Tech analyst Benedict Evans discusses the current AI landscape, highlighting the tension between excitement and the slower pace of adoption due to infrastructure and economic constraints. This perspective is crucial for leaders managing AI investments and expectations. The audience should balance enthusiasm with pragmatic planning for AI integration.",
+    "promo_only": false
+  }
+]
