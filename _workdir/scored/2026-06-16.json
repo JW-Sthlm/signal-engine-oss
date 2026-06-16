@@ -1,0 +1,138 @@
+[
+  {
+    "id": "4e2c2debe8a5",
+    "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+    "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us report on Satya's hit essay",
+    "published": "2026-06-16T02:29:29+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic is relevant to AI ecosystems but the summary is vague and lacks a clear takeaway or tactical insight for the audience.",
+    "topic_tags": [
+      "AI ecosystems",
+      "strategy"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Satya wrote an essay about building frontier ecosystems called Loopcraft. This could be relevant for understanding emerging AI ecosystem strategies but lacks concrete examples or actionable insights. The audience should watch for more detailed analysis or examples before drawing conclusions.",
+    "promo_only": false
+  },
+  {
+    "id": "36a2506f85b2",
+    "title": "AI, Design, and the Power of Open Models",
+    "url": "https://a16z.simplecast.com/episodes/ai-design-and-the-power-of-open-models-_Noy5d_H",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work. The conversation covers Ideogram's decision to release an open-weight model, the challenges of generating text and layouts within images, and why controllability has become an increasingly important area of research. They discuss prompting, customization, editing, and the tradeoffs between general-purpose models and systems optimized for specific creative tasks. Along the way, Norouzi shares his views on o...",
+    "published": "2026-06-15T15:39:01+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0cf2ca6c-3831-4d80-89da-b164a4c807f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0cf2ca6c-3831-4d80-89da-b164a4c807f2&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "Strong content potential with a clear practitioner perspective on open AI models and design workflows, offering tactical insights and trend reads.",
+    "topic_tags": [
+      "AI design",
+      "open models",
+      "creative workflows"
+    ],
+    "partner_takeaway": "Open-weight AI models enhance design workflows by improving controllability and integration of text and layout generation in creative work.",
+    "partner_summary": "This episode discusses Ideogram's approach to releasing open-weight image generation models and the challenges of integrating text and layout in AI-generated images. It matters because designers and AI practitioners need to understand how open models can improve creative workflows and controllability. The audience should explore how open models can be leveraged in their own design and AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "20403fa22c17",
+    "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-15T15:01:32+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Covers AI tools and software development but is a generic review and roundup without a strong unique angle or clear tactical takeaway.",
+    "topic_tags": [
+      "AI tools",
+      "software development"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly roundup of AI-related content including a review of Claude Fable 5 and how Braintrust uses AI in software development. While relevant to AI in software, it lacks a focused insight or actionable tip for practitioners. Readers should seek more detailed case studies or tactical advice elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "296d06f9153c",
+    "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+    "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; &#8220;Evals are the modern version of a PRD&#8221;: Ankur Goyal (Braintrust) on encoding taste into systems that scale",
+    "published": "2026-06-15T12:04:03+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201229109/5c2760fb38b77dfed89116b9bf36dd0c.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong practitioner insight into how Braintrust uses AI agents, evals, and continuous integration to improve software delivery, offering tactical tips and a new pattern.",
+    "topic_tags": [
+      "AI agents",
+      "software delivery",
+      "continuous integration"
+    ],
+    "partner_takeaway": "Using AI agents combined with evals and continuous integration can encode quality standards into scalable software delivery processes.",
+    "partner_summary": "Ankur Goyal from Braintrust explains how they use AI agents, evaluation frameworks, and continuous integration to ship better software. This matters because it shows a practical way to scale quality control and encode organizational taste into automated systems. The audience should consider adopting similar AI-driven eval and CI practices to improve their software workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "abc9af18d2f5",
+    "title": "Anthropic’s Safety Superpower",
+    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+    "published": "2026-06-15T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Provides a strategic perspective on Anthropic's safety focus and its business implications, offering insight and a warning about balancing safety and business interests.",
+    "topic_tags": [
+      "AI safety",
+      "business strategy"
+    ],
+    "partner_takeaway": "A strong commitment to AI safety can be a strategic business advantage but may also lead to tensions with regulatory bodies.",
+    "partner_summary": "This article analyzes how Anthropic's dedication to AI safety influences its business decisions and interactions with the U.S. government. It matters because it highlights the trade-offs companies face between safety commitments and aggressive business strategies. The audience should watch how safety priorities shape AI company behaviors and regulatory dynamics.",
+    "promo_only": false
+  },
+  {
+    "id": "f9bf56121ac4",
+    "title": "Introducing the OpenAI Partner Network",
+    "url": "https://openai.com/index/introducing-openai-partner-network",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+    "published": "2026-06-14T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Primarily a product launch announcement with limited insight or tactical advice beyond the existence of a partner network.",
+    "topic_tags": [
+      "AI adoption",
+      "partner network"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced the launch of its Partner Network with a $150M investment to accelerate enterprise AI adoption. This is relevant for enterprises looking for support in AI deployment but offers little tactical insight or new patterns. The audience should monitor how this network evolves but not expect immediate actionable lessons.",
+    "promo_only": true
+  },
+  {
+    "id": "3c1564537f57",
+    "title": "The hidden pattern behind successful products | Mark Pincus (founder of Zynga)",
+    "url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the &#8220;Proven, Better, New&#8221; framework, and what he&#8217;s teaching his kids",
+    "published": "2026-06-14T12:31:44+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/198591984/35820af666c1ae888d132e3462c93c37.mp3",
+    "relevance_score": 7,
+    "score_reason": "Offers a practitioner perspective on product success patterns with a useful framework, providing insight and tactical guidance.",
+    "topic_tags": [
+      "product management",
+      "success patterns",
+      "frameworks"
+    ],
+    "partner_takeaway": "The 'Proven, Better, New' framework helps evaluate product ideas by balancing instinct with evidence-based validation.",
+    "partner_summary": "Mark Pincus discusses the common patterns behind successful products, emphasizing the 'Proven, Better, New' framework and the importance of balancing instincts with data. This matters because product managers and founders need frameworks to validate ideas effectively. The audience should apply this framework to improve their product decision-making process.",
+    "promo_only": false
+  }
+]
