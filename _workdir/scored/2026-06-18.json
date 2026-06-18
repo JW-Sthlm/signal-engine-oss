@@ -1,0 +1,217 @@
+[
+  {
+    "id": "aa080fd00501",
+    "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The only bootstrapped frontier lab announces its second product and second",
+    "published": "2026-06-18T04:23:05+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is interesting but lacks a clear tactical or business insight for the writer's audience without a personal angle.",
+    "topic_tags": [
+      "AI applications",
+      "healthtech"
+    ],
+    "partner_takeaway": "Emerging AI tools aim to simplify medical scanning, potentially transforming routine health monitoring.",
+    "partner_summary": "Midjourney Medical announced its second product focused on scanning organs as easily as stepping on a scale. This matters to professionals interested in AI-driven healthtech innovations that could disrupt traditional medical diagnostics. The audience should watch how AI simplifies complex medical processes and consider implications for healthcare delivery.",
+    "promo_only": false
+  },
+  {
+    "id": "10f045307a50",
+    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+    "url": "https://www.latent.space/p/radical-ai",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+    "published": "2026-06-17T17:58:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202058620/e98631328c8249e4e663ac3def0a2311.mp3",
+    "relevance_score": 7,
+    "score_reason": "The topic offers a practitioner perspective on AI in materials science with a clear insight about competitive moats.",
+    "topic_tags": [
+      "AI strategy",
+      "materials science"
+    ],
+    "partner_takeaway": "In materials science, the competitive advantage lies more in the physical lab capabilities than in AI models alone.",
+    "partner_summary": "Joseph Krause of Radical AI discusses why the moat in materials innovation is the lab infrastructure rather than just the AI model. This insight is valuable for readers evaluating where to invest in AI-driven R&D to maintain competitive advantage. The audience should consider the importance of physical experimentation environments alongside AI tools in innovation strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "223321bbfac8",
+    "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+    "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again",
+    "published": "2026-06-17T12:04:04+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202288504/bcaf736dba1dcc855294378d2aa12db1.mp3",
+    "relevance_score": 9,
+    "score_reason": "High content potential with detailed tactical tips on designing AI agent loops and practical examples.",
+    "topic_tags": [
+      "AI development",
+      "automation",
+      "agent design"
+    ],
+    "partner_takeaway": "Designing AI agent loops with schedules, goals, and subagents can automate complex workflows and reduce manual oversight.",
+    "partner_summary": "This piece explains different AI agent loop types such as heartbeats, crons, goals, and subagents, with live examples from Claude Code and Codex. It matters because automating AI workflows can significantly improve developer productivity and reliability. Readers should explore these loop designs to build more autonomous AI systems that minimize manual intervention.",
+    "promo_only": false
+  },
+  {
+    "id": "14e29c720228",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Strong practitioner insight into AI's role in medicinal chemistry with concrete results and implications.",
+    "topic_tags": [
+      "AI applications",
+      "medicinal chemistry",
+      "automation"
+    ],
+    "partner_takeaway": "Near-autonomous AI chemists can improve complex drug synthesis reactions, accelerating medicinal chemistry research.",
+    "partner_summary": "OpenAI and Molecule.one demonstrated how a near-autonomous AI chemist using GPT-5.4 improved a challenging drug-making reaction. This is significant for professionals in drug development seeking to leverage AI for faster and more efficient research. The audience should monitor advances in AI-driven chemistry automation to enhance their R&D processes.",
+    "promo_only": false
+  },
+  {
+    "id": "27065a4662e0",
+    "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+    "url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The content is more strategic commentary with limited clear takeaway or tactical advice for the audience.",
+    "topic_tags": [
+      "AI strategy",
+      "company analysis"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article discusses the state of Fable, the jailbreak problem, and SpaceX's acquisition of Cursor. While it touches on AI company dynamics, it lacks a concrete takeaway for practitioners. Readers should be cautious about drawing direct lessons without further actionable insights.",
+    "promo_only": false
+  },
+  {
+    "id": "2fc1ea57121d",
+    "title": "The Fintech Playbook for Latin America",
+    "url": "https://a16z.simplecast.com/episodes/the-fintech-playbook-for-latin-america-f1LXU6gD",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Angela Strange and Gabriel Vásquez speak with Addi founder and CEO Santiago Suárez about building one of Latin America's largest financial platforms. What began as a buy now, pay later product has evolved into a broader ecosystem spanning payments, commerce, logistics, and now banking. Serving millions of consumers and tens of thousands of merchants, Addi sits at the intersection of financial services and commerce in Colombia. The conversation covers building in Latin America, lessons from scaling through multiple market cycles, the importance of technology infrastructure, and why Suárez be...",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13d2db9b-1f76-4f8f-adef-993a3309744a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13d2db9b-1f76-4f8f-adef-993a3309744a&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Good content potential with a practitioner perspective on fintech evolution in Latin America and ecosystem building.",
+    "topic_tags": [
+      "fintech",
+      "emerging markets",
+      "business strategy"
+    ],
+    "partner_takeaway": "Latin America's fintech success involves evolving from single products to broad ecosystems integrating payments, commerce, and banking.",
+    "partner_summary": "Addi's founder discusses how their fintech platform expanded from buy now, pay later to a comprehensive financial ecosystem serving millions. This matters to fintech professionals looking to scale in emerging markets by diversifying offerings. The audience should study this model to understand ecosystem strategies beyond single product focus.",
+    "promo_only": false
+  },
+  {
+    "id": "d0a3be16acf1",
+    "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+    "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We have a new top open model in the world!",
+    "published": "2026-06-17T05:37:40+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Purely technical model announcement with no clear business or practitioner angle for the audience.",
+    "topic_tags": [
+      "AI models",
+      "frontend development"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A new top open model for frontend coding, GLM-5.2, has been announced. While notable in AI development, it lacks actionable insights or business implications for the audience. Readers interested in frontend AI models should seek deeper analysis beyond the announcement.",
+    "promo_only": true
+  },
+  {
+    "id": "b51ab823f991",
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "published": "2026-06-17T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Introduction of a new benchmark for AI in life sciences offers a useful tool and insight for evaluating AI capabilities.",
+    "topic_tags": [
+      "AI evaluation",
+      "life sciences",
+      "benchmarks"
+    ],
+    "partner_takeaway": "LifeSciBench provides a new expert-reviewed benchmark to assess AI performance on real-world life science research tasks.",
+    "partner_summary": "OpenAI introduced LifeSciBench, designed to evaluate how AI systems handle complex life science research decisions. This is important for practitioners seeking reliable metrics to measure AI effectiveness in life sciences. The audience should consider using this benchmark to guide AI adoption and development in their research workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "b1560f42dfe1",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "published": "2026-06-16T21:29:50+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong trend read and tactical insight on AI accelerating government planning processes in housing.",
+    "topic_tags": [
+      "AI applications",
+      "government",
+      "urban planning"
+    ],
+    "partner_takeaway": "AI-accelerated planning prototypes can significantly speed up government housing decisions, addressing bottlenecks in construction.",
+    "partner_summary": "The UK government partnered with Google DeepMind to develop an AI-powered prototype aimed at faster housing planning decisions. This matters to professionals interested in how AI can streamline public sector workflows and address housing shortages. The audience should watch for AI tools that enhance regulatory and planning efficiency in urban development.",
+    "promo_only": false
+  },
+  {
+    "id": "3cf503f02384",
+    "title": "Fox Buys Roku, The Problem With Fox’s Smart Strategy, Streaming That Works",
+    "url": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The market hates Fox's acquisition of Roku, but the company is trading extraction from rights holders for leverage as a renter.",
+    "published": "2026-06-16T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Primarily a market and strategy commentary with limited direct tactical or practitioner insight.",
+    "topic_tags": [
+      "media strategy",
+      "business analysis"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article analyzes Fox's acquisition of Roku and the strategic trade-offs involved. While it offers a business perspective, it lacks concrete takeaways for practitioners. Readers should view this as strategic commentary rather than actionable advice.",
+    "promo_only": false
+  },
+  {
+    "id": "c9000aee8f74",
+    "title": "Jack Altman on Product-Market Fit",
+    "url": "https://a16z.simplecast.com/episodes/jack-altman-on-product-market-fit-FJD2mKIg",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Jack Altman joins Speedrun to discuss product-market fit, customer feedback, hiring, fundraising, and the realities of building an enduring company. Drawing on his experience building Lattice from startup to multi-billion-dollar company, Altman explains how founders should think about customer requests, when to pivot, and why some of the hardest decisions come from balancing conviction with market feedback. He shares lessons from the early days of Lattice, including finding product-market fit, building a sales motion, hiring the first employees, and navigating the tradeoffs that emerge as c...",
+    "published": "2026-06-16T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a8167610-6255-4dcc-ba17-8a13e5bc0f51/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a8167610-6255-4dcc-ba17-8a13e5bc0f51&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Good practitioner perspective on product-market fit with actionable insights from an experienced founder.",
+    "topic_tags": [
+      "product management",
+      "startup strategy",
+      "customer feedback"
+    ],
+    "partner_takeaway": "Founders should balance customer feedback with conviction and know when to pivot to achieve product-market fit.",
+    "partner_summary": "Jack Altman shares lessons on product-market fit, customer feedback, hiring, and fundraising from building Lattice. This is valuable for startup founders navigating growth and decision-making challenges. The audience should apply these insights to refine their product strategies and organizational priorities.",
+    "promo_only": false
+  }
+]
