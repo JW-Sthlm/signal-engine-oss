@@ -1,0 +1,231 @@
+[
+  {
+    "id": "46446546d41d",
+    "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+    "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+    "published": "2026-06-19T05:53:54+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic of open AI models like GLM-5.2 versus GPT is relevant and offers a perspective on AI model competition, but it needs a personal angle to deepen the insight.",
+    "topic_tags": [
+      "AI models",
+      "Open source AI"
+    ],
+    "partner_takeaway": "Open source AI models like GLM-5.2 are becoming competitive alternatives to GPT, signaling a new frontier in AI development.",
+    "partner_summary": "GLM-5.2 has passed key quality checks, positioning open source AI models as serious contenders to GPT. This matters to AI practitioners and business leaders tracking AI innovation and ecosystem shifts. Readers should watch how open models evolve and consider their potential impact on AI strategy and deployment.",
+    "promo_only": false
+  },
+  {
+    "id": "8caedad7bc2a",
+    "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+    "url": "https://www.latent.space/p/anj",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
+    "published": "2026-06-18T17:30:00+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202359797/71c4f196d3b9927d44389b965dc45149.mp3",
+    "relevance_score": 5,
+    "score_reason": "An investor profile with some industry context but limited direct tactical or strategic insight for the audience.",
+    "topic_tags": [
+      "Investment",
+      "AI startups"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is an interview with Anjney Midha, an investor involved in multiple AI startups. While it offers background on his career and investments, it lacks direct actionable insights for AI practitioners or business strategists. The audience might find it interesting but not immediately useful for tactical learning.",
+    "promo_only": true
+  },
+  {
+    "id": "f88be3ce19ef",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "published": "2026-06-18T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "New enterprise spend controls and analytics for ChatGPT provide a clear tactical tool for organizations managing AI costs.",
+    "topic_tags": [
+      "AI enterprise",
+      "Cost management"
+    ],
+    "partner_takeaway": "New spend controls and usage analytics in ChatGPT Enterprise help organizations better manage AI costs and scale usage responsibly.",
+    "partner_summary": "OpenAI has introduced enhanced spend controls and usage analytics for ChatGPT Enterprise customers. This is important for business leaders and IT managers who need to control AI-related expenses while scaling adoption. Organizations should explore these tools to optimize AI investment and governance.",
+    "promo_only": false
+  },
+  {
+    "id": "7b613419add8",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "published": "2026-06-18T11:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Improving health intelligence in ChatGPT offers insight into AI's evolving capabilities in healthcare communication, relevant to practitioners interested in AI applications in health.",
+    "topic_tags": [
+      "AI healthcare",
+      "ChatGPT improvements"
+    ],
+    "partner_takeaway": "GPT-5.5 Instant enhances ChatGPT’s health responses with better reasoning and physician-informed evaluations, improving reliability in health-related AI interactions.",
+    "partner_summary": "OpenAI updated ChatGPT with GPT-5.5 Instant to improve health and wellness responses through stronger reasoning and clearer communication. This matters to healthcare professionals and businesses exploring AI for health applications. Readers should monitor AI advancements in healthcare for safer and more effective deployments.",
+    "promo_only": false
+  },
+  {
+    "id": "1b95c97236db",
+    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+    "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles.",
+    "published": "2026-06-18T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "An interview on AI's impact on e-commerce provides strategic insight and trend reads valuable for business leaders in retail and tech.",
+    "topic_tags": [
+      "AI in e-commerce",
+      "Business strategy"
+    ],
+    "partner_takeaway": "AI is reshaping e-commerce models, with challenges around distribution, referral systems, and autonomous delivery that businesses must navigate.",
+    "partner_summary": "Michael Morton discusses how AI is influencing e-commerce, highlighting challenges like distribution models and autonomous vehicles. This is crucial for e-commerce leaders and strategists understanding AI-driven market shifts. The audience should consider how AI impacts their business models and prepare for emerging operational changes.",
+    "promo_only": false
+  },
+  {
+    "id": "a7cb5e827639",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "published": "2026-06-18T08:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Using AI to diagnose rare genetic diseases offers a strong practitioner insight and a clear example of AI's tangible impact in healthcare.",
+    "topic_tags": [
+      "AI healthcare",
+      "Diagnostics"
+    ],
+    "partner_takeaway": "AI reasoning models can assist physicians in diagnosing rare genetic diseases, enabling new diagnoses in previously unsolved cases.",
+    "partner_summary": "Researchers applied an OpenAI reasoning model to help diagnose rare childhood genetic diseases, identifying 18 new diagnoses. This demonstrates AI’s potential to augment medical diagnostics and improve patient outcomes. Healthcare professionals and AI practitioners should explore AI-assisted diagnostic tools for complex cases.",
+    "promo_only": false
+  },
+  {
+    "id": "aa080fd00501",
+    "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The only bootstrapped frontier lab announces its second product and second",
+    "published": "2026-06-18T04:23:05+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The announcement of a new product from a frontier lab is promotional and lacks clear educational or tactical insight for the audience.",
+    "topic_tags": [
+      "AI healthcare",
+      "Product announcement"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A bootstrapped frontier lab announced its second product related to medical scanning. While interesting, the information is too promotional and lacks actionable insights or broader implications. The audience gains little practical knowledge from this announcement alone.",
+    "promo_only": true
+  },
+  {
+    "id": "10f045307a50",
+    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+    "url": "https://www.latent.space/p/radical-ai",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+    "published": "2026-06-17T17:58:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202058620/e98631328c8249e4e663ac3def0a2311.mp3",
+    "relevance_score": 7,
+    "score_reason": "Discussion on the competitive moat in materials science AI labs offers a strategic perspective relevant to AI innovation and R&D leaders.",
+    "topic_tags": [
+      "AI R&D",
+      "Materials science"
+    ],
+    "partner_takeaway": "In materials science AI, the competitive advantage lies more in the physical lab environment than in the AI model itself.",
+    "partner_summary": "Joseph Krause of Radical AI explains why the moat in materials science is the lab infrastructure rather than just the AI model. This insight matters for AI researchers and business leaders investing in AI-driven R&D. Readers should consider how physical assets and data environments contribute to AI competitive advantage.",
+    "promo_only": false
+  },
+  {
+    "id": "223321bbfac8",
+    "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+    "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again",
+    "published": "2026-06-17T12:04:04+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202288504/bcaf736dba1dcc855294378d2aa12db1.mp3",
+    "relevance_score": 8,
+    "score_reason": "Detailed explanation of AI agent loops with live builds provides tactical tips and tools for AI developers and product managers.",
+    "topic_tags": [
+      "AI development",
+      "Agent design"
+    ],
+    "partner_takeaway": "Designing AI agent loops with schedules, goals, and subagents enables autonomous operation and reduces manual oversight.",
+    "partner_summary": "This content explains different AI agent loop types and demonstrates live builds using Claude Code and Codex for autonomous operation. It offers practical guidance for AI developers and product teams aiming to automate workflows. Readers should apply these patterns to improve AI agent efficiency and reduce manual intervention.",
+    "promo_only": false
+  },
+  {
+    "id": "14e29c720228",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "A near-autonomous AI chemist improving medicinal chemistry reactions offers a strong practitioner insight with concrete impact on drug development.",
+    "topic_tags": [
+      "AI in chemistry",
+      "Medicinal chemistry"
+    ],
+    "partner_takeaway": "Near-autonomous AI chemists can optimize complex drug-making reactions, accelerating medicinal chemistry research.",
+    "partner_summary": "OpenAI and Molecule.one demonstrated how an AI chemist using GPT-5.4 improved a challenging reaction in drug development. This advancement is significant for pharmaceutical researchers and AI practitioners focused on automating scientific discovery. The audience should explore AI tools that enhance experimental efficiency and innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "27065a4662e0",
+    "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+    "url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "A strategic commentary on Fable and Anthropic offers some insight but is somewhat abstract and less actionable for the audience.",
+    "topic_tags": [
+      "AI strategy",
+      "Industry analysis"
+    ],
+    "partner_takeaway": "There is a strategic debate around Fable’s direction and Anthropic’s responsibility, highlighting challenges in AI governance and product strategy.",
+    "partner_summary": "This article discusses the state of Fable and the jailbreak problem, critiquing the administration’s stance and placing responsibility on Anthropic. It provides a perspective on AI governance and product challenges. Readers should watch how AI companies navigate regulatory and strategic pressures.",
+    "promo_only": false
+  },
+  {
+    "id": "2fc1ea57121d",
+    "title": "The Fintech Playbook for Latin America",
+    "url": "https://a16z.simplecast.com/episodes/the-fintech-playbook-for-latin-america-f1LXU6gD",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Angela Strange and Gabriel Vásquez speak with Addi founder and CEO Santiago Suárez about building one of Latin America's largest financial platforms. What began as a buy now, pay later product has evolved into a broader ecosystem spanning payments, commerce, logistics, and now banking. Serving millions of consumers and tens of thousands of merchants, Addi sits at the intersection of financial services and commerce in Colombia. The conversation covers building in Latin America, lessons from scaling through multiple market cycles, the importance of technology infrastructure, and why Suárez be...",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13d2db9b-1f76-4f8f-adef-993a3309744a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13d2db9b-1f76-4f8f-adef-993a3309744a&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "A fintech playbook for Latin America with a founder interview offers strategic insights and trend reads valuable for fintech professionals and business leaders.",
+    "topic_tags": [
+      "Fintech",
+      "Latin America",
+      "Business strategy"
+    ],
+    "partner_takeaway": "Latin America’s fintech evolution shows how buy now, pay later products can expand into broader financial ecosystems serving millions.",
+    "partner_summary": "Angela Strange and Gabriel Vásquez interview Santiago Suárez, founder of Addi, about building a major Latin American fintech platform. This highlights fintech trends and strategies relevant to emerging markets and financial services innovation. The audience should study these models to understand regional fintech growth and ecosystem expansion.",
+    "promo_only": false
+  }
+]
