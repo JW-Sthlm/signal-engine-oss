@@ -1,0 +1,612 @@
+[
+  {
+    "id": "a39633d1d756",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "published": "2026-06-21T23:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The deployment of ChatGPT and Codex at Samsung is relevant for understanding large-scale AI adoption in enterprises but needs a personal or tactical angle to maximize impact.",
+    "topic_tags": [
+      "enterprise AI",
+      "AI adoption",
+      "tools"
+    ],
+    "partner_takeaway": "Large-scale AI tool deployment in enterprises requires strategic planning to integrate AI effectively across global teams.",
+    "partner_summary": "Samsung Electronics has deployed ChatGPT Enterprise and Codex to employees worldwide, marking one of the largest enterprise AI rollouts by OpenAI. This matters because it shows how major corporations are operationalizing AI tools at scale, impacting workflows and productivity. Readers should watch how such deployments influence enterprise AI adoption strategies and consider how to prepare their own organizations for similar integrations.",
+    "promo_only": false
+  },
+  {
+    "id": "1e83fbdd39fe",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "published": "2026-06-21T15:01:23+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "This is a promotional discount offer with no educational or tactical content for the audience.",
+    "topic_tags": [
+      "promotion"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A special offer provides $250 off AI Engineer tickets until Monday. This is primarily a sales promotion with no broader educational value. The audience can ignore this unless interested in purchasing tickets.",
+    "promo_only": true
+  },
+  {
+    "id": "497583a02d5d",
+    "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+    "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
+    "published": "2026-06-21T12:31:43+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201226747/1fae15655a42f6453e6a60d9e86148b8.mp3",
+    "relevance_score": 8,
+    "score_reason": "The discussion on building AI-focused engineering teams and maintaining culture offers valuable practitioner insights and tactical perspectives.",
+    "topic_tags": [
+      "team building",
+      "AI culture",
+      "management"
+    ],
+    "partner_takeaway": "Leading AI-driven engineering teams requires new cultural and role management approaches to balance human and AI agent collaboration.",
+    "partner_summary": "Fiona Fung shares her experience managing the Claude Code and Cowork teams, focusing on how to maintain culture amid blurred roles and widespread AI agent use. This is important for leaders navigating AI integration in engineering teams and managing evolving team dynamics. Readers should consider adapting their team management and culture strategies to effectively incorporate AI tools and agents.",
+    "promo_only": false
+  },
+  {
+    "id": "2931bd55a7bf",
+    "title": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 190",
+    "published": "2026-06-20T15:53:05+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The community wisdom format offers a mix of tactical tips and insights but is somewhat generic without a clear unique angle.",
+    "topic_tags": [
+      "community insights",
+      "product management",
+      "tools"
+    ],
+    "partner_takeaway": "Various practical tips on fractional CPO compensation, user behavior, and team collaboration can inform product and team management decisions.",
+    "partner_summary": "This community wisdom edition covers topics like fractional CPO compensation, free e-signature tools, user payment behavior, and sharing context across teams. These topics matter as they address common challenges in product and team management. Readers can extract tactical ideas and patterns to improve their own organizational practices but should seek specific examples for deeper impact.",
+    "promo_only": false
+  },
+  {
+    "id": "f34c4eb52598",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-e7b",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us promo AIE one last time",
+    "published": "2026-06-20T08:06:05+00:00",
+    "audio_url": "",
+    "relevance_score": 1,
+    "score_reason": "The item is a filler with no substantive content or educational value.",
+    "topic_tags": [
+      "news"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a quiet day update with no significant AI news or insights. It serves mainly as a promotional mention for an event. Readers gain no actionable or educational value.",
+    "promo_only": true
+  },
+  {
+    "id": "c8f5fd761722",
+    "title": "2026.25: The Stuff of Myth(os)",
+    "url": "https://stratechery.com/2026/the-stuff-of-mythos/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The best Stratechery content from the week of June 15, 2026, including Anthropic, e-commerce in the age of AI, and the NBA Finals being a perfect 10.",
+    "published": "2026-06-19T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A curated summary of key content including AI and e-commerce trends offers useful trend reads but requires the writer to add perspective.",
+    "topic_tags": [
+      "AI trends",
+      "e-commerce",
+      "media"
+    ],
+    "partner_takeaway": "Understanding current AI developments and their impact on e-commerce and media helps anticipate market shifts and strategic opportunities.",
+    "partner_summary": "This Stratechery piece summarizes top content from the week, covering Anthropic, AI's role in e-commerce, and cultural events like the NBA Finals. It matters because it highlights emerging AI trends and their broader market implications. Readers should monitor these developments to inform their strategic planning and innovation efforts.",
+    "promo_only": false
+  },
+  {
+    "id": "f56845f95ab5",
+    "title": "The New Rules of Media | Marc Andreessen & Ben Horowitz",
+    "url": "https://a16z.simplecast.com/episodes/the-new-rules-of-media-marc-andreessen-ben-horowitz-nXXfWW8E",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Recorded live at the New Media Summit, Marc Andreessen, Ben Horowitz, Erik Torenberg, and Gaby Goldberg discuss how media, communication, and influence are changing in the internet era. The conversation explores the shift from legacy media to creator-led platforms, why authenticity has become a competitive advantage, and how founders can build audiences by communicating directly with customers, employees, and the public. They discuss podcasts, social media, storytelling, corporate communications, and the changing relationship between companies, journalists, and audiences. Along the way, the...",
+    "published": "2026-06-19T16:35:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2c39bbdc-5907-48d7-bca3-c9586df719f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2c39bbdc-5907-48d7-bca3-c9586df719f8&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The discussion on new media rules and creator-led platforms provides insightful perspectives on communication and audience building.",
+    "topic_tags": [
+      "media",
+      "communication",
+      "audience building"
+    ],
+    "partner_takeaway": "Authenticity and direct communication with customers are now key competitive advantages in media and audience building.",
+    "partner_summary": "Marc Andreessen, Ben Horowitz, and others discuss how media and communication are evolving from legacy models to creator-led platforms. This shift matters as it changes how founders and businesses build influence and engage audiences. Readers should focus on authenticity and direct communication strategies to grow their own audiences effectively.",
+    "promo_only": false
+  },
+  {
+    "id": "46446546d41d",
+    "title": "[AINews] GLM > GPT? GLM-5.2 passes vibe check; Z.ai forecasts Open Fable by December",
+    "url": "https://www.latent.space/p/ainews-glm-gpt-glm-52-passes-vibe",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "With GLM-5.2 passing everyone's vibe check, the open models story finally becomes a real frontier story.",
+    "published": "2026-06-19T05:53:54+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The update on open AI models and their competitive positioning offers a useful trend read with some practitioner relevance.",
+    "topic_tags": [
+      "AI models",
+      "open source",
+      "trend"
+    ],
+    "partner_takeaway": "Open source AI models like GLM-5.2 are becoming competitive alternatives to GPT, signaling a new frontier in AI development and adoption.",
+    "partner_summary": "GLM-5.2 has passed community vibe checks, marking a significant milestone for open source AI models competing with GPT. This matters because it shifts the AI landscape towards more open and diverse model options. Readers should watch how open models evolve and consider their implications for AI strategy and tooling.",
+    "promo_only": false
+  },
+  {
+    "id": "8caedad7bc2a",
+    "title": "The Professor of Outputmaxxing — Anjney Midha, AMP",
+    "url": "https://www.latent.space/p/anj",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We talk about how this legendary investor went from humble beginnings in Singapore to leading rounds in Anthropic, Mistral, Black Forest Labs, and Periodic Labs... and the AMP secret master plan!",
+    "published": "2026-06-18T17:30:00+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202359797/71c4f196d3b9927d44389b965dc45149.mp3",
+    "relevance_score": 6,
+    "score_reason": "An investor profile with some insights on AI funding but limited direct tactical or educational content for the audience.",
+    "topic_tags": [
+      "investment",
+      "AI startups",
+      "funding"
+    ],
+    "partner_takeaway": "Understanding investor backgrounds and strategies can inform startup funding approaches but this is more narrative than tactical.",
+    "partner_summary": "This interview profiles Anjney Midha, an investor involved in major AI rounds and his strategic plans. It matters as it provides context on AI investment trends and key players. Readers interested in funding should note investor perspectives but may find limited direct tactical advice.",
+    "promo_only": false
+  },
+  {
+    "id": "f88be3ce19ef",
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "published": "2026-06-18T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "New enterprise spend controls and analytics for ChatGPT provide concrete tools and patterns for managing AI costs and usage.",
+    "topic_tags": [
+      "enterprise AI",
+      "cost management",
+      "tools"
+    ],
+    "partner_takeaway": "New spend controls and usage analytics help enterprises manage AI costs and scale usage with greater confidence and oversight.",
+    "partner_summary": "OpenAI has introduced enhanced spend controls and usage analytics for ChatGPT Enterprise customers. This matters because managing AI costs and usage is critical for enterprise adoption and budgeting. Readers should explore these tools to better govern AI deployments and optimize investment.",
+    "promo_only": false
+  },
+  {
+    "id": "7b613419add8",
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "published": "2026-06-18T11:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Improvements in ChatGPT’s health intelligence offer a tactical update on AI capabilities relevant to health and wellness communication.",
+    "topic_tags": [
+      "AI capabilities",
+      "health intelligence",
+      "product update"
+    ],
+    "partner_takeaway": "Advances in AI reasoning and context improve ChatGPT’s ability to provide clearer, physician-informed health and wellness responses.",
+    "partner_summary": "GPT-5.5 Instant enhances ChatGPT’s health intelligence with better reasoning, context handling, and communication clarity. This matters for enterprises and users relying on AI for health-related information and decision support. Readers should consider how improved AI health capabilities can be integrated into their products or workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "1b95c97236db",
+    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
+    "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Michael Morton about e-commerce and AI, including the challenges of unfalsifiable bear cases, distribution versus referal models, grocery, and autonomous vehicles.",
+    "published": "2026-06-18T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "An interview exploring AI’s impact on e-commerce offers insightful trend reads and strategic perspectives.",
+    "topic_tags": [
+      "e-commerce",
+      "AI impact",
+      "strategy"
+    ],
+    "partner_takeaway": "AI is reshaping e-commerce through new distribution models and automation, requiring businesses to rethink strategies around customer acquisition and logistics.",
+    "partner_summary": "Michael Morton discusses the challenges and opportunities AI brings to e-commerce, including distribution models and autonomous vehicles. This matters because AI-driven changes will disrupt traditional retail and logistics strategies. Readers should evaluate how AI can transform their e-commerce approaches and prepare for evolving market dynamics.",
+    "promo_only": false
+  },
+  {
+    "id": "a7cb5e827639",
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "published": "2026-06-18T08:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic is relevant to AI applications in healthcare with a clear example and insight into diagnosing rare diseases, offering a practitioner perspective.",
+    "topic_tags": [
+      "AI",
+      "healthcare",
+      "diagnosis"
+    ],
+    "partner_takeaway": "AI reasoning models can significantly improve the diagnosis of rare genetic diseases in children by uncovering previously unsolved cases.",
+    "partner_summary": "Researchers used an OpenAI reasoning model to help diagnose rare genetic diseases affecting children, identifying 18 new diagnoses in previously unsolved cases. This matters to the audience as it demonstrates how AI can augment medical diagnostics and improve patient outcomes. Readers should watch for AI tools that enhance diagnostic accuracy and consider their implications in healthcare workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "aa080fd00501",
+    "title": "[AINews] Midjourney Medical: scan your organs like you step on a scale",
+    "url": "https://www.latent.space/p/ainews-midjourney-medical-scan-your",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The only bootstrapped frontier lab announces its second product and second",
+    "published": "2026-06-18T04:23:05+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The summary is vague and lacks a clear educational angle or takeaway relevant to the audience.",
+    "topic_tags": [
+      "AI",
+      "healthcare"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A bootstrapped frontier lab announced its second product related to medical scanning. The details are insufficient to understand its impact or relevance. The audience should seek more concrete information before drawing conclusions.",
+    "promo_only": true
+  },
+  {
+    "id": "10f045307a50",
+    "title": "🔬 The Self-Driving Lab — Joseph Krause, Radical AI",
+    "url": "https://www.latent.space/p/radical-ai",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Radical AI's Joseph Krause on why the moat in materials is the lab, not the model",
+    "published": "2026-06-17T17:58:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202058620/e98631328c8249e4e663ac3def0a2311.mp3",
+    "relevance_score": 7,
+    "score_reason": "The topic on self-driving labs in materials science offers a unique perspective but needs a personal angle to maximize content potential.",
+    "topic_tags": [
+      "AI",
+      "materials science",
+      "innovation"
+    ],
+    "partner_takeaway": "The competitive advantage in materials science lies more in the physical lab setup than in AI models alone.",
+    "partner_summary": "Joseph Krause from Radical AI discusses why the moat in materials science is the lab environment rather than just the AI model. This insight challenges common assumptions about AI's role in innovation and is relevant for those interested in AI-driven R&D. The audience should consider how physical infrastructure and AI integration together drive competitive advantage.",
+    "promo_only": false
+  },
+  {
+    "id": "223321bbfac8",
+    "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+    "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again",
+    "published": "2026-06-17T12:04:04+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202288504/bcaf736dba1dcc855294378d2aa12db1.mp3",
+    "relevance_score": 8,
+    "score_reason": "Detailed explanation of AI agent loops with practical examples offers strong tactical value for the audience.",
+    "topic_tags": [
+      "AI",
+      "automation",
+      "agent design"
+    ],
+    "partner_takeaway": "Designing AI agent loops with schedules, goals, and subagents enables autonomous workflows that reduce manual oversight.",
+    "partner_summary": "This piece explains different types of AI agent loops such as heartbeats, crons, goals, and subagents, with live builds using Claude Code and Codex. It matters because it provides practical guidance on automating tasks with AI agents, a key interest for practitioners. Readers should explore these loop designs to improve efficiency and reduce manual intervention in their AI workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "14e29c720228",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "A concrete case of AI improving a medicinal chemistry reaction offers high content potential and tactical insight.",
+    "topic_tags": [
+      "AI",
+      "medicinal chemistry",
+      "automation"
+    ],
+    "partner_takeaway": "Near-autonomous AI chemists can optimize complex chemical reactions, accelerating drug discovery processes.",
+    "partner_summary": "OpenAI and Molecule.one demonstrated how a near-autonomous AI chemist using GPT-5.4 improved a challenging reaction in medicinal chemistry. This is significant for audiences interested in AI's impact on pharmaceutical R&D and automation. The audience should watch for AI tools that can enhance experimental efficiency and consider integrating them into research pipelines.",
+    "promo_only": false
+  },
+  {
+    "id": "27065a4662e0",
+    "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+    "url": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The content is more opinion and market commentary with limited actionable or educational takeaway for the audience.",
+    "topic_tags": [
+      "AI",
+      "business strategy"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article discusses the state of Fable, the jailbreak problem, and SpaceX's acquisition of Cursor with a critical view on Anthropic's responsibility. While interesting, it lacks a clear educational takeaway for practitioners. Readers should consider the broader implications but may find limited tactical guidance.",
+    "promo_only": false
+  },
+  {
+    "id": "2fc1ea57121d",
+    "title": "The Fintech Playbook for Latin America",
+    "url": "https://a16z.simplecast.com/episodes/the-fintech-playbook-for-latin-america-f1LXU6gD",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Angela Strange and Gabriel Vásquez speak with Addi founder and CEO Santiago Suárez about building one of Latin America's largest financial platforms. What began as a buy now, pay later product has evolved into a broader ecosystem spanning payments, commerce, logistics, and now banking. Serving millions of consumers and tens of thousands of merchants, Addi sits at the intersection of financial services and commerce in Colombia. The conversation covers building in Latin America, lessons from scaling through multiple market cycles, the importance of technology infrastructure, and why Suárez be...",
+    "published": "2026-06-17T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/13d2db9b-1f76-4f8f-adef-993a3309744a/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=13d2db9b-1f76-4f8f-adef-993a3309744a&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The fintech evolution in Latin America offers a useful case study with insights into product expansion and ecosystem building.",
+    "topic_tags": [
+      "fintech",
+      "Latin America",
+      "business strategy"
+    ],
+    "partner_takeaway": "Fintech platforms in Latin America evolve from single products to broad ecosystems spanning payments, commerce, logistics, and banking.",
+    "partner_summary": "Angela Strange and Gabriel Vásquez discuss with Addi's CEO how the company grew from a buy now, pay later product to a large financial platform serving millions. This matters for audiences interested in fintech growth and ecosystem strategies in emerging markets. Readers should study this model to understand how fintechs can scale and diversify offerings effectively.",
+    "promo_only": false
+  },
+  {
+    "id": "d0a3be16acf1",
+    "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+    "url": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "We have a new top open model in the world!",
+    "published": "2026-06-17T05:37:40+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Announcement of a new frontend coding model lacks a clear educational angle or actionable insight for the audience.",
+    "topic_tags": [
+      "AI",
+      "coding models"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "A new top open frontend coding model, GLM-5.2, has been announced. The summary provides no detail on its practical impact or how it differs from existing models. The audience should await more detailed analysis before considering its relevance.",
+    "promo_only": true
+  },
+  {
+    "id": "b51ab823f991",
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "published": "2026-06-17T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Introducing a benchmark for AI in life sciences offers a useful tool and insight but needs a practitioner angle.",
+    "topic_tags": [
+      "AI",
+      "life sciences",
+      "benchmarking"
+    ],
+    "partner_takeaway": "LifeSciBench provides a rigorous benchmark to evaluate AI systems on real-world life science research tasks and decisions.",
+    "partner_summary": "OpenAI introduced LifeSciBench, an expert-authored and reviewed benchmark for assessing AI performance in life science research. This is important for practitioners seeking reliable evaluation metrics for AI in this domain. Readers should consider using such benchmarks to measure and improve AI tools in life sciences.",
+    "promo_only": false
+  },
+  {
+    "id": "b1560f42dfe1",
+    "title": "Unlocking UK house-building with AI-accelerated planning",
+    "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "UK government partners with Google DeepMind to build a new AI-powered prototype aimed at faster housing decisions.",
+    "published": "2026-06-16T21:29:50+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "AI-accelerated planning for UK house-building is a concrete example of AI in public sector decision-making with clear implications.",
+    "topic_tags": [
+      "AI",
+      "urban planning",
+      "government"
+    ],
+    "partner_takeaway": "AI-powered planning tools can accelerate housing development decisions, addressing bottlenecks in government processes.",
+    "partner_summary": "The UK government partnered with Google DeepMind to develop an AI prototype aimed at speeding up housing planning decisions. This matters because it shows how AI can improve public sector efficiency and address housing shortages. The audience should watch for AI applications in urban planning and consider their potential impact on policy and development.",
+    "promo_only": false
+  },
+  {
+    "id": "2e3780670ee1",
+    "title": "Securing the future of AI agents",
+    "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
+    "published": "2026-06-16T15:46:31+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The AI Control Roadmap for securing AI agents offers a useful framework combining safeguards and monitoring.",
+    "topic_tags": [
+      "AI",
+      "security",
+      "agent control"
+    ],
+    "partner_takeaway": "Combining traditional safeguards with real-time monitoring is essential for securing AI agents effectively.",
+    "partner_summary": "Google DeepMind outlined an AI Control Roadmap that secures internal systems by integrating traditional safeguards and real-time monitoring. This is relevant for practitioners concerned with AI safety and governance. Readers should consider adopting layered security approaches to manage AI risks.",
+    "promo_only": false
+  },
+  {
+    "id": "3cf503f02384",
+    "title": "Fox Buys Roku, The Problem With Fox’s Smart Strategy, Streaming That Works",
+    "url": "https://stratechery.com/2026/fox-buys-roku-the-problem-with-foxs-smart-strategy-streaming-that-works/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The market hates Fox's acquisition of Roku, but the company is trading extraction from rights holders for leverage as a renter.",
+    "published": "2026-06-16T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The business strategy analysis of Fox's acquisition of Roku offers market commentary but limited tactical or educational value.",
+    "topic_tags": [
+      "business strategy",
+      "media",
+      "streaming"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article analyzes Fox's acquisition of Roku and the market's negative reaction, highlighting Fox's strategy of trading extraction from rights holders for leverage. While insightful for media business watchers, it lacks actionable lessons for a broader audience. Readers interested in media strategy should consider the implications but may find limited direct application.",
+    "promo_only": false
+  },
+  {
+    "id": "c9000aee8f74",
+    "title": "Jack Altman on Product-Market Fit",
+    "url": "https://a16z.simplecast.com/episodes/jack-altman-on-product-market-fit-FJD2mKIg",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Jack Altman joins Speedrun to discuss product-market fit, customer feedback, hiring, fundraising, and the realities of building an enduring company. Drawing on his experience building Lattice from startup to multi-billion-dollar company, Altman explains how founders should think about customer requests, when to pivot, and why some of the hardest decisions come from balancing conviction with market feedback. He shares lessons from the early days of Lattice, including finding product-market fit, building a sales motion, hiring the first employees, and navigating the tradeoffs that emerge as c...",
+    "published": "2026-06-16T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/a8167610-6255-4dcc-ba17-8a13e5bc0f51/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=a8167610-6255-4dcc-ba17-8a13e5bc0f51&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a practitioner perspective on product-market fit and startup growth, offering tactical advice and insights relevant to founders and product leaders.",
+    "topic_tags": [
+      "product-market fit",
+      "startup growth",
+      "customer feedback"
+    ],
+    "partner_takeaway": "Founders should balance customer feedback with conviction to know when to pivot and how to build enduring companies.",
+    "partner_summary": "Jack Altman discusses product-market fit, customer feedback, hiring, and fundraising based on his experience scaling Lattice. This matters to founders and product leaders who need practical guidance on balancing customer input with strategic decisions. Readers should consider how to evaluate feedback and make tough calls to sustain growth and product relevance.",
+    "promo_only": false
+  },
+  {
+    "id": "4e2c2debe8a5",
+    "title": "[AINews] Satya on Loopcraft: Building Frontier Ecosystems",
+    "url": "https://www.latent.space/p/ainews-satya-on-loopcraft-building",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us report on Satya's hit essay",
+    "published": "2026-06-16T02:29:29+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Low content potential due to vague summary and lack of clear educational angle or actionable insight for the audience.",
+    "topic_tags": [
+      "AI ecosystem",
+      "strategy"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item references an essay by Satya on building frontier ecosystems. However, the summary is too brief to provide meaningful insight or tactical advice. The audience should watch for more detailed analysis or examples to understand ecosystem building in AI.",
+    "promo_only": false
+  },
+  {
+    "id": "c1eb090a73ce",
+    "title": "Predicting model behavior before release by simulating deployment",
+    "url": "https://openai.com/index/deployment-simulation",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+    "published": "2026-06-16T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Medium-high content potential with a clear new technique for AI model deployment safety and evaluation, offering a tactical tool for AI practitioners and product teams.",
+    "topic_tags": [
+      "AI safety",
+      "model evaluation",
+      "deployment"
+    ],
+    "partner_takeaway": "Deployment Simulation allows teams to predict AI model behavior before release, improving safety and evaluation accuracy using real conversation data.",
+    "partner_summary": "OpenAI introduces Deployment Simulation, a method to simulate AI model deployment using real conversation data to anticipate behavior and improve safety. This is important for AI product teams aiming to reduce risks and improve model reliability before launch. Teams should explore deployment simulation to enhance their evaluation processes and mitigate deployment risks.",
+    "promo_only": false
+  },
+  {
+    "id": "36a2506f85b2",
+    "title": "AI, Design, and the Power of Open Models",
+    "url": "https://a16z.simplecast.com/episodes/ai-design-and-the-power-of-open-models-_Noy5d_H",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Yoko Li and Justine Moore speak with Ideogram founder and CEO Mohammad Norouzi about image generation models, design workflows, and the evolving relationship between AI and creative work. The conversation covers Ideogram's decision to release an open-weight model, the challenges of generating text and layouts within images, and why controllability has become an increasingly important area of research. They discuss prompting, customization, editing, and the tradeoffs between general-purpose models and systems optimized for specific creative tasks. Along the way, Norouzi shares his views on o...",
+    "published": "2026-06-15T15:39:01+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/0cf2ca6c-3831-4d80-89da-b164a4c807f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=0cf2ca6c-3831-4d80-89da-b164a4c807f2&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Medium-high content potential with insights into open models in AI design workflows and challenges in controllability, relevant for product and design professionals working with AI.",
+    "topic_tags": [
+      "AI design",
+      "open models",
+      "creative workflows"
+    ],
+    "partner_takeaway": "Releasing open-weight AI models impacts design workflows and highlights the growing importance of controllability in AI-generated creative work.",
+    "partner_summary": "This episode explores Ideogram's open-weight image generation model and its implications for design workflows and AI creativity. It matters to designers and product teams integrating AI into creative processes who need to understand controllability challenges. The audience should consider how open models can be leveraged and controlled to enhance design outcomes.",
+    "promo_only": false
+  },
+  {
+    "id": "20403fa22c17",
+    "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-15T15:01:32+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Medium-low content potential due to lack of specific insights or tactical advice in the summary; mostly a podcast roundup without clear educational value.",
+    "topic_tags": [
+      "AI tools",
+      "software development"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast roundup from How I AI featuring discussions on AI tools and software development. While it may contain useful content, the summary does not specify actionable insights or unique perspectives. Listeners interested in AI applications in software should explore the episodes directly for value.",
+    "promo_only": false
+  },
+  {
+    "id": "296d06f9153c",
+    "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+    "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; &#8220;Evals are the modern version of a PRD&#8221;: Ankur Goyal (Braintrust) on encoding taste into systems that scale",
+    "published": "2026-06-15T12:04:03+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201229109/5c2760fb38b77dfed89116b9bf36dd0c.mp3",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a practitioner perspective on using AI agents, evaluations, and continuous integration to improve software delivery, offering tactical insights.",
+    "topic_tags": [
+      "AI agents",
+      "software delivery",
+      "continuous integration"
+    ],
+    "partner_takeaway": "Encoding taste into AI-driven evaluation systems can scale quality control and improve software shipping processes.",
+    "partner_summary": "Ankur Goyal from Braintrust discusses how AI agents, evaluations, and continuous integration are used to enhance software delivery. This is relevant for product and engineering leaders looking to leverage AI for quality and efficiency. The audience should consider adopting AI-driven evals and CI practices to scale their development workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "abc9af18d2f5",
+    "title": "Anthropic’s Safety Superpower",
+    "url": "https://stratechery.com/2026/anthropics-safety-superpower/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Anthropic's belief in its own commitment to safety gives the company license to aggressively favor its business and even challenge the U.S. government.",
+    "published": "2026-06-15T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium-low content potential; offers a perspective on Anthropic's safety focus but lacks clear tactical advice or broader trend analysis for the audience.",
+    "topic_tags": [
+      "AI safety",
+      "business strategy"
+    ],
+    "partner_takeaway": "Anthropic’s strong commitment to safety influences its business strategy and regulatory stance, highlighting the interplay between ethics and market positioning.",
+    "partner_summary": "This article analyzes how Anthropic’s dedication to AI safety shapes its business decisions and interactions with government. It matters to AI leaders balancing ethical commitments with competitive strategy. Readers should watch how safety commitments can become strategic assets or challenges in AI business models.",
+    "promo_only": false
+  }
+]

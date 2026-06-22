@@ -1,0 +1,63 @@
+[
+  {
+    "track": "A",
+    "title": "Designing AI Agent Loops: How to Automate Your Workflow",
+    "hook": "Most teams still manually check tasks that AI agents could handle autonomously, but agent loops can change that.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn how to structure AI agent loops with schedules, goals, and subagents to automate tasks and reduce manual oversight.",
+    "story_ref": null,
+    "source_refs": [
+      "223321bbfac8"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "Agent loops are a practical, actionable topic for audiences seeking immediate AI workflow upgrades. The source offers concrete guidance, matching the track's tactical focus."
+  },
+  {
+    "track": "B",
+    "title": "Open Source AI Models: Why GLM-5.2 Signals a Shift",
+    "hook": "GLM-5.2 just passed the community vibe check, and open source models are catching up to GPT faster than most realize.",
+    "format": "opinion",
+    "partner_takeaway": "Readers learn why open source AI models like GLM-5.2 are now viable alternatives to proprietary models, and what this means for industry adoption.",
+    "story_ref": null,
+    "source_refs": [
+      "46446546d41d"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "Industry audiences are watching the battle between closed and open AI models. This week’s signal is timely, and the opinion format lets the writer add perspective on market implications."
+  },
+  {
+    "track": "C",
+    "title": "Shipping X to Production: Lessons from My First Live AI Deployment",
+    "hook": "The first time I shipped X to production, I learned that real-world AI deployments rarely go as planned.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn practical lessons from the writer’s first production AI launch, including what worked, what didn’t, and how to avoid common mistakes.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "Building in public posts resonate when they share real, recent experiences. This story offers concrete, actionable lessons, and fits the track’s framing perfectly."
+  },
+  {
+    "track": "A",
+    "title": "A Pattern I Keep Coming Back To: My Go-To AI Workflow",
+    "hook": "No matter how many AI tools I try, there’s one workflow I keep returning to—and it consistently delivers results.",
+    "format": "short",
+    "partner_takeaway": "Readers learn a proven AI workflow pattern they can apply immediately, including when to use it and common pitfalls.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "Short, tactical posts drive engagement and utility. This idea draws from the writer’s lived experience, offering readers a practical pattern they can use this week."
+  },
+  {
+    "track": "B",
+    "title": "How AI Is Reshaping E-Commerce: New Models and Logistics",
+    "hook": "AI-driven distribution and automation are forcing e-commerce businesses to rethink how they reach customers and manage logistics.",
+    "format": "opinion",
+    "partner_takeaway": "Readers learn how AI is changing e-commerce strategies, from distribution models to customer acquisition and logistics, and what to watch for next.",
+    "story_ref": null,
+    "source_refs": [
+      "1b95c97236db"
+    ],
+    "image_code": "data-cards",
+    "reasoning": "This trend is timely and actionable for industry readers. The opinion format lets the writer synthesize the week’s signal into a forward-looking market read."
+  }
+]
