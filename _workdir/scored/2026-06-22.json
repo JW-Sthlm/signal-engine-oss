@@ -1,0 +1,82 @@
+[
+  {
+    "id": "a39633d1d756",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "published": "2026-06-21T23:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant to AI adoption in enterprises and offers a perspective on large-scale AI deployment, but lacks detailed tactical insights in the summary.",
+    "topic_tags": [
+      "AI adoption",
+      "enterprise technology",
+      "AI tools"
+    ],
+    "partner_takeaway": "Large enterprises can successfully deploy AI tools like ChatGPT and Codex at scale to enhance employee productivity and innovation.",
+    "partner_summary": "Samsung Electronics has deployed ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts. This matters because it shows how major corporations are integrating AI tools into daily workflows, impacting productivity and innovation. Readers should watch for best practices and challenges in scaling AI deployments across large organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "1e83fbdd39fe",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "published": "2026-06-21T15:01:23+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "This is a promotional offer with no educational or tactical content for the audience.",
+    "topic_tags": [
+      "promotion",
+      "event",
+      "AI education"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a special offer providing $250 off AI Engineer tickets until Monday. It is primarily a promotional announcement rather than educational content. Readers interested in AI events might consider the offer but gain no strategic or tactical insights from it.",
+    "promo_only": true
+  },
+  {
+    "id": "497583a02d5d",
+    "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+    "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
+    "published": "2026-06-21T12:31:43+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201226747/1fae15655a42f6453e6a60d9e86148b8.mp3",
+    "relevance_score": 8,
+    "score_reason": "The item offers practitioner insights on building AI-focused engineering teams and managing culture amid AI integration, which is valuable and actionable.",
+    "topic_tags": [
+      "team management",
+      "AI integration",
+      "culture"
+    ],
+    "partner_takeaway": "Building and managing AI-centric engineering teams requires new approaches to culture and role clarity as AI agents become integral to workflows.",
+    "partner_summary": "Fiona Fung discusses leading the Claude Code and Cowork teams and the challenges of maintaining culture when roles blur and AI agents are pervasive. This is important for leaders managing AI-driven teams who need to adapt culture and processes. Readers should explore strategies for team cohesion and role definition in AI-enhanced environments.",
+    "promo_only": false
+  },
+  {
+    "id": "2931bd55a7bf",
+    "title": "🧠 Community Wisdom: Fractional CPO compensation, free e-signature tools, why some users pay but never use your product, sharing Claude Code context across a team, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-fractional-cpo-compensation",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 190",
+    "published": "2026-06-20T15:53:05+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The community wisdom format offers multiple tactical tips and insights relevant to product management and AI team collaboration.",
+    "topic_tags": [
+      "product management",
+      "team collaboration",
+      "AI tools"
+    ],
+    "partner_takeaway": "Practical advice on fractional CPO compensation, user engagement, and sharing AI context can improve product leadership and team effectiveness.",
+    "partner_summary": "Community Wisdom 190 covers topics like fractional CPO compensation, free e-signature tools, user payment behavior, and sharing Claude Code context across teams. These insights are valuable for product managers and AI team leaders looking to optimize compensation, user engagement, and collaboration. Readers should consider applying these practical tips to enhance their product and team strategies.",
+    "promo_only": false
+  }
+]
