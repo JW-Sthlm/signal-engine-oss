@@ -1,0 +1,229 @@
+[
+  {
+    "id": "868a391c04d0",
+    "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+    "published": "2026-06-23T06:19:49+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic is interesting but lacks a clear educational angle or actionable insight for the audience.",
+    "topic_tags": [
+      "AI business",
+      "market analysis"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This article reflects on SpaceX's annual revenue positioning it as a $28B/year neocloud. While the financial scale is notable, it offers limited tactical or strategic insights for AI or business practitioners. Readers should watch for deeper analyses that connect such figures to actionable business or AI strategy lessons.",
+    "promo_only": false
+  },
+  {
+    "id": "de12f0aa4140",
+    "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+    "url": "https://www.latent.space/p/gray-swan",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;",
+    "published": "2026-06-22T21:06:55+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202758604/161c0527b1d8e3da2ecdebe2923874cb.mp3",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a clear practitioner perspective on AI security beyond traditional cybersecurity, offering insight and warnings.",
+    "topic_tags": [
+      "AI security",
+      "risk management"
+    ],
+    "partner_takeaway": "AI security requires new approaches distinct from traditional cybersecurity, emphasizing proactive red-teaming and threat modeling.",
+    "partner_summary": "OpenAI board member Zico Kolter and Gray Swan CEO Matt Fredrikson discuss why AI security is fundamentally different from traditional cybersecurity. This matters because organizations need to rethink their security strategies to address AI-specific risks effectively. Practitioners should adopt new red-teaming methods and frameworks tailored to AI systems to mitigate emerging threats.",
+    "promo_only": false
+  },
+  {
+    "id": "e4d6ef8d0719",
+    "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-06-22T15:02:37+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with tactical tips on writing AI agent loops, but requires the writer to add personal insights to elevate it.",
+    "topic_tags": [
+      "AI development",
+      "agent design"
+    ],
+    "partner_takeaway": "Writing AI agent loops in Claude Code and Codex can help automate complex workflows and uncover hidden software bugs.",
+    "partner_summary": "This podcast episode explores how to write AI agent loops using Claude Code and Codex, including a case where Claude Mythos found a 15-year-old bug in Firefox. It matters because these techniques can improve software reliability and automation for developers and product teams. Readers should consider experimenting with AI agent loops to enhance their development processes and bug detection capabilities.",
+    "promo_only": false
+  },
+  {
+    "id": "e672005f9a06",
+    "title": "Jake Paul & Anti Fund: From Creator to Investor",
+    "url": "https://a16z.simplecast.com/episodes/jake-paul-anti-fund-from-creator-to-investor-S6O4PAbH",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Jake Paul and Geoff Woo join the podcast to announce Anti Fund’s new $100 million growth fund and discuss the evolution of their investment strategy. The conversation covers the fund’s portfolio, including investments in companies such as SpaceX, OpenAI, Anthropic, Anduril, Cognition, Etched, and Modal, as well as the lessons they’ve learned backing founders and identifying emerging technologies. They discuss founder psychology, resilience, ambition, and why they believe attention, culture, and distribution are becoming increasingly important advantages in the AI era. Along the way, Jake re...",
+    "published": "2026-06-22T14:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2815458d-9cb9-48c4-ad6f-59d28bbbe1f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2815458d-9cb9-48c4-ad6f-59d28bbbe1f8&feed=JGE3yC0V",
+    "relevance_score": 5,
+    "score_reason": "The content is mostly promotional about a fund and its portfolio, with limited direct educational or tactical value for the audience.",
+    "topic_tags": [
+      "investment",
+      "AI startups"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Jake Paul and Geoff Woo discuss the launch of Anti Fund’s $100 million growth fund and their investment strategy in AI and tech startups. While interesting for investors, it offers limited actionable insights or tactical advice for practitioners. Readers should monitor how such funds influence AI startup ecosystems but seek more practical lessons elsewhere.",
+    "promo_only": true
+  },
+  {
+    "id": "ec036f6d6488",
+    "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+    "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story",
+    "published": "2026-06-22T12:03:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202480416/565d4d9f8648f6fc863051748270dd17.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with a concrete example of AI uncovering a long-standing software bug, offering tactical and insight value.",
+    "topic_tags": [
+      "AI debugging",
+      "software quality"
+    ],
+    "partner_takeaway": "AI models like Claude Mythos can be leveraged to find and fix long-standing software bugs, improving security and reliability.",
+    "partner_summary": "Brian Grinstead from Mozilla demonstrates how Claude Mythos found a 15-year-old bug in Firefox, highlighting the power of AI in security and debugging. This matters because it shows practical applications of AI in improving software quality beyond traditional methods. Practitioners should explore integrating AI-driven tools into their debugging and security workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "d66f7956a962",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "published": "2026-06-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "High content potential with new AI security tools from OpenAI that offer tactical and tool insights for organizations.",
+    "topic_tags": [
+      "AI security",
+      "vulnerability management"
+    ],
+    "partner_takeaway": "OpenAI’s Daybreak tools enable organizations to find, validate, and patch vulnerabilities at scale using AI-powered automation.",
+    "partner_summary": "OpenAI introduced Daybreak tools, including Codex Security and GPT-5.5-Cyber, designed to help organizations secure their systems by automating vulnerability detection and patching. This matters because it represents a significant advancement in scalable AI-driven security operations. Organizations should evaluate these tools to enhance their cybersecurity posture efficiently.",
+    "promo_only": false
+  },
+  {
+    "id": "efc11ca230b8",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "published": "2026-06-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Good content potential with a focus on supporting open source maintainers using AI, offering tactical and community impact insights.",
+    "topic_tags": [
+      "open source",
+      "AI security"
+    ],
+    "partner_takeaway": "The Patch the Planet initiative uses AI and expert review to help open-source maintainers identify and fix vulnerabilities more effectively.",
+    "partner_summary": "OpenAI launched Patch the Planet, a Daybreak initiative aimed at supporting open-source maintainers by combining AI tools with expert review to secure projects. This matters because open source is critical infrastructure often under-resourced for security. Practitioners and maintainers should consider leveraging such initiatives to improve open-source security and sustainability.",
+    "promo_only": false
+  },
+  {
+    "id": "bcfd6f0bc148",
+    "title": "Apple Price Increases, Apple Intelligence and the E.U.",
+    "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Apple is (finally) raising prices, but they're not shipping Siri AI to the E.U.",
+    "published": "2026-06-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential with a strategic perspective on Apple’s pricing and AI deployment in the EU, but limited tactical depth.",
+    "topic_tags": [
+      "tech strategy",
+      "AI regulation"
+    ],
+    "partner_takeaway": "Apple’s price increases and withholding Siri AI in the EU reflect strategic responses to regulatory and market pressures.",
+    "partner_summary": "Apple is raising prices while choosing not to deploy Siri AI in the European Union, likely due to regulatory challenges. This matters as it highlights how tech giants adapt AI strategies in response to regional regulations. Readers should watch how regulatory environments shape AI product availability and pricing strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "0018c9a42fd1",
+    "title": "Codex-maxxing for long-running work",
+    "url": "https://openai.com/index/codex-maxxing-long-running-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how Jason Liu uses Codex to preserve context, manage complex projects, and help work continue beyond a single prompt.",
+    "published": "2026-06-22T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with tactical insights on using Codex for managing long-running work, but requires a personal angle.",
+    "topic_tags": [
+      "AI productivity",
+      "project management"
+    ],
+    "partner_takeaway": "Using Codex to preserve context and manage complex projects can help sustain productivity beyond single AI prompts.",
+    "partner_summary": "This OpenAI blog post explains how Jason Liu uses Codex to maintain context and manage complex, long-running projects effectively. It matters because it shows practical ways to extend AI assistance beyond isolated tasks. Practitioners should explore similar techniques to enhance workflow continuity and project management with AI.",
+    "promo_only": false
+  },
+  {
+    "id": "a39633d1d756",
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+    "published": "2026-06-21T23:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential focused on enterprise AI deployment but mostly promotional without deep tactical insights.",
+    "topic_tags": [
+      "enterprise AI",
+      "AI adoption"
+    ],
+    "partner_takeaway": "Samsung’s large-scale deployment of ChatGPT Enterprise and Codex illustrates growing enterprise adoption of AI tools for productivity.",
+    "partner_summary": "Samsung Electronics has deployed ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise rollouts. This matters as it signals increasing corporate adoption of AI to enhance employee productivity. Readers should monitor enterprise AI deployments for lessons on scaling and integration.",
+    "promo_only": true
+  },
+  {
+    "id": "1e83fbdd39fe",
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "published": "2026-06-21T15:01:23+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "Pure promotional offer with no educational or tactical content for the audience.",
+    "topic_tags": [
+      "promotion"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a special offer providing $250 off AI Engineer tickets until Monday. It is promotional and does not provide educational content or insights. Readers should consider it only if interested in attending the event.",
+    "promo_only": true
+  },
+  {
+    "id": "23622d3a556e",
+    "title": "What happens after coding is solved? | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+    "url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Fiona Fung on leading the Claude Code and Cowork teams, and how to maintain culture when roles are blurring and agents are everywhere",
+    "published": "2026-06-21T12:31:43+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/201226747/1fae15655a42f6453e6a60d9e86148b8.mp3",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with practitioner perspective on managing AI-driven engineering teams and culture.",
+    "topic_tags": [
+      "AI teams",
+      "engineering culture"
+    ],
+    "partner_takeaway": "Maintaining engineering culture requires new leadership approaches as AI agents blur traditional roles and workflows.",
+    "partner_summary": "Fiona Fung discusses leading the Claude Code and Cowork teams and the challenges of maintaining culture amid AI agent integration. This matters because AI is reshaping engineering roles and team dynamics. Leaders should adapt management practices to foster culture and productivity in AI-enhanced environments.",
+    "promo_only": false
+  }
+]
