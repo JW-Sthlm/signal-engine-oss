@@ -1,0 +1,259 @@
+[
+  {
+    "id": "b53cef4ee649",
+    "title": "[AINews] It's Meta-Harness Summer",
+    "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
+    "published": "2026-06-25T02:14:08+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The topic is vague and lacks a clear educational angle or takeaway relevant to the audience.",
+    "topic_tags": [
+      "AI trends"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief mention of a new trend called 'Meta-Harness Summer.' It is unclear how this impacts the writer's audience or offers practical insights. Without more substance, there is little for the audience to learn or apply.",
+    "promo_only": false
+  },
+  {
+    "id": "64678e4a26bb",
+    "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+    "url": "https://www.latent.space/p/databricks",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
+    "published": "2026-06-24T18:53:16+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203293676/eb328d485594d9077b069520f6eecf59.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with a clear insight on open ecosystems for Agent Clouds, offering a practitioner perspective.",
+    "topic_tags": [
+      "AI ecosystems",
+      "Agent Clouds",
+      "Open platforms"
+    ],
+    "partner_takeaway": "Building open ecosystems is essential for companies to successfully develop and scale Agent Clouds.",
+    "partner_summary": "Databricks technical leaders discuss the importance of openness in the frontier AI ecosystem for Agent Clouds. This matters because openness enables interoperability and innovation, which are critical for companies building AI agent infrastructures. The audience should watch how open standards and collaboration evolve to leverage these ecosystems effectively.",
+    "promo_only": false
+  },
+  {
+    "id": "4248f3bf2002",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-24T16:30:01+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Potentially interesting but lacks summary details and a clear takeaway for the audience.",
+    "topic_tags": [
+      "AI models",
+      "Product updates"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind announced a new feature called computer use in Gemini 3.5 Flash. The implications for AI practitioners or business users are not detailed. More information is needed to understand how this affects AI application development or strategy.",
+    "promo_only": false
+  },
+  {
+    "id": "10485fcae9e3",
+    "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+    "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36",
+    "published": "2026-06-24T12:03:52+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203168823/b822175a80b54f3ee429cb674704290e.mp3",
+    "relevance_score": 8,
+    "score_reason": "Good tactical insight on evaluating and replacing AI models in real-world coding tasks with cost analysis.",
+    "topic_tags": [
+      "AI models",
+      "Tactical evaluation",
+      "Developer tools"
+    ],
+    "partner_takeaway": "Evaluating AI models through practical tasks and cost metrics can guide better model selection for coding applications.",
+    "partner_summary": "The author tested GLM 5.2 against Opus in coding audits and bug hunting, highlighting performance and cost. This matters to developers and product teams deciding on AI model integration for coding tools. Readers should consider practical benchmarks and cost when choosing AI models for their workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "322573e5fd96",
+    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+    "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
+    "published": "2026-06-24T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Personal experience with vibe coding offers tactical takeaways but may need a sharper angle for broad audience appeal.",
+    "topic_tags": [
+      "Developer experience",
+      "Product development",
+      "Coding practices"
+    ],
+    "partner_takeaway": "Reflecting on personal coding experiences can reveal practical lessons for building usable apps.",
+    "partner_summary": "The author shares ten takeaways from their experience vibe coding an app they intend to use regularly. This is relevant for practitioners interested in user-centric development and iterative design. The audience should consider these lessons to improve their own app development processes.",
+    "promo_only": false
+  },
+  {
+    "id": "2773a64c499f",
+    "title": "What Happens to Design After AI?",
+    "url": "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya speaks with Microsoft VP of Design John Maeda and Impeccable founder and CEO Paul Bakaus about how AI is changing the practice of design. The conversation explores the relationship between design and technology, the rise of AI-powered creative tools, and whether automation raises the floor, the ceiling, or both. Maeda and Bakaus discuss software craftsmanship, taste, creative judgment, and why some aspects of design may become increasingly automated while others become more valuable. They also examine agentic workflows, the future of user experience, the role of designers in a...",
+    "published": "2026-06-24T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/031105e9-13ef-4999-b5e0-c6a3b032de51/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=031105e9-13ef-4999-b5e0-c6a3b032de51&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Insightful discussion on AI's impact on design practice with practitioner perspectives and implications.",
+    "topic_tags": [
+      "AI impact",
+      "Design",
+      "Creative tools"
+    ],
+    "partner_takeaway": "AI-powered tools are reshaping design by raising both the baseline and creative potential of practitioners.",
+    "partner_summary": "Design leaders discuss how AI is transforming design workflows and creativity, exploring automation's dual effects. This matters to designers and product teams adapting to AI-enhanced tools. The audience should watch how AI changes design roles and leverage emerging tools to enhance creativity.",
+    "promo_only": false
+  },
+  {
+    "id": "8ddf854276d8",
+    "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Claude finally gets a Slackbot upgrade",
+    "published": "2026-06-24T07:14:26+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Product update with some potential for insights on AI agent collaboration in Slack but limited detail.",
+    "topic_tags": [
+      "AI agents",
+      "Collaboration tools",
+      "Slack integrations"
+    ],
+    "partner_takeaway": "Upgraded AI agents in Slack enable more proactive and persistent collaboration features.",
+    "partner_summary": "Claude AI received an upgrade to support multiplayer, proactive, and persistent agents within Slack. This matters for teams using AI to enhance collaboration and productivity in messaging platforms. The audience should explore how these agent features can improve workflow automation and team coordination.",
+    "promo_only": false
+  },
+  {
+    "id": "09d6f7705e73",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "published": "2026-06-24T06:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Announces a new AI inference chip with implications for performance and scalability, offering a trend read.",
+    "topic_tags": [
+      "AI hardware",
+      "Performance",
+      "Scalability"
+    ],
+    "partner_takeaway": "Custom AI chips like Jalapeño are advancing LLM inference efficiency and scalability for AI systems.",
+    "partner_summary": "OpenAI and Broadcom introduced Jalapeño, a chip optimized for large language model inference. This matters to AI practitioners focused on improving system performance and cost efficiency. The audience should monitor hardware innovations that enable more scalable AI deployments.",
+    "promo_only": false
+  },
+  {
+    "id": "961655c1db74",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "published": "2026-06-23T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong practitioner story showing how GPT-5 contributed to solving a complex scientific problem, offering insight and inspiration.",
+    "topic_tags": [
+      "AI applications",
+      "Scientific research",
+      "GPT-5"
+    ],
+    "partner_takeaway": "GPT-5 can accelerate scientific discovery by providing novel insights into complex biological problems.",
+    "partner_summary": "GPT-5 Pro helped an immunologist solve a three-year-old mystery about T cell behavior, aiding cancer and autoimmune research. This matters to researchers and AI practitioners exploring AI's role in advancing science. The audience should consider integrating advanced AI models to augment research workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "2a8dbaacb660",
+    "title": "What’s Next for Consumer AI? | Josh Elman Joins a16z",
+    "url": "https://a16z.simplecast.com/episodes/whats-next-for-consumer-ai-josh-elman-joins-a16z-DsQwKWIh",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya sits down with Josh Elman to discuss the future of consumer technology and Josh's decision to join a16z. Over the past two decades, Elman has helped shape some of the most important consumer technology products and companies, including LinkedIn, Facebook, Twitter, Robinhood, Discord, Musical.ly, TikTok, and Apple. Drawing on those experiences, he reflects on how technology has evolved from a niche industry into a central force in everyday life. The conversation explores consumer AI, product design, distribution, social networks, creator ecosystems, and the changing relationshi...",
+    "published": "2026-06-23T14:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/637e0ead-3c47-42b9-96e9-9dbecd2ac8a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=637e0ead-3c47-42b9-96e9-9dbecd2ac8a0&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Experienced industry leader shares perspectives on consumer AI trends, offering insight and trend read.",
+    "topic_tags": [
+      "Consumer AI",
+      "Technology trends",
+      "Product strategy"
+    ],
+    "partner_takeaway": "Understanding past consumer tech successes helps anticipate the future trajectory of consumer AI products.",
+    "partner_summary": "Josh Elman discusses his career and views on the future of consumer AI technology. This matters to product leaders and innovators shaping AI-driven consumer experiences. The audience should draw lessons from past product evolutions to inform AI product strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "05f5412af05e",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "published": "2026-06-23T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Important topic on AI standards and safety but mostly a high-level announcement lacking tactical depth.",
+    "topic_tags": [
+      "AI governance",
+      "Safety standards",
+      "Collaboration"
+    ],
+    "partner_takeaway": "Shared standards and safety practices are critical for responsible advanced AI development.",
+    "partner_summary": "OpenAI is supporting the creation of shared standards for advanced AI through the Appia Foundation. This matters as AI safety and evaluation frameworks become essential for global cooperation. The audience should stay informed on emerging standards to align their AI practices accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "2fc2d99a28d3",
+    "title": "The new inner game: Your unfair advantage in the age of AI",
+    "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "A playbook for the biggest upheaval of work we&#8217;ll see in our lifetime",
+    "published": "2026-06-23T12:45:59+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Offers a tactical playbook for navigating AI-driven work upheaval with practitioner insights.",
+    "topic_tags": [
+      "Future of work",
+      "AI impact",
+      "Career strategy"
+    ],
+    "partner_takeaway": "Adopting new mindsets and strategies is essential to gain an unfair advantage in the AI-driven workplace transformation.",
+    "partner_summary": "The author presents a playbook addressing the major changes AI will bring to work and careers. This matters to professionals seeking to adapt and thrive amid AI disruptions. The audience should apply these strategies to future-proof their skills and workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "91490ea2fc47",
+    "title": "Memory Chips and China, Microsoft and Chinese Models",
+    "url": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.",
+    "published": "2026-06-23T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic intersects with technology market dynamics and geopolitical impacts relevant to business strategy, offering a perspective on supply chain and competitive risks, though it requires a clear personal angle to maximize impact.",
+    "topic_tags": [
+      "technology strategy",
+      "market dynamics",
+      "geopolitics"
+    ],
+    "partner_takeaway": "The entry of Chinese memory chip makers could disrupt the global supply chain and competitive landscape, while Microsoft's use of Chinese AI models highlights complex incentives in tech globalization.",
+    "partner_summary": "This article discusses the potential consequences of major memory chip manufacturers allowing Chinese competitors into the market and Microsoft's strategic use of Chinese AI models. These developments matter to business and technology leaders because they illustrate how geopolitical and competitive pressures shape technology supply chains and innovation strategies. Readers should watch for shifts in supplier relationships and consider the risks and opportunities of engaging with Chinese technology providers in their own strategies.",
+    "promo_only": false
+  }
+]
