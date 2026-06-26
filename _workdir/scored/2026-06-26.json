@@ -1,0 +1,194 @@
+[
+  {
+    "id": "2ec7200e5e57",
+    "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+    "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "It's happening.",
+    "published": "2026-06-26T01:12:30+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The data point about Codex usage growth is interesting but lacks a clear actionable insight or tactical angle for the audience without further context or analysis.",
+    "topic_tags": [
+      "AI adoption",
+      "productivity"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI reports significant growth in median internal Codex output tokens across multiple departments since November 2025. This signals increased reliance on AI-assisted coding and support tools internally. Readers should watch for how these usage trends might translate into broader productivity gains or new workflows in their own organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "4769bf6acced",
+    "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+    "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
+    "published": "2026-06-25T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "An interview with Figma's CEO about AI's impact on design tools offers a practitioner perspective with potential tactical insights for design and product professionals.",
+    "topic_tags": [
+      "AI in design",
+      "product management"
+    ],
+    "partner_takeaway": "AI is becoming a tailwind for design tools like Figma, changing how teams collaborate and innovate in product design.",
+    "partner_summary": "Figma CEO Dylan Field discusses the company's journey and how AI is accelerating design workflows. This matters to product and design professionals looking to leverage AI to enhance creativity and collaboration. Readers should explore how AI-powered features can be integrated into their design processes to stay competitive.",
+    "promo_only": false
+  },
+  {
+    "id": "2baad5018381",
+    "title": "Marc Andreessen on AI, Technology, and the Future of Humanity",
+    "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-technology-and-the-future-of-humanity-C2m9nf_J",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Michael Malice sits down with Marc Andreessen to discuss artificial intelligence, technological progress, economic growth, and the future of human flourishing. Drawing on decades of experience spanning the birth of the commercial internet through today’s AI boom, Andreessen argues that many of the most common fears about technology are rooted in a misunderstanding of how innovation creates opportunity. He explains how modern AI systems work, why large language models differ from earlier visions of artificial intelligence, and why he believes AI will ultimately expand human capability rather...",
+    "published": "2026-06-25T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d7dafaa-af06-426e-88f6-9ff70fee92e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d7dafaa-af06-426e-88f6-9ff70fee92e0&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Marc Andreessen's broad perspective on AI and technology offers insight but is somewhat generic without a unique tactical angle for the audience.",
+    "topic_tags": [
+      "AI trends",
+      "technology outlook"
+    ],
+    "partner_takeaway": "Understanding common fears about AI through Andreessen's lens helps reframe innovation as an opportunity rather than a threat.",
+    "partner_summary": "Marc Andreessen discusses AI, technological progress, and economic growth, challenging common misconceptions about innovation. This perspective helps business leaders and technologists rethink AI's role in future growth. Readers should consider how to embrace AI-driven innovation while addressing stakeholder concerns.",
+    "promo_only": false
+  },
+  {
+    "id": "b53cef4ee649",
+    "title": "[AINews] It's Meta-Harness Summer",
+    "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
+    "published": "2026-06-25T02:14:08+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The item is vague and lacks clear substance or actionable insight for the audience; it reads as a playful headline without depth.",
+    "topic_tags": [
+      "AI tools",
+      "engineering"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article hints at a new development called 'Meta-Harness Summer' in engineering tools. However, it provides no clear explanation or implications for practitioners. Readers have no concrete takeaway or action from this piece.",
+    "promo_only": false
+  },
+  {
+    "id": "30b56db3afff",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "published": "2026-06-25T02:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "A research-backed explanation of how AI agents transform work offers both insight and tactical understanding highly relevant to the audience.",
+    "topic_tags": [
+      "AI agents",
+      "productivity",
+      "work transformation"
+    ],
+    "partner_takeaway": "AI agents enable handling longer, more complex tasks, significantly boosting productivity across diverse roles.",
+    "partner_summary": "OpenAI published research showing how AI agents are transforming work by enabling more complex and extended task management. This is crucial for professionals seeking to leverage AI to enhance productivity and workflow efficiency. Readers should explore integrating AI agents into their work processes to unlock new productivity gains.",
+    "promo_only": false
+  },
+  {
+    "id": "64678e4a26bb",
+    "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+    "url": "https://www.latent.space/p/databricks",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
+    "published": "2026-06-24T18:53:16+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203293676/eb328d485594d9077b069520f6eecf59.mp3",
+    "relevance_score": 7,
+    "score_reason": "The interview on the importance of openness in building Agent Clouds offers a useful perspective but needs a clear tactical or strategic takeaway for the audience.",
+    "topic_tags": [
+      "AI ecosystems",
+      "open platforms"
+    ],
+    "partner_takeaway": "Building open Agent Cloud ecosystems is essential for widespread AI adoption and innovation across companies.",
+    "partner_summary": "Databricks leaders Matei Zaharia and Reynold Xin discuss why openness is critical for the future of Agent Clouds. This matters to companies aiming to build scalable AI infrastructure and avoid vendor lock-in. Readers should consider how open standards and collaboration can accelerate their AI initiatives.",
+    "promo_only": false
+  },
+  {
+    "id": "4248f3bf2002",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-24T16:30:01+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The announcement about Gemini 3.5 Flash's computer use lacks detail and actionable insight for the audience without further explanation.",
+    "topic_tags": [
+      "AI models",
+      "technology update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind introduced computer use capabilities in Gemini 3.5 Flash. The implications for practitioners or businesses remain unclear due to limited information. Readers should watch for more detailed analysis before drawing conclusions.",
+    "promo_only": false
+  },
+  {
+    "id": "10485fcae9e3",
+    "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+    "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36",
+    "published": "2026-06-24T12:03:52+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203168823/b822175a80b54f3ee429cb674704290e.mp3",
+    "relevance_score": 8,
+    "score_reason": "A detailed practitioner review of GLM 5.2's performance in real-world coding tasks offers tactical insights valuable to the audience.",
+    "topic_tags": [
+      "AI models",
+      "code auditing",
+      "productivity tools"
+    ],
+    "partner_takeaway": "GLM 5.2 demonstrates strong performance in autonomous bug hunting and UI redesign, offering a cost-effective alternative for codebase audits.",
+    "partner_summary": "The author tested GLM 5.2, an open-weight model, on various coding tasks including audits and redesigns, noting its efficiency and cost-effectiveness. This is relevant for developers and product teams evaluating AI tools for software quality and productivity. Readers should consider experimenting with GLM 5.2 for similar tasks to optimize workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "322573e5fd96",
+    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+    "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
+    "published": "2026-06-24T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Personal reflections on vibe coding provide some practitioner insight but lack broad tactical or strategic takeaways for the audience.",
+    "topic_tags": [
+      "software development",
+      "workflow"
+    ],
+    "partner_takeaway": "Vibe coding can enhance developer experience and productivity but requires intentional practice and reflection.",
+    "partner_summary": "The author shares their experience vibe coding an app they intend to use regularly, highlighting lessons learned. This offers some insight into improving coding workflows and developer satisfaction. Readers interested in optimizing their development process should consider the principles behind vibe coding.",
+    "promo_only": false
+  },
+  {
+    "id": "2773a64c499f",
+    "title": "What Happens to Design After AI?",
+    "url": "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya speaks with Microsoft VP of Design John Maeda and Impeccable founder and CEO Paul Bakaus about how AI is changing the practice of design. The conversation explores the relationship between design and technology, the rise of AI-powered creative tools, and whether automation raises the floor, the ceiling, or both. Maeda and Bakaus discuss software craftsmanship, taste, creative judgment, and why some aspects of design may become increasingly automated while others become more valuable. They also examine agentic workflows, the future of user experience, the role of designers in a...",
+    "published": "2026-06-24T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/031105e9-13ef-4999-b5e0-c6a3b032de51/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=031105e9-13ef-4999-b5e0-c6a3b032de51&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "A discussion on AI's impact on design practice offers insight and tactical considerations relevant to design and product professionals.",
+    "topic_tags": [
+      "AI in design",
+      "creative tools"
+    ],
+    "partner_takeaway": "AI-powered creative tools are reshaping design by raising both the baseline quality and the creative ceiling of work.",
+    "partner_summary": "Microsoft and Impeccable leaders discuss how AI is changing design workflows, craftsmanship, and creative judgment. This is important for designers and product teams adapting to AI-enhanced tools. Readers should explore how to balance automation with human creativity to maximize design impact.",
+    "promo_only": false
+  }
+]
