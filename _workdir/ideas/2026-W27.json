@@ -1,0 +1,51 @@
+[
+  {
+    "track": "A",
+    "title": "AI Agents: The Productivity Multiplier You’re Ignoring",
+    "hook": "Most teams still use AI for quick answers, but the real power is in letting agents handle full workflows.",
+    "format": "how-to",
+    "partner_takeaway": "Readers will learn how to set up and delegate longer, complex tasks to AI agents, expanding productivity in their daily work.",
+    "story_ref": "story-003",
+    "source_refs": [
+      "30b56db3afff"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "This combines a high-signal external trend with a tactical workflow story, showing readers a practical way to use AI agents immediately. It fits the track’s focus on actionable patterns and answers 'what would they do differently?'"
+  },
+  {
+    "track": "B",
+    "title": "AI Is Accelerating Scientific Discovery—What That Means for Your Industry",
+    "hook": "In the past week, AI helped solve a three-year-old immunology mystery and is starting to unlock new frontiers in scientific knowledge.",
+    "format": "opinion",
+    "partner_takeaway": "Readers will gain insight into how AI’s ability to solve complex scientific problems is reshaping innovation timelines and startup strategies.",
+    "story_ref": null,
+    "source_refs": [
+      "57631db718a3",
+      "961655c1db74"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "This idea draws from two high-relevance signals and gives a timely trend read on AI’s expanding impact. It’s relevant for industry leaders looking beyond hype to real shifts in market structure and innovation."
+  },
+  {
+    "track": "C",
+    "title": "Shipping My First AI-Powered Feature: Lessons from the Trenches",
+    "hook": "The first time I shipped an AI-powered feature to production, I expected magic. What I got was a crash course in edge cases and user feedback.",
+    "format": "case-study",
+    "partner_takeaway": "Readers will see concrete lessons learned from deploying AI in production, including how to handle unexpected issues and iterate based on real user input.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "This is a classic 'building in public' story, giving practical insights from personal experience. It helps demystify AI deployment and encourages others to learn from real-world shipping, matching the track’s hands-on framing."
+  },
+  {
+    "track": "A",
+    "title": "A Pattern for Reliable AI Workflows",
+    "hook": "Every time I build an AI workflow, I return to a simple pattern that keeps things from going off the rails.",
+    "format": "short",
+    "partner_takeaway": "Readers will learn a repeatable pattern for structuring AI workflows to avoid common mistakes and improve reliability.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "This delivers a tactical, immediately usable tip from lived experience. It’s short and sharp, ideal for practical AI readers who want actionable advice without fluff."
+  }
+]

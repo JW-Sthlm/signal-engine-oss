@@ -1,0 +1,633 @@
+[
+  {
+    "id": "6c22a888b1fe",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "published": "2026-06-28T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The partnership is relevant but reads mostly as a product launch without deep tactical or strategic insight.",
+    "topic_tags": [
+      "AI adoption",
+      "enterprise operations"
+    ],
+    "partner_takeaway": "HP Inc.'s strategic partnership with OpenAI illustrates how AI is being integrated into enterprise operations and customer experiences at scale.",
+    "partner_summary": "HP Inc. has expanded its strategic partnership with OpenAI to deploy AI across customer experiences, software development, and enterprise operations. This matters to business leaders interested in how AI partnerships can drive operational transformation and customer engagement. The audience should watch how such collaborations evolve to understand practical AI deployment at scale.",
+    "promo_only": true
+  },
+  {
+    "id": "17fc549827d4",
+    "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+    "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | OpenAI&#8217;s Andrew Ambrosino on why software is getting cheaper to build, why taste matters more than ever, and what&#8217;s next for the Codex desktop app",
+    "published": "2026-06-28T12:31:54+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202769820/d9221a3e4c66913fe5e66086aac6b2e8.mp3",
+    "relevance_score": 8,
+    "score_reason": "The topic offers a practitioner perspective on how AI changes product work, with potential for tactical insights.",
+    "topic_tags": [
+      "product management",
+      "AI in software",
+      "workflow"
+    ],
+    "partner_takeaway": "Software is becoming cheaper to build with AI, making design taste and user experience more critical than ever in product work.",
+    "partner_summary": "Andrew Ambrosino from OpenAI discusses how AI is lowering software development costs and shifting the focus toward design and user experience. This is important for product managers and builders who need to adapt to new workflows and prioritize what truly matters in product quality. Readers should consider how to integrate AI tools while maintaining strong product taste and user focus.",
+    "promo_only": false
+  },
+  {
+    "id": "d3993e5bf248",
+    "title": "🧠 Community Wisdom: Beating a career slump, adding more structure to an established team, questions for new-team 1:1s, the evolving shape of the growth role, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-beating-a-career",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 191",
+    "published": "2026-06-27T17:09:06+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Community wisdom on career and team growth offers practical tips relevant to the audience but is somewhat generic.",
+    "topic_tags": [
+      "career growth",
+      "team management",
+      "growth roles"
+    ],
+    "partner_takeaway": "Adding structure to teams and evolving growth roles can help overcome career slumps and improve team effectiveness.",
+    "partner_summary": "This community wisdom edition covers topics like beating career slumps, structuring established teams, and evolving growth roles. These insights matter to professionals managing teams or navigating career development in dynamic environments. Readers should apply these practical tips to improve team dynamics and personal career trajectories.",
+    "promo_only": false
+  },
+  {
+    "id": "3813b4dfc74e",
+    "title": "[AINews] OpenAI GPT-5.6 Sol / Terra / Luna — restricted to trusted partners",
+    "url": "https://www.latent.space/p/ainews-openai-gpt-56-sol-terra-luna",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Oddly tiered releases to both OAI and ANT on the same day.",
+    "published": "2026-06-27T05:23:22+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The news about tiered AI model releases is interesting but lacks a clear takeaway or actionable insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "product releases"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI released GPT-5.6 Sol, Terra, and Luna models with restricted access to trusted partners. While this shows a tiered approach to AI deployment, it offers limited insight into practical implications for most readers. The audience should monitor how tiered AI releases affect access and innovation but no immediate action is suggested.",
+    "promo_only": false
+  },
+  {
+    "id": "260ccb933c25",
+    "title": "2026.26: Summer Vibes",
+    "url": "https://stratechery.com/2026/summer-vibes/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The best Stratechery content from the week of June 22, 2026, including a vibe coding adventure, Apple in Europe, and a midsummer mailbag.",
+    "published": "2026-06-26T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "A weekly content roundup is too generic and lacks a unique angle or concrete takeaway for the audience.",
+    "topic_tags": [
+      "content roundup",
+      "tech trends"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly roundup of Stratechery content covering various topics like Apple in Europe and a midsummer mailbag. While informative, it does not provide a focused insight or tactical advice for the audience. Readers should selectively explore topics of interest but no specific action is recommended.",
+    "promo_only": false
+  },
+  {
+    "id": "57631db718a3",
+    "title": "AI Is Crossing the Frontier of Human Knowledge | Kevin Weil",
+    "url": "https://a16z.simplecast.com/episodes/ai-is-crossing-the-frontier-of-human-knowledge-kevin-weil-jewVLsTo",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Kevin Weil, the previous CPO & Vice President of Science at OpenAI, joins Speedrun to discuss the future of AI, scientific discovery, and startup building. After helping build products at Twitter, Instagram, and Facebook, Weil is now focused on one of AI's most ambitious applications: accelerating science itself. He explains why modern AI models are beginning to solve problems that sit beyond the frontier of existing human knowledge, and how advances in reasoning, coding, and autonomous research could reshape fields ranging from mathematics to medicine. The conversation explores scientific ...",
+    "published": "2026-06-26T10:16:31+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/5e118860-b197-4c31-b469-3607ba722aed/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=5e118860-b197-4c31-b469-3607ba722aed&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "A deep discussion on AI accelerating scientific discovery offers a strong insight and trend read relevant to the audience.",
+    "topic_tags": [
+      "AI impact",
+      "scientific discovery",
+      "future trends"
+    ],
+    "partner_takeaway": "AI is beginning to solve complex scientific problems, accelerating discovery and transforming how startups approach innovation.",
+    "partner_summary": "Kevin Weil, former OpenAI CPO and VP of Science, discusses how AI is crossing frontiers in human knowledge by accelerating scientific discovery and innovation. This perspective is crucial for professionals interested in the future impact of AI beyond traditional applications. The audience should watch how AI-driven science reshapes industries and consider how to leverage these advances in their own work.",
+    "promo_only": false
+  },
+  {
+    "id": "341b60abd06c",
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "published": "2026-06-26T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Previewing a next-gen AI model with enhanced capabilities offers useful insight and a trend read for the audience.",
+    "topic_tags": [
+      "AI models",
+      "coding",
+      "cybersecurity"
+    ],
+    "partner_takeaway": "GPT-5.6 Sol advances AI capabilities in coding, science, and cybersecurity, paired with improved safety features.",
+    "partner_summary": "OpenAI has previewed GPT-5.6 Sol, a next-generation AI model with stronger capabilities in coding, scientific tasks, and cybersecurity, alongside its most advanced safety stack. This matters to professionals leveraging AI for complex tasks and those concerned with AI safety. Readers should explore how these improvements can enhance productivity and security in their domains.",
+    "promo_only": false
+  },
+  {
+    "id": "2ec7200e5e57",
+    "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+    "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "It's happening.",
+    "published": "2026-06-26T01:12:30+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Data on Codex usage growth is interesting but lacks context or actionable insight without further analysis.",
+    "topic_tags": [
+      "AI adoption",
+      "productivity metrics"
+    ],
+    "partner_takeaway": "Internal Codex usage has grown significantly across multiple departments, indicating rising AI integration in workflows.",
+    "partner_summary": "OpenAI reports that median internal Codex output tokens have grown dramatically since November 2025 across research, customer support, engineering, and legal teams. This signals increasing reliance on AI tools within organizations. The audience should consider how similar adoption trends might impact their own teams and workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "4769bf6acced",
+    "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+    "url": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
+    "published": "2026-06-25T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "An interview about AI's impact on design offers practitioner insight but needs a strong personal angle to stand out.",
+    "topic_tags": [
+      "design",
+      "AI impact",
+      "product strategy"
+    ],
+    "partner_takeaway": "AI provides a tailwind for design innovation, influencing how design teams build and iterate products.",
+    "partner_summary": "Figma CEO Dylan Field discusses how AI is influencing design workflows and providing momentum for the company's growth. This is relevant for design leaders and product teams adapting to AI-driven changes. Readers should explore how AI tools can enhance creativity and efficiency in design processes.",
+    "promo_only": false
+  },
+  {
+    "id": "2baad5018381",
+    "title": "Marc Andreessen on AI, Technology, and the Future of Humanity",
+    "url": "https://a16z.simplecast.com/episodes/marc-andreessen-on-ai-technology-and-the-future-of-humanity-C2m9nf_J",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Michael Malice sits down with Marc Andreessen to discuss artificial intelligence, technological progress, economic growth, and the future of human flourishing. Drawing on decades of experience spanning the birth of the commercial internet through today’s AI boom, Andreessen argues that many of the most common fears about technology are rooted in a misunderstanding of how innovation creates opportunity. He explains how modern AI systems work, why large language models differ from earlier visions of artificial intelligence, and why he believes AI will ultimately expand human capability rather...",
+    "published": "2026-06-25T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d7dafaa-af06-426e-88f6-9ff70fee92e0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d7dafaa-af06-426e-88f6-9ff70fee92e0&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "A veteran's perspective on AI and technology offers insight and trend context valuable to the audience.",
+    "topic_tags": [
+      "technology trends",
+      "AI impact",
+      "economic growth"
+    ],
+    "partner_takeaway": "Many fears about AI and technology stem from misunderstanding innovation’s role in creating economic opportunity and human flourishing.",
+    "partner_summary": "Marc Andreessen discusses AI, technological progress, and the future of humanity, arguing that innovation drives economic growth despite common fears. This perspective helps readers reframe concerns about AI and technology. The audience should consider this broader context when evaluating AI’s impact on business and society.",
+    "promo_only": false
+  },
+  {
+    "id": "b53cef4ee649",
+    "title": "[AINews] It's Meta-Harness Summer",
+    "url": "https://www.latent.space/p/ainews-its-meta-harness-summer",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Move over, Harness Engineering, it is time for the harness of harnesses!",
+    "published": "2026-06-25T02:14:08+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The item is vague and lacks a clear takeaway or relevance to the audience’s business or tactical interests.",
+    "topic_tags": [
+      "engineering",
+      "AI tools"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item references a summer event related to 'Meta-Harness' and engineering but provides no clear details or actionable insights. It does not offer meaningful information for the audience. Readers have no specific action or learning to take from this.",
+    "promo_only": true
+  },
+  {
+    "id": "30b56db3afff",
+    "title": "How agents are transforming work",
+    "url": "https://openai.com/index/how-agents-are-transforming-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
+    "published": "2026-06-25T02:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Research on AI agents transforming work offers strong insight and tactical implications for productivity and role expansion.",
+    "topic_tags": [
+      "AI agents",
+      "work transformation",
+      "productivity"
+    ],
+    "partner_takeaway": "AI agents enable workers to handle longer, more complex tasks, significantly expanding productivity across roles.",
+    "partner_summary": "OpenAI published research showing how AI agents are transforming work by enabling longer and more complex task execution, boosting productivity across various roles. This is highly relevant for professionals seeking to leverage AI to enhance work efficiency and role capabilities. The audience should explore integrating AI agents to optimize workflows and expand their impact.",
+    "promo_only": false
+  },
+  {
+    "id": "64678e4a26bb",
+    "title": "Why the Frontier Ecosystem must be Open — Matei Zaharia and Reynold Xin, Databricks",
+    "url": "https://www.latent.space/p/databricks",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "In a rare double-interview, the Databricks technical leaders riff on what it will take for every company to build Agent Clouds",
+    "published": "2026-06-24T18:53:16+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203293676/eb328d485594d9077b069520f6eecf59.mp3",
+    "relevance_score": 8,
+    "score_reason": "The topic of open ecosystems in AI agent clouds is relevant and the interview format offers practitioner insights, providing a clear perspective on collaboration and openness in AI development.",
+    "topic_tags": [
+      "AI ecosystems",
+      "collaboration",
+      "technology strategy"
+    ],
+    "partner_takeaway": "Open ecosystems are essential for companies to effectively build and scale AI agent clouds, fostering innovation and interoperability.",
+    "partner_summary": "Databricks technical leaders Matei Zaharia and Reynold Xin discuss the importance of openness in the frontier AI ecosystem to enable companies to build Agent Clouds. This matters because openness drives collaboration and innovation, which are critical for scaling AI capabilities in business contexts. Readers should watch for how open standards and ecosystems evolve to support AI deployment and integration.",
+    "promo_only": false
+  },
+  {
+    "id": "4248f3bf2002",
+    "title": "Introducing computer use in Gemini 3.5 Flash",
+    "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-24T16:30:01+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The announcement of computer use in Gemini 3.5 Flash is interesting but lacks detail and a clear angle for business or tactical insight without further context.",
+    "topic_tags": [
+      "AI models",
+      "technology update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind introduced computer use capabilities in Gemini 3.5 Flash. While this is a technical advancement, the lack of detailed explanation limits its immediate relevance to business or tactical AI application. The audience should monitor further developments for practical implications and use cases.",
+    "promo_only": true
+  },
+  {
+    "id": "10485fcae9e3",
+    "title": "GLM 5.2: why I’m replacing Opus in Claude Code with this new model",
+    "url": "https://www.lennysnewsletter.com/p/glm-52-why-im-replacing-opus-in-claude",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;I ran GLM-5.2, the open-weight model from Z.AI, through codebase audits, UI redesigns, and a 45-minute autonomous bug-hunting task in Cursor and Claude Code, and it cost me $3.36",
+    "published": "2026-06-24T12:03:52+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203168823/b822175a80b54f3ee429cb674704290e.mp3",
+    "relevance_score": 7,
+    "score_reason": "The writer’s personal experience replacing a model in a code assistant tool offers a practitioner perspective with tactical insights on model selection and cost efficiency.",
+    "topic_tags": [
+      "AI models",
+      "developer tools",
+      "tactical tips"
+    ],
+    "partner_takeaway": "Choosing the right AI model for code assistance can improve audit and bug-hunting efficiency while managing costs effectively.",
+    "partner_summary": "The author shares their experience replacing Opus with GLM 5.2 in Claude Code, highlighting performance and cost benefits during code audits and bug hunting. This matters because selecting the right AI model impacts productivity and budget in software development workflows. Readers should consider evaluating AI models based on real-world tasks and cost implications.",
+    "promo_only": false
+  },
+  {
+    "id": "322573e5fd96",
+    "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+    "url": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
+    "published": "2026-06-24T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A personal case study on vibe coding an app offers concrete lessons and reflections that can inform product development and user experience design.",
+    "topic_tags": [
+      "product development",
+      "user experience",
+      "practitioner insights"
+    ],
+    "partner_takeaway": "Reflecting on a personal app development journey reveals practical takeaways for improving user experience and development processes.",
+    "partner_summary": "Ben Thompson shares ten takeaways from his experience vibe coding an app he intends to use regularly. This is relevant because it provides real-world insights into app development challenges and user experience considerations. The audience should apply these lessons to their own product design and development efforts.",
+    "promo_only": false
+  },
+  {
+    "id": "2773a64c499f",
+    "title": "What Happens to Design After AI?",
+    "url": "https://a16z.simplecast.com/episodes/what-happens-to-design-after-ai-F7dGiPRT",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya speaks with Microsoft VP of Design John Maeda and Impeccable founder and CEO Paul Bakaus about how AI is changing the practice of design. The conversation explores the relationship between design and technology, the rise of AI-powered creative tools, and whether automation raises the floor, the ceiling, or both. Maeda and Bakaus discuss software craftsmanship, taste, creative judgment, and why some aspects of design may become increasingly automated while others become more valuable. They also examine agentic workflows, the future of user experience, the role of designers in a...",
+    "published": "2026-06-24T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/031105e9-13ef-4999-b5e0-c6a3b032de51/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=031105e9-13ef-4999-b5e0-c6a3b032de51&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The discussion on AI’s impact on design offers a strategic perspective and explores how AI tools are reshaping creative workflows and craftsmanship.",
+    "topic_tags": [
+      "AI impact",
+      "design",
+      "creative tools"
+    ],
+    "partner_takeaway": "AI-powered tools are transforming design by automating routine tasks and raising both the baseline and potential of creative work.",
+    "partner_summary": "Microsoft and Impeccable leaders discuss how AI is changing design practices, including the rise of AI-powered creative tools and their effect on craftsmanship and taste. This matters because design professionals and product teams must adapt to new workflows and opportunities enabled by AI. Readers should explore how to integrate AI tools to enhance creativity and efficiency in design.",
+    "promo_only": false
+  },
+  {
+    "id": "8ddf854276d8",
+    "title": "[AINews] Claude Tag: Multiplayer, Proactive, Persistent Agents in Slack",
+    "url": "https://www.latent.space/p/ainews-claude-tag-multiplayer-proactive",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Claude finally gets a Slackbot upgrade",
+    "published": "2026-06-24T07:14:26+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The Slackbot upgrade for Claude is a product update with limited broader insight or tactical advice beyond the feature announcement.",
+    "topic_tags": [
+      "AI tools",
+      "product update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Claude has received an upgrade to its Slackbot capabilities, enabling multiplayer, proactive, and persistent agents. While this improves functionality, it primarily serves as a product feature announcement. The audience should watch for how such AI integrations evolve in workplace collaboration tools.",
+    "promo_only": true
+  },
+  {
+    "id": "09d6f7705e73",
+    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+    "published": "2026-06-24T06:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The introduction of a custom AI inference chip offers insight into hardware trends that impact AI performance and scalability, relevant for strategic technology planning.",
+    "topic_tags": [
+      "AI hardware",
+      "performance",
+      "technology trends"
+    ],
+    "partner_takeaway": "Specialized AI inference chips like Jalapeño can significantly improve performance and efficiency for large language model deployments.",
+    "partner_summary": "OpenAI and Broadcom unveiled Jalapeño, a custom chip optimized for LLM inference to boost AI system performance and efficiency. This matters because hardware advancements directly affect the scalability and cost-effectiveness of AI solutions in business. Readers should consider the implications of specialized AI hardware on their AI infrastructure strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "961655c1db74",
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "published": "2026-06-23T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "A case study of GPT-5 aiding scientific discovery provides a compelling example of AI’s practical impact beyond theory, with lessons for research and innovation.",
+    "topic_tags": [
+      "AI applications",
+      "scientific research",
+      "case study"
+    ],
+    "partner_takeaway": "GPT-5’s advanced capabilities can accelerate complex scientific problem-solving, potentially transforming research workflows.",
+    "partner_summary": "GPT-5 Pro helped immunologist Derya Unutmaz solve a three-year-old mystery related to T cell behavior, with implications for cancer and autoimmune research. This is important because it demonstrates AI’s growing role in advancing scientific discovery and innovation. The audience should explore how AI tools can augment research and problem-solving in their fields.",
+    "promo_only": false
+  },
+  {
+    "id": "2a8dbaacb660",
+    "title": "What’s Next for Consumer AI? | Josh Elman Joins a16z",
+    "url": "https://a16z.simplecast.com/episodes/whats-next-for-consumer-ai-josh-elman-joins-a16z-DsQwKWIh",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Anish Acharya sits down with Josh Elman to discuss the future of consumer technology and Josh's decision to join a16z. Over the past two decades, Elman has helped shape some of the most important consumer technology products and companies, including LinkedIn, Facebook, Twitter, Robinhood, Discord, Musical.ly, TikTok, and Apple. Drawing on those experiences, he reflects on how technology has evolved from a niche industry into a central force in everyday life. The conversation explores consumer AI, product design, distribution, social networks, creator ecosystems, and the changing relationshi...",
+    "published": "2026-06-23T14:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/637e0ead-3c47-42b9-96e9-9dbecd2ac8a0/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=637e0ead-3c47-42b9-96e9-9dbecd2ac8a0&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "A conversation with a seasoned consumer tech investor offers strategic insights and trend reads on the future of consumer AI and technology evolution.",
+    "topic_tags": [
+      "consumer AI",
+      "technology trends",
+      "strategy"
+    ],
+    "partner_takeaway": "Understanding the evolution of consumer technology helps anticipate how AI will shape future products and user experiences.",
+    "partner_summary": "Josh Elman discusses his career and the future of consumer AI in a16z’s podcast, reflecting on how technology has evolved to shape user experiences. This matters because consumer AI will redefine product design and market opportunities. Readers should watch emerging consumer AI trends to inform their innovation strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "05f5412af05e",
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "published": "2026-06-23T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The piece on building shared AI standards is relevant for governance and safety but lacks immediate tactical or practitioner insight for the audience.",
+    "topic_tags": [
+      "AI governance",
+      "standards",
+      "safety"
+    ],
+    "partner_takeaway": "Collaborative efforts to establish AI standards are critical to ensuring safe and responsible AI development globally.",
+    "partner_summary": "OpenAI is contributing to shared standards for advanced AI through the Appia Foundation, focusing on evaluation frameworks and safety practices. This matters because standardized approaches help mitigate risks and promote trust in AI technologies. The audience should stay informed about emerging AI governance frameworks and participate where possible.",
+    "promo_only": false
+  },
+  {
+    "id": "2fc2d99a28d3",
+    "title": "The new inner game: Your unfair advantage in the age of AI",
+    "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "A playbook for the biggest upheaval of work we&#8217;ll see in our lifetime",
+    "published": "2026-06-23T12:45:59+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "A playbook for navigating AI-driven work upheaval offers tactical advice and a practitioner perspective highly relevant to professionals adapting to AI changes.",
+    "topic_tags": [
+      "future of work",
+      "AI impact",
+      "tactical advice"
+    ],
+    "partner_takeaway": "Adopting new mindsets and strategies is essential to gain an unfair advantage in the rapidly changing AI-driven workplace.",
+    "partner_summary": "The author presents a playbook addressing the major disruptions AI will bring to work, offering strategies to adapt and thrive. This is important because professionals must proactively develop skills and approaches to remain competitive. Readers should apply these tactics to future-proof their careers and organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "91490ea2fc47",
+    "title": "Memory Chips and China, Microsoft and Chinese Models",
+    "url": "https://stratechery.com/2026/memory-chips-and-china-microsoft-and-chinese-models/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The big three memory makers may come to regret opening up the door to Chinese memory makers; Microsoft, meanwhile, is very incentivized to use Chinese models.",
+    "published": "2026-06-23T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Analysis of geopolitical and business dynamics around memory chips and AI models provides a strategic perspective with implications for technology sourcing and partnerships.",
+    "topic_tags": [
+      "technology strategy",
+      "geopolitics",
+      "AI models"
+    ],
+    "partner_takeaway": "Geopolitical tensions and partnerships influence technology supply chains and AI model adoption strategies.",
+    "partner_summary": "The article examines risks for memory chip makers from Chinese competitors and Microsoft’s incentives to use Chinese AI models. This matters because geopolitical factors affect technology availability and strategic decisions in AI development. Readers should consider these dynamics when planning technology sourcing and partnerships.",
+    "promo_only": false
+  },
+  {
+    "id": "868a391c04d0",
+    "title": "[AINews] SpaceX is already a $28B/yr Neocloud",
+    "url": "https://www.latent.space/p/ainews-spacex-is-already-a-28byr",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us reflect on some numbers from Jamin Ball.",
+    "published": "2026-06-23T06:19:49+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic touches on a large-scale business model in space tech but lacks a clear tactical or practitioner insight for the writer's audience.",
+    "topic_tags": [
+      "business model",
+      "space technology"
+    ],
+    "partner_takeaway": "SpaceX's satellite network generates significant recurring revenue, illustrating the emerging scale of space-based cloud services.",
+    "partner_summary": "This article analyzes SpaceX's satellite internet business as a $28 billion per year revenue stream. It matters because it highlights how space infrastructure can become a major cloud-like service provider, relevant for tech and business strategists. Readers should watch how space-based networks evolve as a new platform for cloud and connectivity services.",
+    "promo_only": false
+  },
+  {
+    "id": "c707ad6fb9f0",
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "published": "2026-06-23T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The use of AI to transform travel experiences offers a clear practitioner perspective and tactical insight into AI-native product development.",
+    "topic_tags": [
+      "AI applications",
+      "product development",
+      "conversational AI"
+    ],
+    "partner_takeaway": "Omio's integration of OpenAI technology demonstrates how conversational AI can accelerate product innovation and transform traditional travel services.",
+    "partner_summary": "Omio is leveraging OpenAI's models to build conversational travel experiences and speed up product development. This matters because it shows how AI can be embedded to create new customer interactions and operational efficiencies in travel tech. The audience should explore how conversational AI can be applied to their own product strategies to drive innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "de12f0aa4140",
+    "title": "Red-Teaming after Mythos — Zico Kolter & Matt Fredrikson, Gray Swan",
+    "url": "https://www.latent.space/p/gray-swan",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "OpenAI boardmember Zico Kolter and Gray Swan CEO Matt Fredrikson join swyx to explain why AI security is not just &#8220;cybersecurity with AI&#8221;",
+    "published": "2026-06-22T21:06:55+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202758604/161c0527b1d8e3da2ecdebe2923874cb.mp3",
+    "relevance_score": 9,
+    "score_reason": "The discussion on AI security beyond traditional cybersecurity offers a strong insight and practitioner perspective relevant to AI risk management.",
+    "topic_tags": [
+      "AI security",
+      "risk management",
+      "cybersecurity"
+    ],
+    "partner_takeaway": "AI security requires new approaches distinct from traditional cybersecurity, emphasizing proactive red-teaming and risk assessment tailored to AI systems.",
+    "partner_summary": "OpenAI board member Zico Kolter and Gray Swan CEO Matt Fredrikson discuss why AI security is fundamentally different from conventional cybersecurity. This is crucial for practitioners managing AI risks and developing secure AI deployments. Readers should adopt specialized red-teaming and security frameworks designed specifically for AI systems.",
+    "promo_only": false
+  },
+  {
+    "id": "e4d6ef8d0719",
+    "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-06-22T15:02:37+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "While the topic covers AI agent loops and bug discovery, it is somewhat technical and lacks a clear business or strategic angle for the audience.",
+    "topic_tags": [
+      "AI development",
+      "bug detection"
+    ],
+    "partner_takeaway": "AI agent loops can be used to automate complex tasks such as bug discovery, illustrating practical AI programming techniques.",
+    "partner_summary": "This podcast episode explores how to write AI agent loops in Claude Code and Codex and highlights a case where Claude Mythos found a long-standing bug in Firefox. It matters as it shows AI's potential in software maintenance and automation. The audience should consider how AI agent loops might be applied to improve their own development or operational workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "e672005f9a06",
+    "title": "Jake Paul & Anti Fund: From Creator to Investor",
+    "url": "https://a16z.simplecast.com/episodes/jake-paul-anti-fund-from-creator-to-investor-S6O4PAbH",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Jake Paul and Geoff Woo join the podcast to announce Anti Fund’s new $100 million growth fund and discuss the evolution of their investment strategy. The conversation covers the fund’s portfolio, including investments in companies such as SpaceX, OpenAI, Anthropic, Anduril, Cognition, Etched, and Modal, as well as the lessons they’ve learned backing founders and identifying emerging technologies. They discuss founder psychology, resilience, ambition, and why they believe attention, culture, and distribution are becoming increasingly important advantages in the AI era. Along the way, Jake re...",
+    "published": "2026-06-22T14:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/2815458d-9cb9-48c4-ad6f-59d28bbbe1f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=2815458d-9cb9-48c4-ad6f-59d28bbbe1f8&feed=JGE3yC0V",
+    "relevance_score": 5,
+    "score_reason": "The content is mostly promotional about a fund and its portfolio, with limited actionable insight or tactical advice for the audience.",
+    "topic_tags": [
+      "investment",
+      "venture capital",
+      "technology trends"
+    ],
+    "partner_takeaway": "The Anti Fund's investment strategy reflects emerging technology trends and founder support lessons, useful for understanding tech investment dynamics.",
+    "partner_summary": "Jake Paul and Geoff Woo discuss the launch of Anti Fund's $100 million growth fund and their investment approach. This is relevant to those interested in tech venture capital and emerging technology sectors. Readers should watch how investment strategies evolve to back innovative founders and technologies.",
+    "promo_only": true
+  },
+  {
+    "id": "ec036f6d6488",
+    "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+    "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story",
+    "published": "2026-06-22T12:03:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202480416/565d4d9f8648f6fc863051748270dd17.mp3",
+    "relevance_score": 7,
+    "score_reason": "The story of AI-assisted bug discovery combined with security process insights offers a useful practitioner perspective and tactical understanding.",
+    "topic_tags": [
+      "AI in security",
+      "bug detection",
+      "software maintenance"
+    ],
+    "partner_takeaway": "Combining AI models with goal-loop harnesses can significantly enhance vulnerability detection and software security maintenance.",
+    "partner_summary": "Brian Grinstead from Mozilla explains how Claude Mythos helped find a 15-year-old bug and how AI combined with structured security processes led to 423 fixes in one month. This matters because it highlights practical AI applications in improving software security workflows. The audience should consider integrating AI-assisted tools with expert review to enhance their security operations.",
+    "promo_only": false
+  },
+  {
+    "id": "efc11ca230b8",
+    "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+    "url": "https://openai.com/index/patch-the-planet",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+    "published": "2026-06-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The initiative to support open source maintainers with AI and expert review provides a clear tool and pattern with practical implications for software security.",
+    "topic_tags": [
+      "open source",
+      "security",
+      "AI tools"
+    ],
+    "partner_takeaway": "Patch the Planet demonstrates how AI combined with expert validation can effectively identify and fix vulnerabilities in open source projects.",
+    "partner_summary": "OpenAI launched Patch the Planet, a Daybreak initiative to help open-source maintainers find, validate, and fix security vulnerabilities using AI and expert review. This is important as it addresses the critical challenge of maintaining open source security at scale. The audience should explore how AI-assisted security tools can be integrated into their open source or software maintenance processes.",
+    "promo_only": false
+  },
+  {
+    "id": "bcfd6f0bc148",
+    "title": "Apple Price Increases, Apple Intelligence and the E.U.",
+    "url": "https://stratechery.com/2026/apple-price-increases-apple-intelligence-and-the-e-u/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Apple is (finally) raising prices, but they're not shipping Siri AI to the E.U.",
+    "published": "2026-06-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The analysis of Apple's pricing and AI deployment strategy in the EU offers a useful trend read and business insight for tech strategists.",
+    "topic_tags": [
+      "business strategy",
+      "AI regulation",
+      "market trends"
+    ],
+    "partner_takeaway": "Apple's price increases and withholding of Siri AI in the EU reflect strategic responses to regulatory and market pressures impacting AI deployment.",
+    "partner_summary": "This article discusses Apple's recent price increases and its decision not to ship Siri AI in the European Union. It matters because it reveals how regulatory environments influence tech companies' AI strategies and pricing models. Readers should monitor how regional regulations shape AI product availability and business decisions.",
+    "promo_only": false
+  }
+]
