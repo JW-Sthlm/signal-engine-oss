@@ -1,0 +1,154 @@
+[
+  {
+    "id": "74afefb392d0",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day before the storm.",
+    "published": "2026-06-30T06:47:27+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "No substantive content or insight is provided; purely a placeholder with no educational value.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief note indicating a quiet day in AI news. It offers no new information or perspective relevant to practitioners or business leaders. Readers should wait for more substantive updates before drawing conclusions.",
+    "promo_only": false
+  },
+  {
+    "id": "7a712b4ad724",
+    "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-29T15:02:35+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Covers AI product development and tools with potential practitioner insights but requires a personal angle to maximize value.",
+    "topic_tags": [
+      "AI product development",
+      "tools",
+      "case study"
+    ],
+    "partner_takeaway": "Readers learn how Gusto leveraged Claude Code to rapidly build a new AI product line, illustrating practical AI product development strategies.",
+    "partner_summary": "This episode reviews GLM-5.2 and discusses how Gusto built a new product line using Claude Code. It matters because it provides a real-world example of rapid AI product development without traditional tooling. Readers should consider how similar approaches could accelerate their own AI initiatives.",
+    "promo_only": false
+  },
+  {
+    "id": "242831ae3bb0",
+    "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+    "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
+    "published": "2026-06-29T12:03:38+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203589481/846f1cae45d76ef325a01c8acbcd5f61.mp3",
+    "relevance_score": 9,
+    "score_reason": "Detailed case study with clear tactical insights on AI product development and team collaboration without traditional tools.",
+    "topic_tags": [
+      "AI product development",
+      "team collaboration",
+      "tools"
+    ],
+    "partner_takeaway": "Readers learn how a small team shipped a full AI product line in 10 weeks using Claude Code and unconventional collaboration methods, offering a new pattern for rapid AI innovation.",
+    "partner_summary": "Eddie Kim, CTO of Gusto, explains how a 5-person team built a new AI product line in 10 weeks without using Figma, Jira, or documentation, relying instead on Claude Code and continuous Zoom collaboration. This matters because it challenges traditional product development workflows and highlights new ways to accelerate AI projects. Readers should explore alternative collaboration tools and workflows to speed up their AI product delivery.",
+    "promo_only": false
+  },
+  {
+    "id": "a922a6fb4272",
+    "title": "Summer Break: Week of June 29",
+    "url": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6. Dithering,&#160;Sharp Tech, and&#160;Sharp China&#160;will also return the week of July 6.&#160;Greatest of All Talk&#160;and&#160;Asianometry&#160;will continue to publish. The full Stratechery posting schedule is&#160;here.",
+    "published": "2026-06-29T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 1,
+    "score_reason": "Announcement of a content break with no educational or tactical content.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "Stratechery announces a summer break with no new articles or updates for the week of June 29. This has no direct relevance or actionable insight for the audience. Readers should note the pause and plan to catch up when content resumes.",
+    "promo_only": false
+  },
+  {
+    "id": "03c52cb0e218",
+    "title": "Beyond P(doom): Marc Andreessen - Betting on America",
+    "url": "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Marc Andreessen joins CSIS's Navin Girishankar for a wide-ranging conversation on artificial intelligence, productivity growth, industrial policy, and America's technological future. Andreessen argues that while AI has already begun reshaping the economy, the largest impacts are still ahead. He explores how AI could dramatically expand access to expertise, improve productivity, and transform industries ranging from healthcare and education to law and software development. At the same time, he warns that many of the biggest barriers to progress are not technological but institutional, driven...",
+    "published": "2026-06-29T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/416ab100-e7d8-45d6-9c4d-eff841bcd393/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=416ab100-e7d8-45d6-9c4d-eff841bcd393&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Provides a strategic perspective on AI's economic impact and future, valuable for business and tech leaders.",
+    "topic_tags": [
+      "AI strategy",
+      "economic impact",
+      "technology trends"
+    ],
+    "partner_takeaway": "Readers gain insight into how AI could dramatically expand expertise access and productivity, shaping America's technological future.",
+    "partner_summary": "Marc Andreessen discusses AI's transformative potential on productivity growth and industrial policy in America. This matters because it frames AI as a key driver of future economic and technological leadership. Readers should consider how AI investments and policies could influence their strategic planning.",
+    "promo_only": false
+  },
+  {
+    "id": "4dcdbab212d9",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "published": "2026-06-29T07:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Strong report with concrete data on AI's impact on jobs in the EU, offering actionable insights for workforce planning.",
+    "topic_tags": [
+      "AI workforce",
+      "job automation",
+      "economic trends"
+    ],
+    "partner_takeaway": "Readers learn which EU occupations are most affected by AI-driven automation and growth, helping them anticipate workforce transitions.",
+    "partner_summary": "OpenAI released a report mapping how AI could reshape jobs across the European Union, identifying occupations likely to face automation or growth. This matters because it provides data-driven insights for workforce and business leaders to prepare for AI-driven changes. Readers should use this information to guide talent development and strategic workforce planning.",
+    "promo_only": false
+  },
+  {
+    "id": "6c22a888b1fe",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "published": "2026-06-28T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Primarily a partnership announcement with limited insight or tactical content beyond product marketing.",
+    "topic_tags": [
+      "partnership",
+      "AI deployment",
+      "enterprise"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "HP Inc. announced an expanded strategic partnership with OpenAI to deploy AI across customer experiences and enterprise operations. While this signals growing AI adoption, it offers little tactical insight or new patterns for practitioners. Readers should monitor how such partnerships influence AI integration in enterprise settings.",
+    "promo_only": true
+  },
+  {
+    "id": "17fc549827d4",
+    "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+    "url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | OpenAI&#8217;s Andrew Ambrosino on why software is getting cheaper to build, why taste matters more than ever, and what&#8217;s next for the Codex desktop app",
+    "published": "2026-06-28T12:31:54+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/202769820/d9221a3e4c66913fe5e66086aac6b2e8.mp3",
+    "relevance_score": 7,
+    "score_reason": "Offers practitioner perspective on software development trends influenced by AI, with some tactical and strategic insights.",
+    "topic_tags": [
+      "AI product development",
+      "software trends",
+      "practitioner insights"
+    ],
+    "partner_takeaway": "Readers learn why software development is becoming cheaper and why design taste is increasingly important in AI-driven product work.",
+    "partner_summary": "Andrew Ambrosino from OpenAI discusses how AI is changing software development economics and the rising importance of design taste. This matters because it highlights shifts in product work that affect developers and product managers. Readers should adapt by focusing on quality and user experience as AI lowers development costs.",
+    "promo_only": false
+  }
+]
