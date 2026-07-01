@@ -1,0 +1,370 @@
+[
+  {
+    "id": "85980d64eb9e",
+    "title": "AIEWF Daily Dispatch: Loops, Software Factories & Forward Deployed Engineers",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-loops",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "On Tuesday at the AI Engineer World's Fair, there was a lot of talk about loops, agent engineering, and the emergence of software factories. Also a hot topic: open models.",
+    "published": "2026-07-01T04:46:21+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic of software factories and forward deployed engineers is relevant and offers a practitioner perspective on emerging engineering roles and workflows.",
+    "topic_tags": [
+      "software engineering",
+      "AI engineering",
+      "workforce trends"
+    ],
+    "partner_takeaway": "Readers learn how the convergence of loops, software factories, and forward deployed engineers is shaping modern software engineering practices.",
+    "partner_summary": "At the AI Engineer World's Fair, discussions focused on loops, agent engineering, and the rise of software factories. This matters to software professionals as it highlights evolving engineering roles and processes that impact product development. Readers should watch how these trends influence team structures and tooling choices in their organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "ba0cfc2c0902",
+    "title": "[AINews] Sonnet 5 today, and Fable 5 tomorrow",
+    "url": "https://www.latent.space/p/ainews-sonnet-5-today-and-fable-5",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Everything is open again!",
+    "published": "2026-07-01T03:01:09+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The item is vague and lacks a clear educational angle or takeaway for the audience.",
+    "topic_tags": [
+      "AI models",
+      "open source"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The announcement states that 'everything is open again' regarding Sonnet 5 and Fable 5. While openness in AI models is important, this item lacks concrete insights or tactical advice for practitioners. The audience should look for more detailed analysis or implications of this openness elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "bdd504769b5b",
+    "title": "Forward Deployed Engineers and the future of software engineering",
+    "url": "https://www.latent.space/p/forward-deployed-engineers-aiewf",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Sierra's Natalie Meurer on why product engineers and forward deployed engineers are starting to converge.",
+    "published": "2026-07-01T00:20:18+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The convergence of product and forward deployed engineers offers a strong practitioner perspective with actionable insights.",
+    "topic_tags": [
+      "software engineering",
+      "product management",
+      "workforce trends"
+    ],
+    "partner_takeaway": "Readers learn why product engineers and forward deployed engineers are converging and what that means for software development roles.",
+    "partner_summary": "Natalie Meurer discusses how product engineers and forward deployed engineers are starting to converge in their roles. This is important for engineering leaders and product managers to understand evolving team dynamics and responsibilities. The audience should consider how to adapt hiring and collaboration strategies to this shift.",
+    "promo_only": false
+  },
+  {
+    "id": "9cf4887c0f4e",
+    "title": "Ahmad Osman on why local AI is catching up",
+    "url": "https://www.latent.space/p/ahmad-osman-local-ai",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "After two packed AIEWF workshops, Ahmad Osman makes the case that local AI is catching up fast &#8212; from laptops and phones to enterprise-grade infrastructure.",
+    "published": "2026-06-30T23:39:29+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic of local AI catching up is relevant and offers insight into infrastructure and deployment trends.",
+    "topic_tags": [
+      "AI infrastructure",
+      "local AI",
+      "technology trends"
+    ],
+    "partner_takeaway": "Readers learn that local AI on devices and enterprise infrastructure is rapidly advancing, changing deployment strategies.",
+    "partner_summary": "Ahmad Osman argues that local AI is catching up quickly, from laptops and phones to enterprise-grade infrastructure. This matters to AI practitioners and product teams considering deployment options and latency concerns. The audience should watch local AI developments to optimize performance and privacy in their applications.",
+    "promo_only": false
+  },
+  {
+    "id": "44c4d19003a6",
+    "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+    "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897; I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
+    "published": "2026-06-30T23:22:23+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/204353515/928109049545fa1bddb70bcf87affe5e.mp3",
+    "relevance_score": 7,
+    "score_reason": "A detailed review of Sonnet 5 with extensive testing offers tactical insights but may require a personal angle to fully engage the audience.",
+    "topic_tags": [
+      "AI models",
+      "product evaluation",
+      "tactical tips"
+    ],
+    "partner_takeaway": "Readers gain a practical evaluation of Sonnet 5's capabilities through extensive testing, informing model selection decisions.",
+    "partner_summary": "The author ran 64 generations using Sonnet 5 to evaluate its performance across various tests. This is valuable for practitioners deciding whether to adopt this model for their projects. Readers should consider such thorough testing approaches when selecting AI tools for their workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "4bfb70006398",
+    "title": "The twilight of the chatbots",
+    "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "How work changes along the exponential",
+    "published": "2026-06-30T22:18:12+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic of how work changes with exponential technology growth is interesting but abstract and lacking concrete tactical advice.",
+    "topic_tags": [
+      "work trends",
+      "technology impact"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The article discusses how work evolves along with exponential technological progress. While this is a relevant theme, it lacks specific examples or actionable insights for practitioners. The audience should seek more concrete frameworks to apply these ideas in their work.",
+    "promo_only": false
+  },
+  {
+    "id": "85182b192513",
+    "title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
+    "url": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis",
+    "source_name": "Lex Fridman Podcast",
+    "source_weight": 0.9,
+    "summary": "Anthony Kaldellis is a historian of the Roman Empire and author of &#8220;The New Roman Empire&#8221;, a comprehensive history of the Byzantine Empire (Eastern Roman Empire). Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/anthony-kaldellis-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211...",
+    "published": "2026-06-30T21:33:40+00:00",
+    "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
+    "relevance_score": 2,
+    "score_reason": "Historical podcast content is outside the writer's editorial scope focused on software and AI topics.",
+    "topic_tags": [
+      "history"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a podcast episode about the Roman and Byzantine Empires by historian Anthony Kaldellis. It does not relate to software engineering or AI topics relevant to the audience. Readers interested in technology education should skip this for more aligned content.",
+    "promo_only": false
+  },
+  {
+    "id": "30566a3c7fb8",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-30T16:02:40+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "A product launch announcement without substantive educational content or practitioner insight.",
+    "topic_tags": [
+      "hardware",
+      "product launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind announced the Nano Banana 2 Lite and Gemini Omni Flash products. The announcement lacks detailed analysis or tactical advice for software or AI practitioners. The audience should wait for deeper reviews or use cases before engaging with this content.",
+    "promo_only": true
+  },
+  {
+    "id": "a125a2e981c6",
+    "title": "How top PMs increase their leverage with AI",
+    "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "A framework for getting the most out of AI in your day-to-day-work",
+    "published": "2026-06-30T13:31:39+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "A framework for PMs to leverage AI offers high content potential and clear tactical value.",
+    "topic_tags": [
+      "product management",
+      "AI leverage",
+      "tactical tips"
+    ],
+    "partner_takeaway": "Readers learn a practical framework to increase their productivity and impact by integrating AI into their daily product management work.",
+    "partner_summary": "This piece presents a framework for top product managers to increase their leverage using AI tools. It is highly relevant for PMs looking to optimize workflows and decision-making. The audience should apply this framework to enhance their effectiveness with AI assistance.",
+    "promo_only": false
+  },
+  {
+    "id": "99df897d7141",
+    "title": "Building AI for Creators | Luma & Phota Labs",
+    "url": "https://a16z.simplecast.com/episodes/building-ai-for-creators-luma-phota-labs-0nl9Q52H",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Yoko Li speaks with Luma's Head of Applied Research Matt Tancik and Phota Labs cofounder and CTO Zach Xia about how AI is changing creativity, photography, and the tools people use to make art. The conversation explores the evolving relationship between artists and AI, from image generation and personalization to creative workflows, controllability, and agentic design tools. They discuss personalization, photography, creative software, model design, evaluation, and why the future of creative tools may depend less on generating content and more on helping people express ideas they couldn't e...",
+    "published": "2026-06-30T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f6e7db05-5707-4d2f-a4da-0fb590be9c89/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f6e7db05-5707-4d2f-a4da-0fb590be9c89&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Discussion on AI's impact on creators and creative workflows offers insight and new tool perspectives.",
+    "topic_tags": [
+      "AI creativity",
+      "tools",
+      "creative workflows"
+    ],
+    "partner_takeaway": "Readers learn how AI is transforming creative processes and the tools artists use, highlighting new patterns in creative work.",
+    "partner_summary": "The conversation explores how AI is changing creativity, photography, and artistic tools, focusing on personalization and workflow improvements. This is important for creators and product teams building creative AI tools. The audience should watch these evolving relationships to better integrate AI into creative projects.",
+    "promo_only": false
+  },
+  {
+    "id": "0724a0d575b1",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "published": "2026-06-30T09:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Data on ChatGPT adoption growth offers a useful trend read but needs a practitioner angle for higher impact.",
+    "topic_tags": [
+      "AI adoption",
+      "trend read",
+      "product usage"
+    ],
+    "partner_takeaway": "Readers gain insight into global ChatGPT adoption trends and how usage patterns are evolving across regions and languages.",
+    "partner_summary": "OpenAI released data showing global growth in ChatGPT adoption, with users exploring more capabilities. This matters to product teams and AI strategists tracking market penetration and user behavior. The audience should consider these trends when planning AI integration and user engagement strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "74afefb392d0",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-07e",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day before the storm.",
+    "published": "2026-06-30T06:47:27+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "A vague update with no substantive content or educational takeaway.",
+    "topic_tags": [
+      "news update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "The update states it was a quiet day before a storm without providing further details. It offers no actionable insights or educational content. Readers should look for more informative updates elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "50a70d3498de",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "published": "2026-06-30T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant to AI and scientific research but lacks a clear tactical or practitioner angle for the writer's audience without further detail.",
+    "topic_tags": [
+      "AI benchmarks",
+      "scientific research"
+    ],
+    "partner_takeaway": "GeneBench-Pro offers a new benchmark for evaluating AI performance in genomics and biology using complex real-world datasets.",
+    "partner_summary": "OpenAI introduced GeneBench-Pro, a benchmark designed to test AI performance in genomics, biology, and scientific research. This matters to the audience as it highlights how AI capabilities are being measured in complex scientific domains, which could influence AI adoption in life sciences. Readers should watch how such benchmarks evolve to better assess AI tools for scientific applications.",
+    "promo_only": false
+  },
+  {
+    "id": "d9167c066f6f",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "published": "2026-06-30T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The item offers a practitioner perspective on debugging rare infrastructure bugs with large-scale data, providing insight and a pattern useful for technical leaders.",
+    "topic_tags": [
+      "infrastructure",
+      "debugging",
+      "data analysis"
+    ],
+    "partner_takeaway": "Large-scale core dump analysis can uncover rare hardware faults and long-standing software bugs in complex infrastructure systems.",
+    "partner_summary": "OpenAI engineers used extensive core dump epidemiology to identify and fix an 18-year-old bug caused by both hardware and software issues. This is relevant to the audience as it demonstrates a data-driven approach to solving persistent infrastructure problems that can impact system reliability. Practitioners should consider adopting similar large-scale diagnostic methods to improve their own infrastructure stability.",
+    "promo_only": false
+  },
+  {
+    "id": "abd2bc95869e",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-30T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "No summary or clear content to evaluate, so no clear takeaway or angle for the audience.",
+    "topic_tags": [
+      "AI benchmarks",
+      "case studies"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item appears to be a follow-up or detailed look at GeneBench-Pro but lacks summary or content details. Without more information, it is unclear how this would provide value to the audience. The audience should wait for more substantive insights or examples before engaging.",
+    "promo_only": false
+  },
+  {
+    "id": "7a712b4ad724",
+    "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-29T15:02:35+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The item is a podcast episode summary with no clear educational or tactical content described, limiting its content potential.",
+    "topic_tags": [
+      "AI product development",
+      "podcast"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast episode from 'How I AI' featuring discussions on GLM-5.2 and Gusto's use of Claude Code. While it may interest those following AI product stories, the summary lacks concrete insights or tactical lessons. The audience should listen directly to extract any practical takeaways.",
+    "promo_only": true
+  },
+  {
+    "id": "242831ae3bb0",
+    "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+    "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
+    "published": "2026-06-29T12:03:38+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203589481/846f1cae45d76ef325a01c8acbcd5f61.mp3",
+    "relevance_score": 7,
+    "score_reason": "Provides a practitioner case study on rapid AI product development with unconventional tools, offering tactical insights for product teams.",
+    "topic_tags": [
+      "AI product development",
+      "team collaboration",
+      "tools"
+    ],
+    "partner_takeaway": "A small team at Gusto shipped a full AI product line in 10 weeks using Claude Code and minimal traditional project management tools.",
+    "partner_summary": "Eddie Kim, CTO of Gusto, shared how his 5-person team built a new AI product line in just 10 weeks without using Figma, Jira, or documentation, relying instead on Claude Code and continuous Zoom collaboration. This matters to product and engineering leaders interested in alternative, lean workflows for AI product development. Teams should consider experimenting with lightweight, integrated tools to accelerate innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "a922a6fb4272",
+    "title": "Summer Break: Week of June 29",
+    "url": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Monday, July 6. Dithering,&#160;Sharp Tech, and&#160;Sharp China&#160;will also return the week of July 6.&#160;Greatest of All Talk&#160;and&#160;Asianometry&#160;will continue to publish. The full Stratechery posting schedule is&#160;here.",
+    "published": "2026-06-29T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "Announcement of a content break with no educational or tactical content for the audience.",
+    "topic_tags": [
+      "industry news"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Stratechery announced a summer break with no new articles or updates for the week of June 29. This is primarily a scheduling notice with no direct relevance to the audience's learning or practice. Readers should note the pause and plan to return for new content starting July 6.",
+    "promo_only": true
+  },
+  {
+    "id": "03c52cb0e218",
+    "title": "Beyond P(doom): Marc Andreessen - Betting on America",
+    "url": "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Marc Andreessen joins CSIS's Navin Girishankar for a wide-ranging conversation on artificial intelligence, productivity growth, industrial policy, and America's technological future. Andreessen argues that while AI has already begun reshaping the economy, the largest impacts are still ahead. He explores how AI could dramatically expand access to expertise, improve productivity, and transform industries ranging from healthcare and education to law and software development. At the same time, he warns that many of the biggest barriers to progress are not technological but institutional, driven...",
+    "published": "2026-06-29T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/416ab100-e7d8-45d6-9c4d-eff841bcd393/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=416ab100-e7d8-45d6-9c4d-eff841bcd393&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Offers a high-level perspective on AI's economic impact and future, providing insight and trend reading valuable to the audience.",
+    "topic_tags": [
+      "AI impact",
+      "economic growth",
+      "industrial policy"
+    ],
+    "partner_takeaway": "AI is poised to significantly expand access to expertise and productivity, with major economic impacts still ahead.",
+    "partner_summary": "Marc Andreessen discusses how AI is reshaping the economy and the potential for even greater productivity growth and access to expertise in the future. This is important for the audience to understand the broader economic and policy context influencing AI adoption and innovation. Readers should consider how these trends might affect their industries and strategic planning.",
+    "promo_only": false
+  }
+]
