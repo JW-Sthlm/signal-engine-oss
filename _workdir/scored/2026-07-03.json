@@ -1,0 +1,200 @@
+[
+  {
+    "id": "ceaa518a4c52",
+    "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+    "published": "2026-07-03T05:11:43+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic of AI engineering and debates on loops is directly relevant and offers insight into current practitioner discussions.",
+    "topic_tags": [
+      "AI engineering",
+      "software development",
+      "AI trends"
+    ],
+    "partner_takeaway": "Readers learn about the current debates in AI engineering, especially around loop design, and what this means for building AI systems.",
+    "partner_summary": "The AI Engineer World's Fair concluded with a debate on loops and a report on the state of AI engineering. This matters because understanding these debates helps practitioners build more effective AI systems. Readers should watch how loop design impacts AI development and consider these perspectives in their own projects.",
+    "promo_only": false
+  },
+  {
+    "id": "be4d800b6cf4",
+    "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+    "url": "https://www.latent.space/p/vercel-agents-new-software",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
+    "published": "2026-07-03T00:08:18+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The discussion on agent frameworks and new software paradigms offers a strong practitioner perspective with tactical insights.",
+    "topic_tags": [
+      "AI agents",
+      "software frameworks",
+      "AI engineering"
+    ],
+    "partner_takeaway": "Readers learn why agent frameworks like Vercel's eve represent a new kind of software architecture emphasizing skills, sandboxes, and agent-readable websites.",
+    "partner_summary": "Vercel's Chief of Software explains the creation of their agent framework, eve, and why new concepts like skills and sandboxes matter. This is important for software builders looking to leverage AI agents effectively. Practitioners should explore how these frameworks can change software design and deployment.",
+    "promo_only": false
+  },
+  {
+    "id": "67d4e191897a",
+    "title": "The website of the future may assemble itself for every visitor",
+    "url": "https://www.latent.space/p/the-website-of-the-future",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+    "published": "2026-07-02T21:25:14+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The concept of agentic websites that assemble per user intent is a forward-looking trend with clear implications for web development.",
+    "topic_tags": [
+      "web development",
+      "AI agents",
+      "user experience"
+    ],
+    "partner_takeaway": "Readers learn about the emerging trend of websites that dynamically assemble content based on individual user intent using AI agents.",
+    "partner_summary": "Adobe is experimenting with 'agentic sites' that generate personalized pages for each visitor. This matters as it signals a shift in how websites may be built and personalized in the future. Audiences should watch this trend and consider how AI-driven personalization could impact user engagement.",
+    "promo_only": false
+  },
+  {
+    "id": "c378f417682e",
+    "title": "Skill engineering and the case against one-shot AI design",
+    "url": "https://www.latent.space/p/skill-engineering-design",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
+    "published": "2026-07-02T14:36:05+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "The discussion on skill engineering and the limits of one-shot AI design offers a nuanced practitioner perspective with tactical implications.",
+    "topic_tags": [
+      "AI design",
+      "skill engineering",
+      "human-AI collaboration"
+    ],
+    "partner_takeaway": "Readers learn why human judgment remains essential in AI agent design despite advances in automation, emphasizing skill engineering over one-shot solutions.",
+    "partner_summary": "Paul Bakaus discusses Impeccable and the importance of human judgment in an era focused on maximizing AI loops. This is critical for practitioners designing AI systems that require ongoing human steering. Readers should incorporate skill engineering and human oversight in their AI projects to improve outcomes.",
+    "promo_only": false
+  },
+  {
+    "id": "3e9cd7490984",
+    "title": "Outsmarting Uber: Why Bolt Wins in Europe",
+    "url": "https://a16z.simplecast.com/episodes/outsmarting-uber-why-bolt-wins-in-europe-EfFQWvrq",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "What does it take to build a global mobility company from a country of just 1.3 million people? Markus Villig, founder and CEO of Bolt, joins the show to share how he scaled from Estonia to 50+ countries, navigating early scrappy days, a near-bankruptcy from expanding too fast, and the hard-won lessons behind Bolt’s capital-efficient growth. They also discuss building in Europe vs. the U.S., competing against much better-funded rivals, and why culture and ambition matter more than regulation. Finally, Markus lays out what’s next: autonomy, robotaxis, and why the future of mobility will be a...",
+    "published": "2026-07-02T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8ddf5f97-9707-46d2-97d3-7e53aeeea1f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8ddf5f97-9707-46d2-97d3-7e53aeeea1f2&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The story of Bolt's growth offers business insights relevant to scaling tech companies, though less focused on AI or software tactics.",
+    "topic_tags": [
+      "business growth",
+      "scaling",
+      "mobility"
+    ],
+    "partner_takeaway": "Readers learn key lessons on capital-efficient growth and scaling a global mobility company from a small market.",
+    "partner_summary": "Markus Villig, CEO of Bolt, shares how he scaled from Estonia to over 50 countries, navigating challenges like near-bankruptcy and market differences. This matters for entrepreneurs and business leaders aiming to scale efficiently. Readers should consider these lessons when planning international expansion and capital use.",
+    "promo_only": false
+  },
+  {
+    "id": "48dcf7898ed7",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "another quiet day.",
+    "published": "2026-07-02T07:10:14+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "The item is a placeholder with no substantive content or takeaway.",
+    "topic_tags": [
+      "none"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief note indicating a quiet day with no significant news. It offers no new insights or actionable information. Readers can skip this as it holds no value.",
+    "promo_only": false
+  },
+  {
+    "id": "3f744bd3b482",
+    "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
+    "published": "2026-07-02T06:13:49+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The tension between AI automation and human agency is a relevant theme with insight for practitioners balancing these forces.",
+    "topic_tags": [
+      "AI automation",
+      "human agency",
+      "software development"
+    ],
+    "partner_takeaway": "Readers learn about the ongoing debate between fully automated AI software factories and the need for human understanding and control.",
+    "partner_summary": "At AIEWF, speakers discussed the software factory vision and the resistance from those advocating for human agency. This matters as it highlights the balance needed between AI automation and human oversight. Practitioners should carefully consider how to maintain human control in AI-driven workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "8c39eab2d77a",
+    "title": "Autoresearch: The feedback loop behind self-improving agents",
+    "url": "https://www.latent.space/p/autoresearch-introspection",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
+    "published": "2026-07-01T23:52:30+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Explaining autoresearch and self-improving agents offers a strong technical and tactical insight relevant to AI practitioners.",
+    "topic_tags": [
+      "AI agents",
+      "self-improving systems",
+      "AI engineering"
+    ],
+    "partner_takeaway": "Readers learn how autoresearch enables AI agents to self-improve through feedback loops while keeping humans central to the process.",
+    "partner_summary": "Roland Gavrilescu explains autoresearch, agent recipes, and self-improving loops in AI systems. This is important for developers building adaptive AI agents that require human involvement. Readers should explore autoresearch techniques to enhance AI system performance responsibly.",
+    "promo_only": false
+  },
+  {
+    "id": "f0b2376197a7",
+    "title": "How Cursor deploys AI inside the enterprise",
+    "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
+    "published": "2026-07-01T19:03:44+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The explanation of deploying AI agents in enterprises with Forward Deployed Engineers offers practical insights for AI implementation.",
+    "topic_tags": [
+      "enterprise AI",
+      "agent deployment",
+      "software engineering"
+    ],
+    "partner_takeaway": "Readers learn how Forward Deployed Engineers help organizations implement AI agents effectively, essentially creating software factories.",
+    "partner_summary": "Pauline Brunet from Cursor describes how her team supports enterprises in deploying AI agents through hands-on engineering. This matters for companies looking to operationalize AI with expert guidance. Readers should consider the role of specialized engineers in successful AI adoption.",
+    "promo_only": false
+  },
+  {
+    "id": "a24fab3990f6",
+    "title": "Rick Rubin on AI, Creativity, and The Way of Code",
+    "url": "https://a16z.simplecast.com/episodes/rick-rubin-on-ai-creativity-and-the-way-of-code-KUxKnIS1",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Rick Rubin joins Marc Andreessen, Ben Horowitz, Anjney Midha, and Erik Torenberg to discuss creativity, artificial intelligence, and his book The Way of Code, which reimagines the Tao Te Ching for the age of AI. The conversation explores vibe coding, remix culture, artistic process, entrepreneurship, and what AI changes, and doesn't change, about creativity. Rubin argues that AI is best understood not as a replacement for artists, but as another creative tool, one that expands what's possible while making taste, curiosity, and individual perspective even more valuable. Along the way, they d...",
+    "published": "2026-07-01T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/07dd0a8b-3522-4806-b39e-a610f75b3e9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=07dd0a8b-3522-4806-b39e-a610f75b3e9b&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The conversation on AI and creativity offers a broad perspective but may require a strong personal angle to be tactical.",
+    "topic_tags": [
+      "AI creativity",
+      "artificial intelligence",
+      "entrepreneurship"
+    ],
+    "partner_takeaway": "Readers learn perspectives on how AI influences creativity and entrepreneurship, emphasizing what AI changes and what remains human.",
+    "partner_summary": "Rick Rubin discusses AI's impact on creativity, remix culture, and entrepreneurship in a conversation with industry leaders. This matters as it reframes how creators and entrepreneurs think about AI's role. Readers should reflect on integrating AI tools while preserving uniquely human creative processes.",
+    "promo_only": false
+  }
+]
