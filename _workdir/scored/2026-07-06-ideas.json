@@ -1,0 +1,530 @@
+[
+  {
+    "id": "19514996a226",
+    "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 192",
+    "published": "2026-07-04T16:58:47+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The item covers multiple practical topics relevant to business and AI strategy, offering potential tactical tips and insights, though it is somewhat broad and requires a personal angle.",
+    "topic_tags": [
+      "AI strategy",
+      "compensation",
+      "startup"
+    ],
+    "partner_takeaway": "Readers learn practical approaches to quarterly planning, compensation models, and AI-powered outbound strategies in startups.",
+    "partner_summary": "This newsletter edition shares community wisdom on quarterly planning, cash versus equity compensation, paying for interview exercises, AI-powered outbound, and compliance startup opportunities. These topics matter to startup founders and business leaders who want to optimize planning and compensation while leveraging AI in sales. Readers should consider these approaches and evaluate how AI and compensation strategies can improve their own operations.",
+    "promo_only": false
+  },
+  {
+    "id": "a443d18aa4bf",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-07-03T14:25:43+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "While the partnership is interesting, it lacks a clear business or tactical angle for the writer's audience without additional context or insight.",
+    "topic_tags": [
+      "AI research",
+      "partnership"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind and A24 announced a first-of-its-kind research partnership. This collaboration may influence AI research and media but lacks immediate actionable insights for business practitioners. The audience should watch for future developments that might impact AI applications in creative industries.",
+    "promo_only": true
+  },
+  {
+    "id": "9d5b4f0cdf67",
+    "title": "a16z Goes Global: Why American Tech Must Lead the World",
+    "url": "https://a16z.simplecast.com/episodes/technology-alliances-and-american-leadership-e8s7aT2Y",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Ben Horowitz is joined by Anne Neuberger, Raghu Raghuram, and Jen Kha to discuss a16z's expanding international strategy and the growing role technology plays in economic growth, national security, and global partnerships. The conversation explores why America's technology leadership matters beyond Silicon Valley, how AI is reshaping relationships between governments and the private sector, and why countries around the world are looking to adopt frontier technologies while building stronger innovation ecosystems of their own. They discuss AI infrastructure, cybersecurity, defense technology...",
+    "published": "2026-07-03T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/af9e7c7e-83f7-4607-bd99-857d6bdf67cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=af9e7c7e-83f7-4607-bd99-857d6bdf67cc&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The discussion on a16z's global strategy and American tech leadership offers a strong perspective and trend read relevant to business and tech leaders.",
+    "topic_tags": [
+      "tech leadership",
+      "global strategy",
+      "AI impact"
+    ],
+    "partner_takeaway": "Readers gain insight into why American technology leadership remains critical globally and how AI reshapes government-private sector relationships.",
+    "partner_summary": "Ben Horowitz and guests discuss a16z's expanding international strategy and the importance of American tech leadership beyond Silicon Valley. This matters to business leaders navigating global tech markets and AI's role in economic growth and national security. The audience should monitor how these dynamics influence partnerships and innovation strategies worldwide.",
+    "promo_only": false
+  },
+  {
+    "id": "ceaa518a4c52",
+    "title": "AIEWF Daily Dispatch: The great loops debate and the state of AI engineering",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-locomotives",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The AI Engineer World&#8217;s Fair ended with a debate about loops, a report on the state of AI engineering, and closing keynotes focused on what to build next.",
+    "published": "2026-07-03T05:11:43+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The AI engineering state and debate on loops provide a practitioner perspective with insights into AI development challenges and future directions.",
+    "topic_tags": [
+      "AI engineering",
+      "software development",
+      "AI trends"
+    ],
+    "partner_takeaway": "Readers learn about current debates in AI engineering, particularly around loop constructs and what to build next in AI software.",
+    "partner_summary": "The AI Engineer World's Fair concluded with a debate on loops and a report on AI engineering's current state. This is relevant for practitioners interested in AI software development and emerging engineering patterns. Readers should consider these debates when designing AI systems and anticipate evolving best practices.",
+    "promo_only": false
+  },
+  {
+    "id": "be4d800b6cf4",
+    "title": "Vercel's Andrew Qu on why agents are a new kind of software",
+    "url": "https://www.latent.space/p/vercel-agents-new-software",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The Vercel Chief of Software explains how its agent framework, eve, was created &#8212; and why skills, sandboxes and agent-readable websites now matter.",
+    "published": "2026-07-03T00:08:18+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The explanation of agents as a new software paradigm offers a clear practitioner perspective and tactical insight into emerging AI software frameworks.",
+    "topic_tags": [
+      "AI agents",
+      "software architecture",
+      "practitioner insight"
+    ],
+    "partner_takeaway": "Readers understand why AI agents represent a new kind of software and the importance of skills, sandboxes, and agent-readable websites.",
+    "partner_summary": "Vercel's Chief of Software explains the creation of their agent framework, eve, and why new software paradigms involving skills and sandboxes are critical. This matters to software architects and AI practitioners designing agent-based systems. The audience should explore agent frameworks and consider how to integrate agent-readable websites into their products.",
+    "promo_only": false
+  },
+  {
+    "id": "67d4e191897a",
+    "title": "The website of the future may assemble itself for every visitor",
+    "url": "https://www.latent.space/p/the-website-of-the-future",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Adobe is experimenting with &#8220;agentic sites&#8221; that generate pages around an individual user&#8217;s intent. At AIEWF, we talked to Carlos Sanchez about the Web's future.",
+    "published": "2026-07-02T21:25:14+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The concept of agentic websites that assemble per visitor offers a novel trend read and potential tactical implications for web development and personalization.",
+    "topic_tags": [
+      "web development",
+      "AI personalization",
+      "future trends"
+    ],
+    "partner_takeaway": "Readers learn about emerging AI-driven websites that dynamically assemble content based on individual user intent.",
+    "partner_summary": "Adobe is experimenting with 'agentic sites' that generate web pages tailored to each user's intent, discussed at AIEWF with Carlos Sanchez. This is important for digital product managers and web developers focused on personalization and AI integration. The audience should watch this trend and consider how AI can enhance user experience through dynamic content assembly.",
+    "promo_only": false
+  },
+  {
+    "id": "c378f417682e",
+    "title": "Skill engineering and the case against one-shot AI design",
+    "url": "https://www.latent.space/p/skill-engineering-design",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Paul Bakaus talks to us about Impeccable, human judgment in a 'loopmaxxing' era, and why agents still need people to steer them.",
+    "published": "2026-07-02T14:36:05+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The discussion on skill engineering and the limits of one-shot AI design provides a strong practitioner perspective and tactical insight into AI agent development.",
+    "topic_tags": [
+      "AI design",
+      "skill engineering",
+      "human-in-the-loop"
+    ],
+    "partner_takeaway": "Readers learn why human judgment remains essential in AI agent design and the value of iterative skill engineering.",
+    "partner_summary": "Paul Bakaus discusses Impeccable, the role of human judgment in AI development, and why agents still require human steering despite automation advances. This is relevant for AI developers and product leaders balancing automation and control. The audience should adopt iterative skill engineering and maintain human oversight in AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "3e9cd7490984",
+    "title": "Outsmarting Uber: Why Bolt Wins in Europe",
+    "url": "https://a16z.simplecast.com/episodes/outsmarting-uber-why-bolt-wins-in-europe-EfFQWvrq",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "What does it take to build a global mobility company from a country of just 1.3 million people? Markus Villig, founder and CEO of Bolt, joins the show to share how he scaled from Estonia to 50+ countries, navigating early scrappy days, a near-bankruptcy from expanding too fast, and the hard-won lessons behind Bolt’s capital-efficient growth. They also discuss building in Europe vs. the U.S., competing against much better-funded rivals, and why culture and ambition matter more than regulation. Finally, Markus lays out what’s next: autonomy, robotaxis, and why the future of mobility will be a...",
+    "published": "2026-07-02T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8ddf5f97-9707-46d2-97d3-7e53aeeea1f2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8ddf5f97-9707-46d2-97d3-7e53aeeea1f2&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The founder's story of Bolt's growth and lessons in capital-efficient scaling offers valuable tactical and strategic insights for startup founders and business leaders.",
+    "topic_tags": [
+      "startup growth",
+      "capital efficiency",
+      "global expansion"
+    ],
+    "partner_takeaway": "Readers learn practical lessons on scaling a global mobility company efficiently and navigating different regional markets.",
+    "partner_summary": "Markus Villig, founder of Bolt, shares how he scaled from Estonia to over 50 countries, overcoming near-bankruptcy and learning capital-efficient growth. This matters to startup founders and executives aiming for sustainable global expansion. The audience should apply these lessons on scrappy growth and market adaptation in their own ventures.",
+    "promo_only": false
+  },
+  {
+    "id": "48dcf7898ed7",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-900",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "another quiet day.",
+    "published": "2026-07-02T07:10:14+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "The item reports a quiet day with no substantive content or insights for the audience.",
+    "topic_tags": [
+      "AI news"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This update notes that not much happened in AI news on the day. It offers no new insights or actionable information for practitioners. The audience can skip this update without missing relevant content.",
+    "promo_only": false
+  },
+  {
+    "id": "3f744bd3b482",
+    "title": "AIEWF Daily Dispatch: Autoresearch and the tension between AI and human agency",
+    "url": "https://www.latent.space/p/aiewf-daily-dispatch-agency",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "The software factory vision met resistance today from speakers defending human understanding and control.",
+    "published": "2026-07-02T06:13:49+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The tension between AI automation and human agency offers an insightful perspective relevant to AI practitioners and business leaders.",
+    "topic_tags": [
+      "AI ethics",
+      "human agency",
+      "software development"
+    ],
+    "partner_takeaway": "Readers gain insight into the ongoing debate about balancing AI automation with human understanding and control.",
+    "partner_summary": "At AIEWF, speakers debated the software factory vision and defended the importance of human agency and understanding in AI. This matters to AI developers and business leaders concerned with ethical and effective AI deployment. The audience should consider how to maintain human oversight while leveraging AI automation.",
+    "promo_only": false
+  },
+  {
+    "id": "8c39eab2d77a",
+    "title": "Autoresearch: The feedback loop behind self-improving agents",
+    "url": "https://www.latent.space/p/autoresearch-introspection",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Introspection co-founder Roland Gavrilescu explains autoresearch, agent &#8220;recipes,&#8221; self-improving loops, and why humans remain central to the software factory.",
+    "published": "2026-07-01T23:52:30+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The explanation of autoresearch and self-improving AI agents provides a clear tactical and conceptual insight for AI practitioners.",
+    "topic_tags": [
+      "AI agents",
+      "self-improvement",
+      "software factory"
+    ],
+    "partner_takeaway": "Readers learn how autoresearch enables self-improving AI agents and why human involvement remains crucial.",
+    "partner_summary": "Roland Gavrilescu explains autoresearch, agent recipes, and feedback loops that enable AI agents to self-improve, emphasizing human centrality. This is important for AI engineers and product teams building autonomous systems. The audience should explore autoresearch concepts and maintain human oversight in AI development.",
+    "promo_only": false
+  },
+  {
+    "id": "f0b2376197a7",
+    "title": "How Cursor deploys AI inside the enterprise",
+    "url": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Cursor's Pauline Brunet explains how her team of Forward Deployed Engineers help organizations implement agents &#8212; essentially setting up software factories.",
+    "published": "2026-07-01T19:03:44+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The description of how Forward Deployed Engineers implement AI agents in enterprises offers a strong practitioner perspective and tactical insight.",
+    "topic_tags": [
+      "enterprise AI",
+      "agent implementation",
+      "software factory"
+    ],
+    "partner_takeaway": "Readers learn how Forward Deployed Engineers help enterprises deploy AI agents effectively by setting up software factories.",
+    "partner_summary": "Pauline Brunet from Cursor explains how her team of Forward Deployed Engineers assists organizations in implementing AI agents, effectively creating software factories. This matters to enterprise leaders and AI practitioners aiming to operationalize AI at scale. The audience should consider adopting similar deployment models to accelerate AI integration.",
+    "promo_only": false
+  },
+  {
+    "id": "a24fab3990f6",
+    "title": "Rick Rubin on AI, Creativity, and The Way of Code",
+    "url": "https://a16z.simplecast.com/episodes/rick-rubin-on-ai-creativity-and-the-way-of-code-KUxKnIS1",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Rick Rubin joins Marc Andreessen, Ben Horowitz, Anjney Midha, and Erik Torenberg to discuss creativity, artificial intelligence, and his book The Way of Code, which reimagines the Tao Te Ching for the age of AI. The conversation explores vibe coding, remix culture, artistic process, entrepreneurship, and what AI changes, and doesn't change, about creativity. Rubin argues that AI is best understood not as a replacement for artists, but as another creative tool, one that expands what's possible while making taste, curiosity, and individual perspective even more valuable. Along the way, they d...",
+    "published": "2026-07-01T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/07dd0a8b-3522-4806-b39e-a610f75b3e9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=07dd0a8b-3522-4806-b39e-a610f75b3e9b&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The discussion on AI and creativity offers a practitioner perspective and insight but is somewhat broad and philosophical, requiring a strong personal angle to make it concrete.",
+    "topic_tags": [
+      "AI",
+      "creativity",
+      "entrepreneurship"
+    ],
+    "partner_takeaway": "AI changes some aspects of creativity but not the fundamental artistic process, offering a nuanced view on how creators can integrate AI tools.",
+    "partner_summary": "Rick Rubin discusses AI, creativity, and his book The Way of Code, exploring how AI impacts artistic processes and entrepreneurship. This matters to creators and business leaders navigating AI's role in creative work. Readers should consider how to leverage AI thoughtfully without losing the essence of human creativity.",
+    "promo_only": false
+  },
+  {
+    "id": "44c4d19003a6",
+    "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+    "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897; I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
+    "published": "2026-06-30T23:22:23+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/204353515/928109049545fa1bddb70bcf87affe5e.mp3",
+    "relevance_score": 8,
+    "score_reason": "Detailed review of AI model performance with concrete testing results offers tactical insights and a practitioner perspective valuable to AI product builders and evaluators.",
+    "topic_tags": [
+      "AI",
+      "model evaluation",
+      "product management"
+    ],
+    "partner_takeaway": "Running multiple generations of AI prototypes reveals practical strengths and weaknesses of frontier models, guiding better AI product decisions.",
+    "partner_summary": "The author ran 64 generations of AI prototypes using Claude Code to evaluate model performance across tasks. This provides valuable insights for AI practitioners and product managers assessing model capabilities. Readers should use similar rigorous testing frameworks to inform AI adoption and development strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "4bfb70006398",
+    "title": "The twilight of the chatbots",
+    "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "How work changes along the exponential",
+    "published": "2026-06-30T22:18:12+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The piece offers an insightful perspective on how work is evolving with AI, providing a trend read and a practitioner viewpoint relevant to business and product leaders.",
+    "topic_tags": [
+      "AI",
+      "future of work",
+      "product management"
+    ],
+    "partner_takeaway": "Understanding the shift from chatbots to more advanced AI tools helps leaders anticipate changes in workflows and product strategies.",
+    "partner_summary": "The article discusses the decline of traditional chatbots and the rise of more sophisticated AI-driven work tools. This trend impacts how businesses design workflows and customer interactions. Readers should watch for evolving AI applications that go beyond chatbots to enhance productivity and engagement.",
+    "promo_only": false
+  },
+  {
+    "id": "85182b192513",
+    "title": "#498 – Anthony Kaldellis: Roman Empire, Byzantine Empire, Rise & Fall of Empires",
+    "url": "https://lexfridman.com/anthony-kaldellis/?utm_source=rss&utm_medium=rss&utm_campaign=anthony-kaldellis",
+    "source_name": "Lex Fridman Podcast",
+    "source_weight": 0.9,
+    "summary": "Anthony Kaldellis is a historian of the Roman Empire and author of &#8220;The New Roman Empire&#8221;, a comprehensive history of the Byzantine Empire (Eastern Roman Empire). Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/ep498-sc See below for timestamps, transcript, and to give feedback, submit questions, contact Lex, etc. Transcript: https://lexfridman.com/anthony-kaldellis-transcript CONTACT LEX: Feedback &#8211; give feedback to Lex: https://lexfridman.com/survey AMA &#8211; submit questions, videos or call-in: https://lexfridman.com/ama Hiring &#8211...",
+    "published": "2026-06-30T21:33:40+00:00",
+    "audio_url": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_anthony_kaldellis.mp3",
+    "relevance_score": 3,
+    "score_reason": "Historical podcast on empires is outside the writer's editorial scope focused on AI, product management, and creativity in tech/business contexts.",
+    "topic_tags": [
+      "history"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a podcast episode about the Roman and Byzantine Empires by historian Anthony Kaldellis. It is unrelated to AI, product management, or creativity in technology. The audience should look elsewhere for relevant content on their professional interests.",
+    "promo_only": false
+  },
+  {
+    "id": "30566a3c7fb8",
+    "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+    "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-30T16:02:40+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Announcement of new hardware tools without substantive insight or tactical advice limits content potential for the audience.",
+    "topic_tags": [
+      "AI",
+      "hardware"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind announced new hardware tools called Nano Banana 2 Lite and Gemini Omni Flash. While relevant to AI infrastructure, the post lacks detailed analysis or practical guidance. Readers interested in AI hardware should seek deeper reviews or case studies.",
+    "promo_only": true
+  },
+  {
+    "id": "a125a2e981c6",
+    "title": "How top PMs increase their leverage with AI",
+    "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "A framework for getting the most out of AI in your day-to-day-work",
+    "published": "2026-06-30T13:31:39+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "A practical framework for PMs to leverage AI in daily work offers high content potential and clear tactical value for the audience.",
+    "topic_tags": [
+      "product management",
+      "AI",
+      "tactical tips"
+    ],
+    "partner_takeaway": "Top product managers increase their leverage by applying a structured AI framework to optimize workflows and decision-making.",
+    "partner_summary": "This article presents a framework for product managers to effectively integrate AI into their daily tasks. It is highly relevant for PMs seeking to boost productivity and impact with AI tools. Readers should adopt and adapt this framework to enhance their AI leverage in product development.",
+    "promo_only": false
+  },
+  {
+    "id": "99df897d7141",
+    "title": "Building AI for Creators | Luma & Phota Labs",
+    "url": "https://a16z.simplecast.com/episodes/building-ai-for-creators-luma-phota-labs-0nl9Q52H",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Yoko Li speaks with Luma's Head of Applied Research Matt Tancik and Phota Labs cofounder and CTO Zach Xia about how AI is changing creativity, photography, and the tools people use to make art. The conversation explores the evolving relationship between artists and AI, from image generation and personalization to creative workflows, controllability, and agentic design tools. They discuss personalization, photography, creative software, model design, evaluation, and why the future of creative tools may depend less on generating content and more on helping people express ideas they couldn't e...",
+    "published": "2026-06-30T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/f6e7db05-5707-4d2f-a4da-0fb590be9c89/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=f6e7db05-5707-4d2f-a4da-0fb590be9c89&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Exploration of AI's impact on creative workflows and tools provides insight and practitioner perspective valuable to creators and product teams.",
+    "topic_tags": [
+      "AI",
+      "creativity",
+      "tools"
+    ],
+    "partner_takeaway": "AI is transforming creative workflows by enabling personalization, controllability, and new design tools that augment artists' capabilities.",
+    "partner_summary": "The conversation explores how AI changes creativity, photography, and artistic tools, highlighting evolving artist-AI relationships. This matters to creators and product teams building creative AI applications. Readers should explore AI tools that enhance creative control and personalization.",
+    "promo_only": false
+  },
+  {
+    "id": "0724a0d575b1",
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+    "published": "2026-06-30T09:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Data on ChatGPT adoption trends offers a useful market trend read but needs a personal angle for stronger content potential.",
+    "topic_tags": [
+      "AI",
+      "adoption",
+      "trend read"
+    ],
+    "partner_takeaway": "ChatGPT adoption is expanding globally with increasing user engagement and feature exploration, signaling growing AI integration in workflows.",
+    "partner_summary": "OpenAI released data showing global growth in ChatGPT usage, with users exploring more capabilities across regions and languages. This trend is important for product managers and business leaders tracking AI adoption. Readers should monitor how expanding AI use cases affect their markets and strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "abd2bc95869e",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "",
+    "published": "2026-06-30T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "Lack of summary and unclear content limits ability to identify a takeaway or relevance to the audience.",
+    "topic_tags": [
+      "AI",
+      "benchmarking"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This item references Genebench-Pro case studies but provides no summary or detail. Without content, it offers no clear value or insight. Readers should seek more detailed information to understand its relevance.",
+    "promo_only": true
+  },
+  {
+    "id": "50a70d3498de",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "published": "2026-06-30T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Introducing a new AI benchmark in genomics is interesting but may be too technical and niche without a clear business or product angle.",
+    "topic_tags": [
+      "AI",
+      "benchmarking",
+      "scientific research"
+    ],
+    "partner_takeaway": "GeneBench-Pro benchmarks AI performance in complex scientific domains, highlighting the growing role of AI in genomics and biology research.",
+    "partner_summary": "OpenAI introduced GeneBench-Pro, a benchmark testing AI on real-world genomics and biology datasets. This signals AI's expanding role in scientific research but may be technical for a general product audience. Readers should watch AI's increasing capabilities in specialized domains for future opportunities.",
+    "promo_only": false
+  },
+  {
+    "id": "d9167c066f6f",
+    "title": "Core dump epidemiology: fixing an 18-year-old bug",
+    "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+    "published": "2026-06-30T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Technical debugging story of a long-standing bug is interesting but narrowly technical with limited broader business or product insight.",
+    "topic_tags": [
+      "engineering",
+      "debugging",
+      "infrastructure"
+    ],
+    "partner_takeaway": "Large-scale core dump analysis can uncover rare infrastructure bugs, demonstrating the value of data-driven debugging in complex systems.",
+    "partner_summary": "OpenAI engineers used core dump epidemiology to identify a hardware fault and an 18-year-old software bug causing infrastructure crashes. This highlights advanced debugging techniques in large systems. Readers in engineering roles should consider similar data-driven approaches for complex problem solving.",
+    "promo_only": false
+  },
+  {
+    "id": "7a712b4ad724",
+    "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-06-29T15:02:35+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Weekly podcast episode summary without clear educational insight or tactical content limits value for the audience.",
+    "topic_tags": [
+      "AI",
+      "podcast"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast episode from How I AI featuring a review and product discussion. It lacks detailed educational content or actionable insights. Readers seeking practical AI knowledge should look for more substantive episodes or articles.",
+    "promo_only": true
+  },
+  {
+    "id": "242831ae3bb0",
+    "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+    "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
+    "published": "2026-06-29T12:03:38+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203589481/846f1cae45d76ef325a01c8acbcd5f61.mp3",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a unique practitioner perspective on rapid AI product development without traditional tools, offering tactical insights and a clear takeaway.",
+    "topic_tags": [
+      "AI product development",
+      "team collaboration",
+      "tools"
+    ],
+    "partner_takeaway": "A small team can rapidly build and ship AI products using unconventional workflows without traditional design and project management tools.",
+    "partner_summary": "Eddie Kim, CTO of Gusto, explains how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation. This matters because it challenges conventional product development processes and offers a new approach to rapid AI innovation. The audience should consider experimenting with lean, communication-focused workflows to accelerate AI product delivery.",
+    "promo_only": false
+  },
+  {
+    "id": "a922a6fb4272",
+    "title": "Summer Break: Week of June 29",
+    "url": "https://stratechery.com/2026/summer-break-week-of-june-29/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Stratechery is on summer break the week of June 29. There will be no Weekly Article or Updates. The next Update will be on Tuesday, July 7. Dithering,&#160;Sharp Tech, and&#160;Sharp China&#160;will also return the week of July 6.&#160;Greatest of All Talk&#160;and&#160;Asianometry&#160;will continue to publish. The full Stratechery posting schedule is&#160;here.",
+    "published": "2026-06-29T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "Out of scope as it is a simple announcement of a publication break with no educational content or actionable insight.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "Stratechery announced a summer break with no new articles or updates for the week of June 29. This is not relevant to the writer's audience as it contains no educational or tactical content. Readers should simply note the pause in publication and await future content.",
+    "promo_only": false
+  },
+  {
+    "id": "03c52cb0e218",
+    "title": "Beyond P(doom): Marc Andreessen - Betting on America",
+    "url": "https://a16z.simplecast.com/episodes/beyond-pdoom-marc-andreessen-betting-on-america-2WMkJzvN",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Marc Andreessen joins CSIS's Navin Girishankar for a wide-ranging conversation on artificial intelligence, productivity growth, industrial policy, and America's technological future. Andreessen argues that while AI has already begun reshaping the economy, the largest impacts are still ahead. He explores how AI could dramatically expand access to expertise, improve productivity, and transform industries ranging from healthcare and education to law and software development. At the same time, he warns that many of the biggest barriers to progress are not technological but institutional, driven...",
+    "published": "2026-06-29T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/416ab100-e7d8-45d6-9c4d-eff841bcd393/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=416ab100-e7d8-45d6-9c4d-eff841bcd393&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Medium-high content potential with a broad strategic perspective on AI's economic impact and productivity, offering insight and trend read valuable to the audience.",
+    "topic_tags": [
+      "AI impact",
+      "productivity",
+      "technology policy"
+    ],
+    "partner_takeaway": "AI is poised to significantly boost productivity and expand access to expertise, with major economic impacts still ahead.",
+    "partner_summary": "Marc Andreessen discusses AI's role in reshaping the economy, productivity growth, and America's technological future in a conversation with CSIS. This matters because understanding AI's potential economic and policy implications helps business leaders anticipate and prepare for transformative changes. The audience should watch for how AI-driven productivity gains could affect their industries and consider strategic responses.",
+    "promo_only": false
+  }
+]
