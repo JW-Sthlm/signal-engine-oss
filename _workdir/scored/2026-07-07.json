@@ -1,0 +1,100 @@
+[
+  {
+    "id": "5b8c05a8120c",
+    "title": "A Script for Mark Zuckerberg",
+    "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
+    "published": "2026-07-07T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant to business strategy and leadership communication, offering a practitioner perspective, but the angle depends on the writer's unique take on Meta's situation.",
+    "topic_tags": [
+      "business strategy",
+      "leadership",
+      "communication"
+    ],
+    "partner_takeaway": "A well-crafted earnings call script can shape investor and market perceptions and influence company trajectory.",
+    "partner_summary": "This article proposes a script for Mark Zuckerberg's next Meta earnings call. It matters because how tech leaders communicate financial results impacts investor confidence and strategic clarity. The audience should consider how leadership messaging can be optimized to align with business goals and market expectations.",
+    "promo_only": false
+  },
+  {
+    "id": "45c80bbeca2b",
+    "title": "[AINews] The Field Guide to Fable",
+    "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
+    "published": "2026-07-07T04:44:53+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is about a major AI model launch, relevant but generic without a clear unique angle or tactical insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "technology trends"
+    ],
+    "partner_takeaway": "Understanding the significance of new AI model launches helps anticipate shifts in AI capabilities and market impact.",
+    "partner_summary": "This piece reflects on the launch of a significant AI model called Fable. It matters because such models can redefine AI applications and competitive dynamics. The audience should watch how this model influences AI adoption and innovation trends.",
+    "promo_only": false
+  },
+  {
+    "id": "985a6c32576b",
+    "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-07-06T15:01:17+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The content is a podcast review and general AI topic roundup, offering limited concrete or tactical insights for the audience.",
+    "topic_tags": [
+      "AI tools",
+      "automation"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast episode covering AI topics including Sonnet 5 and autonomous coding agents. While it provides updates, it lacks a clear, actionable takeaway for business or practitioner audiences. Readers should seek more focused content for tactical or strategic insights.",
+    "promo_only": false
+  },
+  {
+    "id": "297c8cd1a4f8",
+    "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pok&#233;mon cards in real time",
+    "published": "2026-07-06T12:03:37+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/204741760/fa419fe415be23d13043d845b6036ad8.mp3",
+    "relevance_score": 8,
+    "score_reason": "The item offers a concrete example of running autonomous coding agents from a phone, providing a tactical tool and practitioner perspective relevant to automation and AI workflows.",
+    "topic_tags": [
+      "AI automation",
+      "coding agents",
+      "tools"
+    ],
+    "partner_takeaway": "You can run autonomous coding agents from your phone using Symphony + Linear, enabling real-time automation and multitasking in software development.",
+    "partner_summary": "Alessio Fanelli demonstrates how to run autonomous coding agents on a phone using OpenAI Symphony and Linear. This matters because it shows practical ways to leverage AI for coding automation on mobile devices. The audience should explore similar setups to increase productivity and experiment with AI-driven workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "2d6cc5243b0e",
+    "title": "Don’t Follow Your Passion | Ben Horowitz’s Advice for New Graduates",
+    "url": "https://a16z.simplecast.com/episodes/dont-follow-your-passion-ben-horowitzs-advice-for-new-graduates-bLLRyFoV",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "In this commencement address to Columbia University's Fu Foundation School of Engineering and Applied Science Class of 2015, Ben Horowitz challenges some of the most common advice given to graduates. Rather than urging students to “follow their passion,” Horowitz argues that people should focus on developing their strengths and making meaningful contributions to the world. Drawing on stories from his own time at Columbia, the founding of technology companies, and investments in startups like Airbnb, he explores the importance of independent thinking, conviction, and pursuing ideas that othe...",
+    "published": "2026-07-06T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b22a6463-f0e1-44ae-a0c0-63bd483d2b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b22a6463-f0e1-44ae-a0c0-63bd483d2b9b&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "Ben Horowitz’s advice challenges common career advice with a strong practitioner perspective and actionable mindset shift for professionals.",
+    "topic_tags": [
+      "career advice",
+      "professional development",
+      "mindset"
+    ],
+    "partner_takeaway": "Focusing on developing strengths and making meaningful contributions is a more effective career strategy than simply following passion.",
+    "partner_summary": "Ben Horowitz delivers a commencement address advising graduates not to follow their passion blindly but to develop strengths and contribute meaningfully. This matters because it reframes career planning with a practical, results-oriented mindset. The audience should reconsider their career strategies to focus on skill-building and impact rather than passion alone.",
+    "promo_only": false
+  }
+]
