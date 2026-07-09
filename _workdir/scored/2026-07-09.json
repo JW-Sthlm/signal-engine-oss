@@ -1,0 +1,235 @@
+[
+  {
+    "id": "9f439b062513",
+    "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
+    "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The batter for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic on verifiable data in AI is relevant and offers a perspective on the AI race but needs a personal angle to maximize impact.",
+    "topic_tags": [
+      "AI trends",
+      "Data verification"
+    ],
+    "partner_takeaway": "Verifiable data quality is becoming a critical battleground in AI development, influencing competitive dynamics among leading labs.",
+    "partner_summary": "The article discusses how verifiable data is increasingly defining the AI race among major players like Meta and Grok. This matters to the audience as it highlights a key factor shaping AI capabilities and trustworthiness. Readers should watch how data verification strategies evolve to understand competitive advantages in AI.",
+    "promo_only": false
+  },
+  {
+    "id": "c66cca7f299b",
+    "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+    "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+    "published": "2026-07-09T06:05:41+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The launch of Grok 4.5 is interesting but mostly product news without a clear tactical or strategic takeaway for the audience.",
+    "topic_tags": [
+      "AI models",
+      "Product launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "SpaceXAI has launched Grok 4.5, their first Opus-class model after acquiring Cursor. While this shows rapid innovation in frontier AI labs, it is primarily a product update. The audience should monitor how such models impact AI capabilities but this item lacks direct actionable insight.",
+    "promo_only": true
+  },
+  {
+    "id": "f9e300afd5c0",
+    "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+    "url": "https://www.latent.space/p/modal2026",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
+    "published": "2026-07-08T22:55:07+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205716015/df6332898c08341f79886bb62af7a458.mp3",
+    "relevance_score": 8,
+    "score_reason": "The piece on evolving AI infrastructure for agent experience offers a practitioner perspective and tactical insights relevant to AI builders and strategists.",
+    "topic_tags": [
+      "AI infrastructure",
+      "Agent experience",
+      "Tactical tips"
+    ],
+    "partner_takeaway": "Evolving AI infrastructure focused on agent experience is key to unlocking new capabilities and improving AI cloud services.",
+    "partner_summary": "This article revisits Modal's journey building AI infrastructure optimized for agent experience two years after initial coverage. It matters because understanding infrastructure evolution helps practitioners build more effective AI agents. Readers should explore how agent-focused infrastructure can enhance AI deployment and user interaction.",
+    "promo_only": false
+  },
+  {
+    "id": "1d58e4b93a7e",
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "published": "2026-07-08T13:30:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "OpenAI's approach to government partnerships is important but mostly outlines principles without deep tactical or practitioner insights.",
+    "topic_tags": [
+      "AI ethics",
+      "Government partnerships"
+    ],
+    "partner_takeaway": "OpenAI emphasizes responsible AI use and democratic accountability in its government and national security partnerships.",
+    "partner_summary": "OpenAI shares its principles for engaging with government and national security entities responsibly. This is relevant for readers interested in AI governance and ethical frameworks. The audience should watch how these partnerships evolve to balance innovation with public safety.",
+    "promo_only": false
+  },
+  {
+    "id": "604b35556290",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "published": "2026-07-08T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The analysis of coding benchmark reliability offers a clear warning and insight into AI evaluation pitfalls relevant to practitioners and decision makers.",
+    "topic_tags": [
+      "AI evaluation",
+      "Benchmarking",
+      "Warning"
+    ],
+    "partner_takeaway": "Current popular coding benchmarks may have reliability issues, highlighting the need for more rigorous AI model evaluation methods.",
+    "partner_summary": "OpenAI's new analysis reveals problems with SWE-Bench Pro, a widely used coding benchmark, questioning its accuracy. This matters because flawed benchmarks can mislead AI development and deployment decisions. Readers should critically assess evaluation tools and seek more reliable metrics for AI performance.",
+    "promo_only": false
+  },
+  {
+    "id": "fda03241cc03",
+    "title": "What a harness is and how to build one with Claude Agent SDK",
+    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
+    "published": "2026-07-08T12:03:35+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205647252/8ab2b19e7844865055b49d826c6a4473.mp3",
+    "relevance_score": 9,
+    "score_reason": "A detailed, tactical guide on building a Claude Agent SDK harness offers concrete steps and practitioner insights highly valuable to the audience.",
+    "topic_tags": [
+      "AI tooling",
+      "Agent SDK",
+      "Tactical tips"
+    ],
+    "partner_takeaway": "Building a custom Claude Agent SDK harness can automate complex workflows like bug triage, improving efficiency and reducing repetitive prompts.",
+    "partner_summary": "The author shares how they built a Claude Agent SDK harness to automate Sentry bug triage, eliminating repetitive prompt use. This is highly relevant for practitioners looking to streamline AI agent workflows. Readers should consider adopting similar harnesses to enhance automation and productivity.",
+    "promo_only": false
+  },
+  {
+    "id": "32a75df23da7",
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Helping K–12 educators build AI skills is valuable but the item is more educational program news than a tactical or strategic insight for the core audience.",
+    "topic_tags": [
+      "AI education",
+      "Skills development"
+    ],
+    "partner_takeaway": "Hands-on AI Skills Jams are being introduced to help K–12 educators gain practical AI skills for classroom use.",
+    "partner_summary": "OpenAI Academy and the Walton Family Foundation are launching AI Skills Jams to train K–12 educators. This matters as it supports foundational AI literacy in education. The audience should watch how these programs scale and influence AI adoption in schools.",
+    "promo_only": false
+  },
+  {
+    "id": "bd5c3bba7897",
+    "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+    "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Analysis of Microsoft's Xbox layoffs and Game Pass strategy failure offers strategic insight and a cautionary tale for business and product leaders.",
+    "topic_tags": [
+      "Business strategy",
+      "Product failure",
+      "Tech layoffs"
+    ],
+    "partner_takeaway": "Microsoft's Xbox layoffs reflect the failure of its Game Pass strategy, illustrating risks of subscription bundling in gaming markets.",
+    "partner_summary": "Microsoft's Xbox division is undergoing significant layoffs due to the failure of its Game Pass subscription strategy. This is important for business leaders to understand the challenges of bundling and market coordination. Readers should consider the pitfalls of subscription models and sunk costs in product strategy.",
+    "promo_only": false
+  },
+  {
+    "id": "b7bfa1df57e4",
+    "title": "Adam Neumann: This Is How You Build Iconic Companies",
+    "url": "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow. Neumann reflects on his childhood, military service, immigration to the United States, the rise and fall of WeWork, and what he learned from one of the most scrutinized founder journeys in technology. He explains why Flow is focused on rethinking housing, community, and belonging, and why he believes technology can fundamentally improve how people live. The conversation explores resilience, company building, leadership, real estate, software, fle...",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/daba726b-ca42-4496-bd8d-369f30462545/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=daba726b-ca42-4496-bd8d-369f30462545&feed=JGE3yC0V",
+    "relevance_score": 6,
+    "score_reason": "The podcast with Adam Neumann offers entrepreneurial reflections but lacks a clear tactical or unique educational takeaway for the audience.",
+    "topic_tags": [
+      "Entrepreneurship",
+      "Founder lessons"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Adam Neumann discusses his entrepreneurial journey, including successes and failures, and his focus on building Flow. While insightful, it is mostly a personal narrative. The audience should listen for inspiration but may not gain concrete tactics.",
+    "promo_only": false
+  },
+  {
+    "id": "f129b467eb6e",
+    "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us read some condensed insight",
+    "published": "2026-07-08T02:20:25+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "A summary of 35 papers on Harness Engineering is potentially valuable but the item as presented lacks a clear, concrete takeaway or unique angle.",
+    "topic_tags": [
+      "AI research",
+      "Harness engineering"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Lilian Weng summarizes 35 papers on Harness Engineering for RSI, providing condensed insights. This could be useful for deep AI practitioners but lacks an explicit takeaway for a broader audience. Readers interested in technical research should explore the summary directly.",
+    "promo_only": false
+  },
+  {
+    "id": "37d81f32e63f",
+    "title": "Introducing GPT-Live",
+    "url": "https://openai.com/index/introducing-gpt-live",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+    "published": "2026-07-08T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Introducing GPT-Live as a new voice model generation offers a trend read and tool insight relevant to AI interaction practitioners.",
+    "topic_tags": [
+      "AI voice models",
+      "Human-AI interaction"
+    ],
+    "partner_takeaway": "GPT-Live represents a new generation of voice models enhancing natural human-AI interaction, now integrated into ChatGPT Voice.",
+    "partner_summary": "OpenAI has launched GPT-Live, a new generation of voice models powering ChatGPT Voice for more natural interactions. This matters as voice AI becomes a key interface for users. Readers should explore how voice models can improve user engagement and AI accessibility.",
+    "promo_only": false
+  },
+  {
+    "id": "de018eb71226",
+    "title": "How tech workers are feeling in 2026: a workforce splitting in two",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Results from our second annual tech worker sentiment survey",
+    "published": "2026-07-07T13:04:22+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The tech worker sentiment survey offers insight into workforce trends and splits, valuable for HR and leadership perspectives.",
+    "topic_tags": [
+      "Workforce trends",
+      "Tech industry",
+      "Employee sentiment"
+    ],
+    "partner_takeaway": "Tech workers in 2026 are experiencing a workforce divide, reflecting differing sentiments and challenges within the industry.",
+    "partner_summary": "Lenny's Newsletter reports on the second annual tech worker sentiment survey revealing a split in workforce feelings. This is important for leaders managing talent and culture in tech. Readers should consider these trends when shaping workforce strategies and engagement.",
+    "promo_only": false
+  }
+]
