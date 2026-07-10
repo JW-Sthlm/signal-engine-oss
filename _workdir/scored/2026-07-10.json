@@ -1,0 +1,356 @@
+[
+  {
+    "id": "618c64669efb",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "published": "2026-07-10T07:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic is in scope with a clear business and AI integration angle, offering insight into AI's impact on telecommunications.",
+    "topic_tags": [
+      "AI adoption",
+      "Telecommunications",
+      "Business transformation"
+    ],
+    "partner_takeaway": "Telecommunications companies can leverage AI to transform customer service, employee workflows, and network operations for competitive advantage.",
+    "partner_summary": "Deutsche Telekom is integrating OpenAI's technology to become an AI-native telecommunications company. This matters because it shows how AI can fundamentally reshape traditional telecom operations and customer interactions. The audience should watch how AI-driven transformation in telecom can serve as a model for other industries seeking operational and customer experience improvements.",
+    "promo_only": false
+  },
+  {
+    "id": "77088d5093ee",
+    "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "A big day for OpenAI.",
+    "published": "2026-07-10T06:19:40+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Pure product launch news with no clear educational angle or practical insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "Product launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced the launch of GPT 5.6 Sol/Terra/Luna and the Codex ChatGPT superapp. While this is notable news, it lacks actionable insights or tactical advice for business or product practitioners. Readers should wait for deeper analysis or practical applications before drawing conclusions.",
+    "promo_only": true
+  },
+  {
+    "id": "a636e00a10db",
+    "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+    "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
+    "published": "2026-07-09T17:33:57+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
+    "relevance_score": 7,
+    "score_reason": "The comparison offers a practitioner perspective and insight into AI model performance relevant to product development.",
+    "topic_tags": [
+      "AI benchmarking",
+      "Product development",
+      "Model comparison"
+    ],
+    "partner_takeaway": "Benchmarking AI models on real-world tasks like prototypes and PRDs reveals practical strengths and weaknesses that inform model choice for product teams.",
+    "partner_summary": "This piece compares OpenAI's GPT 5.6-Sol with Claude Fable across multiple practical categories. It matters because it provides a nuanced view of AI model capabilities that product teams can use to select the right tool for their workflows. The audience should consider benchmarking AI models themselves to better match tools to their specific product needs.",
+    "promo_only": false
+  },
+  {
+    "id": "d8d03c38248c",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "published": "2026-07-09T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The integration of GPT-5.6 into Microsoft 365 Copilot offers a clear business and productivity angle with practical implications.",
+    "topic_tags": [
+      "AI integration",
+      "Productivity tools",
+      "Business applications"
+    ],
+    "partner_takeaway": "Upgrading to GPT-5.6 in Microsoft 365 Copilot enhances productivity with faster, higher-quality AI assistance across common office applications.",
+    "partner_summary": "GPT-5.6 is now the preferred AI model powering Microsoft 365 Copilot, improving capabilities in Word, Excel, PowerPoint, and more. This matters because it directly impacts how knowledge workers can leverage AI to accelerate and improve their daily work. The audience should explore how to integrate or adopt advanced AI tools like Copilot to boost team productivity.",
+    "promo_only": false
+  },
+  {
+    "id": "ec98621e6a85",
+    "title": "Adam Mosseri: AI is a tailwind for authenticity",
+    "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Instagram&#8217;s Adam Mosseri on the new product team structure in 2026, the rise of the &#8220;product staff&#8221; role, and the hiring traits that matter most today",
+    "published": "2026-07-09T12:32:21+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203476809/117446a50201e9bc143d6dcd21762185.mp3",
+    "relevance_score": 6,
+    "score_reason": "While the topic touches on AI's impact on product teams, it is more of an interview summary with limited tactical or insight-driven content.",
+    "topic_tags": [
+      "AI impact",
+      "Product management",
+      "Hiring"
+    ],
+    "partner_takeaway": "AI is influencing product team structures and hiring priorities, emphasizing authenticity and new roles like 'product staff'.",
+    "partner_summary": "Adam Mosseri discusses Instagram's evolving product team structure and the rise of AI-driven roles in 2026. This is relevant as it highlights how AI shapes organizational design and talent needs in product teams. The audience should consider how AI might influence their own team structures and hiring strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "ef8a6c2337cc",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The content is mostly promotional about GPT-5.6 capabilities without a clear, actionable takeaway or practitioner insight.",
+    "topic_tags": [
+      "AI models",
+      "Performance"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI presents GPT-5.6 as a more intelligent and cost-effective AI model for demanding work. While this indicates progress in AI capabilities, it lacks concrete examples or tactical advice for business users. Readers should look for case studies or practical applications to understand its real-world impact.",
+    "promo_only": true
+  },
+  {
+    "id": "2e81fa4581a5",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The introduction of ChatGPT Work as an agent with extended project support offers a new tool and pattern for ambitious work management.",
+    "topic_tags": [
+      "AI agents",
+      "Productivity",
+      "Work management"
+    ],
+    "partner_takeaway": "ChatGPT Work can autonomously manage complex projects by interacting with apps and files over extended periods, enhancing productivity for ambitious tasks.",
+    "partner_summary": "ChatGPT Work is introduced as an AI agent capable of taking actions across multiple apps and sustaining focus on projects for hours. This matters because it represents a new pattern for AI-assisted work that can handle complex, multi-step goals. The audience should explore how to leverage AI agents to augment their project workflows and productivity.",
+    "promo_only": false
+  },
+  {
+    "id": "45d63905e99d",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The item is a program announcement with no clear educational or tactical content for the audience.",
+    "topic_tags": [
+      "AI safety",
+      "Bug bounty"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced the GPT-5.5 Bio Bug Bounty program to identify vulnerabilities. While important for AI safety, this announcement lacks practical insights or advice for most business or product professionals. Readers should monitor such programs but need not act immediately.",
+    "promo_only": true
+  },
+  {
+    "id": "9f439b062513",
+    "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
+    "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The analysis of verifiable data's role in the AI race offers insight and trend reading relevant to AI strategy and product development.",
+    "topic_tags": [
+      "AI strategy",
+      "Data verification",
+      "Market trends"
+    ],
+    "partner_takeaway": "The battle for verifiable data is becoming a critical competitive factor in AI development, influencing product capabilities and trustworthiness.",
+    "partner_summary": "This article explores how verifiable data is shaping competition among AI leaders like Meta and Grok. It matters because data integrity and verification are increasingly central to AI product differentiation and user trust. The audience should watch how data strategies evolve in AI to inform their own product and data decisions.",
+    "promo_only": false
+  },
+  {
+    "id": "fc79ada354c7",
+    "title": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
+    "url": "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations from the past year. Mark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Erik Torenberg to discuss the Chan Zuckerberg Initiative's ambitious effort to help cure, prevent, and manage disease by the end of the century. Rather than funding individual breakthroughs, CZI is focused on building the tools and infrastructure that can accelerate scientific discovery across entire fields. The conversation explores Biohub, Cell Atlas, virtual cell models, open biological datasets, and th...",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8004a844-38f5-42f0-ab54-b099f1fbed33/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8004a844-38f5-42f0-ab54-b099f1fbed33&feed=JGE3yC0V",
+    "relevance_score": 6,
+    "score_reason": "The discussion on AI's role in curing disease is interesting but more visionary and philanthropic than tactical or business-focused.",
+    "topic_tags": [
+      "AI in healthcare",
+      "Philanthropy",
+      "Vision"
+    ],
+    "partner_takeaway": "AI initiatives like the Chan Zuckerberg Initiative aim to accelerate disease cure and prevention through large-scale, coordinated efforts rather than isolated breakthroughs.",
+    "partner_summary": "Mark Zuckerberg and Priscilla Chan discuss their initiative to leverage AI for curing and managing diseases by the end of the century. This is relevant as it highlights AI's potential in healthcare innovation and philanthropy. The audience should consider how large-scale AI projects can complement their own innovation strategies, even if not directly actionable today.",
+    "promo_only": false
+  },
+  {
+    "id": "c66cca7f299b",
+    "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+    "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+    "published": "2026-07-09T06:05:41+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The item is a product launch update with limited insight or tactical advice for the audience beyond vendor news.",
+    "topic_tags": [
+      "AI models",
+      "Product launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "SpaceXAI launched Grok 4.5, their first Opus-class model after acquiring Cursor. While this shows rapid progress in frontier AI labs, it lacks actionable insights or practitioner guidance. Readers should watch for deeper analysis or use cases before drawing conclusions.",
+    "promo_only": true
+  },
+  {
+    "id": "f9e300afd5c0",
+    "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+    "url": "https://www.latent.space/p/modal2026",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
+    "published": "2026-07-08T22:55:07+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205716015/df6332898c08341f79886bb62af7a458.mp3",
+    "relevance_score": 8,
+    "score_reason": "The exploration of AI infrastructure evolution for agent experience offers a practitioner perspective and tactical insight into building AI systems.",
+    "topic_tags": [
+      "AI infrastructure",
+      "Agent experience",
+      "Technical strategy"
+    ],
+    "partner_takeaway": "Evolving AI infrastructure to support agent experience is critical for delivering scalable, responsive AI applications that meet user expectations.",
+    "partner_summary": "Modal's CTO discusses why AI infrastructure must evolve to support the growing importance of agent experience in AI applications. This matters because infrastructure decisions directly impact the performance and scalability of AI-driven products. The audience should consider infrastructure strategies that prioritize agent responsiveness and user experience in their AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "1d58e4b93a7e",
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "published": "2026-07-08T13:30:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic is important but mostly a policy and partnership announcement without tactical or practitioner insights for the audience.",
+    "topic_tags": [
+      "AI ethics",
+      "government partnerships"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI shared its approach to government and national security partnerships, emphasizing responsible AI use and democratic accountability. While this is relevant to AI governance, it lacks concrete tactics or practitioner insights for business or technical leaders. Readers should watch how these principles might influence AI regulation and public sector collaboration in the future.",
+    "promo_only": true
+  },
+  {
+    "id": "604b35556290",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "published": "2026-07-08T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The writer can provide a practitioner perspective on the pitfalls of AI model evaluation benchmarks, offering a useful insight and warning.",
+    "topic_tags": [
+      "AI evaluation",
+      "model benchmarking",
+      "quality assurance"
+    ],
+    "partner_takeaway": "AI model benchmarks like SWE-Bench Pro can have reliability issues, so practitioners should critically assess evaluation metrics rather than accept them at face value.",
+    "partner_summary": "OpenAI published an analysis revealing reliability and accuracy concerns in SWE-Bench Pro, a popular coding benchmark for AI models. This matters because many rely on such benchmarks to gauge AI capabilities, but flawed metrics can mislead development and deployment decisions. Readers should critically evaluate benchmarking tools and consider multiple measures when assessing AI models.",
+    "promo_only": false
+  },
+  {
+    "id": "fda03241cc03",
+    "title": "What a harness is and how to build one with Claude Agent SDK",
+    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
+    "published": "2026-07-08T12:03:35+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205647252/8ab2b19e7844865055b49d826c6a4473.mp3",
+    "relevance_score": 9,
+    "score_reason": "The writer can share a concrete, tactical example of building a Claude Agent SDK harness for automation, directly useful for practitioners.",
+    "topic_tags": [
+      "automation",
+      "AI tooling",
+      "developer productivity"
+    ],
+    "partner_takeaway": "Building a custom Claude Agent SDK harness can automate repetitive tasks like bug triage, saving time and improving workflow efficiency.",
+    "partner_summary": "A practitioner built a custom Claude Agent SDK harness to automate Sentry bug triage, eliminating the need for repetitive prompts. This example shows how AI tooling can be leveraged to streamline developer workflows and reduce manual effort. Readers should consider building similar automation harnesses to improve productivity in their own teams.",
+    "promo_only": false
+  },
+  {
+    "id": "32a75df23da7",
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is in scope but generic and focused on K–12 education rather than the writer's typical audience, limiting direct tactical value.",
+    "topic_tags": [
+      "AI education",
+      "skills development"
+    ],
+    "partner_takeaway": "Hands-on AI Skills Jams can help K–12 educators build practical AI skills to better prepare students for the future workforce.",
+    "partner_summary": "OpenAI Academy and the Walton Family Foundation are offering AI Skills Jams to help K–12 educators develop practical AI skills. While this initiative supports AI literacy, it is less directly applicable to business or technical professionals. Readers should watch for how AI education evolves and consider how foundational skills might impact future talent pipelines.",
+    "promo_only": false
+  },
+  {
+    "id": "bd5c3bba7897",
+    "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+    "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The writer can provide a business perspective on Microsoft's Xbox layoffs and the failure of the Game Pass strategy, offering insight and a warning.",
+    "topic_tags": [
+      "business strategy",
+      "gaming industry",
+      "corporate restructuring"
+    ],
+    "partner_takeaway": "Microsoft's layoffs in Xbox highlight the risks of aggressive subscription bundling strategies that fail to meet market expectations.",
+    "partner_summary": "Microsoft's Xbox division is undergoing significant layoffs following the failure of its Game Pass subscription strategy. This is relevant for business leaders tracking subscription models and market fit in digital services. Readers should analyze the risks of bundling and subscription strategies and consider coordination and sunk cost implications in their own business models.",
+    "promo_only": false
+  },
+  {
+    "id": "b7bfa1df57e4",
+    "title": "Adam Neumann: This Is How You Build Iconic Companies",
+    "url": "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow. Neumann reflects on his childhood, military service, immigration to the United States, the rise and fall of WeWork, and what he learned from one of the most scrutinized founder journeys in technology. He explains why Flow is focused on rethinking housing, community, and belonging, and why he believes technology can fundamentally improve how people live. The conversation explores resilience, company building, leadership, real estate, software, fle...",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/daba726b-ca42-4496-bd8d-369f30462545/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=daba726b-ca42-4496-bd8d-369f30462545&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The episode offers entrepreneurial insights from Adam Neumann that can inspire and inform founders and business builders, though it is somewhat generic.",
+    "topic_tags": [
+      "entrepreneurship",
+      "founder lessons",
+      "business building"
+    ],
+    "partner_takeaway": "Learning from Adam Neumann's journey reveals key lessons on entrepreneurship, failure, and building iconic companies with a focus on vision and resilience.",
+    "partner_summary": "Adam Neumann discusses his entrepreneurial journey, including the rise and fall of WeWork and his current focus on Flow. This conversation provides valuable lessons on managing failure and building companies with lasting impact. Readers should reflect on these insights to inform their own entrepreneurial strategies and resilience practices.",
+    "promo_only": false
+  }
+]
