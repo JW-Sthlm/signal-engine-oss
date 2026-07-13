@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ea901753a854",
+    "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
+    "published": "2026-07-12T12:32:14+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205673536/111db7a73b3436f04bba8ad0b86cdd0a.mp3",
+    "relevance_score": 9,
+    "score_reason": "The topic is highly relevant to tech professionals navigating AI's impact on work, offering a clear insight into workforce sentiment and burnout trends.",
+    "topic_tags": [
+      "AI impact",
+      "workforce sentiment",
+      "burnout"
+    ],
+    "partner_takeaway": "Tech workers are deeply divided in their experience with AI in 2026, with half thriving and half struggling, highlighting a critical need to address burnout and support strategies.",
+    "partner_summary": "This item reports on an annual AI sentiment survey revealing a bifurcation in how tech workers experience AI, with half thriving and half struggling amid record burnout levels. It matters because understanding these dynamics helps leaders and professionals navigate AI's real impact on workforce wellbeing and productivity. Readers should watch for strategies to mitigate burnout and support diverse experiences with AI in their teams and organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "d9e976b2c0ec",
+    "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 193",
+    "published": "2026-07-11T16:40:58+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The item covers practical workplace challenges and management tactics relevant to the audience, though it is more generic and requires a personal angle to maximize impact.",
+    "topic_tags": [
+      "team management",
+      "stakeholder engagement",
+      "workplace dynamics"
+    ],
+    "partner_takeaway": "Effective management of overconfident colleagues, stakeholder meetings, and design decision processes can reduce negative network effects and improve team collaboration.",
+    "partner_summary": "This item shares community wisdom on managing common workplace challenges such as negative network effects, overconfident colleagues, and keeping stakeholder meetings productive. It is relevant because these issues frequently arise in professional settings and impact team effectiveness and project outcomes. The audience should consider adopting these shared tactics to enhance collaboration and decision-making in their own teams.",
+    "promo_only": false
+  }
+]
