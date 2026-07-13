@@ -1,0 +1,63 @@
+[
+  {
+    "track": "A",
+    "title": "Harnessing Claude Agent SDK: Automate Your Bug Triage",
+    "hook": "The most tedious part of my week used to be manually triaging bugs in Sentry—until I built a custom harness with Claude Agent SDK.",
+    "format": "how-to",
+    "partner_takeaway": "You can use Claude Agent SDK to automate bug triage workflows, saving time and reducing repetitive prompts.",
+    "story_ref": null,
+    "source_refs": [
+      "fda03241cc03"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "Concrete automation patterns are in demand among practitioners. This post delivers a tactical workflow that readers can replicate immediately, backed by a high-relevance external signal."
+  },
+  {
+    "track": "B",
+    "title": "Headless Software: SaaS Is Morphing for AI Agents",
+    "hook": "Enterprise software is quietly losing its head: AI agents are taking over as the primary users, reshaping SaaS architecture.",
+    "format": "opinion",
+    "partner_takeaway": "AI agents are driving a shift towards headless architectures and agentic workflows, fundamentally changing SaaS design and usage.",
+    "story_ref": null,
+    "source_refs": [
+      "43712155d1db"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "The rise of agentic workflows is a macro trend that will affect nearly every industry. Readers need to understand how this changes the market and their own product strategies."
+  },
+  {
+    "track": "C",
+    "title": "Shipping My First AI Tool: Lessons from Production",
+    "hook": "I still remember the rush—and anxiety—of pushing my first AI-powered tool live for real users.",
+    "format": "case-study",
+    "partner_takeaway": "Shipping an AI tool taught me to prioritize user feedback loops and robust error handling from day one.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "Personal stories of building and shipping resonate with audiences seeking practical guidance. This case-study offers actionable lessons from lived experience, filling the 'building in public' track."
+  },
+  {
+    "track": "A",
+    "title": "A Workflow I Keep Repeating: AI-Powered Prioritization",
+    "hook": "Whenever my task list explodes, I fall back on an AI-driven prioritization pattern that rarely lets me down.",
+    "format": "short",
+    "partner_takeaway": "You can use AI to quickly sort and prioritize tasks, but the most common mistake is failing to validate AI output against real constraints.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "Readers crave repeatable, tactical patterns. Sharing a personal workflow gives them something to try immediately and avoids generic advice."
+  },
+  {
+    "track": "B",
+    "title": "Tech Workforce Divide: Burnout or Breakthrough?",
+    "hook": "In 2026, tech workers are split: some thrive with AI, others are burning out faster than ever.",
+    "format": "short",
+    "partner_takeaway": "Leaders must recognize rising burnout among tech workers and adapt management strategies to support both thriving and struggling teams.",
+    "story_ref": null,
+    "source_refs": [
+      "ea901753a854"
+    ],
+    "image_code": "data-cards",
+    "reasoning": "The annual AI sentiment survey is timely and relevant. Addressing workforce splits and burnout gives readers actionable context for managing their own teams."
+  }
+]

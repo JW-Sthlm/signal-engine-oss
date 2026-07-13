@@ -1,0 +1,613 @@
+[
+  {
+    "id": "ea901753a854",
+    "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
+    "published": "2026-07-12T12:32:14+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205673536/111db7a73b3436f04bba8ad0b86cdd0a.mp3",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a clear practitioner perspective on AI workforce sentiment and burnout; strong reader insight into workforce dynamics.",
+    "topic_tags": [
+      "AI impact",
+      "workforce",
+      "burnout"
+    ],
+    "partner_takeaway": "Tech workers in 2026 are split between thriving and struggling with AI, with burnout reaching record levels, highlighting the need for better workforce management.",
+    "partner_summary": "This is an annual AI sentiment survey revealing how tech workers feel about AI in 2026. It matters because understanding workforce sentiment helps leaders manage AI adoption and employee wellbeing. The audience should watch for signs of burnout and adapt management strategies accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "d9e976b2c0ec",
+    "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Community Wisdom 193",
+    "published": "2026-07-11T16:40:58+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Medium-high content potential with practical community wisdom on managing teams and stakeholder interactions; useful tactical tips for practitioners.",
+    "topic_tags": [
+      "team management",
+      "stakeholders",
+      "workplace dynamics"
+    ],
+    "partner_takeaway": "Effective management of overconfident colleagues and stakeholder meetings can improve team dynamics and project outcomes.",
+    "partner_summary": "This is a community wisdom compilation covering negative network effects, managing overconfidence, and stakeholder meeting strategies. It matters because these are common challenges in product and tech teams. The audience should apply these practical tips to improve collaboration and decision-making.",
+    "promo_only": false
+  },
+  {
+    "id": "1f703dd49632",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-f5c",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day after a week of nonstop model releases",
+    "published": "2026-07-11T02:53:08+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "Low content potential due to lack of substantive news or insights; no clear takeaway for the audience.",
+    "topic_tags": [
+      "AI news",
+      "market update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief update noting a quiet day after many model releases. It has limited relevance as no significant developments occurred. The audience can skip or wait for more substantive updates.",
+    "promo_only": false
+  },
+  {
+    "id": "2f7f59545d3a",
+    "title": "2026.28: XBOX On the Rocks",
+    "url": "https://stratechery.com/2026/xbox-on-the-rocks/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
+    "published": "2026-07-10T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Medium content potential but mostly a summary of external content with limited unique insight; borderline for the writer's scope.",
+    "topic_tags": [
+      "tech strategy",
+      "gaming",
+      "market moves"
+    ],
+    "partner_takeaway": "The potential shutdown of XBOX signals shifts in gaming strategy that may impact tech and entertainment markets.",
+    "partner_summary": "This is a weekly Stratechery summary including commentary on XBOX and other tech topics. It matters as it highlights strategic shifts in major tech products. The audience should monitor these moves for implications on tech ecosystems.",
+    "promo_only": false
+  },
+  {
+    "id": "5084c4ec433e",
+    "title": "How Bitcoin Rewired a Classic Computer Science Problem",
+    "url": "https://a16z.simplecast.com/episodes/how-bitcoin-rewired-a-classic-computer-science-problem-0_lm073b",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "We're excited to share a special feed drop from The a16z Crypto Show. In the first episode of First Principles: The Scientific Roots of Blockchain Technology, Tim Roughgarden and Ittai Abraham trace the decades of computer science research that laid the foundation for modern blockchains. Long before Bitcoin, researchers were studying one of distributed computing's hardest challenges: how independent machines can reliably agree on a shared state, even when some participants are faulty or malicious. Bitcoin didn't invent that problem, but it introduced a breakthrough solution in a radically d...",
+    "published": "2026-07-10T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/137beb9b-798a-40a2-a14f-cb3043ce5521/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=137beb9b-798a-40a2-a14f-cb3043ce5521&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a deep dive into blockchain's roots in computer science, offering insight and historical perspective valuable to practitioners.",
+    "topic_tags": [
+      "blockchain",
+      "computer science",
+      "distributed systems"
+    ],
+    "partner_takeaway": "Understanding the computer science challenges behind Bitcoin reveals how blockchain technology solves classic distributed computing problems.",
+    "partner_summary": "This episode traces the scientific and computer science foundations that enabled Bitcoin and blockchain technology. It matters because it gives context to blockchain's innovation beyond hype. The audience should deepen their understanding of blockchain's technical roots to better evaluate its applications.",
+    "promo_only": false
+  },
+  {
+    "id": "618c64669efb",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "published": "2026-07-10T07:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a business use case of AI in telecommunications, offering tactical insight into AI transformation in a traditional industry.",
+    "topic_tags": [
+      "AI adoption",
+      "telecommunications",
+      "business transformation"
+    ],
+    "partner_takeaway": "Deutsche Telekom’s AI-native approach demonstrates how AI can transform customer service, workflows, and network operations in telecom.",
+    "partner_summary": "This article explains how Deutsche Telekom is integrating AI across its operations with OpenAI technology. It matters because telecom is a major industry undergoing AI-driven change. The audience should watch for AI strategies that can be adapted to other enterprise sectors.",
+    "promo_only": false
+  },
+  {
+    "id": "77088d5093ee",
+    "title": "[AINews] OpenAI launches GPT 5.6 Sol/Terra/Luna, Codex becomes ChatGPT superapp",
+    "url": "https://www.latent.space/p/ainews-openai-launches-gpt-56-solterraluna",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "A big day for OpenAI.",
+    "published": "2026-07-10T06:19:40+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Low content potential due to being a product launch update without deeper analysis or practitioner insight.",
+    "topic_tags": [
+      "AI models",
+      "product update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a news update about OpenAI launching new GPT 5.6 models and Codex becoming a ChatGPT superapp. It has limited value without deeper context or analysis. The audience should wait for more detailed evaluations before drawing conclusions.",
+    "promo_only": true
+  },
+  {
+    "id": "a636e00a10db",
+    "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+    "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039;GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
+    "published": "2026-07-09T17:33:57+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/206191009/f1f9241f1b8ff9181b201a5bed6becf7.mp3",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a detailed benchmark comparison of AI models, providing tactical insights for AI users and product teams.",
+    "topic_tags": [
+      "AI benchmarking",
+      "product management",
+      "model evaluation"
+    ],
+    "partner_takeaway": "Benchmarking GPT-5.6 Sol against Claude Fable reveals specific strengths in prototypes, PRDs, and browser use, guiding AI model selection.",
+    "partner_summary": "This post compares GPT-5.6 Sol and Claude Fable using a five-category benchmark focused on product development tasks. It matters because it helps practitioners choose the right AI model for specific workflows. The audience should consider these benchmarks when integrating AI into product processes.",
+    "promo_only": false
+  },
+  {
+    "id": "d8d03c38248c",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "published": "2026-07-09T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Medium content potential but mostly a product announcement about GPT-5.6 powering Microsoft 365 Copilot with limited tactical depth.",
+    "topic_tags": [
+      "AI integration",
+      "productivity tools",
+      "Microsoft 365"
+    ],
+    "partner_takeaway": "GPT-5.6 enhances Microsoft 365 Copilot capabilities, improving productivity across common office applications.",
+    "partner_summary": "This announcement details how GPT-5.6 is now the preferred model in Microsoft 365 Copilot. It matters as it shows AI's growing role in enterprise productivity tools. The audience should explore how AI can augment their daily workflows in office software.",
+    "promo_only": true
+  },
+  {
+    "id": "ec98621e6a85",
+    "title": "Adam Mosseri: AI is a tailwind for authenticity",
+    "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | Instagram&#8217;s Adam Mosseri on the new product team structure in 2026, the rise of the &#8220;product staff&#8221; role, and the hiring traits that matter most today",
+    "published": "2026-07-09T12:32:21+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/203476809/117446a50201e9bc143d6dcd21762185.mp3",
+    "relevance_score": 7,
+    "score_reason": "Medium-high content potential with a practitioner perspective on AI’s role in product team structures and hiring, offering insight and trend reading.",
+    "topic_tags": [
+      "AI impact",
+      "product management",
+      "team structure"
+    ],
+    "partner_takeaway": "AI is accelerating the rise of new product roles and changing hiring priorities, emphasizing authenticity and adaptability.",
+    "partner_summary": "Adam Mosseri discusses how AI influences Instagram’s product team structure and hiring traits in 2026. It matters because it reflects broader shifts in product management due to AI. The audience should consider evolving team roles and skills in their organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "ef8a6c2337cc",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential as a product-focused update on GPT-5.6 capabilities but lacking detailed tactical guidance or unique perspective.",
+    "topic_tags": [
+      "AI models",
+      "capabilities",
+      "performance"
+    ],
+    "partner_takeaway": "GPT-5.6 offers improved intelligence and cost efficiency for complex work tasks.",
+    "partner_summary": "This is an overview of GPT-5.6’s enhanced intelligence, performance, and cost-effectiveness. It matters as it signals ongoing AI model improvements. The audience should evaluate how these improvements can impact their AI usage.",
+    "promo_only": true
+  },
+  {
+    "id": "2e81fa4581a5",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium-high content potential with a new AI agent concept that can manage projects autonomously, offering a new tool pattern for productivity.",
+    "topic_tags": [
+      "AI agents",
+      "productivity",
+      "workflow automation"
+    ],
+    "partner_takeaway": "ChatGPT Work acts as an AI agent that autonomously manages projects across apps and files, enhancing productivity for complex tasks.",
+    "partner_summary": "This announcement introduces ChatGPT Work, an AI agent that can take sustained action on projects across multiple apps. It matters because it represents a new pattern for AI-assisted work management. The audience should explore how AI agents can augment their workflows for ambitious projects.",
+    "promo_only": false
+  },
+  {
+    "id": "45d63905e99d",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The topic is narrowly technical and promotional about a bug bounty program with limited broader business or tactical insight.",
+    "topic_tags": [
+      "AI safety",
+      "programs"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced details about their Bio Bug Bounty program. While it relates to AI safety, it is primarily a product initiative without broader tactical or strategic lessons. Readers should be aware of such programs but will not gain actionable insights for business or AI strategy.",
+    "promo_only": true
+  },
+  {
+    "id": "9f439b062513",
+    "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
+    "url": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic is timely and relevant with a clear perspective on the AI data verification race, offering insight and trend read for the audience.",
+    "topic_tags": [
+      "AI strategy",
+      "data verification",
+      "market trends"
+    ],
+    "partner_takeaway": "The AI race is increasingly defined by how companies manage and verify data, shaping competitive advantage and product development.",
+    "partner_summary": "Ben Thompson discusses how the battle for verifiable data is shaping the AI landscape, involving players like Meta and Grok. This matters because data integrity and verification are critical for building trustworthy AI products and competitive differentiation. Readers should watch how data strategies evolve and consider their implications for AI adoption and trust.",
+    "promo_only": false
+  },
+  {
+    "id": "fc79ada354c7",
+    "title": "Mark Zuckerberg & Priscilla Chan: How AI Will Help Cure Disease",
+    "url": "https://a16z.simplecast.com/episodes/mark-zuckerberg-priscilla-chan-how-ai-will-help-cure-disease-J_rYFGCM",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations from the past year. Mark Zuckerberg and Dr. Priscilla Chan join Ben Horowitz, Vineeta Agarwala, and Erik Torenberg to discuss the Chan Zuckerberg Initiative's ambitious effort to help cure, prevent, and manage disease by the end of the century. Rather than funding individual breakthroughs, CZI is focused on building the tools and infrastructure that can accelerate scientific discovery across entire fields. The conversation explores Biohub, Cell Atlas, virtual cell models, open biological datasets, and th...",
+    "published": "2026-07-09T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8004a844-38f5-42f0-ab54-b099f1fbed33/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8004a844-38f5-42f0-ab54-b099f1fbed33&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The conversation offers a strategic perspective on AI's role in healthcare innovation, relevant to readers interested in AI applications beyond tech.",
+    "topic_tags": [
+      "AI applications",
+      "healthcare",
+      "innovation"
+    ],
+    "partner_takeaway": "AI initiatives like the Chan Zuckerberg Initiative are focusing on systemic approaches to curing and managing disease rather than isolated breakthroughs.",
+    "partner_summary": "Mark Zuckerberg and Priscilla Chan discuss their foundation's ambitious AI-driven efforts to transform disease treatment and prevention. This is important for readers interested in how AI can impact healthcare and long-term societal challenges. The audience should consider how systemic AI approaches can be applied in their sectors or partnerships.",
+    "promo_only": false
+  },
+  {
+    "id": "c66cca7f299b",
+    "title": "[AINews] SpaceXAI launches Grok 4.5, first Opus-class model post Cursor acquisition",
+    "url": "https://www.latent.space/p/ainews-spacexai-launches-grok-45",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "SpaceXAI continues to move faster than any other frontier lab on earth.",
+    "published": "2026-07-09T06:05:41+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "While the launch of Grok 4.5 is relevant, the coverage is mostly promotional with limited tactical or strategic insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "product updates"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "SpaceXAI launched Grok 4.5, their first Opus-class model after acquiring Cursor. This signals rapid innovation in frontier AI labs but lacks deeper analysis or lessons for practitioners. Readers should note the pace of model development but seek more detailed insights elsewhere.",
+    "promo_only": true
+  },
+  {
+    "id": "f9e300afd5c0",
+    "title": "Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+    "url": "https://www.latent.space/p/modal2026",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
+    "published": "2026-07-08T22:55:07+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205716015/df6332898c08341f79886bb62af7a458.mp3",
+    "relevance_score": 9,
+    "score_reason": "The piece offers a practitioner perspective on evolving AI infrastructure for agent experiences, with clear tactical and strategic insights.",
+    "topic_tags": [
+      "AI infrastructure",
+      "agent experience",
+      "product strategy"
+    ],
+    "partner_takeaway": "Evolving AI infrastructure focused on agent experience is key to unlocking new capabilities and improving user interaction with AI systems.",
+    "partner_summary": "Modal's CTO discusses why AI infrastructure must evolve to support agent experiences and shares lessons from building a new agent cloud. This matters because infrastructure decisions directly impact AI product effectiveness and scalability. Readers should explore how infrastructure choices affect AI agent performance and user satisfaction.",
+    "promo_only": false
+  },
+  {
+    "id": "1d58e4b93a7e",
+    "title": "Our approach to government and national security partnerships",
+    "url": "https://openai.com/index/government-national-security-partnerships",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+    "published": "2026-07-08T13:30:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant with a clear POV on responsible AI partnerships with government, offering insight and warnings.",
+    "topic_tags": [
+      "AI ethics",
+      "government partnerships",
+      "responsible AI"
+    ],
+    "partner_takeaway": "Responsible AI partnerships with government require balancing public safety, democratic accountability, and ethical principles.",
+    "partner_summary": "OpenAI outlines its approach to government and national security partnerships emphasizing responsible AI use and accountability. This is important for readers navigating AI ethics and public sector collaboration. The audience should consider these principles when engaging with government or security-related AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "604b35556290",
+    "title": "Separating signal from noise in coding evaluations",
+    "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+    "published": "2026-07-08T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The analysis of coding benchmark reliability offers a tactical warning and insight relevant to AI evaluation and product development.",
+    "topic_tags": [
+      "AI evaluation",
+      "benchmarks",
+      "quality assurance"
+    ],
+    "partner_takeaway": "Current AI coding benchmarks may have reliability issues, so practitioners should critically assess evaluation methods to avoid misleading conclusions.",
+    "partner_summary": "OpenAI reveals problems in the SWE-Bench Pro coding benchmark, questioning its accuracy for AI model evaluation. This matters because flawed benchmarks can misguide AI development and deployment decisions. Readers should scrutinize evaluation tools and seek robust metrics for assessing AI capabilities.",
+    "promo_only": false
+  },
+  {
+    "id": "fda03241cc03",
+    "title": "What a harness is and how to build one with Claude Agent SDK",
+    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | &#127897;&#65039; I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
+    "published": "2026-07-08T12:03:35+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205647252/8ab2b19e7844865055b49d826c6a4473.mp3",
+    "relevance_score": 9,
+    "score_reason": "The post provides a concrete tactical guide on building a Claude Agent SDK harness with a practitioner perspective and clear example.",
+    "topic_tags": [
+      "AI tooling",
+      "automation",
+      "developer productivity"
+    ],
+    "partner_takeaway": "Building a custom Claude Agent SDK harness can automate bug triage workflows, improving efficiency and reducing repetitive prompts.",
+    "partner_summary": "The author shares how they built a custom Claude Agent SDK harness to automate Sentry bug triage and eliminate repetitive prompts. This is valuable for readers looking to enhance AI tooling and automation in their workflows. The audience should consider adopting or adapting similar harnesses to improve productivity.",
+    "promo_only": false
+  },
+  {
+    "id": "32a75df23da7",
+    "title": "Helping K–12 educators build practical AI skills",
+    "url": "https://openai.com/index/k-12-educators-practical-skills",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The initiative to build practical AI skills for K–12 educators is relevant with a clear educational and tactical angle.",
+    "topic_tags": [
+      "AI education",
+      "skills development",
+      "K-12"
+    ],
+    "partner_takeaway": "Hands-on AI Skills Jams help K–12 educators develop practical AI skills to better prepare students for the future workforce.",
+    "partner_summary": "OpenAI Academy and the Walton Family Foundation are launching AI Skills Jams to equip K–12 educators with practical AI knowledge. This matters as early AI education shapes future workforce readiness and digital literacy. Educators and education leaders should explore these programs to integrate AI skills into curricula.",
+    "promo_only": false
+  },
+  {
+    "id": "bd5c3bba7897",
+    "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+    "url": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The analysis of Microsoft's Xbox layoffs and Game Pass strategy failure offers insight and a trend read relevant to business strategy and tech markets.",
+    "topic_tags": [
+      "business strategy",
+      "market trends",
+      "gaming industry"
+    ],
+    "partner_takeaway": "Microsoft's Xbox layoffs highlight the risks of aggressive bundling strategies and the challenges of sustaining subscription models in gaming.",
+    "partner_summary": "Ben Thompson analyzes Microsoft's Xbox division layoffs amid the failure of its Game Pass strategy. This is important for readers interested in subscription economics and market dynamics in tech and gaming. The audience should watch how bundling and subscription models evolve and their impact on business sustainability.",
+    "promo_only": false
+  },
+  {
+    "id": "b7bfa1df57e4",
+    "title": "Adam Neumann: This Is How You Build Iconic Companies",
+    "url": "https://a16z.simplecast.com/episodes/adam-neumann-this-is-how-you-build-iconic-companies-_2mqt7jy",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Adam Neumann joins Marc Andreessen, Ben Horowitz, and Erik Torenberg for a candid conversation about entrepreneurship, failure, and building Flow. Neumann reflects on his childhood, military service, immigration to the United States, the rise and fall of WeWork, and what he learned from one of the most scrutinized founder journeys in technology. He explains why Flow is focused on rethinking housing, community, and belonging, and why he believes technology can fundamentally improve how people live. The conversation explores resilience, company building, leadership, real estate, software, fle...",
+    "published": "2026-07-08T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/daba726b-ca42-4496-bd8d-369f30462545/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=daba726b-ca42-4496-bd8d-369f30462545&feed=JGE3yC0V",
+    "relevance_score": 6,
+    "score_reason": "The conversation offers some entrepreneurial lessons but is more biographical and less tactical or strategic for the audience.",
+    "topic_tags": [
+      "entrepreneurship",
+      "founder lessons"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Adam Neumann discusses his journey from WeWork to Flow, reflecting on entrepreneurship and failure. While interesting, it offers limited concrete tactics or insights for building iconic companies. Readers may find inspiration but should seek more actionable content elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "f129b467eb6e",
+    "title": "[AINews] Lilian Weng summarizes 35 papers on Harness Engineering for RSI",
+    "url": "https://www.latent.space/p/ainews-lilian-weng-summarizes-35",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us read some condensed insight",
+    "published": "2026-07-08T02:20:25+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The summary is vague and does not clearly articulate a takeaway or actionable insight for the audience.",
+    "topic_tags": [
+      "research summary",
+      "AI engineering"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Lilian Weng summarizes 35 papers on Harness Engineering for RSI in a quiet news day. The content may contain valuable research insights but lacks a clear, distilled takeaway for practitioners. Readers should explore the original papers for deeper understanding.",
+    "promo_only": false
+  },
+  {
+    "id": "de018eb71226",
+    "title": "How tech workers are feeling in 2026: a workforce splitting in two",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Results from our second annual tech worker sentiment survey",
+    "published": "2026-07-07T13:04:22+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The topic is relevant to tech workforce trends and the writer can provide perspective on workforce segmentation; the reader gains insight into tech worker sentiment shifts.",
+    "topic_tags": [
+      "workforce",
+      "tech industry",
+      "trend read"
+    ],
+    "partner_takeaway": "Tech workers in 2026 are increasingly divided in sentiment and priorities, reflecting a split workforce with implications for management and culture.",
+    "partner_summary": "This item reports on the results of a second annual tech worker sentiment survey. Understanding how tech workers feel is crucial for leaders managing talent and culture in a rapidly evolving industry. Readers should watch for emerging workforce divides and adapt their management and retention strategies accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "5b8c05a8120c",
+    "title": "A Script for Mark Zuckerberg",
+    "url": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
+    "published": "2026-07-07T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "While it offers a strategic POV on Meta's earnings call, it is narrowly focused on one company and lacks broad tactical or trend insights for the audience.",
+    "topic_tags": [
+      "strategy",
+      "tech industry"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This article presents a suggested script for Mark Zuckerberg's next Meta earnings call. It may interest those following Meta's corporate strategy but offers limited broader lessons. The audience should consider it as a company-specific perspective rather than generalizable insight.",
+    "promo_only": false
+  },
+  {
+    "id": "43712155d1db",
+    "title": "Is Software Losing Its Head?",
+    "url": "https://a16z.simplecast.com/episodes/is-software-losing-its-head-uKBsa_UH",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Seema Amble, Steven Sinofsky, and Elena Burger unpack one of the biggest questions facing enterprise software: what happens when AI agents become the primary users of software instead of humans? The conversation explores the rise of \"headless\" software, why APIs and agentic workflows are reshaping enterprise applications, and whether traditional SaaS products are becoming systems of record rather than systems of engagement. They discuss Salesforce's Headless 360 announcement, MCP, enterprise software architecture, and why AI may fundamentally change how businesses interact with their data. ...",
+    "published": "2026-07-07T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/fc912d16-715f-4956-bf42-2d0389333812/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=fc912d16-715f-4956-bf42-2d0389333812&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "The discussion on AI agents as primary software users is highly relevant and offers a fresh perspective on enterprise software evolution with concrete implications.",
+    "topic_tags": [
+      "AI",
+      "enterprise software",
+      "trend read"
+    ],
+    "partner_takeaway": "AI agents becoming primary users of software is reshaping enterprise applications towards headless architectures and agentic workflows, signaling a major shift in SaaS design and usage.",
+    "partner_summary": "This podcast episode explores the rise of AI agents as primary users of enterprise software and the resulting shift to headless software and API-driven workflows. This matters because it challenges traditional SaaS models and impacts how businesses design and interact with software. Readers should monitor this trend to adapt their software strategies and tooling accordingly.",
+    "promo_only": false
+  },
+  {
+    "id": "45c80bbeca2b",
+    "title": "[AINews] The Field Guide to Fable",
+    "url": "https://www.latent.space/p/ainews-the-field-guide-to-fable",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us digest the world's most significant model launch... to date.",
+    "published": "2026-07-07T04:44:53+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The item covers a significant AI model launch but lacks detail and a clear angle for practical or strategic insights for the audience.",
+    "topic_tags": [
+      "AI",
+      "model launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This piece reflects on the launch of a significant AI model called Fable. While the launch is notable, the summary provides limited actionable insight or tactical advice. The audience should stay informed about major AI model developments but seek deeper analysis elsewhere.",
+    "promo_only": false
+  },
+  {
+    "id": "985a6c32576b",
+    "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+    "published": "2026-07-06T15:01:17+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "This is a podcast episode roundup without a clear educational angle or unique takeaway for the audience.",
+    "topic_tags": [
+      "AI",
+      "podcast"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This is a weekly podcast roundup from the How I AI series. It offers curated listening but does not provide standalone insights or tactical advice. The audience may find value in listening but not from this summary alone.",
+    "promo_only": false
+  },
+  {
+    "id": "297c8cd1a4f8",
+    "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pok&#233;mon cards in real time",
+    "published": "2026-07-06T12:03:37+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/204741760/fa419fe415be23d13043d845b6036ad8.mp3",
+    "relevance_score": 8,
+    "score_reason": "Demonstrates a concrete setup for running autonomous coding agents from a phone, offering a practical tool and workflow insight relevant to practitioners.",
+    "topic_tags": [
+      "AI",
+      "automation",
+      "tools"
+    ],
+    "partner_takeaway": "Running autonomous coding agents from a phone using OpenAI Symphony and Linear enables parallel task automation and real-time data processing, showcasing a new mobile-first developer workflow.",
+    "partner_summary": "This item showcases Alessio Fanelli's setup for running autonomous coding agents from his phone using OpenAI Symphony and Linear. It matters because it highlights practical ways to leverage AI for coding automation on mobile devices. Readers should explore similar setups to increase coding productivity and experiment with mobile AI workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "2d6cc5243b0e",
+    "title": "Don’t Follow Your Passion | Ben Horowitz’s Advice for New Graduates",
+    "url": "https://a16z.simplecast.com/episodes/dont-follow-your-passion-ben-horowitzs-advice-for-new-graduates-bLLRyFoV",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "In this commencement address to Columbia University's Fu Foundation School of Engineering and Applied Science Class of 2015, Ben Horowitz challenges some of the most common advice given to graduates. Rather than urging students to “follow their passion,” Horowitz argues that people should focus on developing their strengths and making meaningful contributions to the world. Drawing on stories from his own time at Columbia, the founding of technology companies, and investments in startups like Airbnb, he explores the importance of independent thinking, conviction, and pursuing ideas that othe...",
+    "published": "2026-07-06T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/b22a6463-f0e1-44ae-a0c0-63bd483d2b9b/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=b22a6463-f0e1-44ae-a0c0-63bd483d2b9b&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Ben Horowitz's advice challenges common career advice with a practitioner perspective, offering insight and a mindset shift valuable to early-career professionals.",
+    "topic_tags": [
+      "career advice",
+      "mindset",
+      "professional development"
+    ],
+    "partner_takeaway": "Focusing on developing strengths and making meaningful contributions is a more effective career strategy than simply following passion, according to Ben Horowitz.",
+    "partner_summary": "This commencement address by Ben Horowitz challenges the popular advice to 'follow your passion' and instead advocates for focusing on strengths and impact. This perspective is important for new graduates and professionals shaping their careers. Readers should reconsider their career strategies to emphasize skill development and contribution over passion alone.",
+    "promo_only": false
+  }
+]
