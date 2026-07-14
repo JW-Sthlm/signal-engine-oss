@@ -1,0 +1,142 @@
+[
+  {
+    "id": "9ed48204644b",
+    "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+    "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+    "published": "2026-07-14T01:22:27+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant to AI usage trends but lacks a clear actionable or tactical takeaway for the audience without a strong personal angle.",
+    "topic_tags": [
+      "AI usage",
+      "productivity",
+      "trend"
+    ],
+    "partner_takeaway": "Codex usage has grown rapidly, indicating shifting preferences in AI coding tools that professionals should monitor.",
+    "partner_summary": "Codex usage increased more than 10x in six months, reaching 7 million users with a recent surge of 1 million in about a day. This matters to AI practitioners and product managers tracking adoption and competitive dynamics in AI coding assistants. The audience should watch how Codex's growth impacts developer workflows and consider implications for tool selection and integration.",
+    "promo_only": false
+  },
+  {
+    "id": "29c9cf6f70f6",
+    "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-07-13T15:02:17+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The item offers practitioner insights and tactical explanations about running local AI and building agent harnesses, fitting well with the writer's scope.",
+    "topic_tags": [
+      "AI tools",
+      "local AI",
+      "agent harness"
+    ],
+    "partner_takeaway": "Running local AI continuously and building agent harnesses can improve autonomy and efficiency in AI workflows for solo builders and teams.",
+    "partner_summary": "This podcast episode reviews GPT-5.6, discusses how a solo builder runs local AI 24/7, and explains what an agent harness is and how to build one. These topics are valuable for AI practitioners interested in hands-on, tactical approaches to AI deployment and automation. The audience should explore local AI setups and agent harness concepts to enhance their AI projects and workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "1f065e93c844",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "published": "2026-07-13T12:37:28+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "While the initiative is interesting, the content is primarily promotional about a specific AI tool for educators without broader tactical or strategic insights.",
+    "topic_tags": [
+      "AI education",
+      "tools",
+      "regional innovation"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool to support Indian educators in robotics labs. This highlights AI's role in educational innovation but offers limited tactical or strategic insight for a broader professional audience. Readers should note the trend of AI tools supporting education but look elsewhere for actionable guidance.",
+    "promo_only": true
+  },
+  {
+    "id": "9551035d1ca1",
+    "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+    "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
+    "published": "2026-07-13T12:05:20+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205689325/b872277f3a2dbf756729413f4210989b.mp3",
+    "relevance_score": 9,
+    "score_reason": "Detailed practitioner perspective on running local AI infrastructure with concrete examples and benefits, highly relevant and actionable.",
+    "topic_tags": [
+      "local AI",
+      "infrastructure",
+      "productivity"
+    ],
+    "partner_takeaway": "A multi-computer local AI setup can enable continuous feature shipping and reduce dependency on subscriptions, offering a model for AI practitioners to increase autonomy and efficiency.",
+    "partner_summary": "Alex Finn shares how he runs a 24/7 local AI system on five computers, using a build-and-review loop to ship features continuously. This provides valuable insight into managing AI infrastructure independently, which is relevant for AI developers and product managers seeking cost-effective and flexible solutions. The audience should consider local AI setups to improve control and reduce reliance on cloud subscriptions.",
+    "promo_only": false
+  },
+  {
+    "id": "627d4e077f1f",
+    "title": "Apple Sues OpenAI, Apple’s Real Problem",
+    "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+    "published": "2026-07-13T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The legal conflict between Apple and OpenAI offers a strategic perspective on AI's business risks and IP challenges, relevant for tech leaders and product managers.",
+    "topic_tags": [
+      "AI legal",
+      "IP risk",
+      "business strategy"
+    ],
+    "partner_takeaway": "Apple's lawsuit against OpenAI highlights the growing importance of managing intellectual property risks in AI development and deployment.",
+    "partner_summary": "Apple is suing OpenAI over alleged trade secret theft involving an employee, reflecting broader tensions in AI intellectual property. This case matters to business and product leaders who must navigate legal risks in AI innovation. The audience should monitor AI IP disputes and implement safeguards to protect proprietary technology.",
+    "promo_only": false
+  },
+  {
+    "id": "713d344c3ff9",
+    "title": "Before Blockchains, There Was State Machine Replication",
+    "url": "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all. In this episode, Tim Roughgarden speaks with MIT professor and Turing Award winner Barbara Liskov, one of the pioneers of programming languages, fault tolerance, and distributed systems. Joined by a16z crypto research partner Ittai Abraham, they trace the evolution of ideas that now underpin modern blockchain networks. The conversation explores viewstamped replication, Practical Byzantine Fault Tolerance (PBFT), state machine replication, an...",
+    "published": "2026-07-13T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d6282f8-445d-45c9-9201-ac60f4d2fbe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d6282f8-445d-45c9-9201-ac60f4d2fbe7&feed=JGE3yC0V",
+    "relevance_score": 6,
+    "score_reason": "The historical perspective on blockchain technology is informative but may be too technical and abstract without a clear tactical or business angle for the audience.",
+    "topic_tags": [
+      "blockchain",
+      "distributed systems",
+      "technology history"
+    ],
+    "partner_takeaway": "Understanding state machine replication's role in blockchain development can deepen appreciation of distributed system design principles relevant to emerging technologies.",
+    "partner_summary": "This podcast explores how state machine replication techniques from the 1980s underpin modern blockchain systems, featuring experts in distributed systems. While technical, this history informs how foundational concepts shape current decentralized technologies, which is useful for tech strategists. The audience should consider these principles when evaluating blockchain and distributed system innovations.",
+    "promo_only": false
+  },
+  {
+    "id": "ea901753a854",
+    "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
+    "published": "2026-07-12T12:32:14+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205673536/111db7a73b3436f04bba8ad0b86cdd0a.mp3",
+    "relevance_score": 8,
+    "score_reason": "The annual AI sentiment survey provides insight into workforce dynamics and burnout trends, offering a valuable trend read for tech leaders and HR professionals.",
+    "topic_tags": [
+      "AI workforce",
+      "sentiment",
+      "burnout"
+    ],
+    "partner_takeaway": "Tech workers are increasingly divided in their AI experiences, with half thriving and half struggling, signaling the need for targeted support to address burnout.",
+    "partner_summary": "The 2026 AI sentiment survey reveals a bifurcation in tech worker experiences, with significant burnout reaching record levels. This matters to managers and HR leaders aiming to sustain productivity and morale amid AI-driven change. The audience should use these insights to develop strategies that support diverse employee needs in AI-impacted roles.",
+    "promo_only": false
+  }
+]
