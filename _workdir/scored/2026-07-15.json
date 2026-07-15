@@ -1,0 +1,260 @@
+[
+  {
+    "id": "f250edc81e16",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a continuation: Codex adding 1M users a day now.",
+    "published": "2026-07-14T23:54:07+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The topic is in scope but the content is minimal and lacks a clear takeaway beyond usage numbers.",
+    "topic_tags": [
+      "AI usage",
+      "metrics"
+    ],
+    "partner_takeaway": "Codex is experiencing rapid user growth, reaching 1 million new users per day, indicating strong adoption momentum.",
+    "partner_summary": "Codex is adding 1 million users daily, showing significant growth. This matters to AI practitioners tracking adoption trends and platform momentum. Readers should watch how this growth impacts AI tooling and ecosystem dynamics.",
+    "promo_only": false
+  },
+  {
+    "id": "c25f6aff6584",
+    "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "At this year's AIE World&#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+    "published": "2026-07-14T23:21:21+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a clear trend read about AI engineering evolving from agent-building to system-building around agents.",
+    "topic_tags": [
+      "AI engineering",
+      "agent systems",
+      "trends"
+    ],
+    "partner_takeaway": "AI engineering is shifting focus from building individual agents to constructing integrated systems around agents, marking a new phase in AI development.",
+    "partner_summary": "At the 2026 AI Engineering World’s Fair, a key trend emerged: the move from building standalone agents to creating systems that orchestrate multiple agents. This shift is crucial for AI practitioners aiming to build scalable, complex AI solutions. Readers should explore how to architect AI systems leveraging agent ecosystems rather than isolated agents.",
+    "promo_only": false
+  },
+  {
+    "id": "f35d978c1aa3",
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "published": "2026-07-14T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong tactical and strategic content on managing AI investments with a focus on efficiency and scaling workflows in the agentic era.",
+    "topic_tags": [
+      "AI investment",
+      "enterprise AI",
+      "efficiency"
+    ],
+    "partner_takeaway": "Enterprises can optimize AI investments by measuring useful work per dollar, improving efficiency, and scaling high-value workflows in the agentic era.",
+    "partner_summary": "This article outlines strategies for managing AI investments as AI systems become more agentic, emphasizing efficiency and ROI. This is important for business leaders and AI managers looking to maximize AI impact and cost-effectiveness. Readers should adopt metrics and processes that focus on useful work and scalable workflows to get the most from AI investments.",
+    "promo_only": false
+  },
+  {
+    "id": "3431d2e05389",
+    "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+    "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
+    "published": "2026-07-14T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with a practitioner perspective on OpenAI's product strategy shift, though somewhat speculative.",
+    "topic_tags": [
+      "AI product strategy",
+      "OpenAI",
+      "market trends"
+    ],
+    "partner_takeaway": "OpenAI is repositioning Codex as the new ChatGPT, signaling a strategic shift away from traditional chat interfaces toward more integrated AI experiences.",
+    "partner_summary": "OpenAI has rebranded Codex as the new ChatGPT, raising questions about the future of chat-based AI products. This shift matters to AI product managers and strategists tracking market evolution and user engagement models. Readers should monitor how AI interaction paradigms evolve and consider implications for product design and user experience.",
+    "promo_only": false
+  },
+  {
+    "id": "bf2e84326fc0",
+    "title": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
+    "url": "https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing. Gavin Baker, Managing Partner and CIO of Atreides Management, joins David George to examine the biggest questions surrounding today's AI investment cycle. Is AI a bubble? What does the unprecedented buildout of data centers, GPUs, and compute infrastructure mean for the economy? And how should investors think about the companies building the next generation of AI? The conversation explores frontier models, Nvidia, Google, c...",
+    "published": "2026-07-14T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/44297d40-a3b7-4b37-8e5b-3fafa3243a05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=44297d40-a3b7-4b37-8e5b-3fafa3243a05&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a trend read and investment perspective on AI infrastructure and market dynamics.",
+    "topic_tags": [
+      "AI investment",
+      "infrastructure",
+      "market trends"
+    ],
+    "partner_takeaway": "Despite concerns about an AI bubble, the massive buildout of data centers and GPUs reflects a foundational shift in computing infrastructure supporting AI's growth.",
+    "partner_summary": "This conversation revisits key questions about whether AI is a bubble amid unprecedented investment in data centers and GPUs. This is critical for investors and business leaders assessing the sustainability of AI market growth. Readers should consider infrastructure trends as indicators of long-term AI industry health and investment opportunities.",
+    "promo_only": false
+  },
+  {
+    "id": "9ed48204644b",
+    "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+    "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+    "published": "2026-07-14T01:22:27+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The topic is relevant but the content is mostly usage stats without deeper insights or tactical advice.",
+    "topic_tags": [
+      "AI usage",
+      "metrics"
+    ],
+    "partner_takeaway": "Codex usage has increased more than 10x in six months, surpassing competitors like Claude Code in user adoption.",
+    "partner_summary": "Codex's user base has grown significantly, reaching 7 million users with a recent surge of 1 million in a day. This matters to AI product watchers tracking competitive dynamics. Readers should note the rapid adoption but seek more detailed analysis for actionable insights.",
+    "promo_only": false
+  },
+  {
+    "id": "4fe3660ca0d9",
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "published": "2026-07-14T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with tactical examples of how data science teams use ChatGPT Work, though somewhat promotional.",
+    "topic_tags": [
+      "AI tools",
+      "data science",
+      "productivity"
+    ],
+    "partner_takeaway": "Data science teams can leverage ChatGPT Work to automate and streamline tasks like root-cause analysis, KPI reporting, and dashboard specification.",
+    "partner_summary": "This piece shows how data science teams apply ChatGPT Work to generate briefs, impact readouts, and dashboard specs from real inputs. This is useful for data professionals seeking to enhance productivity with AI tools. Readers should explore integrating AI-assisted workflows to improve analysis and reporting efficiency.",
+    "promo_only": true
+  },
+  {
+    "id": "8642d9ec0569",
+    "title": "How sales teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+    "published": "2026-07-14T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with practical examples of sales teams using ChatGPT Work, but largely product-focused.",
+    "topic_tags": [
+      "AI tools",
+      "sales enablement",
+      "productivity"
+    ],
+    "partner_takeaway": "Sales teams can use ChatGPT Work to create pipeline briefs, prepare meetings, and diagnose stalled deals, enhancing sales productivity.",
+    "partner_summary": "This article highlights how sales teams utilize ChatGPT Work for pipeline management and account planning. This is relevant for sales leaders interested in AI-driven productivity tools. Readers should consider adopting AI tools to streamline sales processes and improve deal outcomes.",
+    "promo_only": true
+  },
+  {
+    "id": "29c9cf6f70f6",
+    "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-07-13T15:02:17+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Medium content potential with practitioner insights on GPT-5.6, local AI setups, and agent harnesses, suitable for AI practitioners.",
+    "topic_tags": [
+      "AI models",
+      "local AI",
+      "agent systems"
+    ],
+    "partner_takeaway": "Practitioners can learn about GPT-5.6 capabilities, running local AI continuously, and building agent harnesses to manage AI workflows effectively.",
+    "partner_summary": "This podcast episode covers a GPT-5.6 review, a solo builder's 24/7 local AI setup, and how to build an agent harness. This is valuable for AI developers and enthusiasts exploring advanced AI deployment and orchestration techniques. Readers should explore these approaches to enhance AI system reliability and control.",
+    "promo_only": false
+  },
+  {
+    "id": "1f065e93c844",
+    "title": "Empowering India’s next generation of innovators with ATL Saathi",
+    "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
+    "published": "2026-07-13T12:37:28+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Some content potential with a case study on AI in education, but limited tactical depth for a broader audience.",
+    "topic_tags": [
+      "AI in education",
+      "AI tools",
+      "case study"
+    ],
+    "partner_takeaway": "ATL Saathi, powered by Gemini AI, supports Indian educators in robotics labs, illustrating AI's role in enhancing STEM education.",
+    "partner_summary": "Google and AIM launched ATL Saathi, an AI tool to empower educators in India’s robotics labs. This matters to those interested in AI applications in education and emerging markets. Readers should watch for similar AI-driven educational tools and consider their potential impact on learning outcomes.",
+    "promo_only": false
+  },
+  {
+    "id": "9551035d1ca1",
+    "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+    "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
+    "published": "2026-07-13T12:05:20+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205689325/b872277f3a2dbf756729413f4210989b.mp3",
+    "relevance_score": 8,
+    "score_reason": "High content potential with a detailed practitioner case of running local AI infrastructure and continuous deployment.",
+    "topic_tags": [
+      "local AI",
+      "AI infrastructure",
+      "developer workflow"
+    ],
+    "partner_takeaway": "A solo builder demonstrates how to run a 24/7 local AI setup with multiple computers, enabling continuous feature shipping and cost-effective AI access.",
+    "partner_summary": "Alex Finn shares his setup of a five-computer local AI system that runs continuously and supports a build-and-review loop for feature deployment. This is insightful for AI practitioners interested in local AI infrastructure and autonomous workflows. Readers should consider local AI setups to reduce costs and increase control over AI deployments.",
+    "promo_only": false
+  },
+  {
+    "id": "627d4e077f1f",
+    "title": "Apple Sues OpenAI, Apple’s Real Problem",
+    "url": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+    "published": "2026-07-13T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential with a legal and strategic perspective on Apple suing OpenAI, but limited tactical advice.",
+    "topic_tags": [
+      "AI legal issues",
+      "corporate strategy",
+      "IP"
+    ],
+    "partner_takeaway": "Apple's lawsuit against OpenAI highlights tensions around AI and trade secrets, reflecting broader corporate challenges in AI IP management.",
+    "partner_summary": "Apple is suing OpenAI over alleged trade secret theft by an employee, signaling corporate friction in AI development. This matters to business leaders and legal teams navigating AI intellectual property risks. Readers should monitor legal developments and consider IP protection strategies in AI projects.",
+    "promo_only": false
+  },
+  {
+    "id": "713d344c3ff9",
+    "title": "Before Blockchains, There Was State Machine Replication",
+    "url": "https://a16z.simplecast.com/episodes/before-blockchains-there-was-state-machine-replication-gGXd4DoC",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Every blockchain today relies on replication techniques first developed in the 1980s by researchers who weren't thinking about cryptocurrencies at all. In this episode, Tim Roughgarden speaks with MIT professor and Turing Award winner Barbara Liskov, one of the pioneers of programming languages, fault tolerance, and distributed systems. Joined by a16z crypto research partner Ittai Abraham, they trace the evolution of ideas that now underpin modern blockchain networks. The conversation explores viewstamped replication, Practical Byzantine Fault Tolerance (PBFT), state machine replication, an...",
+    "published": "2026-07-13T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d6282f8-445d-45c9-9201-ac60f4d2fbe7/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d6282f8-445d-45c9-9201-ac60f4d2fbe7&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant to distributed systems and blockchain technology with a historical perspective, offering insight but requiring a specific angle to connect to business or tactical lessons.",
+    "topic_tags": [
+      "blockchain",
+      "distributed systems",
+      "technology history"
+    ],
+    "partner_takeaway": "Understanding the foundational state machine replication techniques behind blockchains can deepen your grasp of blockchain reliability and fault tolerance.",
+    "partner_summary": "This episode explores how state machine replication techniques developed in the 1980s underpin modern blockchain technology. For professionals working with blockchain or distributed systems, this historical context clarifies the technical foundations that ensure system reliability and fault tolerance. The audience should consider how these principles apply to current blockchain implementations and what lessons can be drawn for designing resilient distributed applications.",
+    "promo_only": false
+  }
+]
