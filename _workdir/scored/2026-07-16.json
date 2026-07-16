@@ -1,0 +1,200 @@
+[
+  {
+    "id": "498b02a54c6f",
+    "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+    "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+    "published": "2026-07-16T06:18:05+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic is relevant to AI model development but is quite technical and lacks a clear business or tactical angle for a broad audience.",
+    "topic_tags": [
+      "AI models",
+      "open source"
+    ],
+    "partner_takeaway": "Thinky's Inkling release demonstrates the growing availability of large open-source multimodal AI models, which could influence AI development strategies.",
+    "partner_summary": "Thinky released its first full large language model with open weights, including a new multimodal model called Inkling. This matters because open-source AI models can shift how companies approach AI adoption and customization. Readers should watch how open models like Inkling impact AI ecosystem dynamics and consider their potential for experimentation.",
+    "promo_only": false
+  },
+  {
+    "id": "0cc33b55e04e",
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "published": "2026-07-15T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "Strong content potential with a clear policy and governance angle relevant to AI practitioners and business leaders concerned with AI safety and regulation.",
+    "topic_tags": [
+      "AI governance",
+      "policy",
+      "AI safety"
+    ],
+    "partner_takeaway": "The US is pioneering a 'reverse federalism' approach where state-level AI laws help shape a national framework for safe and democratic AI deployment.",
+    "partner_summary": "OpenAI outlined a new approach to AI governance involving state and federal collaboration to advance AI safety. This matters because understanding evolving regulatory frameworks helps businesses anticipate compliance and ethical AI deployment challenges. Readers should monitor state-level AI policies as they may set precedents for national and global AI governance.",
+    "promo_only": false
+  },
+  {
+    "id": "d294f629afbd",
+    "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+    "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
+    "published": "2026-07-15T10:00:19+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Provides a practitioner perspective on IBM's challenges in AI and mainframe markets, offering insight into legacy tech's role in AI evolution.",
+    "topic_tags": [
+      "AI strategy",
+      "legacy technology",
+      "market analysis"
+    ],
+    "partner_takeaway": "IBM's struggles highlight the risks of relying on legacy mainframe technology in the rapidly evolving AI software market.",
+    "partner_summary": "IBM reported disappointing results that raised concerns about its mainframe business and AI strategy. This is important for readers tracking how established tech companies adapt to AI-driven market shifts. The audience should consider the challenges legacy infrastructure poses for AI innovation and what that means for enterprise AI investments.",
+    "promo_only": false
+  },
+  {
+    "id": "798b755d2594",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "published": "2026-07-15T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "High content potential with a clear tactical and safety-focused AI topic relevant to practitioners and decision-makers.",
+    "topic_tags": [
+      "AI safety",
+      "alignment",
+      "AI robustness"
+    ],
+    "partner_takeaway": "GPT-Red uses automated self-play red teaming to improve AI safety and robustness against prompt injection attacks.",
+    "partner_summary": "OpenAI introduced GPT-Red, an automated system that uses self-play to enhance AI safety and alignment. This matters because improving AI robustness is critical for deploying reliable AI systems in business contexts. Readers should explore automated red teaming as a practical approach to mitigate AI risks and improve model trustworthiness.",
+    "promo_only": false
+  },
+  {
+    "id": "983fbf9cb0ba",
+    "title": "From the Archive: Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
+    "url": "https://a16z.simplecast.com/episodes/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure-zpJUqKwQ",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure. SemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Appenzeller, and Erik Torenberg to examine the rapidly evolving economics of AI hardware, from GPUs and custom silicon to data centers, power, and the global race for compute. The conversation explores NVIDIA's competitive advantages, the rise of custom chips from Google, Amazon, and Meta, the economics of frontier AI models, and the infrastructure constraints shaping the industry's next phase. They also d...",
+    "published": "2026-07-15T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7aeb5ddc-8c07-47ba-bc13-d0d95480ec93/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7aeb5ddc-8c07-47ba-bc13-d0d95480ec93&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Offers a valuable trend read on AI hardware and infrastructure economics with practitioner insights relevant to AI strategy and investment.",
+    "topic_tags": [
+      "AI infrastructure",
+      "hardware",
+      "market trends"
+    ],
+    "partner_takeaway": "NVIDIA's dominance in AI hardware is shaped by complex factors including GPU supply, custom silicon, data center power, and global compute competition.",
+    "partner_summary": "A16z revisited a discussion on the future of AI infrastructure focusing on NVIDIA's role and the economics of AI hardware. This is important for understanding the supply chain and investment dynamics behind AI compute capacity. Readers should watch how hardware trends influence AI scalability and cost-efficiency in their organizations.",
+    "promo_only": false
+  },
+  {
+    "id": "f250edc81e16",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-c72",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a continuation: Codex adding 1M users a day now.",
+    "published": "2026-07-14T23:54:07+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The item is too vague and lacks a clear angle or takeaway beyond a user growth metric, limiting content potential.",
+    "topic_tags": [
+      "AI adoption",
+      "metrics"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Latent Space reported that Codex is adding 1 million users a day. While this indicates rapid adoption, there is no deeper insight or actionable perspective provided. Readers gain little practical knowledge or strategic guidance from this update.",
+    "promo_only": false
+  },
+  {
+    "id": "c25f6aff6584",
+    "title": "5 Trends That Defined AI Engineering at World’s Fair 2026",
+    "url": "https://www.latent.space/p/aiewf26trends",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "At this year's AIE World&#8217;s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
+    "published": "2026-07-14T23:21:21+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong trend read on AI engineering evolution with potential for tactical insights about agent-based system design.",
+    "topic_tags": [
+      "AI engineering",
+      "agents",
+      "system design"
+    ],
+    "partner_takeaway": "AI engineering is shifting from building with agents to building systems around agents, marking a new phase in AI development.",
+    "partner_summary": "At the 2026 AI Engineering World’s Fair, the focus shifted to constructing systems centered on agents rather than just using agents as components. This matters because it signals a change in how AI solutions are architected for scalability and complexity. Readers should consider adapting their AI development approaches to leverage agent-centric system design.",
+    "promo_only": false
+  },
+  {
+    "id": "f35d978c1aa3",
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "published": "2026-07-14T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "High content potential with clear tactical advice on managing AI investments in the emerging agentic AI era.",
+    "topic_tags": [
+      "AI investment",
+      "agentic AI",
+      "efficiency"
+    ],
+    "partner_takeaway": "Enterprises can optimize AI investments by measuring useful work per dollar, improving efficiency, and scaling high-value workflows in the agentic AI era.",
+    "partner_summary": "OpenAI shared strategies for managing AI investments focused on agentic AI capabilities, emphasizing efficiency and workflow scaling. This is critical for business leaders aiming to maximize AI ROI amid evolving AI capabilities. Readers should adopt metrics and investment frameworks that reflect the agentic nature of modern AI systems.",
+    "promo_only": false
+  },
+  {
+    "id": "3431d2e05389",
+    "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+    "url": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
+    "published": "2026-07-14T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Relevant to AI product strategy with a practitioner perspective, though somewhat niche and speculative about OpenAI's product direction.",
+    "topic_tags": [
+      "AI product strategy",
+      "ChatGPT",
+      "AI platforms"
+    ],
+    "partner_takeaway": "OpenAI's integration of Codex into ChatGPT suggests a strategic shift away from traditional chat interfaces toward a super app model.",
+    "partner_summary": "Ben Thompson analyzed OpenAI's move to refashion Codex as the new ChatGPT, questioning the future of chat-based AI products. This matters for those tracking AI platform evolution and user interaction models. Readers should consider how AI product strategies might shift toward multifunctional super apps rather than single-use chatbots.",
+    "promo_only": false
+  },
+  {
+    "id": "bf2e84326fc0",
+    "title": "Is AI a Bubble? | Gavin Baker on Data Centers, GPUs, and the AI Economy",
+    "url": "https://a16z.simplecast.com/episodes/is-ai-a-bubble-gavin-baker-on-data-centers-gpus-and-the-ai-economy-HMRKhpqK",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of the standout conversations from Runtime, a16z's conference on AI infrastructure and the future of computing. Gavin Baker, Managing Partner and CIO of Atreides Management, joins David George to examine the biggest questions surrounding today's AI investment cycle. Is AI a bubble? What does the unprecedented buildout of data centers, GPUs, and compute infrastructure mean for the economy? And how should investors think about the companies building the next generation of AI? The conversation explores frontier models, Nvidia, Google, c...",
+    "published": "2026-07-14T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/44297d40-a3b7-4b37-8e5b-3fafa3243a05/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=44297d40-a3b7-4b37-8e5b-3fafa3243a05&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "Provides a valuable trend read and investment perspective on the AI economy and infrastructure buildout relevant to business and tech leaders.",
+    "topic_tags": [
+      "AI investment",
+      "infrastructure",
+      "market trends"
+    ],
+    "partner_takeaway": "The current AI investment cycle involves massive data center and GPU buildouts, raising questions about sustainability and potential market bubbles.",
+    "partner_summary": "A16z revisited a conversation with Gavin Baker about whether AI is a bubble amid unprecedented infrastructure investments. This is important for understanding risks and opportunities in AI-related capital allocation. Readers should critically assess AI investment trends and infrastructure growth when planning their strategies.",
+    "promo_only": false
+  }
+]
