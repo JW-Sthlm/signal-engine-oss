@@ -1,0 +1,222 @@
+[
+  {
+    "id": "666a92c1671c",
+    "title": "[AINews] Kimi K3 2.8T-A50B: the largest open model ever released; Opus 4.8-class at Sonnet 5 pricing",
+    "url": "https://www.latent.space/p/ainews-kimi-k3-28t-a50b-the-largest",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a great week for open models continues.",
+    "published": "2026-07-17T01:46:36+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic of large open AI models is relevant and the writer can provide perspective on open model trends, but the summary is generic and needs a personal angle.",
+    "topic_tags": [
+      "AI models",
+      "Open source",
+      "Trends"
+    ],
+    "partner_takeaway": "Open large AI models are becoming more accessible at competitive pricing, signaling a shift in the open model landscape.",
+    "partner_summary": "A new large open AI model, Kimi K3 2.8T-A50B, has been released, offering Opus 4.8-class capabilities at Sonnet 5 pricing. This matters because it reflects growing accessibility and competition in the open AI model market, which impacts how businesses can leverage AI. Readers should watch pricing and capability trends in open models to evaluate opportunities for adoption.",
+    "promo_only": false
+  },
+  {
+    "id": "65c2c2de7c02",
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+    "published": "2026-07-16T16:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The topic of AI safety for teens is important but the content is mostly promotional about OpenAI's approach, requiring a strong personal angle to add value.",
+    "topic_tags": [
+      "AI safety",
+      "Ethics",
+      "User protection"
+    ],
+    "partner_takeaway": "Implementing age-appropriate AI safety measures is critical to responsibly expanding AI access to younger users.",
+    "partner_summary": "OpenAI is enhancing ChatGPT with protections tailored for teens, including parental controls and expert partnerships. This is relevant for businesses and educators considering AI tools for younger demographics and the importance of safety features. The audience should consider how to integrate or advocate for responsible AI use policies for teens in their own contexts.",
+    "promo_only": true
+  },
+  {
+    "id": "3853a5f1bfa3",
+    "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
+    "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
+    "published": "2026-07-16T13:30:44+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/207109360/88d62fa51249974837587c8b14999c5d.mp3",
+    "relevance_score": 8,
+    "score_reason": "The concept of the lab of the future as a data center with robotic automation offers a fresh perspective and tactical insight for practitioners interested in AI-driven scientific workflows.",
+    "topic_tags": [
+      "AI applications",
+      "Automation",
+      "Data-driven science"
+    ],
+    "partner_takeaway": "Viewing scientific labs as data centers with robotic automation can unlock new efficiencies and data sources for AI training.",
+    "partner_summary": "Lila Sciences is pioneering a lab environment that operates like a data center, using robots to generate scientific training data. This matters because it highlights a novel approach to scaling scientific research and AI model training beyond traditional internet data. Readers should explore how automation and data-centric lab design can transform their own R&D or data collection strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "a28e88fe3732",
+    "title": "Replay 2025: David Sacks on AI, Crypto, and America's Technology Future",
+    "url": "https://a16z.simplecast.com/episodes/replay-2025-david-sacks-on-ai-crypto-and-americas-technology-future-g9dog_eR",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of our most-discussed conversations from the past year. David Sacks joins Marc Andreessen, Ben Horowitz, and Erik Torenberg to discuss the intersection of AI, crypto, regulation, and American competitiveness. The conversation explores the Trump administration's approach to AI and crypto policy, open source AI, export controls, energy and infrastructure, the global race with China, and the role regulation plays in shaping innovation. They also discuss stablecoins, the future of AI development, permissionless innovation, and why they b...",
+    "published": "2026-07-16T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/64845277-3aab-4c82-8b99-d74cdb039bd2/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=64845277-3aab-4c82-8b99-d74cdb039bd2&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The discussion on AI, crypto, and US tech policy offers a broad practitioner perspective but is somewhat generic without a unique angle.",
+    "topic_tags": [
+      "AI policy",
+      "Crypto",
+      "Tech strategy"
+    ],
+    "partner_takeaway": "Understanding the interplay between AI, crypto, and regulation is key to anticipating America's technology future and competitive positioning.",
+    "partner_summary": "David Sacks joins a panel to discuss AI, crypto, and US technology policy, including regulatory approaches and competitiveness. This is important for leaders navigating the evolving regulatory and innovation landscape in these sectors. The audience should monitor policy developments and consider their strategic implications for innovation and compliance.",
+    "promo_only": false
+  },
+  {
+    "id": "8e98f0ceed68",
+    "title": "Our approach to bioresilience",
+    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
+    "published": "2026-07-16T09:30:42+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Google DeepMind's approach to bioresilience with AI is relevant but the summary lacks detail for a clear takeaway without deeper analysis.",
+    "topic_tags": [
+      "AI applications",
+      "Bioresilience",
+      "Research"
+    ],
+    "partner_takeaway": "AI-driven bioresilience approaches can enhance understanding and response to biological challenges.",
+    "partner_summary": "Google DeepMind and Isomorphic Labs have shared their joint approach to bioresilience using AI models. This matters as it signals AI's expanding role in biological and health-related research domains. Readers should watch for practical applications and breakthroughs in AI-enabled bioresilience to inform their own innovation strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "498b02a54c6f",
+    "title": "[AINews] Thinky's Inkling: 975B-A41B multimodal, new best American Apache 2.0 open model (with Inkling-Small, 276B-A12B)",
+    "url": "https://www.latent.space/p/ainews-thinkys-inkling-975b-a41b",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
+    "published": "2026-07-16T06:18:05+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The release of Thinky's open multimodal LLM with open weights is relevant for AI practitioners interested in open models and multimodal capabilities.",
+    "topic_tags": [
+      "AI models",
+      "Open source",
+      "Multimodal AI"
+    ],
+    "partner_takeaway": "Open multimodal large language models with accessible weights enable broader experimentation and innovation in AI applications.",
+    "partner_summary": "Thinky has released its first full large language model, Inkling 975B-A41B, with open weights and multimodal capabilities. This matters because it expands the open AI ecosystem with powerful, accessible models for developers and researchers. The audience should explore how to leverage open multimodal models for their own AI projects and innovation pipelines.",
+    "promo_only": false
+  },
+  {
+    "id": "f8ee85bf3245",
+    "title": "How Cars24 scales conversations and builds faster with OpenAI",
+    "url": "https://openai.com/index/cars24",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
+    "published": "2026-07-16T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The Cars24 case study on scaling conversations with OpenAI is interesting but primarily promotional without deep tactical insights.",
+    "topic_tags": [
+      "AI applications",
+      "Customer service",
+      "Automation"
+    ],
+    "partner_takeaway": "Leveraging AI-powered voice and chat agents can significantly improve lead recovery and operational efficiency in customer conversations.",
+    "partner_summary": "Cars24 uses OpenAI's voice and chat agents to handle over a million monthly conversation minutes and recover 12% of lost leads. This is relevant for businesses looking to scale customer engagement and improve sales workflows with AI. Readers should consider how AI conversational agents can be integrated to enhance their customer service and lead management.",
+    "promo_only": true
+  },
+  {
+    "id": "0cc33b55e04e",
+    "title": "The US is advancing AI safety through state and federal action",
+    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+    "published": "2026-07-15T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The US advancing AI safety through coordinated state and federal action offers a strong trend read and policy insight relevant to practitioners.",
+    "topic_tags": [
+      "AI policy",
+      "Governance",
+      "Safety"
+    ],
+    "partner_takeaway": "A reverse federalism approach to AI governance, leveraging state laws to build national safety frameworks, is shaping the future of AI regulation.",
+    "partner_summary": "OpenAI outlines how state and federal actions in the US are advancing AI safety through a reverse federalism approach. This matters because it highlights a novel governance model that could influence how AI safety standards evolve nationally. The audience should monitor state-level AI regulations as they may set precedents for broader federal policies.",
+    "promo_only": false
+  },
+  {
+    "id": "d294f629afbd",
+    "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+    "url": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
+    "published": "2026-07-15T10:00:19+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Analysis of IBM's challenges with AI and mainframe business offers a practitioner perspective on corporate strategy and market dynamics.",
+    "topic_tags": [
+      "AI strategy",
+      "Corporate analysis",
+      "Market dynamics"
+    ],
+    "partner_takeaway": "IBM's struggles with AI integration and mainframe reliance illustrate risks in legacy tech companies adapting to AI-driven markets.",
+    "partner_summary": "IBM's recent results highlight challenges in its AI initiatives and dependence on its mainframe franchise. This is important for understanding how legacy tech firms may struggle or adapt in the AI era. Readers should consider the strategic pitfalls and opportunities when integrating AI into established business models.",
+    "promo_only": false
+  },
+  {
+    "id": "798b755d2594",
+    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+    "published": "2026-07-15T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "GPT-Red's automated self-improvement system for AI safety and robustness provides a concrete tool and tactical insight for AI practitioners.",
+    "topic_tags": [
+      "AI safety",
+      "Self-improvement",
+      "Tools"
+    ],
+    "partner_takeaway": "Automated red teaming through self-play, as in GPT-Red, enhances AI safety and robustness against prompt injection and alignment failures.",
+    "partner_summary": "OpenAI introduces GPT-Red, an automated red teaming system that uses self-play to improve AI safety and robustness. This matters because it offers a scalable method to detect and mitigate AI vulnerabilities proactively. The audience should explore automated self-improvement techniques to strengthen AI model reliability and security.",
+    "promo_only": false
+  },
+  {
+    "id": "983fbf9cb0ba",
+    "title": "From the Archive: Can Anyone Catch NVIDIA? | The Future of Chips and Infrastructure",
+    "url": "https://a16z.simplecast.com/episodes/can-anyone-catch-nvidia-the-future-of-chips-and-infrastructure-zpJUqKwQ",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As part of our summer replay series, we're revisiting one of our favorite conversations on the future of AI infrastructure. SemiAnalysis founder Dylan Patel joins Erin Price-Wright, Guido Appenzeller, and Erik Torenberg to examine the rapidly evolving economics of AI hardware, from GPUs and custom silicon to data centers, power, and the global race for compute. The conversation explores NVIDIA's competitive advantages, the rise of custom chips from Google, Amazon, and Meta, the economics of frontier AI models, and the infrastructure constraints shaping the industry's next phase. They also d...",
+    "published": "2026-07-15T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7aeb5ddc-8c07-47ba-bc13-d0d95480ec93/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7aeb5ddc-8c07-47ba-bc13-d0d95480ec93&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The discussion on NVIDIA and AI infrastructure economics offers a strong trend read and practitioner insight into the hardware landscape shaping AI's future.",
+    "topic_tags": [
+      "AI infrastructure",
+      "Hardware",
+      "Market trends"
+    ],
+    "partner_takeaway": "Understanding the evolving economics of AI hardware, including GPUs and custom silicon, is critical to navigating the future of AI infrastructure.",
+    "partner_summary": "A16z revisits a conversation analyzing NVIDIA's dominance and the future of AI chips, data centers, and power consumption. This is relevant for practitioners planning AI infrastructure investments and anticipating market shifts. Readers should track hardware innovation and supply chain dynamics to optimize AI deployment strategies.",
+    "promo_only": false
+  }
+]
