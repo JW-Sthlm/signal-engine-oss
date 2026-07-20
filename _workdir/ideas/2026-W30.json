@@ -1,0 +1,63 @@
+[
+  {
+    "track": "A",
+    "title": "A Practical Scorecard for Measuring AI Impact",
+    "hook": "Most teams talk about AI ROI but rarely have a concrete way to measure it.",
+    "format": "how-to",
+    "partner_takeaway": "Readers learn a practical framework to measure AI impact through ROI, cost per successful task, dependability, and compute efficiency.",
+    "story_ref": null,
+    "source_refs": [
+      "6474d9d54a87"
+    ],
+    "image_code": "chalk-sketch",
+    "reasoning": "AI adoption is accelerating, but teams struggle to quantify its real value. Sharing a tactical scorecard gives readers immediate tools to justify AI investments and optimize workflows, fitting the practical AI track."
+  },
+  {
+    "track": "A",
+    "title": "How I Ship AI Features: Lessons from First Production Launch",
+    "hook": "Shipping my first AI-powered feature to production taught me more about workflow design than any tutorial.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn the key steps and pitfalls in launching an AI feature, including how to test, iterate, and deploy for real users.",
+    "story_ref": "story-001",
+    "source_refs": [],
+    "image_code": "scene-photo",
+    "reasoning": "Personal experience makes tactical advice actionable. By sharing concrete lessons from an actual launch, the writer helps readers avoid common mistakes and accelerate their own AI deployments."
+  },
+  {
+    "track": "B",
+    "title": "Netflix’s Approach: Managing Product Teams in the AI Era",
+    "hook": "Netflix doesn’t just add AI to its stack—it’s rethinking how product and tech teams operate from the ground up.",
+    "format": "opinion",
+    "partner_takeaway": "Readers learn how to adapt product and tech team management to the AI era by adopting systems thinking and building operational excellence.",
+    "story_ref": null,
+    "source_refs": [
+      "7322912866b7"
+    ],
+    "image_code": "iso-architecture",
+    "reasoning": "This trend read cuts through hype, showing how a leading company is reshaping organizational structure for AI. The audience gets actionable management insights, not just headlines."
+  },
+  {
+    "track": "C",
+    "title": "Building in Public: The Pattern I Keep Coming Back To",
+    "hook": "There’s one workflow I rely on every time I need to ship something fast and reliably.",
+    "format": "case-study",
+    "partner_takeaway": "Readers learn a repeatable workflow for building and shipping projects efficiently, including common mistakes to avoid.",
+    "story_ref": "story-003",
+    "source_refs": [],
+    "image_code": "chalk-sketch",
+    "reasoning": "Sharing a proven workflow helps fellow builders and demystifies the process. It fits the building-in-public track, offering practical value and transparency."
+  },
+  {
+    "track": "B",
+    "title": "Is AI a Bubble? What the Data Center Boom Really Means",
+    "hook": "Everyone’s talking about the AI investment cycle—but few are asking if the infrastructure buildout is sustainable.",
+    "format": "opinion",
+    "partner_takeaway": "Readers gain insight into the current AI investment landscape, including debates on whether AI is a bubble and the impact of data center and GPU buildouts.",
+    "story_ref": null,
+    "source_refs": [
+      "bf2e84326fc0"
+    ],
+    "image_code": "hero-line",
+    "reasoning": "Industry leaders are questioning the sustainability of AI investments. This post gives readers a grounded analysis of market risks, helping them make informed decisions amid hype."
+  }
+]
