@@ -1,0 +1,138 @@
+[
+  {
+    "id": "dfee001a5442",
+    "title": "[AINews] not much happened today",
+    "url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day.",
+    "published": "2026-07-21T03:58:00+00:00",
+    "audio_url": "",
+    "relevance_score": 2,
+    "score_reason": "The item is a brief note about a quiet day with no substantive content or insights for the audience.",
+    "topic_tags": [],
+    "partner_takeaway": "",
+    "partner_summary": "This is a brief update noting that not much happened in AI news on this day. It offers no new insights or actionable information for the writer's audience. Readers should look elsewhere for meaningful content or trends.",
+    "promo_only": false
+  },
+  {
+    "id": "757f4ea89d1a",
+    "title": "Hugging Face's CEO on Open Source AI, Model Routing, and the Future of Competition",
+    "url": "https://a16z.simplecast.com/episodes/hugging-faces-ceo-on-open-source-ai-model-routing-and-the-future-of-competition-qEt3voqD",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "As governments weigh new restrictions on frontier AI models, one question is becoming increasingly important: what role should open source play in the future of artificial intelligence? Theo Jaffee and Sofia Puccini speak with Hugging Face CEO Clément Delangue about AI regulation, open source safety, model routing, and why he believes competition—not consolidation—is essential for the industry's future. They discuss GPT-5, government oversight of frontier models, Hugging Face surpassing $100 million in annual recurring revenue, local AI, China's open-source ecosystem, Europe's AI ambitions,...",
+    "published": "2026-07-20T17:08:39+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/8d484c2c-9bfb-4dbf-8019-9b1c8750d33c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=8d484c2c-9bfb-4dbf-8019-9b1c8750d33c&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "Strong content potential with a clear practitioner perspective on open source AI, regulation, and competition, offering insight and trend read value.",
+    "topic_tags": [
+      "AI regulation",
+      "open source AI",
+      "industry competition"
+    ],
+    "partner_takeaway": "Open source AI and competition are critical factors shaping the future of AI regulation and industry dynamics.",
+    "partner_summary": "Hugging Face's CEO discusses the evolving role of open source in AI, model routing, and the importance of competition over consolidation. This matters to AI practitioners and business leaders navigating regulatory changes and strategic positioning. The audience should monitor open source developments and consider how competition influences AI innovation and safety.",
+    "promo_only": false
+  },
+  {
+    "id": "bd7fbfb78197",
+    "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Your weekly listens from How I AI, part of the Lenny&#8217;s Podcast Network",
+    "published": "2026-07-20T15:01:56+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Medium content potential but lacks a clear, unique takeaway without a personal angle or deeper tactical insight.",
+    "topic_tags": [
+      "AI content creation",
+      "workflow",
+      "automation"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This podcast episode explores how the founder of Morning Brew uses Claude AI to generate content ideas continuously. While interesting, it provides limited tactical detail or unique insights for the audience. Readers should seek more concrete examples or lessons to apply in their own content workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "8636359aa676",
+    "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+    "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Listen now | &#127897; How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
+    "published": "2026-07-20T12:04:47+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/207355289/37ca9e348cb5cb291449aaa2c86d2637.mp3",
+    "relevance_score": 8,
+    "score_reason": "High content potential with detailed workflow insights and practitioner perspective on AI-driven content creation processes.",
+    "topic_tags": [
+      "AI content creation",
+      "workflow automation",
+      "productivity"
+    ],
+    "partner_takeaway": "A structured AI workflow combining interviews, voice coding, and multi-persona revisions can produce high-quality, consistent content efficiently.",
+    "partner_summary": "Alex Lieberman, founder of Morning Brew, built a Claude AI-powered content machine that interviews him, codes his voice in Markdown, and uses a six-persona revision loop before publishing. This approach offers valuable insights for content creators seeking to scale quality output with AI. The audience should consider adopting or adapting similar AI workflows to enhance their content production.",
+    "promo_only": false
+  },
+  {
+    "id": "7e0c5d5f7b9c",
+    "title": "Who’s Afraid of Chinese Models?",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
+    "published": "2026-07-20T11:00:08+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with a clear opinion on the competitive landscape of AI models and implications for US innovation policy.",
+    "topic_tags": [
+      "AI competition",
+      "Chinese AI models",
+      "innovation policy"
+    ],
+    "partner_takeaway": "Supporting open US AI alternatives is essential to maintain competitive innovation against Chinese AI models.",
+    "partner_summary": "This analysis discusses concerns around Chinese AI models and argues that frontier AI labs in the US will remain competitive if supported properly. This is important for business leaders and policymakers focused on AI strategy and national competitiveness. The audience should watch for policy moves and investment trends that enable US AI innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "a2e9b5fda306",
+    "title": "Safety and alignment in an era of long-horizon models",
+    "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+    "published": "2026-07-20T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 9,
+    "score_reason": "High content potential with concrete lessons on safety and alignment from deploying long-horizon AI models, offering tactical tips and warnings.",
+    "topic_tags": [
+      "AI safety",
+      "model alignment",
+      "risk management"
+    ],
+    "partner_takeaway": "Deploying long-running AI models requires iterative safeguards to manage new safety risks and observed failures effectively.",
+    "partner_summary": "OpenAI shares insights from deploying long-horizon AI models, highlighting new safety challenges and how iterative deployment improves safeguards. This is critical for AI practitioners and leaders managing risk and alignment in advanced AI systems. The audience should incorporate iterative safety measures and monitor emerging risks in their AI deployments.",
+    "promo_only": false
+  },
+  {
+    "id": "5db9d54577ea",
+    "title": "Why Netflix is betting on systems thinkers—not specialists—in the AI era | Elizabeth Stone (CPTO)",
+    "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
+    "published": "2026-07-19T12:31:21+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/205675851/7c9d212495d749dbb630c4880d920182.mp3",
+    "relevance_score": 8,
+    "score_reason": "Strong content potential with a practitioner perspective on team management and systems thinking in the AI era, offering tactical and strategic insights.",
+    "topic_tags": [
+      "AI team management",
+      "systems thinking",
+      "organizational excellence"
+    ],
+    "partner_takeaway": "Emphasizing systems thinking over specialization can enhance AI-era product team effectiveness and operational excellence.",
+    "partner_summary": "Elizabeth Stone, Netflix CPTO, discusses how AI is reshaping product team management, highlighting the rise of systems thinking as a key skill. This perspective is valuable for leaders building AI-capable teams and operating models. The audience should consider fostering systems thinking and cross-functional collaboration to thrive in the AI era.",
+    "promo_only": false
+  }
+]
