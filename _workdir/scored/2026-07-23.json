@@ -1,0 +1,357 @@
+[
+  {
+    "id": "4e3ff79bdb18",
+    "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+    "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us highlight a new neolab win.",
+    "published": "2026-07-23T05:18:47+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "The item is a product release announcement with no clear educational angle or practitioner insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "product update"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Laguna S 2.1 was released, claiming to be cheaper than Deepseek v4 Flash and better than V4 Pro. This is primarily a product update with limited strategic or tactical insight for business or AI practitioners. Readers should watch for more detailed analyses or case studies to understand its impact.",
+    "promo_only": true
+  },
+  {
+    "id": "89d07786ef38",
+    "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+    "url": "https://www.latent.space/p/poolside",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+    "published": "2026-07-23T05:09:14+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/208082176/150a7023faa153b1393ccb518c6ff305.mp3",
+    "relevance_score": 9,
+    "score_reason": "Deep practitioner insight into building a model factory and scaling large MOE models offers a strong educational angle and trend read.",
+    "topic_tags": [
+      "AI infrastructure",
+      "model training",
+      "scaling AI"
+    ],
+    "partner_takeaway": "The reader learns how a small, expert team can build a scalable model factory to train cutting-edge large MOE models efficiently.",
+    "partner_summary": "Poolside AI's co-CEO explains how his small team built a model factory capable of training Laguna S, a 118B MOE model outperforming much larger open-weight models. This reveals important lessons on scaling AI infrastructure and optimizing resource use in model training. Readers should consider how to apply these principles to improve their own AI development workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "5f985db71193",
+    "title": "Travis Kalanick Is Back | Building the Future of Industrial AI",
+    "url": "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Travis Kalanick, Ben Horowitz, and Erik Torenberg reunite to reflect on Uber's early days, the investment that almost happened, and why Kalanick believes the next great technology opportunity lies beyond software. They discuss the lessons of building Uber, the value of founder-led companies, and why Kalanick spent nearly eight years quietly building Atoms before stepping back into the spotlight. The conversation explores industrial AI, robotics, autonomy, mining, food production, and Kalanick's vision for digitizing the physical world, where software, manufacturing, real estate, and transpo...",
+    "published": "2026-07-22T21:26:58+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7df3742f-0af5-4d91-8c95-0326649283a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7df3742f-0af5-4d91-8c95-0326649283a1&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "The discussion offers practitioner perspectives on founder-led innovation and industrial AI trends, though somewhat generic without a unique tactical angle.",
+    "topic_tags": [
+      "founder insights",
+      "industrial AI",
+      "business strategy"
+    ],
+    "partner_takeaway": "The reader gains insight into why founder-led companies can drive innovation in industrial AI and what lessons Uber's early days offer for future tech ventures.",
+    "partner_summary": "Travis Kalanick and others reflect on Uber's early challenges and the potential of industrial AI beyond software. This matters as it highlights strategic lessons for founders and investors in emerging AI sectors. Readers should watch for opportunities in industrial AI and consider the value of founder-led innovation.",
+    "promo_only": false
+  },
+  {
+    "id": "8303b6755e54",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "published": "2026-07-22T13:38:54+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "While the funding commitment is notable, the content lacks detailed insights or tactical advice relevant to the audience beyond a trend read.",
+    "topic_tags": [
+      "AI funding",
+      "scientific discovery",
+      "corporate investment"
+    ],
+    "partner_takeaway": "The reader understands that significant corporate funding is accelerating AI-driven scientific discovery, signaling growing industry focus on this area.",
+    "partner_summary": "Google committed $40M in AI tokens and credits to the Genesis Mission to accelerate scientific discovery. This signals increasing corporate investment in AI for research, relevant for those tracking AI's expanding applications. Readers should monitor how such funding influences AI tools and scientific breakthroughs.",
+    "promo_only": false
+  },
+  {
+    "id": "f3b5f03f4da5",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "published": "2026-07-22T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The community-focused AI infrastructure project offers a practitioner perspective on responsible AI deployment and local impact, useful for readers interested in AI ethics and infrastructure.",
+    "topic_tags": [
+      "AI infrastructure",
+      "community impact",
+      "responsible AI"
+    ],
+    "partner_takeaway": "The reader learns how AI infrastructure projects can integrate responsible energy use, community investment, and job creation in local contexts.",
+    "partner_summary": "OpenAI announced Project Camellia in Effingham County, focusing on responsible energy, community investment, and job creation alongside AI infrastructure. This matters as it models how AI deployments can balance technology with social responsibility. Readers should consider these factors when planning or evaluating AI infrastructure projects.",
+    "promo_only": false
+  },
+  {
+    "id": "7e556dd34db2",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "published": "2026-07-22T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "The article provides concrete examples of AI's role in journalism, offering insight and tactical examples relevant to media professionals and AI adopters.",
+    "topic_tags": [
+      "AI applications",
+      "journalism",
+      "business operations"
+    ],
+    "partner_takeaway": "The reader learns how AI tools can strengthen reporting, grow audiences, and improve business operations in news organizations.",
+    "partner_summary": "News organizations are using AI to enhance reporting quality, expand their audiences, and optimize business processes with support from OpenAI tools. This is important for media professionals looking to leverage AI effectively. Readers should explore AI integration opportunities to advance their journalistic missions.",
+    "promo_only": false
+  },
+  {
+    "id": "24ac9a24fa99",
+    "title": "Computer and browser use in Codex (5 real examples)",
+    "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models work harder",
+    "published": "2026-07-22T12:03:38+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/207953544/6d747defe32ee7f9e1cbcba69f37672a.mp3",
+    "relevance_score": 9,
+    "score_reason": "Detailed, practical examples of using Codex with browser and computer integration provide strong tactical tips and a practitioner perspective.",
+    "topic_tags": [
+      "AI tools",
+      "Codex",
+      "productivity tips"
+    ],
+    "partner_takeaway": "The reader gains concrete tactics for using Codex with browser and computer integration to improve app QA, social media management, and shopping workflows.",
+    "partner_summary": "This post demonstrates five real examples of using Codex's computer and browser capabilities for tasks like app QA, LinkedIn management, and shopping, including an under-prompting trick to enhance model performance. This offers valuable tactical advice for AI tool users seeking productivity gains. Readers should experiment with these techniques to maximize Codex's utility.",
+    "promo_only": false
+  },
+  {
+    "id": "37fbe49ee08b",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "published": "2026-07-22T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The commitment to advancing national science with frontier AI is relevant as a trend read but lacks detailed tactical or practitioner insights.",
+    "topic_tags": [
+      "AI in science",
+      "government collaboration",
+      "frontier AI"
+    ],
+    "partner_takeaway": "The reader understands that frontier AI is being leveraged in collaboration with national labs to accelerate scientific discovery in the U.S.",
+    "partner_summary": "OpenAI announced its commitment to advancing American science by partnering with the U.S. Department of Energy and national labs to use frontier AI for discovery acceleration. This highlights a growing trend of AI-government collaboration in science. Readers should watch for emerging opportunities and impacts from these partnerships.",
+    "promo_only": false
+  },
+  {
+    "id": "48a086a894f1",
+    "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+    "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
+    "published": "2026-07-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "The story about OpenAI hacking Hugging Face offers an interesting perspective but is somewhat niche and lacks broad tactical or strategic lessons.",
+    "topic_tags": [
+      "AI security",
+      "alignment",
+      "industry events"
+    ],
+    "partner_takeaway": "The reader learns that AI security incidents can yield encouraging insights about alignment and system robustness.",
+    "partner_summary": "OpenAI accidentally hacked Hugging Face, but the incident reveals more positive takeaways about AI alignment and security than initially expected. This matters for those interested in AI safety and industry dynamics. Readers should consider the implications for AI system design and collaboration.",
+    "promo_only": false
+  },
+  {
+    "id": "8e9e7d0011d9",
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "published": "2026-07-22T05:30:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "The introduction of a new enterprise AI agent platform is primarily a product announcement with limited educational or tactical depth.",
+    "topic_tags": [
+      "enterprise AI",
+      "product launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI introduced OpenAI Presence, an enterprise AI agent platform for deploying voice and chat agents in customer and internal workflows. This is mainly a product launch without deeper insights or tactical guidance. Readers should await further analysis or case studies to assess its practical impact.",
+    "promo_only": true
+  },
+  {
+    "id": "94b2cfb8bba6",
+    "title": "[AINews] AI Cybersecurity becomes top of mind",
+    "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Several new Cyber headlines make us observe a trend",
+    "published": "2026-07-22T03:27:29+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The identification of AI cybersecurity as a growing concern offers a useful trend read and warning for practitioners.",
+    "topic_tags": [
+      "AI cybersecurity",
+      "risk management",
+      "industry trends"
+    ],
+    "partner_takeaway": "The reader learns that AI cybersecurity is becoming a top priority, signaling increased risks and the need for proactive defenses.",
+    "partner_summary": "Recent headlines highlight AI cybersecurity as an emerging top concern in the industry. This matters as it signals growing risks and the importance of security strategies in AI deployments. Readers should prioritize understanding and mitigating AI-related security threats.",
+    "promo_only": false
+  },
+  {
+    "id": "6ce5c4f70326",
+    "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+    "url": "https://openai.com/index/ntt-data",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+    "published": "2026-07-22T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "A concrete case study showing how Codex and ChatGPT Enterprise reduce incident analysis time offers strong tactical value and practitioner insight.",
+    "topic_tags": [
+      "AI adoption",
+      "automation",
+      "case study"
+    ],
+    "partner_takeaway": "The reader learns how automating incident analysis with Codex can drastically reduce resolution time and scale secure AI adoption in large organizations.",
+    "partner_summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to automate work for 9,000 employees, cutting incident analysis time to 30 minutes and enabling secure AI scaling. This case study provides actionable insights on AI-driven efficiency improvements. Readers should explore similar automation opportunities to enhance operational performance.",
+    "promo_only": false
+  },
+  {
+    "id": "dda8c6e1b16a",
+    "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+    "url": "https://www.latent.space/p/xaira",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
+    "published": "2026-07-21T19:34:06+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/207941607/6f355666c408aef162923ead7724868f.mp3",
+    "relevance_score": 7,
+    "score_reason": "The topic of causal models in drug discovery is relevant and offers insight, but it requires the writer to find a personal angle to make it concrete and tactical for their audience.",
+    "topic_tags": [
+      "AI applications",
+      "drug discovery",
+      "data strategy"
+    ],
+    "partner_takeaway": "Causal models in drug discovery require high-quality causal data, and generating this data is critical to building effective AI models in biotech.",
+    "partner_summary": "Xaira Therapeutics focuses on generating causal data to improve causal model building for drug discovery. This matters because many AI models fail without the right kind of data, especially in complex fields like biotech. Readers should watch how data generation strategies can impact AI model effectiveness in their own domains.",
+    "promo_only": false
+  },
+  {
+    "id": "c999e7f74d0a",
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "published": "2026-07-21T17:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "While the launch of a ChatGPT program for small businesses is interesting, it is primarily a product announcement with limited tactical depth or unique insight for the audience.",
+    "topic_tags": [
+      "AI tools",
+      "small business",
+      "automation"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI has launched a ChatGPT program aimed at helping small businesses build AI skills and automate work. This could be useful for entrepreneurs looking to leverage AI but lacks deeper tactical or strategic insights. Readers should explore the program if they want to experiment with AI tools for business automation.",
+    "promo_only": true
+  },
+  {
+    "id": "10245400c8ee",
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "published": "2026-07-21T15:16:30+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "This is a product launch announcement of new AI models without a clear practitioner perspective or actionable insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "product launch"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google DeepMind introduced new Gemini AI models including Gemini 3.6 Flash and variants. While this signals ongoing AI model development, it lacks actionable insights or tactical advice for practitioners. Readers should monitor how these models might influence AI capabilities but no immediate action is suggested.",
+    "promo_only": true
+  },
+  {
+    "id": "33c9e1ef08f4",
+    "title": "Why Physical AI Is the Next Frontier | Applied Intuition",
+    "url": "https://a16z.simplecast.com/episodes/why-physical-ai-is-the-next-frontier-applied-intuition-VEkcnJm1",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Applied Intuition has spent the past decade building the software that powers intelligent machines, from passenger vehicles and trucks to defense systems, mining equipment, and industrial robots. In this conversation, Marc Andreessen and Erik Torenberg sit down with Applied Intuition cofounders Qasar Younis and Peter Ludwig to discuss the emergence of physical AI and the company's latest launch, Dana, a new platform designed to accelerate the development of autonomous systems. They explore autonomous vehicles, robotics, world models, simulation, AI infrastructure, and the engineering challe...",
+    "published": "2026-07-21T15:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/6addce00-a7d2-4302-848f-6d96ff487d8c/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=6addce00-a7d2-4302-848f-6d96ff487d8c&feed=JGE3yC0V",
+    "relevance_score": 8,
+    "score_reason": "The emergence of physical AI is a significant trend with clear implications and opportunities for practitioners, offering insight and a new perspective on AI applications beyond software.",
+    "topic_tags": [
+      "physical AI",
+      "intelligent machines",
+      "industry trends"
+    ],
+    "partner_takeaway": "Physical AI, which integrates AI with real-world machines, is becoming a critical frontier with broad implications for industries like automotive, defense, and robotics.",
+    "partner_summary": "Applied Intuition discusses the rise of physical AI, which powers intelligent machines across various industries. This matters because it expands AI's impact from software to tangible systems, changing how businesses approach automation and intelligence. Readers should explore how physical AI could transform their sectors and consider integrating it into their innovation strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "f5accaf2b74b",
+    "title": "Why a sabbatical can change everything",
+    "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "How to take Big Time Off",
+    "published": "2026-07-21T12:45:10+00:00",
+    "audio_url": "",
+    "relevance_score": 3,
+    "score_reason": "The topic of taking sabbaticals is outside the core editorial scope focused on AI, tech, and business insights, and lacks a clear tactical or industry-specific takeaway.",
+    "topic_tags": [
+      "personal development"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "This article discusses how taking a sabbatical can be transformative for individuals. While valuable personally, it falls outside the writer's focus on AI and business insights. Readers interested in personal growth may find it useful, but it is not aligned with the writer's audience needs.",
+    "promo_only": false
+  },
+  {
+    "id": "d7cfa6a09195",
+    "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
+    "url": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "Netflix's earnings were fine, and befitting a mature company whose most exciting days are likely behind them.",
+    "published": "2026-07-21T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "Analysis of Netflix's earnings and maturity offers insight into business lifecycle and market positioning, relevant for readers interested in tech business strategy.",
+    "topic_tags": [
+      "business strategy",
+      "market analysis",
+      "tech industry"
+    ],
+    "partner_takeaway": "Netflix's recent earnings reflect its status as a mature company, signaling a shift in growth expectations and strategic focus for tech businesses.",
+    "partner_summary": "Netflix reported earnings consistent with a mature company whose rapid growth phase is likely over. This matters because it highlights how tech companies evolve and the importance of adjusting strategies accordingly. Readers should consider how maturity impacts business models and growth tactics in their own sectors.",
+    "promo_only": false
+  }
+]
