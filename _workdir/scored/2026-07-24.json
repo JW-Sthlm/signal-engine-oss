@@ -1,0 +1,253 @@
+[
+  {
+    "id": "3ccf1c5fd6cb",
+    "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+    "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "A HUGE win for BFL!",
+    "published": "2026-07-24T04:30:12+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Highly technical AI model update with limited direct business or tactical insight for the audience.",
+    "topic_tags": [
+      "AI models",
+      "technology"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Black Forest Labs released FLUX 3, a multimodal flow model outperforming several competitors. This is a technical advancement in AI model capabilities. The audience should watch for how these models might influence AI applications but the direct business or tactical implications are limited.",
+    "promo_only": false
+  },
+  {
+    "id": "a014865b0dc8",
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+    "source_name": "One Useful Thing (Ethan Mollick)",
+    "source_weight": 1.3,
+    "summary": "The Summer 2026 Edition",
+    "published": "2026-07-23T18:05:24+00:00",
+    "audio_url": "",
+    "relevance_score": 8,
+    "score_reason": "Provides a practical, opinionated guide on AI tools which can offer tactical value to the audience.",
+    "topic_tags": [
+      "AI tools",
+      "tactical tips"
+    ],
+    "partner_takeaway": "The reader learns how to select the most effective AI tools for different tasks based on an expert opinion.",
+    "partner_summary": "An opinionated guide was published outlining which AI tools to use for various tasks in Summer 2026. This matters to professionals seeking to optimize AI tool selection for business or practical use. Readers should consider this guide to improve their AI tool choices and workflows.",
+    "promo_only": false
+  },
+  {
+    "id": "56edd2c45810",
+    "title": "Building the Physical AI Stack | Travis Kalanick on TBPN",
+    "url": "https://a16z.simplecast.com/episodes/building-the-physical-ai-stack-travis-kalanick-on-tbpn-pij0lvRd",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Travis Kalanick joins TBPN to discuss Atoms, his vision for industrial AI, and why he believes the biggest opportunities in AI lie beyond software. He explains how Atoms is bringing autonomy to mining, logistics, and food production, why robotics will reshape physical industries, and how lower costs and greater automation could unlock entirely new economic opportunities. Travis also reflects on raising $1.7 billion, building in stealth, regulation, hiring, and what he's learned since Uber.",
+    "published": "2026-07-23T10:00:00+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/c0548882-482c-45e3-b1c5-bff8f17399f5/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=c0548882-482c-45e3-b1c5-bff8f17399f5&feed=JGE3yC0V",
+    "relevance_score": 9,
+    "score_reason": "Strong practitioner perspective on industrial AI with clear business and tactical insights.",
+    "topic_tags": [
+      "industrial AI",
+      "automation",
+      "business strategy"
+    ],
+    "partner_takeaway": "The reader learns how industrial AI and robotics are reshaping physical industries and unlocking new economic opportunities.",
+    "partner_summary": "Travis Kalanick discusses Atoms, his industrial AI company focused on mining, logistics, and food production automation. This is important for business leaders and technologists interested in AI beyond software and its economic impact. The audience should watch industrial AI trends and consider automation opportunities in physical industries.",
+    "promo_only": false
+  },
+  {
+    "id": "4e3ff79bdb18",
+    "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+    "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "a quiet day lets us highlight a new neolab win.",
+    "published": "2026-07-23T05:18:47+00:00",
+    "audio_url": "",
+    "relevance_score": 4,
+    "score_reason": "Product release announcement with limited insight or tactical value for the audience.",
+    "topic_tags": [
+      "AI product",
+      "announcement"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Laguna S 2.1 was released, positioned as cheaper and better than competing models. This is a product update with little broader business or tactical insight. The audience can note the competitive landscape but gains no actionable knowledge.",
+    "promo_only": true
+  },
+  {
+    "id": "89d07786ef38",
+    "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+    "url": "https://www.latent.space/p/poolside",
+    "source_name": "Latent Space",
+    "source_weight": 1.1,
+    "summary": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+    "published": "2026-07-23T05:09:14+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/208082176/150a7023faa153b1393ccb518c6ff305.mp3",
+    "relevance_score": 7,
+    "score_reason": "Insightful look into a model factory with some practitioner perspective but needs a personal angle to maximize value.",
+    "topic_tags": [
+      "AI models",
+      "team strategy"
+    ],
+    "partner_takeaway": "The reader learns how a small expert team built a highly efficient AI model factory that outperforms much larger models.",
+    "partner_summary": "Poolside AI's co-CEO explains how their small team created a model factory capable of training a 118B MOE model outperforming much larger open models. This matters for AI practitioners interested in efficient model development and team strategies. Readers should consider how lean teams and innovative processes can accelerate AI model creation.",
+    "promo_only": false
+  },
+  {
+    "id": "82d1b5adc9a3",
+    "title": "Launching Health in ChatGPT",
+    "url": "https://openai.com/index/health-in-chatgpt",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+    "published": "2026-07-23T00:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Interesting AI health integration but limited tactical depth or unique perspective for the audience.",
+    "topic_tags": [
+      "AI health",
+      "personalization"
+    ],
+    "partner_takeaway": "The reader learns that ChatGPT now integrates medical records and Apple Health for personalized health insights.",
+    "partner_summary": "OpenAI launched Health in ChatGPT, allowing eligible U.S. users to connect medical records and Apple Health for personalized insights. This is relevant for professionals tracking AI's role in healthcare personalization. The audience should watch how AI integrations evolve in health tech but tactical application details are limited.",
+    "promo_only": false
+  },
+  {
+    "id": "5f985db71193",
+    "title": "Travis Kalanick Is Back | Building the Future of Industrial AI",
+    "url": "https://a16z.simplecast.com/episodes/travis-kalanick-is-back-building-the-future-of-industrial-ai-FA8ioD1f",
+    "source_name": "AI + a16z",
+    "source_weight": 1.1,
+    "summary": "Travis Kalanick, Ben Horowitz, and Erik Torenberg reunite to reflect on Uber's early days, the investment that almost happened, and why Kalanick believes the next great technology opportunity lies beyond software. They discuss the lessons of building Uber, the value of founder-led companies, and why Kalanick spent nearly eight years quietly building Atoms before stepping back into the spotlight. The conversation explores industrial AI, robotics, autonomy, mining, food production, and Kalanick's vision for digitizing the physical world, where software, manufacturing, real estate, and transpo...",
+    "published": "2026-07-22T21:26:58+00:00",
+    "audio_url": "https://mgln.ai/e/1344/afp-848985-injected.calisto.simplecastaudio.com/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/7df3742f-0af5-4d91-8c95-0326649283a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=3f86df7b-51c6-4101-88a2-550dba782de8&awEpisodeId=7df3742f-0af5-4d91-8c95-0326649283a1&feed=JGE3yC0V",
+    "relevance_score": 7,
+    "score_reason": "Provides practitioner insights and lessons from a notable founder relevant to AI and business strategy.",
+    "topic_tags": [
+      "founder insights",
+      "industrial AI",
+      "business strategy"
+    ],
+    "partner_takeaway": "The reader learns key lessons from Travis Kalanick on building founder-led companies and the future of industrial AI.",
+    "partner_summary": "Travis Kalanick reflects on Uber's early days and shares why he believes industrial AI is the next big opportunity beyond software. This offers valuable lessons for entrepreneurs and business leaders in AI. Readers should consider founder-led innovation and industrial AI trends in their strategies.",
+    "promo_only": false
+  },
+  {
+    "id": "8303b6755e54",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "source_name": "Google DeepMind Blog",
+    "source_weight": 1.0,
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "published": "2026-07-22T13:38:54+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Funding announcement with limited direct tactical or strategic insight for the audience.",
+    "topic_tags": [
+      "AI funding",
+      "scientific discovery"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "Google committed $40M in AI tokens and credits to the Genesis Mission to accelerate scientific discovery. This is a notable funding move but offers limited actionable insight for practitioners. The audience should monitor how such investments impact AI-driven science over time.",
+    "promo_only": true
+  },
+  {
+    "id": "f3b5f03f4da5",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "published": "2026-07-22T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 5,
+    "score_reason": "Community AI infrastructure project announcement with limited broader tactical or strategic insight.",
+    "topic_tags": [
+      "AI infrastructure",
+      "community"
+    ],
+    "partner_takeaway": "",
+    "partner_summary": "OpenAI announced Project Camellia in Effingham County, Georgia, focusing on responsible energy, community investment, jobs, and Codex access. This highlights AI infrastructure efforts but lacks deeper tactical or business insights. The audience should watch community AI initiatives but this is mainly a product and community spotlight.",
+    "promo_only": true
+  },
+  {
+    "id": "7e556dd34db2",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "published": "2026-07-22T13:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Describes AI use in news organizations but reads mostly as a promotional overview without deep tactical insight.",
+    "topic_tags": [
+      "AI in media",
+      "journalism"
+    ],
+    "partner_takeaway": "The reader learns how AI tools are being used by news organizations to improve reporting and business operations.",
+    "partner_summary": "News organizations are adopting AI to strengthen reporting, grow audiences, and improve operations with OpenAI tools. This is relevant for media professionals exploring AI adoption. Readers should consider how AI can support journalism but the piece lacks detailed tactical guidance.",
+    "promo_only": false
+  },
+  {
+    "id": "24ac9a24fa99",
+    "title": "Computer and browser use in Codex (5 real examples)",
+    "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+    "source_name": "Lenny's Newsletter",
+    "source_weight": 1.2,
+    "summary": "Watch now | &#127897;&#65039; I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models work harder",
+    "published": "2026-07-22T12:03:38+00:00",
+    "audio_url": "https://api.substack.com/feed/podcast/207953544/6d747defe32ee7f9e1cbcba69f37672a.mp3",
+    "relevance_score": 8,
+    "score_reason": "Practical, example-driven post showing how to use Codex with browser and computer integration, offering clear tactical tips.",
+    "topic_tags": [
+      "AI tools",
+      "Codex",
+      "tactical tips"
+    ],
+    "partner_takeaway": "The reader learns concrete methods to use Codex with browser and computer integration to improve app QA and workflow efficiency.",
+    "partner_summary": "This post demonstrates five real examples of using Codex with computer and browser integration for QA, LinkedIn management, and shopping. This offers valuable tactical tips for professionals leveraging AI tools in daily workflows. Readers should apply these techniques to enhance productivity with frontier AI models.",
+    "promo_only": false
+  },
+  {
+    "id": "37fbe49ee08b",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source_name": "OpenAI Blog",
+    "source_weight": 1.0,
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "published": "2026-07-22T12:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 6,
+    "score_reason": "Strategic commitment announcement with some insight into AI's role in national science but limited tactical depth.",
+    "topic_tags": [
+      "AI strategy",
+      "national science"
+    ],
+    "partner_takeaway": "The reader learns about OpenAI's collaboration with U.S. national labs to accelerate scientific discovery using frontier AI.",
+    "partner_summary": "OpenAI announced a commitment to advance American science by partnering with the U.S. Department of Energy and national labs to use frontier AI. This matters for those tracking AI's strategic role in science policy and innovation. The audience should watch how AI integration in national science evolves but tactical advice is limited.",
+    "promo_only": false
+  },
+  {
+    "id": "48a086a894f1",
+    "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+    "url": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+    "source_name": "Stratechery (Ben Thompson)",
+    "source_weight": 1.2,
+    "summary": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
+    "published": "2026-07-22T10:00:00+00:00",
+    "audio_url": "",
+    "relevance_score": 7,
+    "score_reason": "The topic is relevant to AI alignment and security concerns, offering a practitioner perspective on an incident with broader implications, but it requires a clear personal angle to maximize impact.",
+    "topic_tags": [
+      "AI alignment",
+      "security",
+      "incident analysis"
+    ],
+    "partner_takeaway": "The incident reveals important lessons about AI system vulnerabilities and alignment challenges that practitioners should consider to avoid unintended consequences.",
+    "partner_summary": "OpenAI accidentally hacked Hugging Face, highlighting unexpected vulnerabilities in AI system interactions. This matters to AI practitioners and business leaders because it underscores the importance of alignment and security in AI deployments. Readers should watch for alignment risks and implement safeguards to prevent similar incidents in their AI projects.",
+    "promo_only": false
+  }
+]
