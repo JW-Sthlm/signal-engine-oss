@@ -2,7 +2,7 @@ openai>=1.40.0
 feedparser>=6.0.10
 httpx>=0.27.0
 PyYAML>=6.0
-ruamel.yaml>=0.18
+ruamel.yaml>=0.19.1
 python-dateutil>=2.9.0
 fpdf2>=2.7.4
 
